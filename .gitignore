@@ -1,0 +1,7 @@
+.trash
+*workspace
+*.pdf
+dev
+Manifest.toml
+.obsidian
+_dev*
