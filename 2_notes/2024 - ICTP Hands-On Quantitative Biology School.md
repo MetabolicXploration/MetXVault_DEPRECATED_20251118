@@ -17,7 +17,7 @@ creation-date: 2024:10:14-07:57:49
 > - [ ] W. SHOEMAKER, ICTP, Italy  
 > - [ ] G. TALLARICO, IFOM, Italy  
 > - [ ] L.F. TOLEDO, Unicamp, Brazil
->
+> https://principlescellphysiology.org/book-economic-principles/index.html (because for Ex Grilli is a colaborator in the book)
 
 
 
