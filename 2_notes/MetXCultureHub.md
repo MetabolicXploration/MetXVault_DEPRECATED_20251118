@@ -23,6 +23,10 @@ sr-ease: 290
 ## Desk
 
 
+#### tweeddaleEffectSlowGrowth1998
+
+- Clear trends were apparent in the pool sizes of several of the 70 most abundant metabolites extracted from bacteria growing in glucose-limited chemostats at different growth rates.
+
 #### drosteThermodynamicsUnicellularLife2024
 
 - Metabolic Shift fr yeast and E. coli
