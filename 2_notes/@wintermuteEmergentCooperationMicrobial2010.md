@@ -16,7 +16,7 @@ creation-date: 2024:10:02-08:01:17
 
 
 ### Abstract:
-Mixed microbial communities exhibit emergent biochemical properties not found in clonal monocultures. We report a new type of synthetic genetic interaction, synthetic mutualism in trans (SMIT), in which certain pairs of auxotrophic Escherichia coli mutants complement one another's growth by cross‐feeding essential metabolites. We find significant metabolic synergy in 17% of 1035 such pairs tested, with SMIT partners identified throughout the metabolic network. Cooperative phenotypes show more growth on average by aiding the proliferation of their conjugate partner, thereby expanding the source of their own essential metabolites. We construct a quantitative, predictive, framework for describing SMIT interactions as governed by stoichiometric models of the metabolic networks of the interacting strains.
+Mixed microbial communities exhibit emergent biochemical properties not found in clonal monocultures. We report a new type of synthetic genetic interaction, synthetic mutualism in trans (SMIT), in which certain pairs of [[auxotrophic]] [[Escherichia coli]] mutants complement one another's growth by cross‐feeding essential metabolites. We find significant metabolic synergy in 17% of 1035 such pairs tested, with SMIT partners identified throughout the metabolic network. Cooperative phenotypes show more growth on average by aiding the proliferation of their conjugate partner, thereby expanding the source of their own essential metabolites. We construct a quantitative, predictive, framework for describing SMIT interactions as governed by stoichiometric models of the metabolic networks of the interacting strains.
 
 ___
 
@@ -31,7 +31,6 @@ We find that certain pairs of auxotrophs will complement one-another’s growth 
 
 > #QUESTION
 > ##### Why some mutants are able to cooperate and other don't?
-
 
 > #QUESTION
 > ##### What can we say about the wild type from the interaction matrix of the mutants?
@@ -77,9 +76,9 @@ We reasoned that the likelihood of a given metabolite being shared should depend
 
 We can derive explicit predictions for the value of each exchanged metabolite for each mutant strain in our system as [[shadow prices]]. A shadow price, in a linear programming model, is defined as the marginal change in the objective function associated with the strengthening or loosening of a particular model constraint.
 
-We solved the iAF1260 model for shadow prices representing the fitness benefit, $b^A$, to each strain $A$ in taking up a unit of its required metabolite. For example, a tryptophan auxotroph is associated with a high benefit term because a unit of the rare amino acid tryptophan is sufficient to produce a relatively high amount of biomass. Similarly, we derive a cost term, $p^B$ , representing the loss in growth rate for each strain, $B$, in secreting a given metabolite. #Clever 
+We solved the iAF1260 model for shadow prices representing the fitness benefit, $b^A$, to each strain $A$ in taking up a unit of its required metabolite. For example, a tryptophan auxotroph is associated with a high benefit term because a unit of the rare amino acid tryptophan is sufficient to produce a relatively high amount of biomass. Similarly, we derive a cost term, $p^B$ , representing the loss in growth rate for each strain, $B$, in secreting a given metabolite ([[note-20241014-101447|notes]]). #Clever 
 
-The cooperation efficiency terms reproduce the characteristic pattern in their correlation with strain growth, predicted in our invested benefits model of cooperation (Figure 3C). The term $\epsilon^B$ is positively correlated with $A$’s growth across all growth levels, as it is always beneficial to be paired with an efficient cooperator. The $\epsilon^A$ correlates positively to $A$’s growth for **low growth**, then negatively as the strains approach saturation. Only in this narrow range would the less generous show more growth ([[note-20241014-094204|notes]]). #LowGrowth
+The cooperation efficiency terms reproduce the characteristic pattern in their correlation with strain growth, predicted in our invested benefits model of cooperation (Figure 3C). The term $\epsilon^B$ is positively correlated with $A$’s growth across all growth levels, as it is always beneficial to be paired with an efficient cooperator ([[note-20241014-102154|notes]]). The $\epsilon^A$ correlates positively to $A$’s growth for **low growth**, then negatively as the strains approach saturation. Only in this narrow range would the less generous show more growth. ([[note-20241014-094204|notes]]) #LowGrowth
 
 We find that the metabolites most readily exchanged are those of little value to the secreting strain. This is consistent with proposals that byproduct cooperation evolves more readily than other forms, because it requires no active investment of one partner in the other (Connor, 1995). #ToRead 
 
@@ -92,7 +91,7 @@ ___
 
 %% Tags  ------------------------------------------------------- %%
 > #### TAGS
-> #review/Jose/Reading 
+> #review/Read/Jose
 > #DataSource 
 > [[MetXCultureHub]] [[PublicNote]] 
 > #Vault/MetXVault
