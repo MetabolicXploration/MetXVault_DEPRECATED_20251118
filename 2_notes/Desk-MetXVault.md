@@ -133,7 +133,7 @@ cess.
 >Eq 1 and 2
 > in the following, we will neglect the role of protein degradation. Instead, mRNA degradation rates are fast (typical half-lives of 5 to 20 min, depending on the organism) and will play a crucial role in the following. We will consider homogeneous transcript degradation rates
 >
-> mRNA–Ribosome Complex Formation Impacts Growth Rate.To evaluate the impact of the transcription machinery on cellular physiology, we have derived a general expression that relates the exponential growth... usan muchas ecuaciones (super interesantes que no puede copiar)
+> mRNA–Ribosome Complex Formation Impacts Growth Rate.To evaluate the impact of the transcription machinery on cellular physiology, we have derived a general expression that relates the exponential growth... usan muchas ecuaciones super interesantes que no pude copiar
 >
 > the balance of initiation and elongation fluxes leads to the relation between the free ribosome concentration and the steady-state number of ribosomes on a single mRNA
 >
