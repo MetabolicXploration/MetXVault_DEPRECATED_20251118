@@ -15,6 +15,10 @@ sr-ease: 290
 
 ## TO SORT
 
+- #TOCHECK https://github.com/yinonbaron/ecoli_composition/blob/master/rna_protein_ratio.ipynb
+	- ![[Pasted image 20241016190118.png|400]]
+
+
 - #CHECKED: Dynamic minimization of proteome reallocation explains metabolic transition in hierarchical utilization of mixed carbon sources
 
 ## Desk
