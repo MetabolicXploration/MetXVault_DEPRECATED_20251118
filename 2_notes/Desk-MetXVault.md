@@ -1,4 +1,3 @@
----
 basic-note-template: v0.2.0
 creation-date: 2024:10:14-06:07:23
 ---
