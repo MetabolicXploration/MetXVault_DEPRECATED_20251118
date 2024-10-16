@@ -164,6 +164,9 @@ cess.
 >The increase of mRNA concentration under expression of unnecessary proteins could also be due to physiological feedback mechanisms, such as cell volume regulation (65) or chaperones (61) that are unaccounted by our model.
 >
 > we note that in transcription-limited situation, as well as under competition for transcripts, mRNA scarcity may contribute to inactive ribosomes
+>
+> ----------------------------------------------------------------------------------------------------------------------------------------
+> **Control of Synthetic Microbial Coculture Interactions on a Microcolony Level, 2021**
 
 
 
