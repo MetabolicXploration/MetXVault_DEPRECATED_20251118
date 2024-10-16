@@ -1,9 +1,20 @@
+---
 basic-note-template: v0.2.0
 creation-date: 2024:10:14-06:07:23
 ---
 
 %% Note Body --------------------------------------------------- %%
 
+
+> ***
+> #ISSUE/TODO
+> 
+> #### Cooperation stress note
+> 
+>  A note where we will make random modifications for no other reason than practicing how to cooperate
+> 
+> #Target/Jose #Target/Brito #Referee/Brito
+> `2024:10:16-11:47:00`
 
 ***
 ### 2024-10-15
