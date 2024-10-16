@@ -52,6 +52,8 @@ What makes mitochondria even more interesting is that they also contain mitochon
 
 Protein production is a major consumer of energy and biosynthetic intermediates in the cell, therefore, in this book we will frequently consider proteins as central players in implementing economic principles in cell physiology. #Insight 
 
+To begin with, a number of different small molecules are required to produce both other small molecules and the macromolecules. In return, the macromolecules ensure cell integrity and growth by, among other functions, operating the reaction networks of small molecule interconversions (which we usually refer to as [[metabolism]]). #WellWritten
+
 ### 2.3. Cell composition in numbers
 #### 2.3.1. Biomass composition
 #### 2.3.2. Variability of biomass composition
