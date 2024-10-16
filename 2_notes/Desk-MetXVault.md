@@ -12,8 +12,8 @@ creation-date: 2024:10:14-06:07:23
 > #ISSUE/DONE
 > 
 > #### Create a TODO framework with different roles
-> - assigned: The responsable(s) to do
-> - evaluator: The responsable to check when it is done, and. marked as so
+> - assigned: The responsible(s) to do
+> - evaluator: The responsible to check when it is done, and. marked as so
 > 
 > #Target/Jose #Referee/Jose
 > `2024:10:15-11:02:11`
