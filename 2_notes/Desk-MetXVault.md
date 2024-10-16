@@ -1,4 +1,3 @@
-![Screenshot from 2024-10-15 19-41-50](https://github.com/user-attachments/assets/1cd34f96-4c9e-4376-bc9c-d5c7571050b4)---
 basic-note-template: v0.2.0
 creation-date: 2024:10:14-06:07:23
 ---
