@@ -8,6 +8,11 @@ creation-date: 2024:10:14-06:07:23
 ___
 ### 2024-10-14
 
+> #TODO
+> Create a TODO framework with different roles
+> - assigned: The responsable(s) to do
+> - evaluator: The responsable to check when it is done, and. marked as so
+
 > #TODO 
 > ##### Create reading list for [Hands-On Quantitative Biology School](https://indico.ictp.it/event/10517)
 > 
