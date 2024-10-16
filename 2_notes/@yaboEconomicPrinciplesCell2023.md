@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: "2024:10:15-11:32:06"
+creation-date: 2024:10:15-11:32:06
 ---
 
 
@@ -23,7 +23,15 @@ ___
 
 %% Write here %%
 
-
+> ***
+> #ISSUE/TODO
+> 
+> #### Collect your notes here
+> 
+>  Divide them by chapters
+> 
+> #Target/Brito #Referee/Jose
+> `2024:10:15-11:33:35`
 
 
 
