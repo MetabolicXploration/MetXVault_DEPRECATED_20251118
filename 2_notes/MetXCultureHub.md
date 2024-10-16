@@ -17,9 +17,6 @@ sr-ease: 290
 
 - #CHECKED: Dynamic minimization of proteome reallocation explains metabolic transition in hierarchical utilization of mixed carbon sources
 
-
-
-
 ## Desk
 
 
