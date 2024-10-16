@@ -1,28 +1,42 @@
 ---
 sr-ease: 290
-creation-date: "2023:01:12-11:03:19"
+creation-date: 2023:01:12-11:03:19
 sr-interval: 180
-basic-note-template: "v0.2.0"
-sr-due: 2023-08-22
+basic-note-template: v0.2.0
 sr-due: 2024-08-12
-sr-interval: 180
-sr-ease: 290
 ---
 
 %% Note Body --------------------------------------------------- %%
 
 %% Write here %%
 
-## TO SORT
-
-- #TOCHECK https://github.com/yinonbaron/ecoli_composition/blob/master/rna_protein_ratio.ipynb
-	- ![[Pasted image 20241016190118.png|400]]
-
-
-- #CHECKED: Dynamic minimization of proteome reallocation explains metabolic transition in hierarchical utilization of mixed carbon sources
 
 ## Desk
 
+
+> ***
+> #ISSUE/TODO
+> 
+> #### Reactivate repository
+> - [ ] Move list to issue section
+> 	- Think about it
+> 	- Maybe this is useful for dumping new stuff while reading
+> 	- Another TODO step is file an ISSUE
+>
+> - [ ] We probably will need a new name
+> 	- The project is centered on papers
+> 		- Which data is scattered on papers
+> 
+> #Target/Jose #Target/Brito #Referee/Brito
+> `2024:10:16-07:41:53`
+
+#### https://github.com/yinonbaron/ecoli_composition/blob/master/rna_protein_ratio.ipynb
+- #TOCHECK 
+- ![[Pasted image 20241016190118.png|400]]
+
+
+#### Dynamic minimization of proteome reallocation explains metabolic transition in hierarchical utilization of mixed carbon sources
+- #CHECKED
 
 #### tweeddaleEffectSlowGrowth1998
 
