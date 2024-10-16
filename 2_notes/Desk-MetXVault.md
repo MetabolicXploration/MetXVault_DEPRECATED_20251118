@@ -139,7 +139,7 @@ cess.
 >
 > Hence, as anticipated, the Michaelis–Menten-like factor emerges naturally from a kinetic model of translation where ribosomes compete for mRNAs and initiation is limiting
 >
->  we assumed that all genes have identical properties [transcript length and degradation rate, promoter and ribosome binding site (RBS) strengths, etc.].
+>  we assumed that all genes have identical properties 
 >we have neglected gene expression regulation at the translational level [so that genes are differentially expressed only through differences at the transcriptional level
 > This term comes from the assumption of a regime where the formation of the ribosome-transcript complex is the limiting step of the process
 >
