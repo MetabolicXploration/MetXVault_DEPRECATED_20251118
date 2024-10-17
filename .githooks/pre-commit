@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "pre-commit hook"
+
+branch="$(git rev-parse --abbrev-ref HEAD)"
+
+if [ "$branch" = "main" ]; then
+  echo "You can't commit directly to main branch, only merge"
+  exit 1
+fi

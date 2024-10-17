@@ -56,6 +56,26 @@ To begin with, a number of different small molecules are required to produce bot
 
 ### 2.3. Cell composition in numbers
 #### 2.3.1. Biomass composition
+
+The most abundant component is protein, which forms around half of the cell’s dry mass. When we divide the proteome into functional groups, we find that the biggest fractions belong to translation, central carbon metabolism, folding, sorting and degradation, and biosynthesis. A substantial fraction belongs to proteins that are not mapped (especially in mammalian cells), illustrating that we still lack knowledge about the function of many proteins ([[note-20241016-075937|notes]]).
+
+[[RNA]] forms 20% of dry cell mass in [[E. coli]], but this number is lower in eukaryotes, such as yeast (11%) or mammalian cells (4%). While the total amount of RNA is variable in different organisms, its relative composition is similar – most of the RNA mass is formed by rRNA (80%), followed by tRNA (15%) and mRNA (5%) (BNID 100258, 100261, 106154).
+
+[[Lipid]] content is the highest in mammalian cells (13%) compared to yeast and bacteria (4-10%, BNID 111209)
+
+The content of storage carbohydrates varies from around 30% in yeast to 3% in bacteria.
+
+A small fraction of the cell mass (2- 3%) is formed by small molecules (< 1000 Da) such as metabolites and ions.
+
+For illustration, the concentrations of the most abundant metabolites in E. coli range from 10−1 to 10−7 moles per cell, corresponding to a range of 108 to only 100 copies per cell [5].
+
+Similarly, the concentrations of the most common inorganic ions ==(==K+ , Na+ , Mg+ , Ca+ , Cl – span several orders of magnitude [5]. #ISSUE/Typo 
+
+Useful sources for average or “rule of thumb” values include [[BioNumbers]] database [4] and the book [[Cell Biology by the numbers]] [5]. 
+
+
+
+
 #### 2.3.2. Variability of biomass composition
 #### 2.3.3. Biomass composition is not uniform
 ### 2.4. Cell size
