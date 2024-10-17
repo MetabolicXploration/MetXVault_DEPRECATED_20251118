@@ -5,6 +5,22 @@
 git fetch &
 
 # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+if [[ "${_GITHOOKS_IGNORE}" -eq 1 ]]; then
+    echo "IGNORING HOOKS"
+    exit 0 
+fi
+
+# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+# Prevent ANY action on main
+branch="$(git rev-parse --abbrev-ref HEAD)"
+
+if [[ "$branch" = "main" ]]; then
+  echo "You can't commit directly to main branch, only merge"
+  echo "Set `export _GITHOOKS_IGNORE=1` to force"
+  exit 1
+fi
+
+# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
 # PER-MERGE
 MERGE_MSG_FILE="${GIT_HOOKS_CALLERS_DIR}/../MERGE_MSG"
 if [ -f "${MERGE_MSG_FILE}" ]; then
