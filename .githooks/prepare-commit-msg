@@ -3,7 +3,7 @@
 # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
 # PER-MERGE
 MERGE_MSG_FILE="${GIT_HOOKS_CALLERS_DIR}/../MERGE_MSG"
-if [ -f "${HOOK_FILE}" ]; then
+if [ -f "${MERGE_MSG_FILE}" ]; then
 	echo "PRE-MERGE-COMMIT HOOKS"
 	HOOK_FILE="${GIT_HOOKS_SRC_DIR}/pre-merge-commit"
 	if [ -f "${HOOK_FILE}" ]; then
