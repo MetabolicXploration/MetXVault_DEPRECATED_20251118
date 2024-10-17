@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# >>> CUSTOM HOOKS >>>
+
+echo "PRE-MERGE-COMMIT HOOKS"
+
+# GIT_HOOKS_CALLERS_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+# GIT_HOOKS_SRC_DIR="${GIT_HOOKS_CALLERS_DIR}/../../.githooks"
+# echo ".githook dir: ${GIT_HOOKS_SRC_DIR}" 
+# echo ""
+
+# # call .githooks stuff
+# HOOK_FILE="${GIT_HOOKS_SRC_DIR}/pre-merge-commit"
+# if [ -f "${HOOK_FILE}" ]; then
+# 	source "${HOOK_FILE}"
+# fi
+
+# <<< CUSTOM HOOKS <<<

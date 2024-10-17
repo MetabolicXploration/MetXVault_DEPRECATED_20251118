@@ -1,42 +1,45 @@
 #!/bin/bash
 
 # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
-echo ".GITHOOKS/PRE_MERGE_COMMIT"
-echo
+# TODO: Try again: pre-merge hooks are not well defined in git
 
-if [[ "${_GITHOOKS_IGNORE}" -eq 1 ]]; then
-    echo "IGNORING HOOKS"
-    exit 0 
-fi
+# # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+# echo ".GITHOOKS/PRE_MERGE_COMMIT"
+# echo
 
-# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
-# Keep all updated
-git fetch &
+# if [[ "${_GITHOOKS_IGNORE}" -eq 1 ]]; then
+#     echo "IGNORING HOOKS"
+#     exit 0 
+# fi
 
-# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
-branch="$(git rev-parse --abbrev-ref HEAD)"
-# from this answer: https://stackoverflow.com/a/68187853/10480758
-behind_count=$(git rev-list --count HEAD..@{u})
-ahead_count=$(git rev-list --count @{u}..HEAD)
+# # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+# # Keep all updated
+# git fetch &
 
-# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
-# Check main is uptoday
-if [[ "$branch" == "main" ]]; then
-  echo "behind_count: ${behind_count}"
-  echo "ahead_count: ${ahead_count}"
-  if [[ "$behind_count" -eq 0 ]]; then
-      echo "GOOD: nothing new on 'origin/main'"
-  elif [[ "$behind_count" -ge 1 && "$ahead_count" -ge 1  ]]; then
-      echo "ERROR: Your branch and 'origin/main' have diverged"
-      echo "Set `export _GITHOOKS_IGNORE=1` to force"
-      echo
-      git status
-      exit 1
-  else
-      echo "ERROR: 'main' is behind 'origin/main'"
-      echo "Set `export _GITHOOKS_IGNORE=1` to force"
-      echo
-      git status
-      exit 1
-  fi
-fi
+# # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+# branch="$(git rev-parse --abbrev-ref HEAD)"
+# # from this answer: https://stackoverflow.com/a/68187853/10480758
+# behind_count=$(git rev-list --count HEAD..@{u})
+# ahead_count=$(git rev-list --count @{u}..HEAD)
+
+# # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+# # Check main is uptoday
+# if [[ "$branch" == "main" ]]; then
+#   echo "behind_count: ${behind_count}"
+#   echo "ahead_count: ${ahead_count}"
+#   if [[ "$behind_count" -eq 0 ]]; then
+#       echo "GOOD: nothing new on 'origin/main'"
+#   elif [[ "$behind_count" -ge 1 && "$ahead_count" -ge 1  ]]; then
+#       echo "ERROR: Your branch and 'origin/main' have diverged"
+#       echo "Set `export _GITHOOKS_IGNORE=1` to force"
+#       echo
+#       git status
+#       exit 1
+#   else
+#       echo "ERROR: 'main' is behind 'origin/main'"
+#       echo "Set `export _GITHOOKS_IGNORE=1` to force"
+#       echo
+#       git status
+#       exit 1
+#   fi
+# fi
