@@ -1,6 +1,13 @@
 #!/bin/bash
 
 # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+echo ".GITHOOKS/PRE_MERGE_COMMIT"
+echo
+
+# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+branch="$(git rev-parse --abbrev-ref HEAD)"
+
+# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
 # Check main is uptoday
 if [[ "$branch" == "main" ]]; then
   git fetch
@@ -8,7 +15,7 @@ if [[ "$branch" == "main" ]]; then
   local_hash="$(git rev-parse main)"
 
   if [[ "x${origin_hash}" == "x${local_hash}" ]]; then
-    echo "GOOD: main and origin/main uptoday"
+      echo "GOOD: main and origin/main uptoday"
   else
       echo "ERROR: main and origin/main are unsynced"
       echo
