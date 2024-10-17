@@ -3,6 +3,10 @@
 # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
 # TODO: 
 # - Make hooks for preventing to merge main if it is not sync with origin
+# - Force work on `git config --global user.name` branch
+# - Place in this same folder and `install hooks` script that create the 
+# `.git/hooks/` entry points
+# - Applicaion: Modify a repo README before push
 
 # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
 # Prevent direct commits on main
