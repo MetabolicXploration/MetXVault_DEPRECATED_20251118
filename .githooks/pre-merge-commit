@@ -1,23 +1,25 @@
-#!/bin/bash
+# #!/bin/bash
 
-# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
-echo ".GITHOOKS/PRE_MERGE_COMMIT"
-echo
+# # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+# echo ".GITHOOKS/PRE_MERGE_COMMIT"
+# echo
 
 # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
 branch="$(git rev-parse --abbrev-ref HEAD)"
+# from this answer: https://stackoverflow.com/a/68187853/10480758
+git fetch
+behind_count=$(git rev-list --count HEAD..@{u})
+ahead_count=$(git rev-list --count @{u}..HEAD)
 
-# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
-# Check main is uptoday
+# # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+# # Check main is uptoday
 if [[ "$branch" == "main" ]]; then
-  git fetch
-  origin_hash="$(git rev-parse origin/main)"
-  local_hash="$(git rev-parse main)"
-
-  if [[ "x${origin_hash}" == "x${local_hash}" ]]; then
-      echo "GOOD: main and origin/main uptoday"
+  echo "behind_count: ${behind_count}"
+  echo "ahead_count: ${ahead_count}"
+  if [[ "$behind_count" -eq 0 ]]; then
+      echo "GOOD: nothing new on origin/main"
   else
-      echo "ERROR: main and origin/main are unsynced"
+      echo "ERROR: main is behind origin/main"
       echo
       git status
       exit 1
