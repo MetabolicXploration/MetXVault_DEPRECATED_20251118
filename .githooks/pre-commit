@@ -8,6 +8,13 @@
 # `.git/hooks/` entry points
 # - Applicaion: Modify a repo README before push
 
+
+# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+if [[ "${_GITHOOKS_IGNORE}" -eq 1 ]]; then
+    echo "IGNORING HOOKS"
+    exit 0 
+fi
+
 # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
 # Prevent direct commits on main
 branch="$(git rev-parse --abbrev-ref HEAD)"
