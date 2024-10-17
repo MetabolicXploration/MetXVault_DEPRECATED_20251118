@@ -1,6 +1,10 @@
 #!/bin/sh
 
 # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+# Keep all updated
+git fetch &
+
+# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
 # PER-MERGE
 MERGE_MSG_FILE="${GIT_HOOKS_CALLERS_DIR}/../MERGE_MSG"
 if [ -f "${MERGE_MSG_FILE}" ]; then
