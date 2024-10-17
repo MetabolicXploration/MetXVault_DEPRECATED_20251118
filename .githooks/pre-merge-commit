@@ -1,7 +1,7 @@
-!/bin/bash
+# !/bin/bash
 
--- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
-TODO: Try again: pre-merge hooks are not well defined in git
+# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+# TODO: Try again: pre-merge hooks are not well defined in git
 
 # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
 echo ".GITHOOKS/PRE_MERGE_COMMIT"
