@@ -5,9 +5,9 @@
 # echo
 
 # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+git fetch
 branch="$(git rev-parse --abbrev-ref HEAD)"
 # from this answer: https://stackoverflow.com/a/68187853/10480758
-git fetch
 behind_count=$(git rev-list --count HEAD..@{u})
 ahead_count=$(git rev-list --count @{u}..HEAD)
 
