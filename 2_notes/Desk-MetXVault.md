@@ -9,6 +9,16 @@ creation-date: 2024:10:14-06:07:23
 > ***
 > #ISSUE/TODO
 > 
+> #### Reading List
+> 
+>  add #ToFollow [[Ron Milo]] (see [[@davidiBirdSEyeView2018]])
+> 
+> #Target/JohnDoe #Referee/JohnDoe
+> `2024:10:17-09:06:55`
+
+> ***
+> #ISSUE/TODO
+> 
 > #### Cooperation stress note
 > 
 >  A note where we will make random modifications for no other reason than practicing how to cooperate

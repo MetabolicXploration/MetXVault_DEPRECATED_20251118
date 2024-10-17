@@ -11,6 +11,14 @@ sr-due: 2024-08-12
 %% Write here %%
 
 
+## Designe
+- Each paper in a folder
+	- This way we can have a README.md per paper
+	- We should reproduce the tables and figures of the paper and display them in the README.md
+		- Think about store
+			- maybe a vectorized format
+			- or External URLs
+
 ## Desk
 
 

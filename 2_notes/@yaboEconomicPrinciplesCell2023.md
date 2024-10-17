@@ -9,7 +9,7 @@ creation-date: 2024:10:15-11:32:06
 
 ### Meta
 - ** citekey **: yaboEconomicPrinciplesCell2023
-- ** authors **: Agustín Gabriel Yabo, Andrea de Martino, Andrea Weisse, Andreas Kremling, Anne Goelzer, Benjamin Mauroy, Christophe Goupil, Cyril Karamaoun, Daan de Groot, Dafni Giannari, David Lacoste, David Tourigny, Diana Széliová, Diego A. Oyarzun, Elad Noor, Elena Pascual Garcia, Eric Herbert, Felipe Scott, Frédérique Noël, Gabriele Micali, Hadrien Delattre, Herbert Sauro, Hidde De jong, Hollie J. Hindley, Hugo Dourado, Jacopo Grilli, Marcelo Rivas-Astroza, Marco Cosentino Lagomarsino, Markus Köbi, Mattia Corigliano, Meike Wortel, Ohad Golan, Olivier Rivoire, Orkun S. Soyer, Pranas Grigaitis, Robert West, Steffen Waldherr, Wolfram Liebermeister
+- ** authors **: Agustín Gabriel Yabo, [[Andrea de Martino]], Andrea Weisse, Andreas Kremling, Anne Goelzer, Benjamin Mauroy, Christophe Goupil, Cyril Karamaoun, [[Daan de Groot]], Dafni Giannari, David Lacoste, [[David Tourigny]], Diana Széliová, Diego A. Oyarzun, [[Elad Noor]], Elena Pascual Garcia, Eric Herbert, Felipe Scott, Frédérique Noël, [[Gabriele Micali]], Hadrien Delattre, Herbert Sauro, Hidde De jong, Hollie J. Hindley, [[Hugo Dourado]], [[Jacopo Grilli]], [[Marcelo Rivas-Astroza]], Marco Cosentino Lagomarsino, Markus Köbi, Mattia Corigliano, Meike Wortel, Ohad Golan, Olivier Rivoire, Orkun S. Soyer, [[Pranas Grigaitis]], Robert West, Steffen Waldherr, [[Wolfram Liebermeister]]
 - ** year **: [[2023]]
 - ** doi **: https://doi.org/10.5281/zenodo.8156386
 - ** publication **: 
@@ -24,7 +24,7 @@ ___
 > ***
 > #ISSUE/TODO
 > 
-> #### Collect your notes here
+> #### Collect your reading notes here
 > 
 >  Divide them by chapters
 > 
@@ -77,10 +77,56 @@ Useful sources for average or “rule of thumb” values include [[BioNumbers]] 
 
 
 #### 2.3.2. Variability of biomass composition
+
+> #Biomass #GrowthRate
+
+
+One of the most consistent observations is that the relative amount of RNA per cell increases with a higher growth rate [9, 13, 16], (BNID 111460, 111755, 108200). #ReferenceSource/ToRead
+
+Nevertheless, when looking at [[RNA-protein ratio|RNA:protein ratio]] we consistently find a positive correlation with growth rate across various species of bacteria (see Figure 2.2) and yeast [15, 17]. RNA:protein ratio is a measure of protein production capacity since most RNA is dedicated to protein synthesis. 80% is rRNA, which forms 2/3 of the mass of a bacterial ribosome – the molecular machine that makes proteins, and 15% is tRNA which brings new amino acids to the ribosome... #ReferenceSource/ToRead
+
+Indeed, we also observe a correlation between ribosome content and growth rate. The increase of RNA:protein ratio and ribosome content with increasing growth rate reflect higher biosynthetic needs of faster-growing cells. To support higher growth rate, cells need to reallocate resources according to the growth demands (for example, make more ribosomes which can then make more proteins) [18, 17, 15, 19]. #ReferenceSource/ToRead 
+
+Similarly to protein content, there is no clear correlation between the relative DNA and lipid content with growth rate across studies [13] (BNID 111460, 111755, 108196). The content of storage carbohydrates decreases at higher growth rates in yeast and bacteria [16] (BNID 111755, 111460).
+
+Conversely, environmental factors can influence cell composition without affecting growth rate. This shows that cell metabolism is flexible – cells can reach the same growth rate in different ways, depending on the conditions. For example, in yeast, changes of O2 concentration lead to changes in biomass composition while keeping the growth constant using a [chemostat] [20] ([[note-20241017-072016|notes]]). #DataSource 
+
+Interestingly, even though the total protein content is variable, the amino acid composition is roughly constant at different growth rates/conditions in bacteria, yeast, and mammalian cells and can even be predicted from a genome sequence with reasonable accuracy [20, 21, 12] ([[note-20241017-072513|notes]]). #ReferenceSource/ToCheck #Interesting 
+
+
+
+
+
 #### 2.3.3. Biomass composition is not uniform
+
+However, we need to keep in mind that cells have an internal structure, and the biomass components are not uniformly distributed throughout the cell
+
+Finally, we need to zoom out from a single-cell (or average) view of a cell and consider the heterogeneity at the population level. This heterogeneity is often neglected, and we use a single number to describe a concentration of a molecule in a cell/compartment – an average value of the population.
+
+The heterogeneity in molecule copy numbers leads to a heterogeneity in cell phenotypes such as generation time, cell size, stress tolerance and others. Population heterogeneity can impact fitness in a positive or negative way, depending on conditions. For example, when a cell population encounters an unexpected environment, a certain subpopulation might be better suited to survive. In a different environment, another subpopulation might thrive. We can view this as a microbial “[[bet-hedging]]” which increases the chances that at least some part of a population will survive the new conditions. However, when cells try to maximize growth rate, the variability in the population can decrease fitness because it decreases the average population growth rate [22]. #ReferenceSource/ToCheck  
+
 ### 2.4. Cell size
+
+For many organisms, **cell size** changes with environmental conditions. As already mentioned in Section 2.3.2, cell size varies with growth rate, and it depends on how a particular growth rate is reached. More than 60 years ago, Schaechter et al. discovered the nutrient growth law – **cell volume** increases exponentially with growth rate (as a result of the nutrient availability in the medium) [9]. Since then, the correlation between cell size and growth rate was also observed for other organisms [10, 11, 12] (BNID 107948, 110191, 105103). However, when the **growth rate** is changed by other means, for example by temperature, this relationship is not observed [9, 13]. In some cases, even the opposite is observed. For example, for a mammalian culture, it was observed that cell division stops at the end of the exponential phase, but cell volume continues to increase threefold [35].
+
 ### 2.5. Cell density
+
+However, assuming the density of 1.1 g $mL^{−1}$ is probably a good guess unless you work with a particularly fatty or gassy cell type.
+
 ### 2.6. The physical constraints of cell growth
+
+The living cells are constantly subject to a handful of so-called physical constraints, which are directly linked to the physics and the chemistry of life. Cells cannot override (evolve to bypass) these limits – only try to cope with them.
+
+Although there are organisms, which live in extremely high temperatures (so-called thermophiles), as a rule of thumb, we usually consider the temperature above 393 K (120 C) to be close to the limit of life.
+
+The [[diffusion limit]] describes the state where enzymatic catalysis is so specific and so fast that the reaction speed is determined only by the collisions of substrate molecules to the enzymes, which all result in conversions (i.e. no futile collisions) [[@davidiBirdSEyeView2018|40]]. Usually, the number of [[futile collisions]] vary between $1$ and $10^4$ per successful conversion, and thus having as little futile collisions as possible greatly enhances the overall rate of the reaction. #BioNumber #ReferenceSource/ToRead/Brito 
+
+Enzymes approaching (operating at) the diffusion limit are also called [[perfect enzymes]]. Nonetheless, cells do have a strategy to counter the diffusion limit. Consecutive enzymes from a pathway can be placed on a scaffold, which allows the product of one reaction to be channeled directly into the next reaction without diffusing away.
+
+One of the most prevalent properties, linked to cytosolic density, is macromolecular crowding. As the name suggests, it describes the concentration of biological macromolecules, mainly proteins, in cytosol (thus in bacteria, the genomic DNA also contributes to molecular crowding). For example, the macromolecular crowding is suggested to impose a limit on the protein translation [[@klumppMolecularCrowdingLimits2013|42]], therefore, increased crowding would result in a growth rate decrease. #ReferenceSource/ToCheck  
+
+The state of macromolecular crowding is relevant for the cellular function, and is proposed to be in homeostasis (reviewed in [43]): optimal macromolecular crowding corresponds to a state where crowding reduces the path proteins have to diffuse, yet does not substantially decrease the speed of diffusion. In such a way, maintaining high macromolecular crowding is suggested to maximize reaction rates in the cytosol [44]. #ReferenceSource/ToCheck  
+
 ### 2.7. Macromolecule synthesis and the resources needed
 #### 2.7.1. Precursors of macromolecules
 #### 2.7.2. Catalysts needed for macromolecule synthesis
@@ -213,7 +259,25 @@ Useful sources for average or “rule of thumb” values include [[BioNumbers]] 
 
 *** 
 ## 11. Control of cell division
+
+[[Gabriele Micali]] [[Jacopo Grilli]]
+
 ### 11.1 Introduction: the decision to divide illustrated through single-cell E. coli data
+
+...based on growth and other important cellular processes and cues. Clearly this decision to divide or progress the cell cycle must be based on a set ==if== inputs... #ISSUE/Typo 
+
+However, the vast majority of these data are based on [[population averages]], out of which it turns out to be impossible to extract any direct and/or causal link between the different processes involved in cell growth that set cell division [402]. #Insight #WellWritten 
+
+Today, a new generation of data has the potential to answer several open questions [402, 403, 404]. These data differ from the previous generation in the ability to measure single bacterial cells over multiple division events in controlled conditions. #ReferenceSource 
+
+At the same time, the expression of a specific gene or the concentration of specific proteins of interest can be monitored using fluorescent reporters. #Insight 
+
+First, within a [[cell cycle]], the cell size $s(t)$ is well described by a single exponential in time $^1$ [407, 408]: $s(t)=s_0 exp(αt)$, where $s_0$ is the size at birth, $α$ is the growth rate, and $t$ is the time since cell birth ([[note-20241017-095849|notes]]).
+
+If division occurs at time $τ_d$, a simple relationship connects the size at division $s_d$ with the other cell properties: $s_d = s_0 exp(ατ_d)$. All the four parameters of this equation are subject to stochasticity in time and vary across single cells, even when they grow in controlled conditions ([[note-20241017-100449|notes]]).
+
+Second, in steady growth, the size distribution of newborn cells does not change over time, an observation that is referred to as cell-size homeostasis [405].
+
 ### 11.2 Hazard rate approach to cell division
 ### 11.3 Cell-division control as discrete-time linear response process
 ### 11.4 Coordination of cell division with different cell-cycle processes
