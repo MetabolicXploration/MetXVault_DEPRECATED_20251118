@@ -276,7 +276,7 @@ First, within a [[cell cycle]], the cell size $s(t)$ is well described by a sing
 
 If division occurs at time $τ_d$, a simple relationship connects the size at division $s_d$ with the other cell properties: $s_d = s_0 exp(ατ_d)$. All the four parameters of this equation are subject to stochasticity in time and vary across single cells, even when they grow in controlled conditions ([[note-20241017-100449|notes]]).
 
-Second, in steady growth, the size distribution of newborn cells does not change over time, an observation that is referred to as cell-size homeostasis [405].
+Second, in [[steady growth]], the size distribution of newborn cells does not change over time, an observation that is referred to as [[cell-size homeostasis]] [405] ([[note-20241017-103734|notes]]).
 
 ### 11.2 Hazard rate approach to cell division
 ### 11.3 Cell-division control as discrete-time linear response process
