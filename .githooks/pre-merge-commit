@@ -11,8 +11,8 @@ git fetch
 behind_count=$(git rev-list --count HEAD..@{u})
 ahead_count=$(git rev-list --count @{u}..HEAD)
 
-# # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
-# # Check main is uptoday
+# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+# Check main is uptoday
 if [[ "$branch" == "main" ]]; then
   echo "behind_count: ${behind_count}"
   echo "ahead_count: ${ahead_count}"
