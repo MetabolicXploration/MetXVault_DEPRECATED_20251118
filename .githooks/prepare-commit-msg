@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+# PER-MERGE
+MERGE_MSG_FILE="${GIT_HOOKS_CALLERS_DIR}/../MERGE_MSG"
+echo "MERGE_MSG_FILE ${MERGE_MSG_FILE}"
