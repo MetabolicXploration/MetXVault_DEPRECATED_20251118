@@ -16,6 +16,10 @@ if [[ "${_GITHOOKS_IGNORE}" -eq 1 ]]; then
 fi
 
 # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+# Keep all updated
+git fetch &
+
+# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
 # Prevent direct commits on main
 branch="$(git rev-parse --abbrev-ref HEAD)"
 

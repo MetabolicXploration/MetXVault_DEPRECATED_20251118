@@ -10,6 +10,10 @@ if [[ "${_GITHOOKS_IGNORE}" -eq 1 ]]; then
 fi
 
 # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+# Keep all updated
+git fetch &
+
+# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
 branch="$(git rev-parse --abbrev-ref HEAD)"
 # from this answer: https://stackoverflow.com/a/68187853/10480758
 behind_count=$(git rev-list --count HEAD..@{u})
@@ -18,7 +22,6 @@ ahead_count=$(git rev-list --count @{u}..HEAD)
 # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
 # Check main is uptoday
 if [[ "$branch" == "main" ]]; then
-  git fetch
   echo "behind_count: ${behind_count}"
   echo "ahead_count: ${ahead_count}"
   if [[ "$behind_count" -eq 0 ]]; then
