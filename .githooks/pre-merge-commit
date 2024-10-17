@@ -1,18 +1,25 @@
-#!/bin/bash
+# #!/bin/bash
 
-# -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
-# Check main is uptoday
-if [[ "$branch" == "main" ]]; then
-  git fetch
-  origin_hash="$(git rev-parse origin/main)"
-  local_hash="$(git rev-parse main)"
+# # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+# echo ".GITHOOKS/PRE_MERGE_COMMIT"
+# echo
 
-  if [[ "x${origin_hash}" == "x${local_hash}" ]]; then
-    echo "GOOD: main and origin/main uptoday"
-  else
-      echo "ERROR: main and origin/main are unsynced"
-      echo
-      git status
-      exit 1
-  fi
-fi
+# # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+# branch="$(git rev-parse --abbrev-ref HEAD)"
+
+# # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
+# # Check main is uptoday
+# if [[ "$branch" == "main" ]]; then
+#   git fetch
+#   origin_hash="$(git rev-parse origin/main)"
+#   local_hash="$(git rev-parse main)"
+
+#   if [[ "x${origin_hash}" == "x${local_hash}" ]]; then
+#       echo "GOOD: main and origin/main uptoday"
+#   else
+#       echo "ERROR: main and origin/main are unsynced"
+#       echo
+#       git status
+#       exit 1
+#   fi
+# fi
