@@ -7,6 +7,7 @@ git fetch &
 # -- .- -. .- - - .-. -. -.. .- - -- . -- .- -.-.- 
 if [[ "${_GITHOOKS_IGNORE}" -eq 1 ]]; then
     echo "IGNORING HOOKS"
+	echo "Set `export _GITHOOKS_IGNORE=1` to force"
     exit 0 
 fi
 
