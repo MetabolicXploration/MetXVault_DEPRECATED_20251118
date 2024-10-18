@@ -21,7 +21,6 @@ sr-due: 2024-08-12
 
 ## Desk
 
-
 > ***
 > #ISSUE/TODO
 > 

@@ -5,3 +5,4 @@ dev
 Manifest.toml
 .obsidian
 _dev*
+ObaServer.json

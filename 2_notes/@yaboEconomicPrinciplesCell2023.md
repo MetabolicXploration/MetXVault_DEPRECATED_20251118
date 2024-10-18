@@ -26,7 +26,7 @@ ___
 > 
 > #### Collect your reading notes here
 > 
->  Divide them by chapters
+>  Respect chapters
 > 
 > #Target/Brito #Referee/Jose
 > `2024:10:15-11:33:35`
@@ -40,6 +40,12 @@ As we look at cells from the perspective of resource allocation, we will neglect
 *** 
 ## 1. The cell as a factory
 
+The chemical equation of metabolism for biological systems is:
+$c_1$ sugar + $c_2$ oxygen + $c_3$ ammonia $\rightarrow$ biomass + waste products
+([[note-20241018-115023|notes]])
+
+The typical waste products are water, carbon dioxide, and other possible chemicals secreted by the system. The output of the metabolic process is more of the metabolic system.
+
 *** 
 ## 2. What makes up a cell
 ### 2.1. Describing and counting cellular components
@@ -50,14 +56,14 @@ What makes mitochondria even more interesting is that they also contain mitochon
 
 #### 2.2.2. Biological molecules
 
-Protein production is a major consumer of energy and biosynthetic intermediates in the cell, therefore, in this book we will frequently consider proteins as central players in implementing economic principles in cell physiology. #Insight 
+[[ProteinPrduction|Protein production]] is a major consumer of energy and biosynthetic intermediates in the cell, therefore, in this book we will frequently consider proteins as central players in implementing economic principles in cell physiology. #Insight 
 
 To begin with, a number of different small molecules are required to produce both other small molecules and the macromolecules. In return, the macromolecules ensure cell integrity and growth by, among other functions, operating the reaction networks of small molecule interconversions (which we usually refer to as [[metabolism]]). #WellWritten
 
 ### 2.3. Cell composition in numbers
 #### 2.3.1. Biomass composition
 
-The most abundant component is protein, which forms around half of the cell’s dry mass. When we divide the proteome into functional groups, we find that the biggest fractions belong to translation, central carbon metabolism, folding, sorting and degradation, and biosynthesis. A substantial fraction belongs to proteins that are not mapped (especially in mammalian cells), illustrating that we still lack knowledge about the function of many proteins ([[note-20241016-075937|notes]]).
+The most abundant component is protein, which forms around half of the cell’s dry mass. When we divide the proteome into functional groups, we find that the biggest fractions belong to translation, central carbon metabolism, folding, sorting and degradation, and biosynthesis. A substantial fraction belongs to proteins that are not mapped (especially in mammalian cells), illustrating that we still lack knowledge about the function of many proteins ([[note-20241016-075937|notes]]). 
 
 [[RNA]] forms 20% of dry cell mass in [[E. coli]], but this number is lower in eukaryotes, such as yeast (11%) or mammalian cells (4%). While the total amount of RNA is variable in different organisms, its relative composition is similar – most of the RNA mass is formed by rRNA (80%), followed by tRNA (15%) and mRNA (5%) (BNID 100258, 100261, 106154).
 
@@ -92,10 +98,6 @@ Similarly to protein content, there is no clear correlation between the relative
 Conversely, environmental factors can influence cell composition without affecting growth rate. This shows that cell metabolism is flexible – cells can reach the same growth rate in different ways, depending on the conditions. For example, in yeast, changes of O2 concentration lead to changes in biomass composition while keeping the growth constant using a [chemostat] [20] ([[note-20241017-072016|notes]]). #DataSource 
 
 Interestingly, even though the total protein content is variable, the amino acid composition is roughly constant at different growth rates/conditions in bacteria, yeast, and mammalian cells and can even be predicted from a genome sequence with reasonable accuracy [20, 21, 12] ([[note-20241017-072513|notes]]). #ReferenceSource/ToCheck #Interesting 
-
-
-
-
 
 #### 2.3.3. Biomass composition is not uniform
 
@@ -157,6 +159,7 @@ The state of macromolecular crowding is relevant for the cellular function, and 
 
 *** 
 ## 4. The space of metabolic flux distributions
+
 ### 4.1. Modeling metabolic fluxesincells
 ### 4.2. Thefluxcone
 #### 4.2.1. Mass-balance constraints
@@ -175,6 +178,7 @@ The state of macromolecular crowding is relevant for the cellular function, and 
 
 *** 
 ## 5. Fluxes in constraint-based metabolic models
+
 ### 5.1. Can we use an optimality assumption to predict metabolic behavior? 
 ### 5.2. Metabolic models based on linear optimization problems 
 #### 5.2.1. Types of linear objective functions used in FBA . 2
@@ -187,6 +191,7 @@ The state of macromolecular crowding is relevant for the cellular function, and 
 
 *** 
 ## 6. Rating metabolic pathways by enzyme efficiency
+
 ### 6.1. What guides evolution to select one pathway over another
 ### 6.2. Pathway efficiency - some basic notions and thoughts 
 ### 6.3. Therole of thermodynamics 
@@ -207,6 +212,7 @@ The state of macromolecular crowding is relevant for the cellular function, and 
 
 *** 
 ## 7. Metabolism in states of maximal enzyme efficiency
+
 ### 7.1. Introduction
 ### 7.2. The enzyme-efficient metabolic states are elementary flux modes 
 ### 7.3. Illustration with an example network
@@ -216,6 +222,7 @@ The state of macromolecular crowding is relevant for the cellular function, and 
 
 *** 
 ## 8. Models of growing cells
+
 ### 8.1. Introduction
 ### 8.2. Fundamental modeling assumptions of microbial growth 
 #### 8.2.1 Conservation of mass and quasi-steady-state assumption 

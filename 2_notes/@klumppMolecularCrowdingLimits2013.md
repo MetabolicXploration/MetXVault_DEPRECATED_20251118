@@ -8,7 +8,7 @@ creation-date: "2024:10:17-09:04:20"
 
 ### Meta
 - ** citekey **: klumppMolecularCrowdingLimits2013
-- ** authors **: Stefan Klumpp, Matthew Scott, Steen Pedersen, Terence Hwa
+- ** authors **: Stefan Klumpp, Matthew Scott, Steen Pedersen, [[Terence Hwa]]
 - ** year **: [[2013]]
 - ** doi **: https://doi.org/10.1073/pnas.1310377110
 - ** publication **: Proceedings of the National Academy of Sciences of the United States of America
