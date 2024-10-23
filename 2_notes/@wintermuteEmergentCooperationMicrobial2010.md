@@ -64,7 +64,7 @@ Analysis of SMIT interactions is therefore capable of identifying biosynthetic m
 
 Beginning with the standard [[iAF1260]] reconstruction.
 
-We derived solutions to the joint model by applying the minimization of metabolic adjustment ([[MOMA]]) objective function ([[Daniel Segrè|Segrè]] et al, 2002). The MOMA methods hypothesize that mutant systems will tend to approximate the wild-type flux distribution, even as mutation precludes an exact match. This objective function is conservative; it identifies solutions in the joint vector closest, in the Euclidean sense, to the wildtype fluxes.
+We derived solutions to the joint model by applying the minimization of metabolic adjustment ([[MOMA]]) objective function ([[Daniel Segrè|Segrè]] et al, [[y2002|2002]]). The MOMA methods hypothesize that mutant systems will tend to approximate the wild-type flux distribution, even as mutation precludes an exact match. This objective function is conservative; it identifies solutions in the joint vector closest, in the Euclidean sense, to the wildtype fluxes.
 
 Total growth of the co-cultures was correlated with predicted growth derived from the joint flux model ([[note-20241014-092510|notes]]).
 
@@ -82,7 +82,13 @@ The cooperation efficiency terms reproduce the characteristic pattern in their c
 
 We find that the metabolites most readily exchanged are those of little value to the secreting strain. This is consistent with proposals that byproduct cooperation evolves more readily than other forms, because it requires no active investment of one partner in the other (Connor, 1995). #ToRead 
 
-
+> ***
+> #ISSUE/TODO
+> 
+> #### Search analogous study but in chemostat
+> 
+> #Target/Jose #Target/Brito #Referee/Brito
+> `2024:10:18-01:27:56`
 
 
 
