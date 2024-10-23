@@ -46,7 +46,7 @@ ___
 ### 2024-10-14
 
 > ***
-> #ISSUE/TODO
+> #ISSUE/DONE
 > 
 > ##### Create reading list for [Hands-On Quantitative Biology School](https://indico.ictp.it/event/10517)
 > - check [[2024 - ICTP Hands-On Quantitative Biology School]]
