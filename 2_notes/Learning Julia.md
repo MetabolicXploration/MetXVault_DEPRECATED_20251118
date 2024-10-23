@@ -17,7 +17,7 @@ creation-date: 2024:10:15-10:29:39
 > I haven't check the course but it should be fine.
 > It has a playlist in youtube
 > 
-> - [ ] Checked 
+> - [x] Checked 
 > 
 > #Target/Brito #Eval/Jose
 > `2024:10:15-10:52:22`
