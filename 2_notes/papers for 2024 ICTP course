@@ -1,3 +1,8 @@
+---
+citation-template: v0.2.0
+creation-date: 
+---
+
 %% Note Body --------------------------------------------------- %%
 # Population balance models of autonomous microbial oscillations
 
@@ -8,3 +13,4 @@
 - ** doi **: https://doi.org/10.1016/0168-1656(95)00086-6
 - ** publication **: Journal of Biotechnology
 - ** Web ** : [Open on line](http://www.sciencedirect.com/science/article/pii/0168165695000866)
+
