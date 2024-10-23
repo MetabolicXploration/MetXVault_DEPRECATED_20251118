@@ -1,16 +1,17 @@
----
-citation-template: v0.2.0
-creation-date: 
----
-
-%% Note Body --------------------------------------------------- %%
 # Population balance models of autonomous microbial oscillations
 
 ### Meta
-- ** citekey **: a.hjortsoPopulationBalanceModels1995
-- ** authors **: Martin A. Hjortso, Jens Nielsen
-- ** year **: [[1995]]
-- ** doi **: https://doi.org/10.1016/0168-1656(95)00086-6
-- ** publication **: Journal of Biotechnology
-- ** Web ** : [Open on line](http://www.sciencedirect.com/science/article/pii/0168165695000866)
+- **citekey**: a.hjortsoPopulationBalanceModels1995
+- **authors**: Martin A. Hjortso, Jens Nielsen
+- **year**: [[1995]]
+- **doi**: [10.1016/0168-1656(95)00086-6](https://doi.org/10.1016/0168-1656(95)00086-6)
+- **publication**: Journal of Biotechnology
+- **Web**: [Open online](http://www.sciencedirect.com/science/article/pii/0168165695000866)
+
+## Resumen
+Este artículo analiza...
+
+## Notas
+- Observación 1
+- Observación 2
 
