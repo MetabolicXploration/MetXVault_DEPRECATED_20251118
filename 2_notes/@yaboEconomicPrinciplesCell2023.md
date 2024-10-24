@@ -79,8 +79,7 @@ Similarly, the concentrations of the most common inorganic ions ==(==K+ , Na+ , 
 
 Useful sources for average or “rule of thumb” values include [[BioNumbers]] database [4] and the book [[Cell Biology by the numbers]] [5]. 
 
-
-
+Growth laws in E. coli: Cell volume grows exponentially with growth rate (data from [doi: 10.1016/j.cub.2017.03.022]). RNA/protein ratio grows linearly with growth rate (data from [doi: 10.1126/science.1192588]).
 
 #### 2.3.2. Variability of biomass composition
 
@@ -130,9 +129,21 @@ One of the most prevalent properties, linked to cytosolic density, is macromolec
 The state of macromolecular crowding is relevant for the cellular function, and is proposed to be in homeostasis (reviewed in [43]): optimal macromolecular crowding corresponds to a state where crowding reduces the path proteins have to diffuse, yet does not substantially decrease the speed of diffusion. In such a way, maintaining high macromolecular crowding is suggested to maximize reaction rates in the cytosol [44]. #ReferenceSource/ToCheck  
 
 ### 2.7. Macromolecule synthesis and the resources needed
+
+Three essential types of resources are needed for synthesizing the macromolecules: (1) precursors,(2) catalysts, and (3) physical space/volume for the process to happen.
+
 #### 2.7.1. Precursors of macromolecules
 #### 2.7.2. Catalysts needed for macromolecule synthesis
+kinetic aspects: the eﬃcacy (represented by the turnover number kcat ) and substrate speciﬁcity (Michaelis constant KM ) of an enzyme. Importantly, these two parameters are intertwined: high substrate speciﬁcity usually comes at the cost of eﬃcacy and vice versa.
+
+E. coli ribosome consists of 62% RNA and 38% protein. An average protein is ca. 32.7 kDa, roughly 70× lower than the ribosome that synthesizes this protein.
+
 #### 2.7.3. Physical proteome space
+
+A general trend across microorganisms is that ribosomes occupy larger proteome mass fraction (in the range of 10-40% total proteome) with increasing growth rate [15, 59], with an estimated maximum in E. coli of ca. 55% of total proteome mass [15].
+
+Uptake of biosynthetic precursors usually is less costly than biosynthesis, as expression of a single type of transporter can substitute the need of expressing a biosynthetic pathway with tens of enzymes associated.
+
 ### 2.8. Concluding remarks 
 *** 
 ## 3 The dynamics of metabolic systems
