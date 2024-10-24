@@ -44,7 +44,7 @@ Theoretical and empirical precedents have established that metabolic cooperation
 
 Cooperating strains in this system may show enhanced proliferation through the mechanism of **invested benefits** (Connor, 1995; West et al, 2007). Cooperation on the part of strain A will augment A’s growth only if B cooperates in turn. By increasing B’s abundance, A then cultivates the source of A’s own metabolites and therefore A’s own growth.
 
-Given the relatively low growth rates of the co-cultured strains and the excess availability of nutrients, we do not expect a significant metabolic burden to be associated with the production of shared metabolites.
+Given the relatively low growth rates of the co-cultured strains and the excess availability of nutrients, we do not expect a significant metabolic burden to be associated with the production of shared metabolites ([[note-20241023-020227|notes]]).
 
 A simple dynamic model captures the essential features of this relationship.
 
@@ -58,13 +58,13 @@ Synthetic genetic interactions, the synergistic growth effects of multiple gene 
 
 However, mutants sharing pathways showed consistency in their set of cooperating partners.
 
-We constructed for each strain a cooperation profile vector consisting of the measured growth of that strain and that of its partner strain in each of the 46 co-cultures. Correlations of the cooperation profiles therefore indicate the overall similarity of the cooperative behavior between two strains.
+We constructed for each strain a **cooperation profile vector** consisting of the measured growth of that strain and that of its partner strain in each of the 46 co-cultures. Correlations of the cooperation profiles therefore indicate the overall similarity of the cooperative behavior between two strains ([[note-20241023-022038|notes]]).
 
 Analysis of SMIT interactions is therefore capable of identifying biosynthetic modules (Figure 3A).
 
 Beginning with the standard [[iAF1260]] reconstruction.
 
-We derived solutions to the joint model by applying the minimization of metabolic adjustment ([[MOMA]]) objective function ([[Daniel Segrè|Segrè]] et al, [[y2002|2002]]). The MOMA methods hypothesize that mutant systems will tend to approximate the wild-type flux distribution, even as mutation precludes an exact match. This objective function is conservative; it identifies solutions in the joint vector closest, in the Euclidean sense, to the wildtype fluxes.
+We derived solutions to the joint model by applying the **minimization of metabolic adjustment** ([[MOMA]]) objective function ([[Daniel Segrè|Segrè]] et al, [[y2002|2002]]). The MOMA methods hypothesize that mutant systems will tend to approximate the wild-type flux distribution, even as mutation precludes an exact match. This objective function is conservative; it identifies solutions in the joint vector closest, in the Euclidean sense, to the wildtype fluxes.
 
 Total growth of the co-cultures was correlated with predicted growth derived from the joint flux model ([[note-20241014-092510|notes]]).
 
