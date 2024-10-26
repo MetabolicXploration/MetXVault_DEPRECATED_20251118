@@ -108,7 +108,23 @@ The heterogeneity in molecule copy numbers leads to a heterogeneity in cell phen
 
 ### 2.4. Cell size
 
-For many organisms, **cell size** changes with environmental conditions. As already mentioned in Section 2.3.2, cell size varies with growth rate, and it depends on how a particular growth rate is reached. More than 60 years ago, Schaechter et al. discovered the nutrient growth law – **cell volume** increases exponentially with growth rate (as a result of the nutrient availability in the medium) [9]. Since then, the correlation between cell size and growth rate was also observed for other organisms [10, 11, 12] (BNID 107948, 110191, 105103). However, when the **growth rate** is changed by other means, for example by temperature, this relationship is not observed [9, 13]. In some cases, even the opposite is observed. For example, for a mammalian culture, it was observed that cell division stops at the end of the exponential phase, but cell volume continues to increase threefold [35].
+
+**[[Experimental methods]] 2.B : Experimental quantification of [[biomass composition]]**
+#ReferenceSource #ExperimentalMethods
+
+> ***
+> #ISSUE/TODO
+> 
+> #### Create ReadingList about methods
+> 
+>  It is instrumental to know what can be measured.
+> 
+> #Target/Jose #Referee/Brito
+> `2024:10:25-10:21:44`
+
+
+For many organisms, **cell size** changes with environmental conditions. As already mentioned in Section 2.3.2, cell size varies with growth rate, and it depends on how a particular growth rate is reached. More than 60 years ago, Schaechter et al. discovered the nutrient growth law – **cell volume** increases exponentially with growth rate (as a result of the nutrient availability in the medium) [9]. Since then, the correlation between cell size and growth rate was also observed for other organisms [10, 11, 12] (BNID 107948, 110191, 105103). However, when the **growth rate** is changed by other means, for example by temperature, this relationship is not observed [9, 13]. In some cases, even the opposite is observed. For example, for a mammalian culture, it was observed that cell division stops at the end of the exponential phase, but cell volume continues to increase threefold [35]. #GrowthLaw
+
 
 ### 2.5. Cell density
 
@@ -128,7 +144,12 @@ One of the most prevalent properties, linked to cytosolic density, is macromolec
 
 The state of macromolecular crowding is relevant for the cellular function, and is proposed to be in homeostasis (reviewed in [43]): optimal macromolecular crowding corresponds to a state where crowding reduces the path proteins have to diffuse, yet does not substantially decrease the speed of diffusion. In such a way, maintaining high macromolecular crowding is suggested to maximize reaction rates in the cytosol [44]. #ReferenceSource/ToCheck  
 
+#ReadingHead/Jose
+
 ### 2.7. Macromolecule synthesis and the resources needed
+
+Three essential types of resources are needed for synthesizing the macromolecules: (1) precursors,(2) catalysts, and (3) physical space/volume for the process to happen.
+
 
 Three essential types of resources are needed for synthesizing the macromolecules: (1) precursors,(2) catalysts, and (3) physical space/volume for the process to happen.
 
@@ -295,6 +316,8 @@ First, within a [[cell cycle]], the cell size $s(t)$ is well described by a sing
 If division occurs at time $τ_d$, a simple relationship connects the size at division $s_d$ with the other cell properties: $s_d = s_0 exp(ατ_d)$. All the four parameters of this equation are subject to stochasticity in time and vary across single cells, even when they grow in controlled conditions ([[note-20241017-100449|notes]]).
 
 Second, in [[steady growth]], the size distribution of newborn cells does not change over time, an observation that is referred to as [[cell-size homeostasis]] [405] ([[note-20241017-103734|notes]]).
+
+#ReadingHead/Jose
 
 ### 11.2 Hazard rate approach to cell division
 ### 11.3 Cell-division control as discrete-time linear response process
