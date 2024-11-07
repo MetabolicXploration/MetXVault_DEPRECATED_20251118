@@ -5,6 +5,41 @@ creation-date: 2024:10:14-06:07:23
 
 %% Note Body --------------------------------------------------- %%
 
+***
+### 2024-11-02
+
+> #TODO Make bib note [@monkGenomescaleMetabolicNetwork2022]
+> [[M9 minimal media]] was simulated by setting a lower bound of −1000 (allowing unlimited uptake) on the exchange reactions for $Ca^{2+}$, $Cl^{−}$, $CO^{2}$, $Co^{2+}$, $Cu^{2+}$, $Fe^{2+}$, $Fe^{3+}$, $H^{+}$, $H_{2}O$, $K^{+}$, $Mg^{2+}$, $Mn^{2+}$, $MoO^{2−}_4$, $Na^{+}$, $Ni^{2+}$, $SeO^{2−}_4$, $SeO^{2}_{3}$ and $Zn^{2+}$. A lower bound of −0.01 was placed on the cob(I)alamin exchange reaction. The default carbon source was glucose with a lower bound of −20, the default nitrogen source was $NH_4^{−}$ with a lower bound of −1000, the default phosphorus source was $HPO^2_4$ with a default bound of −1000 and the default sulfur source was $SO^{2−}_4$ with a default bound of −1000.
+
+
+***
+### 2024-11-01
+
+> #TODO Create paper note: Constrained proteome allocation affects coexistence in models of competitive microbial communities
+
+
+***
+### 2024-10-26
+
+
+> ***
+> #ISSUE/IDEA/TODO
+> 
+> #### Discover whom others discovered
+> 
+>  - Make an study of whom other interesting authors are reading/citing
+>  - Use crossref to automatize the study 
+> 	- That is, apply simple data analysis technics to the dependency graph  
+>  - Maybe extend to the graph of:
+> 	 - github stars/fallowing 
+> 	 - google scholar
+> 	 - etc
+> - Find a cool name for this project
+> 	- 
+> 
+> 
+> #Target/Jose #Target/Jose #Referee/Brito
+> `2024:10:26-08:42:14`
 
 ***
 ### 2024-10-18
