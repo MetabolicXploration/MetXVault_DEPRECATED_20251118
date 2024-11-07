@@ -270,9 +270,6 @@ While automated approaches, involving graph theoretical analysis of metabolic sy
 
 > #TODO Add ref [73] "Energy metabolism of the cell : a theoretical treatise".
 
-
-#ReadingHead/Jose 
-
 #### 3.2.1. Biochemical reactions and thermodynamics 
 
 $$\begin{align}
@@ -372,20 +369,53 @@ It is important to note that the [[thermodynamic equilibrium]] mentioned above i
 
 > #TODO add ref [91] "A. Z. Rosenthal, Y. Qi, S. Hormoz, J. Park, S. H. Li, and M. B. Elowitz. Metabolic interactions between dynamic bacterial subpopulations. Elife, 7, 2018. ISSN 2050-084X (Electronic) 2050-084X (Linking). doi: 10.7554/eLife.33099."
 
-#ReadingHead/Jose
-
 #### 3.2.5 Regulation of fluxes
 
 How does the cell ‘regulate’ the flux of matter in metabolism? How does it decide, for example, to make more of an amino acid or rather more of a lipid? Or do these decisions happen automatically, through system dynamics of the metabolic system? The question of regulation of metabolism is a major research area in its own right. Several hypotheses have been formulated and some have been supported by experimental measurements. It is highly likely that many of these hypotheses are true under some conditions, and actual regulation of metabolism involves multiple mechanisms. Two of the key mechanisms we can highlight here and that we will touch upon in this and other chapters are: flux regulation through control of **enzyme levels** or **enzyme activity**. The former is achieved via control of an enzymes’ **expression level**, while the latter can be achieved via **substrate-level** [[allosteric regulation]] (Fig. 3.7). Notice that the latter case involves regulation of enzyme activity by metabolites, thereby providing a ‘dynamical regulation’ that does not require additional elements (such as gene regulatory factors). Additional examples of such dynamical regulation, which is sometimes referred to as ‘**self-regulation**’, can also emerge from specific pathway structures and are being proposed and explored continually, e.g. [70, 76, 73, 77]. We will discuss this topic further in the section 3.4. #ReferenceSource/Regulation 
 
 ### 3.3. Toolbox for modeling dynamics of metabolism
 
+The ‘art’ of developing and analyzing dynamical models falls under the branch of mathematics known as calculus and nonlinear dynamics. Many introductory books to these subjects are available, but we find that two particularly useful ones are those by Silvanus Thompson on calculus [84] and by Steven Strogatz on nonlinear dynamics [85]. #ReferenceSource/Recommended/Books
 
+There are also books that are solely dedicated to models of biochemical reaction kinetics and enzyme kinetics more broadly - the reader is advised to further explore the topic with the help of such books, particularly [92, 93, 94] #ReferenceSource/Recommended/Books
 
 #### 3.3.1 Enzymes - a brief note 
+
+For our purposes, we do not need to understand all the intricacies of how enzymes are made or how they fold into their structures (the reader is directed to excellent books on these subjects [92, 95]). #ReferenceSource/Recommended/Books
+
 #### 3.3.2 Modeling reaction fluxes - reaction rate models 
 
+This ‘mass action rate model’ is commonly used, especially in the context of elementary reactions (i.e. reactions involving one single step), and has been shown empirically to apply in the case of some non-elementary reactions [82]. According to the mass action model, the net rate of any reaction of the form given in Eq. (3.1) is given by; #ExperimentalValidation #Insight 
+
+#### Non-enzymatic reactions
+
+$$\begin{align}
+\tag{3.10}
+v = k_{+}·a^{_νa} · b^{ν_b} − k_{−} · c^{ν_c} · d^{ν_d}
+\end{align}$$
+
+This ratio is known as the reaction’s [[equilibrium constant]] Keq and hence the ‘mass action rate model’ is consistent with the empirical observations of [[Waage]] and [[Guldberg]].
+
+... It is important to note here that, given $K_{eq}$ is a constant determined by thermodynamics, the parameters $k_{+}$ and $k_{−}$ cannot be chosen independently, i..e $k_{−} = K_{eq}/k_{+}$ ([[note-20241106-090808|notes]]). #Insight 
+
+#### Enzymatic reactions 
+The mass action rate discussed above forms also the basis of modeling enzymatic reactions. This approach is justified by considering each enzymatic reaction as a series of ‘elementary steps’, each obeying the mass action rate model.
+
+Here, we will cover some of the most common of such models, noticing that the construction of these models follows the same **general principles** of (i) drawing up **elementary reactions**, (ii) writing down **mass action based kinetic rates** for the system, and (iii) simplifying the system with **assumptions** on **kinetic parameters** (see Appendix A.1). #Insight 
+
+The reader can consult additional books (e.g. [93]) for more specific, elaborate enzymatic reaction schemes, or can attempt them as a exercise. #ReferenceSource/Recommended/Books  
+
+#TODO add ref [93] "A. Cornish-Bowden. Fundamentals of Enzyme Kinetics. Wiley-Blackwell, 4th edition, 2012. ISBN 9783527330744."
+
+
+
+
+#ReadingHead/Jose 
+
 ### 3.4. Dynamics of metabolism: experimental evidence and model-based explanations 
+
+
+
 #### 3.4.1. Flux switching/regulation 
 #### 3.4.2. Bistability
 #### 3.4.3. Oscillations
