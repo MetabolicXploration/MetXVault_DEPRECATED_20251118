@@ -42,12 +42,18 @@ sr-due: 2024-08-12
 - ![[Pasted image 20241016190118.png|400]]
 
 
+#### [[@monkGenomescaleMetabolicReconstructions2013]]
+
 #### Dynamic minimization of proteome reallocation explains metabolic transition in hierarchical utilization of mixed carbon sources
 - #CHECKED
 
 #### tweeddaleEffectSlowGrowth1998
 
 - Clear trends were apparent in the pool sizes of several of the 70 most abundant metabolites extracted from bacteria growing in glucose-limited chemostats at different growth rates.
+
+
+
+#### monkGenomescaleMetabolicNetwork2022
 
 #### drosteThermodynamicsUnicellularLife2024
 
@@ -64,6 +70,7 @@ Schmidt et al. recently published a proteomics data Resource13 covering ~55% of 
 
 #### Principles of proteome allocation are revealed using proteomic data and genome-scale models
 
+![[Pasted image 20241029030628.png]]
 
 #### Growth-rate-dependent and nutrient-specific gene expression resource allocation in fission yeast
 

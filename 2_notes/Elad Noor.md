@@ -1,15 +1,17 @@
 ---
 basic-note-template: v0.2.0
-creation-date: 2024:10:23-02:03:05
+creation-date: 2024:11:06-08:27:27
 ---
 
 %% Note Body --------------------------------------------------- %%
 
 %% Write here %%
-This is not the case for the cells of metA/ilvA ([[Gabriele Micali]]). They growth fast, in less than a day...
+
+
+
 
 
 ___
 
 %% Tags ------------------------------------------------------- %%
-#Contrast
+#People/Following 
