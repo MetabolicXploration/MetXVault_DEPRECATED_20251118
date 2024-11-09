@@ -6,6 +6,19 @@ creation-date: 2024:10:14-06:07:23
 %% Note Body --------------------------------------------------- %%
 
 ***
+### 2024-11-08
+
+> ***
+> #ISSUE/IDEA
+> 
+> #### Vault Search challenge
+> 
+>  To improve our search skills, we can ask other to search a particular paper in the Vault so we can detect the weak points in our labeling/searching system. 
+> 
+> #Target/Jose #Target/Brito #Referee/Brito
+> `2024:11:08-08:43:01`
+
+***
 ### 2024-11-06
 
 > ***

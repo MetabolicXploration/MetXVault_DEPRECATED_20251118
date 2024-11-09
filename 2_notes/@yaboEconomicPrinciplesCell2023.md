@@ -158,9 +158,7 @@ Three essential types of resources are needed for synthesizing the macromolecule
 
 #### 2.7.1. Precursors of macromolecules
 
-A particularly interesting fact is that metabolic networks can be described as bow-tie structures [45]: a large variety of nutrients can be converted into a very small number (usually counted up to 12) essential metabolic intermediates, which give rise to, again, a diverse set of molecules (for a detailed discussion, see Chapter 3). This gives two important insights into metabolic networks. First, this plasticity of the metabolic networks, allows organisms to grow in various environments, where different nutrients are available. Second, due to this organization, the biosynthesis of macromolecule precursors competes for the same starting molecules, independently from the initial nutrients.
-
-> #TODO add reference [45]
+A particularly interesting fact is that metabolic networks can be described as bow-tie structures [[@friedlanderEvolutionBowTieArchitectures2015|[45] ]]: a large variety of nutrients can be converted into a very small number (usually counted up to 12) essential metabolic intermediates, which give rise to, again, a diverse set of molecules (for a detailed discussion, see Chapter 3). This gives two important insights into metabolic networks. First, this plasticity of the metabolic networks, allows organisms to grow in various environments, where different nutrients are available. Second, due to this organization, the biosynthesis of macromolecule precursors competes for the same starting molecules, independently from the initial nutrients.
 
 #### 2.7.2. Catalysts needed for macromolecule synthesis
 
@@ -215,12 +213,9 @@ Uptake of biosynthetic precursors **usually** is less costly than biosynthesis, 
 
 Alongside ribosomes, biosynthetic pathways also occupy a substantial share of total proteome (e.g. enzymes, required for amino acid biosynthesis occupy up to 15% of the proteome space in S. cerevisiae [59]) ([[note-20241106-125801|notes]]). #Insight #BioNumber 
 
-Experimentally, the **optimal allocation of proteome space** can be challenged by, e.g. **varying expression of an unneeded (gratuitous) protein**. Both for E. coli and S. cerevisiae it was shown that increasing gratuitous protein expression directly affects the maximal growth rate on both minimal and rich media [60, 56], suggesting that the decrease in growth rate is not dependent on the nutrient status of the cell. #ExperimentalValidation #Insight #ExperimentalMethods 
+Experimentally, the **optimal allocation of proteome space** can be challenged by, e.g. **varying expression of an unneeded (gratuitous) protein**. Both for E. coli and S. cerevisiae it was shown that increasing gratuitous protein expression directly affects the maximal growth rate on both minimal and rich media [ [[@dekelOptimalityEvolutionaryTuning2005|60]], [[@kafriCostProteinProduction2016|56]] ], suggesting that the decrease in growth rate is not dependent on the nutrient status of the cell. #ExperimentalValidation #Insight #ExperimentalMethods 
 
-> #TODO Add ref [56] "The cost of protein production".
-> #TODO Add ref [60] "Optimality and evolutionary tuning of the expression level of a protein".
-> #TODO Add ref [62] "On the optimality of the enzyme– substrate relationship in bacteria"
-
+> #DONE Add ref [62] "On the optimality of the enzyme– substrate relationship in bacteria"
 
 ### 2.8. Concluding remarks 
 
@@ -258,17 +253,13 @@ The ATP+/ADP pair forms an energy carrier, providing driving energy to reactions
 
 Within the highly inter-connected system that is metabolism, specific reaction arrangements seem to recur frequently, so-called “reaction [[motifs]]”.
 
-While automated approaches, involving graph theoretical analysis of metabolic systems represented as networks, highlighted certain metabolic motifs as significant compared to random networks, it was subsequently shown that this result is dependent both on the original network representation used and the randomized networks used for comparison [72].
-
-> #TODO [72] Artefacts in statistical analyses of network motifs: general framework and application to metabolic networks.
+While automated approaches, involving graph theoretical analysis of metabolic systems represented as networks, highlighted certain metabolic motifs as significant compared to random networks, it was subsequently shown that this result is dependent both on the original network representation used and the randomized networks used for comparison [[@beberArtefactsStatisticalAnalyses2012|[72] ]].
 
 ### 3.2. Dynamics and regulation of metabolism 
 
 > #Box Philosophical remarks 3.C
-> This means that in order to capture the concentration of all the other molecules involved in these reactions, we need to consider dynamics of a series of intertwined cyclic reaction systems, rather than linear pathways akin to an assembly line. Indeed, it has been argued that cyclic reaction motifs should form the basis of developing a dynamic understanding of cell metabolism [73].
-> It must also be noted that co-substrates, and possibly other key metabolites, can have ‘conserved’ concentrations in the time scales of metabolic flux dynamics. In other words, these metabolites form ‘conserved moieties’ within the system, similar to enzymes, such that altering of the total pool size of these co-substrates or the ratio of their different forms (e.g. the NAD+/NADH ratio) can possibly affect the flux distribution across different pathways that they are connected to [74, 75, 70, 76, 73, 77]. #ReferenceSource 
-
-> #TODO Add ref [73] "Energy metabolism of the cell : a theoretical treatise".
+> This means that in order to capture the concentration of all the other molecules involved in these reactions, we need to consider dynamics of a series of intertwined cyclic reaction systems, rather than linear pathways akin to an assembly line. Indeed, it has been argued that cyclic reaction motifs should form the basis of developing a dynamic understanding of cell metabolism [[@reichEnergyMetabolismCell1981|[73] ]].
+> It must also be noted that co-substrates, and possibly other key metabolites, can have ‘conserved’ concentrations in the time scales of metabolic flux dynamics. In other words, these metabolites form ‘conserved moieties’ within the system, similar to enzymes, such that altering of the total pool size of these co-substrates or the ratio of their different forms (e.g. the NAD+/NADH ratio) can possibly affect the flux distribution across different pathways that they are connected to [74, 75, 70, 76, [[@reichEnergyMetabolismCell1981|73]], 77]. #ReferenceSource 
 
 #### 3.2.1. Biochemical reactions and thermodynamics 
 
@@ -363,15 +354,11 @@ It is important to note that the [[thermodynamic equilibrium]] mentioned above i
 
 #### 3.2.4 Multiple steady-states and oscillations 
 
-... when bistability is combined with noise in some parameters (e.g. enzyme expression level) there can be a **multi-modal distribution** of flux states across genetically identical cells (e.g. see [90, 91] and section 3.4). #ReferenceSource/Heterogeneity
-
-> #TODO add ref [90] "E. Simsek and M. Kim. The emergence of metabolic heterogeneity and diverse growth responses in isogenic bacterial cells. ISME J, 12(5):1199–1209, 2018. ISSN 1751-7370 (Electronic) 1751-7362 (Linking). doi: 10.1038/s41396-017-0036-2." 
-
-> #TODO add ref [91] "A. Z. Rosenthal, Y. Qi, S. Hormoz, J. Park, S. H. Li, and M. B. Elowitz. Metabolic interactions between dynamic bacterial subpopulations. Elife, 7, 2018. ISSN 2050-084X (Electronic) 2050-084X (Linking). doi: 10.7554/eLife.33099."
+... when bistability is combined with noise in some parameters (e.g. enzyme expression level) there can be a **multi-modal distribution** of flux states across genetically identical cells (e.g. see [ [[@simsekEmergenceMetabolicHeterogeneity2018|90]], [[@rosenthalMetabolicInteractionsDynamic2018|91]] ] and section 3.4). #ReferenceSource/Heterogeneity
 
 #### 3.2.5 Regulation of fluxes
 
-How does the cell ‘regulate’ the flux of matter in metabolism? How does it decide, for example, to make more of an amino acid or rather more of a lipid? Or do these decisions happen automatically, through system dynamics of the metabolic system? The question of regulation of metabolism is a major research area in its own right. Several hypotheses have been formulated and some have been supported by experimental measurements. It is highly likely that many of these hypotheses are true under some conditions, and actual regulation of metabolism involves multiple mechanisms. Two of the key mechanisms we can highlight here and that we will touch upon in this and other chapters are: flux regulation through control of **enzyme levels** or **enzyme activity**. The former is achieved via control of an enzymes’ **expression level**, while the latter can be achieved via **substrate-level** [[allosteric regulation]] (Fig. 3.7). Notice that the latter case involves regulation of enzyme activity by metabolites, thereby providing a ‘dynamical regulation’ that does not require additional elements (such as gene regulatory factors). Additional examples of such dynamical regulation, which is sometimes referred to as ‘**self-regulation**’, can also emerge from specific pathway structures and are being proposed and explored continually, e.g. [70, 76, 73, 77]. We will discuss this topic further in the section 3.4. #ReferenceSource/Regulation 
+How does the cell ‘regulate’ the flux of matter in metabolism? How does it decide, for example, to make more of an amino acid or rather more of a lipid? Or do these decisions happen automatically, through system dynamics of the metabolic system? The question of regulation of metabolism is a major research area in its own right. Several hypotheses have been formulated and some have been supported by experimental measurements. It is highly likely that many of these hypotheses are true under some conditions, and actual regulation of metabolism involves multiple mechanisms. Two of the key mechanisms we can highlight here and that we will touch upon in this and other chapters are: flux regulation through control of **enzyme levels** or **enzyme activity**. The former is achieved via control of an enzymes’ **expression level**, while the latter can be achieved via **substrate-level** [[allosteric regulation]] (Fig. 3.7). Notice that the latter case involves regulation of enzyme activity by metabolites, thereby providing a ‘dynamical regulation’ that does not require additional elements (such as gene regulatory factors). Additional examples of such dynamical regulation, which is sometimes referred to as ‘**self-regulation**’, can also emerge from specific pathway structures and are being proposed and explored continually, e.g. [70, 76, [[@reichEnergyMetabolismCell1981|73]], 77]. We will discuss this topic further in the section 3.4. #ReferenceSource/Regulation 
 
 ### 3.3. Toolbox for modeling dynamics of metabolism
 
@@ -385,9 +372,11 @@ For our purposes, we do not need to understand all the intricacies of how enzyme
 
 #### 3.3.2 Modeling reaction fluxes - reaction rate models 
 
+Metabolic reactions can involve diverse biophysical mechanisms (uncatalyzed, enzyme-catalyzed, etc.) and can take place under diverse biophysical conditions inside a cell (membrane-bound, cytosolic, extracellular, coupled across membranes, etc.). **As such, mechanistically complete, biophysical representation of all metabolic reactions in dynamic, mathematical models might never be possible [[@beardSimulationCellularBiochemical2011|[96] ]]**.
+
 This ‘mass action rate model’ is commonly used, especially in the context of elementary reactions (i.e. reactions involving one single step), and has been shown empirically to apply in the case of some non-elementary reactions [82]. According to the mass action model, the net rate of any reaction of the form given in Eq. (3.1) is given by; #ExperimentalValidation #Insight 
 
-#### Non-enzymatic reactions
+##### Non-enzymatic reactions
 
 $$\begin{align}
 \tag{3.10}
@@ -398,22 +387,16 @@ This ratio is known as the reaction’s [[equilibrium constant]] Keq and hence t
 
 ... It is important to note here that, given $K_{eq}$ is a constant determined by thermodynamics, the parameters $k_{+}$ and $k_{−}$ cannot be chosen independently, i..e $k_{−} = K_{eq}/k_{+}$ ([[note-20241106-090808|notes]]). #Insight 
 
-#### Enzymatic reactions 
+##### Enzymatic reactions 
 The mass action rate discussed above forms also the basis of modeling enzymatic reactions. This approach is justified by considering each enzymatic reaction as a series of ‘elementary steps’, each obeying the mass action rate model.
 
 Here, we will cover some of the most common of such models, noticing that the construction of these models follows the same **general principles** of (i) drawing up **elementary reactions**, (ii) writing down **mass action based kinetic rates** for the system, and (iii) simplifying the system with **assumptions** on **kinetic parameters** (see Appendix A.1). #Insight 
 
-The reader can consult additional books (e.g. [93]) for more specific, elaborate enzymatic reaction schemes, or can attempt them as a exercise. #ReferenceSource/Recommended/Books  
-
-#TODO add ref [93] "A. Cornish-Bowden. Fundamentals of Enzyme Kinetics. Wiley-Blackwell, 4th edition, 2012. ISBN 9783527330744."
-
-
-
+The reader can consult additional books (e.g. [[@cornish-bowdenFundamentalsEnzymeKinetics2012|[93] ]]) for more specific, elaborate enzymatic reaction schemes, or can attempt them as a exercise. #ReferenceSource/Recommended/Books  
 
 #ReadingHead/Jose 
 
 ### 3.4. Dynamics of metabolism: experimental evidence and model-based explanations 
-
 
 
 #### 3.4.1. Flux switching/regulation 
