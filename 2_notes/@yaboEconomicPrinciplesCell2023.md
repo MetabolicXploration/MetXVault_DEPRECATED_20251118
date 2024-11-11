@@ -268,10 +268,7 @@ $$\begin{align}
 ν_a A + ν_bB \leftarrow \rightarrow ν_{c} C + ν_{d} D
 \end{align}$$
 
-While these reactions are catalyzed by enzymes, they still need to obey thermodynamic laws. We will not provide a full treatise of the thermodynamics of chemical reactions here - we refer the reader to excellent books on physical chemistry for this (e.g. [78]) and also to books for a conceptual introduction to thermodynamics (e.g. [79]). #Insight 
-
-> #TODO Add ref [78] "Principles and Problems in Physical Chemistry for Biochemists. Oxford University Press, 1997."
-> #TODO Add ref [79] "Understanding thermodynamics" 1983. ISBN 0486632776
+While these reactions are catalyzed by enzymes, they still need to obey thermodynamic laws. We will not provide a full treatise of the thermodynamics of chemical reactions here - we refer the reader to excellent books on physical chemistry for this (e.g. [[@pricePrinciplesProblemsPhysical2001|[78] ]]) and also to books for a conceptual introduction to thermodynamics (e.g. [[@vannessUnderstandingThermodynamics1983|[79] ]]). #Insight 
 
 Here, it suffices for us to define the key thermodynamic equation, the **Gibbs free energy** of reaction, involving the chemical potential of substrates and products. **Chemical potentials** are related to concentrations, where the relation depends on the ionic strength of the solution. Assuming an [[ideal solution]], we will write here the **Gibbs free energy** of reaction directly in terms of concentrations ([[note-20241106-053812|notes]]):
 
@@ -302,17 +299,14 @@ K_{eq} = e^{\frac{-\Delta G_r^{◦}}{RT}}
 
 Notice that $K_{eq}$ depends only on $\Delta G_r^{◦}$, which is the difference between the **standard Gibbs free energy** of formation of products and substrates involved in a reaction, and which can be calculated from tabulated values (where available). A good source of Keq values of many biochemical reactions is the [[eQuilibrator]] tool (equilibrator.weizmann.ac.il) [80, 81].
 
-This thermodynamic treatment, showing that the equilibrium state of a reaction is captured by a constant relating to the ratios of product and substrate concentrations at that state, is fully supported by seminal experimental works from the second half of 1800s conducted on chemical reactions by [[Peter Waage]] (1833 - 1900) and [[Cato Guldberg]] (1836 - 1902), and their contemporaries. These works were concerned with the equilibrium, or steady-state, of chemical reactions attained under different conditions and when initiated from various starting concentrations of substrates. The key contribution of these studies was the finding that the equilibrium state in a reaction, that is the ratio of the concentration of substrates and products at steady-state, is characterized by a constant [82]. #History #ToCheck 
+This thermodynamic treatment, showing that the equilibrium state of a reaction is captured by a constant relating to the ratios of product and substrate concentrations at that state, is fully supported by seminal experimental works from the second half of 1800s conducted on chemical reactions by [[Peter Waage]] (1833 - 1900) and [[Cato Guldberg]] (1836 - 1902), and their contemporaries. These works were concerned with the equilibrium, or steady-state, of chemical reactions attained under different conditions and when initiated from various starting concentrations of substrates. The key contribution of these studies was the finding that the equilibrium state in a reaction, that is the ratio of the concentration of substrates and products at steady-state, is characterized by a constant [[@myselsTextbookErrorsVII1956|[82] ]]. #History #ToCheck 
 
-This finding, referred to as the “[[mass action law]]”, later gave rise to the notion (rather erroneously) that reaction rate of a chemical reaction at constant temperature is ‘proportional to the product of the concentrations of the reacting substances’ [83]. This derived statement actually is not a law but presents a possible rate model that would be compatible with the experimentally observed equilibrium state (i.e. with the mass action law of equilibrium) [82, 83] (see Box 3.D and the Appendix A.1).
-
-#TODO add ref [82] "K. J. Mysels. Textbook errors: Vii. the laws of reaction rates and of equilibrium. Journal of Chemical Education, 33(4), 1956"
-#TODO add ref [83] "E. A. Guggenheim. Textbook errors: Ix. more about the laws of reaction rates and of equilibrium. Journal of Chemical Education, 33(11), 1956."
+This finding, referred to as the “[[mass action law]]”, later gave rise to the notion (rather erroneously) that reaction rate of a chemical reaction at constant temperature is ‘proportional to the product of the concentrations of the reacting substances’ [[@guggenheimTextbookErrorsIX1956|[83] ]]. This derived statement actually is not a law but presents a possible rate model that would be compatible with the experimentally observed equilibrium state (i.e. with the mass action law of equilibrium) [ [[@myselsTextbookErrorsVII1956|82]], [[@guggenheimTextbookErrorsIX1956|83]] ] (see Box 3.D and the Appendix A.1).
 
 > ***
 > #ISSUE/TODO
 > 
-> #### Get book .bib
+> #### Get book .bib from repo
 > 
 > #Target/Jose #Referee/Jose
 > `2024:11:06-05:56:30`
@@ -343,10 +337,7 @@ k_{+} · a^{ν_a} · b^{ν_b} &= k_{-} · c^{ν_c} · d^{ν_d}  \\
 > The rate-based interpretation of this thermodynamic result (or law) is known as the “[[mass action rate model]]” and **assumes** that rate of a given reaction is proportional to the concentrations of substrates and products to the power of their stoichiometry, and adjusted by a rate constant (shown as $k_{+}$ and $k_{−}$ above).
 > 
 
-Notice that in mathematics, the time varying entities in a dynamical systems - in our context, the concentrations of chemical species - are known as ‘variables’, while any elements of the system that stay constant over time are known as ‘parameters’. For an insightful and accessible mathematical treatment of differential equations and system dynamics, the reader is referred to these two excellent books [84, 85], while for a metabolic view of variables and parameters, the article on the Control of Flux, by Kacser and Burns, offers a valuable perspective [[@kacserControlFlux1995|[86] ]]. #ReferenceSource 
-
-#TODO add ref [84] "P. T. Silvanus. Calculus made easy. Macmillan, 1914."
-#TODO add ref [85] S. H. Strogatz. Nonlinear dynamics and chaos: With applications to physics, biology, chemistry, and engineering. CRC Press, 2000. ISBN 0738204536.
+Notice that in mathematics, the time varying entities in a dynamical systems - in our context, the concentrations of chemical species - are known as ‘variables’, while any elements of the system that stay constant over time are known as ‘parameters’. For an insightful and accessible mathematical treatment of differential equations and system dynamics, the reader is referred to these two excellent books [ [[@thompsonCalculusMadeEasy1998|84]], [[@strogatzNonlinearDynamicsChaos1994|85]] ], while for a metabolic view of variables and parameters, the article on the Control of Flux, by Kacser and Burns, offers a valuable perspective [[@kacserControlFlux1995|[86] ]]. #ReferenceSource 
 
 #### 3.2.3. Dynamic steady state
 

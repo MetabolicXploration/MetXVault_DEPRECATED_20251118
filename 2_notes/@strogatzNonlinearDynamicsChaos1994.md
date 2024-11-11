@@ -4,12 +4,12 @@ creation-date: 2024:11:11-12:13:47
 ---
 
 %% Note Body --------------------------------------------------- %%
-# Energy metabolism of the cell: A theoretical treatise
+# Nonlinear dynamics and chaos: With applications to physics, biology, chemistry, and engineering
 
 ### Meta
-- ** citekey **: reichEnergyMetabolismCell1981
-- ** authors **: J. G. Reich, Evgeniĭ Evgenʹevich Selʹkov
-- ** year **: [[1981]]
+- ** citekey **: strogatzNonlinearDynamicsChaos1994
+- ** authors **: Steven H. Strogatz
+- ** year **: [[1994]]
 - ** doi **: https://doi.org/
 - ** publication **: 
 - ** Web ** : [Open on line]()
@@ -30,4 +30,5 @@ ___
 
 ___
 %% Tags  ------------------------------------------------------- %%
-#review/ToRead
+#review/ToRead 
+#Recommended [[Jacopo Grilli]]

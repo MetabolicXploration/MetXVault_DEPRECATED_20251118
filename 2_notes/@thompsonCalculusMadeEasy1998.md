@@ -4,12 +4,12 @@ creation-date: 2024:11:11-12:13:47
 ---
 
 %% Note Body --------------------------------------------------- %%
-# Energy metabolism of the cell: A theoretical treatise
+# Calculus made easy: Being a very-simplest introduction to those beautiful methods of reckoning which are generally called by the terrifying names of the differential calculus and the integral calculus
 
 ### Meta
-- ** citekey **: reichEnergyMetabolismCell1981
-- ** authors **: J. G. Reich, Evgeniĭ Evgenʹevich Selʹkov
-- ** year **: [[1981]]
+- ** citekey **: thompsonCalculusMadeEasy1998
+- ** authors **: Silvanus P. Thompson, Martin Gardner
+- ** year **: [[1998]]
 - ** doi **: https://doi.org/
 - ** publication **: 
 - ** Web ** : [Open on line]()

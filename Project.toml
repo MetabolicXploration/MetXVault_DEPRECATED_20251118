@@ -1,0 +1,7 @@
+name = "MetXVault"
+uuid = "38899c01-fe34-4a3e-8d87-3650215ae14e"
+authors = ["josePereiro <jose.pereiro.personal@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ObaServers = "25f8d37a-575f-481b-82a1-d70056d35966"

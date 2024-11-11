@@ -6,7 +6,41 @@ creation-date: 2024:10:14-06:07:23
 %% Note Body --------------------------------------------------- %%
 
 ***
+### 2024-11-09
+
+
+
+> #ResearchIdea 
+> - In a chemostat we can plot the steady state $D$ vs $s_{glc}$. That is, growth rate vs remaining glucose
+> - How this plot relate with batch $\mu$ vs $c_{glc}$ for the exponential phase?
+> - If it is not the same we are definitely in a different regulatory scenario.
+
+> ***
+> #ResearchIdea 
+> 
+> #### Biom fraction Computation
+> 
+>  - In a chemostat using antibiotics, you can compute the fraction by recording how the total biomass change to a calibrated shot of antibiotic
+>  - You need to strains with different antibiotic resistance
+> 
+> 
+> #Target/JohnDoe #Referee/JohnDoe
+> #ArtifitialCoexistance
+> `2024:11:09-11:09:04`
+
+> ***
+> #ISSUE/TODO
+> 
+> #### Find cool example of quantitative biology working
+> 
+> #Referee/Brito
+> `2024:11:09-11:05:21`
+
+
+***
 ### 2024-11-08
+
+> #TODO add [[@thompsonCalculusMadeEasy1998]] to a #ReadingList
 
 > ***
 > #ISSUE/IDEA
@@ -40,16 +74,9 @@ creation-date: 2024:10:14-06:07:23
 ***
 ### 2024-11-02
 
-> #TODO Make bib note [@monkGenomescaleMetabolicNetwork2022]
-> 
-> Make note:
-> [[M9 minimal media]] was simulated by setting a lower bound of −1000 (allowing unlimited uptake) on the exchange reactions for $Ca^{2+}$, $Cl^{−}$, $CO^{2}$, $Co^{2+}$, $Cu^{2+}$, $Fe^{2+}$, $Fe^{3+}$, $H^{+}$, $H_{2}O$, $K^{+}$, $Mg^{2+}$, $Mn^{2+}$, $MoO^{2−}_4$, $Na^{+}$, $Ni^{2+}$, $SeO^{2−}_4$, $SeO^{2}_{3}$ and $Zn^{2+}$. A lower bound of −0.01 was placed on the cob(I)alamin exchange reaction. The default carbon source was glucose with a lower bound of −20, the default nitrogen source was $NH_4^{−}$ with a lower bound of −1000, the default phosphorus source was $HPO^2_4$ with a default bound of −1000 and the default sulfur source was $SO^{2−}_4$ with a default bound of −1000.
-
 
 ***
 ### 2024-11-01
-
-> #TODO Create paper note: Constrained proteome allocation affects coexistence in models of competitive microbial communities
 
 
 ***
