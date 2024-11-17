@@ -5,6 +5,16 @@ creation-date: 2024:10:14-06:07:23
 
 %% Note Body --------------------------------------------------- %%
 
+
+***
+### 2024-11-15
+
+> #ResearchIdea 
+> [[Luria-Delbrock]] experiments-like outside biological evolution
+> - Ex: How public opinion evolve? [[Lamarckian]] or [[Darwinian]]?
+> - Find Lamarckian evolution 
+
+
 ***
 ### 2024-11-09
 

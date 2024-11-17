@@ -5,6 +5,12 @@ creation-date: 2024:10:14-07:57:49
 
 %% Note Body --------------------------------------------------- %%
 
+
+> #TODO 
+> ##### Create reading list for [Hands-On Quantitative Biology School](https://indico.ictp.it/event/10517)
+> - see lecture notes and its References
+> - Will's suggestions
+
 ## ReadingList
 
 > #NOTE

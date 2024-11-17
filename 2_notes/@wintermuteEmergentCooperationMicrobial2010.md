@@ -18,6 +18,8 @@ creation-date: 2024:10:02-08:01:17
 ### Abstract:
 Mixed microbial communities exhibit emergent biochemical properties not found in clonal monocultures. We report a new type of synthetic genetic interaction, synthetic mutualism in trans (SMIT), in which certain pairs of [[auxotrophic]] [[Escherichia coli]] mutants complement one another's growth by cross‐feeding essential metabolites. We find significant metabolic synergy in 17% of 1035 such pairs tested, with SMIT partners identified throughout the metabolic network. Cooperative phenotypes show more growth on average by aiding the proliferation of their conjugate partner, thereby expanding the source of their own essential metabolites. We construct a quantitative, predictive, framework for describing SMIT interactions as governed by stoichiometric models of the metabolic networks of the interacting strains.
 
+
+([[note-20241117-074052|Research Ideas]])
 ___
 
 > #TODO 
@@ -38,11 +40,11 @@ We find that certain pairs of auxotrophs will complement one-another’s growth 
 
 ## Results and discussion
 
-Each deletion strain exhibits robust growth in rich (LB) medium but no measurable growth in minimal (M9) medium.
+Each deletion strain exhibits robust growth in rich (LB) medium but no measurable growth in minimal (M9) medium ([[note-20241117-071943|notes]]). 
 
 Theoretical and empirical precedents have established that metabolic cooperation is enhanced at intermediate cell densities when the concentration of cross-fed metabolites is sufficiently high to improve cooperative fitness (Shou et al, 2007; Bull and Harcombe, 2009). #Insight #Interesting #ReferenceSource 
 
-Cooperating strains in this system may show enhanced proliferation through the mechanism of **invested benefits** (Connor, 1995; West et al, 2007). Cooperation on the part of strain A will augment A’s growth only if B cooperates in turn. By increasing B’s abundance, A then cultivates the source of A’s own metabolites and therefore A’s own growth.
+Cooperating strains in this system may show enhanced proliferation through the mechanism of **invested benefits** ([[@connorBenefitsMutualismConceptual1995|Connor, 1995]]; West et al, 2007). Cooperation on the part of strain A will augment A’s growth only if B cooperates in turn. By increasing B’s abundance, A then cultivates the source of A’s own metabolites and therefore A’s own growth.
 
 Given the relatively low growth rates of the co-cultured strains and the excess availability of nutrients, we do not expect a significant metabolic burden to be associated with the production of shared metabolites ([[note-20241023-020227|notes]]).
 
@@ -54,7 +56,7 @@ $$\begin{align}
 \frac{dB}{dt} = C_A \Big( \frac{A}{A+B} \Big)\Big(1 - \frac{A+B}{K}\Big)
 \end{align}$$
 
-Synthetic genetic interactions, the synergistic growth effects of multiple gene deletions, are known to identify epistatic or modular relationships among genes ([[Daniel Segrè|Segrè]] et al, 2005; Ooi et al, 2006; Motter et al, 2008). #ReferenceSource 
+Synthetic genetic interactions, the synergistic growth effects of multiple gene deletions, are known to identify epistatic or modular relationships among genes ([[@segreModularEpistasisYeast2005|Segrè et al, 2005]]; Ooi et al, 2006; Motter et al, 2008). #ReferenceSource 
 
 However, mutants sharing pathways showed consistency in their set of cooperating partners.
 
@@ -64,7 +66,7 @@ Analysis of SMIT interactions is therefore capable of identifying biosynthetic m
 
 Beginning with the standard [[iAF1260]] reconstruction.
 
-We derived solutions to the joint model by applying the **minimization of metabolic adjustment** ([[MOMA]]) objective function ([[Daniel Segrè|Segrè]] et al, [[y2002|2002]]). The MOMA methods hypothesize that mutant systems will tend to approximate the wild-type flux distribution, even as mutation precludes an exact match. This objective function is conservative; it identifies solutions in the joint vector closest, in the Euclidean sense, to the wildtype fluxes.
+We derived solutions to the joint model by applying the **minimization of metabolic adjustment** ([[MOMA]]) objective function ([[@segreAnalysisOptimalityNatural2002|Segrè et al, 2002]]). The [[MOMA]] methods hypothesize that mutant systems will tend to approximate the wild-type flux distribution, even as mutation precludes an exact match. This **objective function** is conservative; it identifies solutions in the joint vector closest, in the Euclidean sense, to the wildtype fluxes.
 
 Total growth of the co-cultures was correlated with predicted growth derived from the joint flux model ([[note-20241014-092510|notes]]).
 
@@ -80,7 +82,7 @@ We solved the iAF1260 model for shadow prices representing the fitness benefit, 
 
 The cooperation efficiency terms reproduce the characteristic pattern in their correlation with strain growth, predicted in our invested benefits model of cooperation (Figure 3C). The term $\epsilon^B$ is positively correlated with $A$’s growth across all growth levels, as it is always beneficial to be paired with an efficient cooperator ([[note-20241014-102154|notes]]). The $\epsilon^A$ correlates positively to $A$’s growth for **low growth**, then negatively as the strains approach saturation. Only in this narrow range would the less generous show more growth. ([[note-20241014-094204|notes]]) #LowGrowth
 
-We find that the metabolites most readily exchanged are those of little value to the secreting strain. This is consistent with proposals that byproduct cooperation evolves more readily than other forms, because it requires no active investment of one partner in the other (Connor, 1995). #ToRead 
+We find that the metabolites most readily exchanged are those of little value to the secreting strain. This is consistent with proposals that byproduct cooperation evolves more readily than other forms, because it requires no active investment of one partner in the other ([[@connorBenefitsMutualismConceptual1995|Connor, 1995]]). #ToRead 
 
 > ***
 > #ISSUE/TODO
@@ -90,6 +92,18 @@ We find that the metabolites most readily exchanged are those of little value to
 > #Target/Jose #Target/Brito #Referee/Brito
 > `2024:10:18-01:27:56`
 
+## Materials and methods
+
+### The joint stoichiometric model
+
+
+## ReadingList
+
+> #ToRead [[@connorBenefitsMutualismConceptual1995]]
+> #ToRead [[@segreModularEpistasisYeast2005]]
+> #ToRead [[@segreAnalysisOptimalityNatural2002]]
+> #ToRead [[@balagaddeSyntheticEscherichiaColi2008]]
+> #ToRead [[@bullPopulationDynamicsConstrain2009]]
 
 
 
