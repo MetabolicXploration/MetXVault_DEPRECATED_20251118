@@ -8,7 +8,7 @@ creation-date: "2024:10:29-02:50:22"
 
 ### Meta
 - ** citekey **: scottShapingBacterialGene2023
-- ** authors **: Matthew Scott, Terence Hwa
+- ** authors **: Matthew Scott, [[Terence Hwa]]
 - ** year **: [[2023]]
 - ** doi **: https://doi.org/10.1038/s41579-022-00818-6
 - ** publication **: Nature Reviews Microbiology

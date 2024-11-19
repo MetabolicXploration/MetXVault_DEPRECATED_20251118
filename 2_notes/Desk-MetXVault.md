@@ -14,11 +14,20 @@ creation-date: 2024:10:14-06:07:23
 > - Ex: How public opinion evolve? [[Lamarckian]] or [[Darwinian]]?
 > - Find Lamarckian evolution 
 
+> ***
+> #ISSUE/ResearchIdea
+> 
+> #### Medium change experiments
+> 
+>  - Find the paper where [[Terence Hwa]] study the changes that occurs after changing the carbon source from glucose o glycerol
+>  - What happen in a cross feeding co-culture if the medium is changed?
+> 
+> #Target/JohnDoe #Referee/JohnDoe
+> `2024:11:17-05:48:20`
+
 
 ***
 ### 2024-11-09
-
-
 
 > #ResearchIdea 
 > - In a chemostat we can plot the steady state $D$ vs $s_{glc}$. That is, growth rate vs remaining glucose

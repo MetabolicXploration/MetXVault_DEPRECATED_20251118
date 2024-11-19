@@ -22,6 +22,16 @@ ___
 
 ## View
 
+> ***
+> #ISSUE/ResearchIdea
+> 
+> #### Testing Chemostat 
+> 
+> Try to replicate a few of this experiments using [[CSCReactor]]
+> 
+> #Target/Jose #Referee/Brito
+> `2024:11:17-12:53:37`
+
 
 > #Figure 1: Growth of [[E. coli]] [[MG1655]] in [[Luria-Bertani]] broth. An overnight culture was diluted 5,000-fold in Luria-Bertani broth and cultivated at 37°C with vigorous aeration. (A) The $OD_{600}$ (triangles) and cell concentration (crosses) were measured periodically. (B) The ratio of the $OD_{600}$ to the cell concentration was calculated at each point and multiplied by $10^9$ .
 > ![[Pasted image 20241116194312.png|400]]
