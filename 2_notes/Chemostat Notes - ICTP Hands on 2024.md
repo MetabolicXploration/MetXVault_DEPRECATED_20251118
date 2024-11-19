@@ -181,21 +181,26 @@ $$\begin{align}
 where $c_2^*$ denotes the concentration of resource $c$ that strain 2 consumes at steady-state. So $c_i^*$ is a function of strain-specific maximum growth rates and Monod constants and the strain with the smallest $c_i^*$ is the one that survives. We will now prove this result. Consider the scenario where strain one survives, drawing the resource concentration to $c_1^*$. In this scenario strain 2 has the following dynamics:
 
 $$\begin{align}
-\frac{dn_2}{dt} &= n_2 \Big( r_{max, 2} \frac{c_1^*}{c_1^* + K} - \delta\Big)
+\tag{9}
+\frac{dn_2 (c^*_1)}{dt} &= n_2 \Big( r_{max, 2} \frac{c_1^*}{c_1^* + K} - \delta\Big)
 \end{align}$$
 
 We now ask when $\frac{dn_2}{dt} > 0$. The conditions is:
 
 $$\begin{align}
+\tag{10}
 r_{max, 2} \frac{c^*_1}{c^*_1 + K_2} > \delta 
 \to 
 \frac{r_{max,2}}{\delta} > 1 + \frac{K_2}{c^*_1}
 \end{align}$$
 
-Using Eq. 7, we get
+Using Eq. 7 and 8 we get
 
 $$\begin{align}
-\frac{r_{max, 2}}{\delta} - 1 > \frac{K_2}{K_1} \Big( \frac{r_{max,1}}{\delta} - 1 \Big)
+\tag{11}
+\frac{r_{max, 2}}{\delta} - 1 &> \frac{K_2}{K_1} \Big( \frac{r_{max,1}}{\delta} - 1 \Big)
+\\
+&\to c^*_1 > c^*_2
 \end{align}$$
 
 ([[note-20241118-081706|notes]])
@@ -206,115 +211,171 @@ This result means that the condition for strain 2 to increase in density, and th
 
 **In the previous sections, we showed that increasing the number of strains while maintaining a single resource does not permit co-existence**. Now, we would like to understand when and how co-existence between two strain is allowed. We will consider the possibility of having two strains and two resources and deter- mine when one strain goes extinct (ie., dominance), both strains survive (i.e., co-existence), and both strains go extinct (i.e., washout). When introducing multiple resources, we need to observe that two different categories could be possible. Resources are often categorized as substitutable” (e.g., glucose vs. glycerol) or essential” (phosphorus and nitrogen). Substitutable resources can also be used simultaneously (i-e., co-utilized) or sequentially utilized according to resource-preference hierarchy. Unless otherwise specified, we will be focusing on substitutable, co-utilized resources, as they allow for the most generalizable results.
 
-We have made the assumption that different strain consuming the same resource have the same yield (Yi. = Yo.1 = Yi and Yj.2 = Y22 = Y2). This assumption is more reasonable than assuming different resources have the same yield (e.g., the number of C atoms varies across C sources). We will again make the assumption that Kj; >> ci,j(¢), linearizing the Monod equation. To simplify the notation
+$$\begin{align}
+\tag{13}
+\frac{dn_1}{dt} &= n_1 (r_{11} (c_1) + r_{12} (c_2) - \delta) 
+\\
+\frac{dn_2}{dt} &= n_2 (r_{21} (c_1) + r_{22} (c_2) - \delta) 
+\\
+\frac{dc_1}{dt} &= \delta (c^0_1 - c_1) - r_{11} (c_1) \frac{n_1}{Y_1} - r_{21} (c_1) \frac{n_2}{Y_1}
+\\
+\frac{dc_2}{dt} &= \delta (c^0_2 - c_2) - r_{12} (c_2) \frac{n_1}{Y_2} - r_{22} (c_2) \frac{n_2}{Y_2}
+\\
+\end{align}$$
 
-%% DEV HEAD ----------------
+We have made the assumption that different strain consuming the same resource have the same yield ($Y_{1,i} = Y_{2,i} = Y_i$). This assumption is more reasonable than assuming different resources have the same yield (e.g., the number of C atoms varies across C sources). We will again make the assumption that $K_{i,j} \gg c_{i,j}(t)$, linearizing the Monod equation. To simplify the notation we define  $\mu_{i,j} \equiv \frac{r_{max}^{i,j}}{K_{i,j}}$ ([[note-20241118-092800|notes]]).
 
-we define fu;,; = Tots
 We now have the system
 
-a = m(t1,1¢1 + H1,2¢2 — 6) (14a)
-ans = no(t2,1¢1 + H2,2¢2 — 6) (14b)
-a 5(c} C1) macy, ~ aac (14c)
-aa i 2) mgeay = fl2,2C2 y, (14d)
+$$\begin{align}
+\tag{14}
+\frac{dn_1}{dt} &= n_1 (\mu_{11} c_1 + \mu_{12} c_2 - \delta) 
+\\
+\frac{dn_2}{dt} &= n_2 (\mu_{21} c_1 + \mu_{22} c_2 - \delta) 
+\\
+\frac{dc_1}{dt} &= \delta (c^0_1 - c_1) - \mu_{11} c_1 \frac{n_1}{Y_1} - \mu_{21} c_1 \frac{n_2}{Y_1}
+\\
+\frac{dc_2}{dt} &= \delta (c^0_2 - c_2) - \mu_{12} c_2 \frac{n_1}{Y_2} - \mu_{22} c_2 \frac{n_2}{Y_2}
+\\
+\end{align}$$
 
-We can determine the steady-state resource concentrations by setting the strain
-ODEs equal to zero (and assuming nj, n5 > 0). Rearranging, we get the fol-
-lowing two equations
+([[note-20241119-074146|notes]])
 
-Miic1 + fe12c2 = 6 (15a)
+We can determine the steady-state resource concentrations by setting the strain ODEs equal to zero (and assuming $n^*_1, n^*_2 > 0$). Rearranging, we get the following two equations
 
-f12,1€1 + fi2,2c2 = 6 (15b)
+$$\begin{align}
+\tag{15}
+\mu_{11} c_1 + \mu_{12} c_2 = \delta
+\\
+\mu_{21} c_1 + \mu_{22} c_2 = \delta
+\end{align}$$
+^eq--15
 
-which can be represented in matrix form
+which can be represented in matrix form as
 
-Hi. Haz] fez] _ 6 .
-tel Le) =f a)
+$$\begin{align}
+\tag{16}
+\underbrace{
+\left[ \begin{array}{cc}
+\mu_{11} & \mu_{12} \\
+\mu_{21} & \mu_{22} \\
+\end{array} \right]
+}_{\text{M}}
+\left[ \begin{array}{c}
+c^*_1 \\
+c^*_2 \\
+\end{array} \right]
+=
+\left[ \begin{array}{c}
+\delta \\
+\delta \\
+\end{array} \right]
 
-
-<<< 11 >>>
+\end{align}$$
 
 and solved as
 
-os det(M) [-H21 fii | [5
-This result shows that steady-state nutrient levels are set by resource con-
-sumption rates and the dilution rate.
-We can determine steady-state abundances by repeating the above matrix
-manipulation on the resource ODEs at steady-state.
+$$\begin{align}
+\tag{17}
+\left[ \begin{array}{c}
+c^*_1 \\
+c^*_2 \\
+\end{array} \right]
+=
+\frac{1}{\det{M}}
+\left[ \begin{array}{cc}
+\mu_{22} & -\mu_{12} \\
+-\mu_{21} & \mu_{11} \\
+\end{array} \right]
 
-o
-oa pox] fri] _ 5 |e 1% (18)
-fi2 faa} |n3 2-1 Yo|°
+\left[ \begin{array}{c}
+\delta \\
+\delta \\
+\end{array} \right]
 
-53
+\end{align}$$
+([[note-20241118-100701|notes]])
+
+This result shows that steady-state nutrient levels are set by resource consumption rates and the dilution rate ([[note-20241119-062444|notes]]). We can determine steady-state abundances by repeating the above matrix manipulation on the resource ODEs at steady-state
+
+$$\begin{align}
+\tag{18}
+
+\underbrace{
+\left[ \begin{array}{cc}
+\mu_{11} & \mu_{21} \\
+\mu_{12} & \mu_{22} \\
+\end{array} \right]
+}_{M^T}
+
+\left[ \begin{array}{c}
+n^*_1 \\
+n^*_2 \\
+\end{array} \right]
+
+=
+
+\delta
+
+\left[ \begin{array}{c}
+\Big( \frac{c^0}{c^*_1} - 1\Big) \, Y_1 \\
+\Big( \frac{c^0}{c^*_2} - 1\Big) \, Y_2 \\
+\end{array} \right]
+
+\end{align}$$
+
+([[note-20241119-064116|notes]])
 
 By inverting the matrices we obtain the solution
 
-an
-nt} 6 H2o2 flan ain
-«| > Quarry 0
-n5 det(M?) |-Hi2 0 Ma 2_1)\)y,
-a
+$$\begin{align}
+\tag{19}
 
-O_o* O_o
-S21 Y) — mug, 2S Yo
-an ed
+\left[ \begin{array}{c}
+n^*_1 \\
+ n^*_2 \\
+\end{array} \right]
+&=
+\frac{\delta}{\det M^T}
+\left[ \begin{array}{cc}
+\mu_{22} & -\mu_{21} \\
+-\mu_{12} & \mu_{11} \\
+\end{array} \right]
+\left[ \begin{array}{c}
+\Big( \frac{c^0}{c^*_1} - 1\Big) \, Y_1 \\
+\Big( \frac{c^0}{c^*_2} - 1\Big) \, Y_2 \\
+\end{array} \right]
 
-0) H22
-0
+\\
+&=
+\frac{\delta}{\det M^T}
+\left[ \begin{array}{cc}
+\mu_{22} \Big( \frac{c^0}{c^*_1} - 1\Big) \, Y_1 - 
+\mu_{21} \Big( \frac{c^0}{c^*_1} - 1\Big) \, Y_1
+\\
+-\mu_{12} \Big( \frac{c^0}{c^*_2} - 1\Big) \, Y_2 + 
+\mu_{11} \Big( \frac{c^0}{c^*_2} - 1\Big) \, Y_2
+\end{array} \right]
+\\
+\dots
+\end{align}$$
 
-= eae fics (19)
-det(MT) Mgt YN + mui eae) Y>
-a 3
+> #NOTE Both $c^*_1$ and $c^*_2$ will depend on $\mu_*$s (see [[note-20241119-062444|here]]), which are constants. The same can be said for  $\det M^T$
 
-p2,2(ef—eh)¥1 2,1 (e2—¢3) Yo
-= H2,2—H1,2 H1,1—H2,1
-Mile) ¥1 4) pia (e3—c3 Yo
+Where we have used the steady-state solutions of resource concentration ([[note-20241119-071918|notes]]). However, is not clear what the above results tell us about the parameter regime where co-existence is permitted. We would like to know how co-existence de- pends on environmental parameters ($\delta, c^0_j$) and physiological parameters ($\mu_{ij}, Y_j$). Using the above results we can determine the stability of solutions where we find steady-state co-existence $n^*_1,n^*_2 > 0$. Intuitively we expect co-existence to be more stable when strain consume different resources, a strategy known as [[specialists]]. In the other extreme case we might expect co-existence to be less stable when two strain compete for all the resources in the environment, a strategy known as [[generalists]]. These scenarios can be modeled as the $\mu_{ij}$ of different strain being highly different or similar. Once the parameters are chosen, the stability of resource and strain steady-states can be evaluated [[@gibbsStabilityCriteriaConsumption2022|[8] ]].
 
-22—M1,2 | W121
+However, instead of performing an extensive calculation, we will turn to a graphical approach developed by Tilman to examine co-existence focusing on the effect that strain abundance has on resource concentration [[@tilmanResourcesGraphicalMechanisticApproach1980|[9] ]]. First, we take [[#^eq--15|Eq. 15]], and we set the concentration of the first resource to zero, $c_1 = 0$, assuming that strain 1 has completely depleted this resource from the environment. We then solve for the concentration of the second resource $c_2$. This gives us one point that represents the resource availability in the system when $c_1 = 0$ and the strain can only grow using $c_2$. Mathematically, this results in a point ($\delta / \mu_{12}, 0$) for strain 1 and ($\delta / \mu_{22}, 0$) for strain 2.
 
-Where we have used the steady-state solutions of resource concentration.
-However, is not clear what the above results tell us about the parameter regime
-where co-existence is permitted. We would like to know how co-existence de-
-pends on environmental parameters (6, c}) and physiological parameters (j1;,;, Yi,j).
-Using the above results we can determine the stability of solutions where we find
-steady-state co-existence nj,n3 > 0. Intuitively we expect co-existence to be
-more stable when strain consume different resources, a strategy known as spe-
-cialists. In the other extreme case we might expect co-existence to be less stable
-when two strain compete for all the resources in the environment, a strategy
-known as generalists. These scenarios can be modeled as the j1;,; of different
-strain being highly different or similar. Once the parameters are chosen, the
-stability of resource and strain steady-states can be evaluated [8].
-
-However, instead of performing an extensive calculation, we will turn to
-a graphical approach developed by Tilman to examine co-existence focusing
-on the effect that strain abundance has on resource concentration [9]. First,
-we take Eq. 15, and we set the concentration of the first resource to zero,
-c, = 0, assuming that strain 1 has completely depleted this resource from the
-environment. We then solve for the concentration of the second resource co.
-This gives us one point that represents the resource availability in the system
-
-10
+> #MakeNote
+> For coexistence to occur, each strain must be better at growing in at least one recourse.
+> That is, for all strain $k$, $\exists j$ such as $\mu_{kj} > \mu_{ij}$ for $i \neq k$.
 
 
-<<< 12 >>>
+> Figure 3: ZNGI example
+>
 
-LO lorstonté Cocestince
+%% DEV HEAD ----------------
 
-a"
-Mur Of py
-dn
-
-Aig 0 ly
-
-a bo
-Ln 76 My hn, ‘
-a
-
-Figure 3: ZNGI example
-
-when c; = 0 and the strain can only grow using cz. Mathematically, this results
-in a point (0,6/j1,1) for strain 1 and (0,6/p2,1) for strain 2.
 
 We repeat the process for the second resource by setting cz = 0 and solve for
 c1, assuming that the strain has completely depleted the second resource from

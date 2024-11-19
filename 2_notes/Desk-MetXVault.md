@@ -5,6 +5,20 @@ creation-date: 2024:10:14-06:07:23
 
 %% Note Body --------------------------------------------------- %%
 
+***
+### 2024-11-19
+
+> ***
+> #ISSUE/ResearchIdea 
+> 
+> #### Measure Yield in CSCReactor
+> 
+>  The CSCReactor can be use to compute yield in several conditions. 
+>  - This data can be use to valid the [[RegulationImageMC]] models.
+> 
+> 
+> #Target/Jose #Referee/Jose
+> `2024:11:19-12:16:18`
 
 ***
 ### 2024-11-15
