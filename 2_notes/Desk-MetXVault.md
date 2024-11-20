@@ -14,8 +14,7 @@ creation-date: 2024:10:14-06:07:23
 > #### Measure Yield in CSCReactor
 > 
 >  The CSCReactor can be use to compute yield in several conditions. 
->  - This data can be use to valid the [[RegulationImageMC]] models.
-> 
+>  - This data can be use to valid the [[RegulationImageMC_2024]] models.
 > 
 > #Target/Jose #Referee/Jose
 > `2024:11:19-12:16:18`
@@ -161,16 +160,6 @@ creation-date: 2024:10:14-06:07:23
 ***
 ### 2024-10-15
 
-> ***
-> #ISSUE/DONE
-> 
-> #### Create a TODO framework with different roles
-> - assigned: The responsible(s) to do
-> - evaluator: The responsible to check when it is done, and. marked as so
-> 
-> #Target/Jose #Referee/Jose
-> `2024:10:15-11:02:11`
-
 ___
 ### 2024-10-14
 
@@ -178,7 +167,7 @@ ___
 > #ISSUE/DONE
 > 
 > ##### Create reading list for [Hands-On Quantitative Biology School](https://indico.ictp.it/event/10517)
-> - check [[2024 - ICTP Hands-On Quantitative Biology School]]
+> - check [[2024 - ICTP - Hands-On Quantitative Biology School]]
 > 
 > #Target/Jose #Target/Brito #Referee/Jose
 > `2024:10:15-11:04:21`

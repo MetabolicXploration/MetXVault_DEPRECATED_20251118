@@ -7,7 +7,7 @@ creation-date: 2024:11:17-11:15:24
 
 ### Meta
 - ** authors **: [[Jacopo Grilli]] , [[Gabriele Micali]] , Jose A. Pereiro-Morejon, [[William R. Shoemaker]]
-- ** event **: [[2024 - ICTP Hands-On Quantitative Biology School]]
+- ** event **: [[2024 - ICTP - Hands-On Quantitative Biology School]]
 - ** date **: November 4-15, 2024
 
 %% Note Body --------------------------------------------------- %%
@@ -369,7 +369,6 @@ However, instead of performing an extensive calculation, we will turn to a graph
 > #MakeNote
 > For coexistence to occur, each strain must be better at growing in at least one recourse.
 > That is, for all strain $k$, $\exists j$ such as $\mu_{kj} > \mu_{ij}$ for $i \neq k$.
-
 
 > Figure 3: ZNGI example
 >

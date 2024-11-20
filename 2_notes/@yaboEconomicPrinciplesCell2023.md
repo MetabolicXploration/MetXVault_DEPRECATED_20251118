@@ -21,16 +21,6 @@ ___
 
 %% Write here %%
 
-> ***
-> #ISSUE/TODO
-> 
-> #### Collect your reading notes here
-> 
->  Respect chapters
-> 
-> #Target/Brito #Referee/Jose
-> `2024:10:15-11:33:35`
-
 *** 
 ## Preface
 
