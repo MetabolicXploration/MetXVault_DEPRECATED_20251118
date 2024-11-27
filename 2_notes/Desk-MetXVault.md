@@ -6,6 +6,11 @@ creation-date: 2024:10:14-06:07:23
 %% Note Body --------------------------------------------------- %%
 
 ***
+### 2024-11-22
+
+- #Download  https://www.youtube.com/playlist?list=PLp0hSY2uBeP8RHeLW67nLS3Toczm_CDri
+
+***
 ### 2024-11-19
 
 > ***

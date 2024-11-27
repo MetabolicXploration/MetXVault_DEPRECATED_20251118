@@ -3,6 +3,7 @@
 > #ISSUE/TODO
 > 
 > #### Format this
+> - see other reference notes and apply the same format
 > 
 > #Target/Jose #Referee/Brito
 > `2024:10:15-11:14:44`

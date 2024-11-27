@@ -4,7 +4,6 @@ creation-date: "2024:10:28-09:17:56"
 ---
 
 
-
 %% Note Body --------------------------------------------------- %%
 # Resource allocation accounts for the large variability of rate-yield phenotypes across bacterial strains
 
