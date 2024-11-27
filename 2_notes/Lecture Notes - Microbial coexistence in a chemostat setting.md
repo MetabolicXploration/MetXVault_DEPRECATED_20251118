@@ -366,71 +366,76 @@ Where we have used the steady-state solutions of resource concentration ([[note-
 
 However, instead of performing an extensive calculation, we will turn to a graphical approach developed by Tilman to examine co-existence focusing on the effect that strain abundance has on resource concentration [[@tilmanResourcesGraphicalMechanisticApproach1980|[9] ]]. First, we take [[#^eq--15|Eq. 15]], and we set the concentration of the first resource to zero, $c_1 = 0$, assuming that strain 1 has completely depleted this resource from the environment. We then solve for the concentration of the second resource $c_2$. This gives us one point that represents the resource availability in the system when $c_1 = 0$ and the strain can only grow using $c_2$. Mathematically, this results in a point ($\delta / \mu_{12}, 0$) for strain 1 and ($\delta / \mu_{22}, 0$) for strain 2.
 
-> #MakeNote
-> For coexistence to occur, each strain must be better at growing in at least one recourse.
-> That is, for all strain $k$, $\exists j$ such as $\mu_{kj} > \mu_{ij}$ for $i \neq k$.
+> ***
+> #ISSUE/TODO
+> 
+> #### Make simulations
+> 
+>  - Make simulations associated with this lecture notes
+> 
+> #Target/Jose #Referee/Jose
+> `2024:11:20-06:48:18`
 
-> Figure 3: ZNGI example
->
+
+> #Figure 3: ZNGI example
+> No co-existance in the left, co-existance in the right.
+> Note that, for coexistence to occur, each strain must be better at growing in at least one recourse. That is, for all strain $k$, $\exists j$ such as $\mu_{kj} > \mu_{ij}$ for $i \neq k$.
+> This plots can be drawn because in this systems, the strains interact only through the concentrations.   
+> ![[Pasted image 20241120073931.png]]
+
+We repeat the process for the second resource by setting $c_2 = 0$ and solve for $c_1$, assuming that the strain has completely depleted the second resource from the environment. This gives us another point on the resource axis, representing the scenario where strains are growing using only the first resource. For strain 1, this results in the point ($\delta / \mu_{12}, 0$), and for strain 2, the point ($\delta / \mu_{22}, 0$).
+
+Now, for each strain, we have two points: one where c; = 0 and another where cz = 0. The line between these two points represents resource combinations where each strain has net growth of zero (AKA the Zero Net Growth Isocline, or [[ZNGI]]).
+
+- Strain 1 ZNGI: ($\delta / \mu_{11}, 0$), ($0, \delta / \mu_{12}$)
+- Strain 2 ZNGI: ($\delta / \mu_{21}, 0$), ($0, \delta / \mu_{22}$)
+
+> #ISSUE/Error in the main text the points coordinates are in the wrong order
+
+
+When we plot these points on a graph, with $c_1$ on one axis and $c_2$ on the other axis, we can draw a line between these two points for each strain. **This line represents the resource combinations at which the strain can maintain its population size**. **If these two lines intersect, the intersection represents the steady-state concentrations of the two resources where both strains can coexist**. If the resource preferences set the lines such that the ZNGIs do not intersect, then the strain with the lower resource requirements will outcompete the other, an outcome analogous to $c^*$ when one resource is provided (Fig. 3).
+
+But how do can we understand the effect of $n_1$ and $n_2$ on the resources using the graphical approach? We start by writing the ODEs for resource dynamics
+
+$$\begin{align}
+
+\left[ \begin{array}{c}
+dc_1 / dt \\
+dc_2 / dt \\
+\end{array} \right]
+&=
+\underbrace{
+\delta
+\left[ \begin{array}{c}
+c^0_1 - c_1 \\
+c^0_2 - c_2 \\
+\end{array} \right]
+}_{J_{env}}
+-
+\underbrace{
+n_1
+\left[ \begin{array}{c}
+\mu_{11} \frac{c_1}{Y_1} \\
+\mu_{12} \frac{c_2}{Y_2} \\
+\end{array} \right]
+}_{-J_{n_1}}
+-
+\underbrace{
+n_2
+\left[ \begin{array}{c}
+\mu_{21} \frac{c_1}{Y_1} \\
+\mu_{22} \frac{c_2}{Y_2} \\
+\end{array} \right]
+}_{-J_{n_2}}
+
+
+\end{align}$$
+
+Here $J_{env}$ can be viewed as the flux of resources due to environmental parameters (dilution rate and supplied concentration) while $J_{n_1}$ and $J_{n_2}$, can be viewed as the flux of resources due to strain parameters (e.g., yield, resource consumption). Alternatively stated, the system can be parameterized such that the environment is the source of resources and strains are the sinks. At steady-state these fluxes are balanced if $n^*_1, n^*_2 > 0$ and can be graphically represented in the ($c_1, c_2$) plane.
+
+Choosing arbitrary points in the resource axes (¢1,é2) where (¢; < c? and €2 < 3), Jeny points in the direction of the supplied resources. The strain fluxes J,, and J, point away from supply points, the slopes of which can be calculated as the rise-over-run: m, = #a¥i and m2 = Ha2¥a
 
 %% DEV HEAD ----------------
-
-
-We repeat the process for the second resource by setting cz = 0 and solve for
-c1, assuming that the strain has completely depleted the second resource from
-the environment. This gives us another point on the resource axis, representing
-the scenario where strains are growing using only the first resource. For strain
-1, this results in the point (6/j41,2,0), and for strain 2, the point (5/j12,2,0).
-
-Now, for each strain, we have two points: one where c; = 0 and another
-where cz = 0. The line between these two points represents resource combina-
-tions where each strain has net growth of zero (AKA the Zero Net Growth
-Isocline, or ZNGI).
-
-e Strain 1 ZNGI: (0,6/p11,1), (6/112, 0)
-e Strain 2 ZNGI: (0,6/p12,1), (6/p2,2, 0)
-
-When we plot these points on a graph, with c; on one axis and cz on the
-other axis, we can draw a line between these two points for each strain. This
-line represents the resource combinations at which the strain can maintain its
-population size. If these two lines intersect, the intersection represents the
-steady-state concentrations of the two resources where both strains can coexist.
-If the resource preferences set the lines such that the ZNGIs do not intersect,
-then the strain with the lower resource requirements will outcompete the other,
-an outcome analogous to c* when one resource is provided (Fig. 3).
-
-11
-
-
-<<< 13 >>>
-
-But how do can we understand the effect of ny and nz on the resources using
-the graphical approach? We start by writing the ODEs for resource dynamics
-
-in matrix form
-de 0 2 c
-rs raloeene! May M219
-dc | — 0 mma cp | 12 C2
-“a cy — C2 M12, H2,2y5
-
-—_— —_— —_—_
-
-Jenv —J J
-
-my Tang
-
-Here Jeny can be viewed as the flux of resources due to environmental pa-
-rameters (dilution rate and supplied concentration) while J, and J, can be
-viewed as the flux of resources due to strain parameters (e.g., yield, resource
-consumption). Alternatively stated, the system can be parameterized such that
-the environment is the source of resources and strains are the sinks. At steady-
-state these fluxes are balanced if nj,n3 > 0 and can be graphically represented
-in the (cy, c2) plane.
-
-Choosing arbitrary points in the resource axes (¢1,é2) where (¢; < c? and
-€2 < 3), Jeny points in the direction of the supplied resources. The strain
-fluxes J,, and J, point away from supply points, the slopes of which can be
-calculated as the rise-over-run: m, = #a¥i and m2 = Ha2¥a
 
 2h. 22,1
 results that when m, < 1 that n, prefers c; over cg. Likewise, when m2 < 1 ng
@@ -1095,7 +1100,6 @@ graphs in population biology 17. ISBN: 978-0-691-08302-5 978-0-691-20965-
 24
 
 
-<<< 26 >>>
 
 10.
 

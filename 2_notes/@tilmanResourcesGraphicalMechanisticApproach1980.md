@@ -8,7 +8,7 @@ creation-date: 2024:11:19-12:25:01
 
 ### Meta
 - ** citekey **: tilmanResourcesGraphicalMechanisticApproach1980
-- ** authors **: David Tilman
+- ** authors **: [[David Tilman]]
 - ** year **: [[1980]]
 - ** doi **: https://doi.org/10.1086/283633
 - ** publication **: The American Naturalist
