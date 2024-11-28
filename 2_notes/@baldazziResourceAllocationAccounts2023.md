@@ -24,8 +24,8 @@ ___
 
 %% Write here %%
 
-
-
+> #Figure 3
+> ![[Pasted image 20241127194306.png]]
 
 
 ___
