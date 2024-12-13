@@ -9,33 +9,21 @@ sr-due: 2024-08-12
 %% Note Body --------------------------------------------------- %%
 
 %% Write here %%
+## maserAvoidingAminoAcid2019
+
+#EColi #ComplexMedium #SupplemmentaryMaterials
+#NutrientLimited 
+
+> #Figure 5. Measured amino acid consumption compared to the amino acid requirements in the biomass-based medium experiments. Sampling points, where aspartate and threonine were still present, were used for calculations. Serine (consumption was >2 mmol gDCW1 and is not shown in the figure), cysteine, aspartate, threonine and arginine were consumed more than the presumed need for protein and nucleotide synthesis, while asparagine, alanine and glycine were underutilize
+> ![[Pasted image 20241205084427.png|400]]
+
+> #Table 1. [[E. coli]] [[BW25113]] growth characteristics in the media used in this work In acid-hydrolysed casein, biomass-based and arginine addition medium overall growth and the division into two different phases (exponential growth phase and changing growth phase) is given. Yield calculation is shown in C-mole terms and considers carbon coming from both glucose and amino 
+> ![[Pasted image 20241205085046.png|600]]
 
 
-## Designe
-- Each paper in a folder
-	- This way we can have a README.md per paper
-	- We should reproduce the tables and figures of the paper and display them in the README.md
-		- Think about store
-			- maybe a vectorized format
-			- or External URLs
+
 
 ## Desk
-
-> ***
-> #ISSUE/TODO
-> 
-> #### Reactivate repository
-> - [ ] Move list to issue section
-> 	- Think about it
-> 	- Maybe this is useful for dumping new stuff while reading
-> 	- Another TODO step is file an ISSUE
->
-> - [ ] We probably will need a new name
-> 	- The project is centered on papers
-> 		- Which data is scattered on papers
-> 
-> #Target/Jose #Target/Brito #Referee/Brito
-> `2024:10:16-07:41:53`
 
 #### https://github.com/yinonbaron/ecoli_composition/blob/master/rna_protein_ratio.ipynb
 - #TOCHECK 

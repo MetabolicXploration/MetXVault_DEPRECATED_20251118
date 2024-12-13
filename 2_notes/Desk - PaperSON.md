@@ -22,8 +22,17 @@ creation-date: 2024:11:27-07:02:51
 > `2024:11:27-07:45:01`
 
 
+## Desk
 
+> #TODO see [[MetXCultureHub]]
 
+## Design
+- Each paper in a folder
+	- This way we can have a README.md per paper
+	- We should reproduce the tables and figures of the paper and display them in the README.md
+		- Think about store
+			- maybe a vectorized format
+			- or External URLs
 
 
 ___

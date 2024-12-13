@@ -22,12 +22,6 @@ ___
 %% Write here %%
 
 *** 
-## Preface
-
-
-As we look at cells from the perspective of resource allocation, we will neglect other aspects: we will rarely talk about regulation (e.g. the mechanisms for regulation of gene expression), and even more rarely about gene or protein sequences. Instead, we assume that certain mechanisms are in place in the cell, and that molecules encoded by sequences exist, and either ask why (that is, for what functional reason) they are the way ==the are==, or what the cell can do with them to perform certain tasks. This often means that we assume a mechanistic system with possible “choices” (among flux profiles, expression levels, enzyme parameters, etc), and ask, first, what choices exist (considering all the constraints) and, second, how profitable these choices are for the cell (assuming certain objectives). While we are hardly concerned with genetics, we are certainly interested in how optimality may arise from evolution - to connect the two, we need to think about fitness (how long-term fitness can be defined, and how it gives rise to “momentary” or “local” optimization objectives in a given  part of the cell). #ISSUE/Typo
-
-*** 
 ## 1. The cell as a factory
 
 The chemical equation of metabolism for biological systems is:
@@ -65,7 +59,7 @@ A small fraction of the cell mass (2- 3%) is formed by small molecules (< 1000 D
 
 For illustration, the concentrations of the most abundant metabolites in E. coli range from 10−1 to 10−7 moles per cell, corresponding to a range of 108 to only 100 copies per cell [5].
 
-Similarly, the concentrations of the most common inorganic ions ==(==K+ , Na+ , Mg+ , Ca+ , Cl – span several orders of magnitude [5]. #ISSUE/Typo 
+Similarly, the concentrations of the most common inorganic ions (K+ , Na+ , Mg+ , Ca+ , Cl-) span several orders of magnitude [5]. 
 
 Useful sources for average or “rule of thumb” values include [[BioNumbers]] database [4] and the book [[Cell Biology by the numbers]] [5]. 
 
@@ -182,7 +176,7 @@ For a comparison, the average length of a protein in [[E. coli]] is ca. 300 amin
 
 ... coordination also has to be temporal, especially for prokaryotes, where both messenger RNA transcription and protein translation can happen simultaneously. In [[E. coli]], this is well illustrated by the 3-fold difference between [[elongation rates]] of **mRNAs** and **proteins**, ca. $62 nt s^{−1}$ and $21 aa s^{−1}$ , respectively (BNID 103021, 107868). ([[note-20241106-122633|notes]]) #BioNumber 
 
-> #ISSUE/TODO #Project/RegulationImageMC 
+> #ISSUE/TODO #Project/2024/RegulationImageMC 
 > 
 > #### [55] Principles of cellular resource allocation revealed by condition-dependent proteome profiling
 > 
@@ -214,11 +208,11 @@ Experimentally, the **optimal allocation of proteome space** can be challenged b
 ## 3 The dynamics of metabolic systems
 
 > Economic analogy 3.A
-> Another important difference with a factory assembly line is that unlike an assembly line, metabolism in some cases is ==able to in both directions== along the line. The most well known of these is the bidirectionality of the glycolytic and gluconeogenic pathways. #ISSUE/Typo 
+> Another important difference with a factory assembly line is that unlike an assembly line, metabolism in some cases is ==able to in both directions== along the line. The most well known of these is the bidirectionality of the glycolytic and gluconeogenic pathways. #ISSUE/Typo/Submmited 
 
 > #ToCheck books 
 > [63] G. Gottschalk. Bacterial Metabolism. Springer Series in Microbiology. Springer, New York, 1985.
-> [64] F. C. Neidhardt, J. L. Ingraham, and M. Schaechter. Physiology go the bacterial cell: A molecular approach. Sinauer Associates, 1990. ISBN 0878936084.
+> [64] F. C. Neidhardt, J. L. Ingraham, and M. Schaechter. Physiology of the bacterial cell: A molecular approach. Sinauer Associates, 1990. ISBN 0878936084.
 
 ### 3.1. Conceptualizing cell metabolism as a dynamical system 
 
@@ -230,7 +224,7 @@ Note that the **co-substrates** ’connect’ this pathway to a large number of 
 
 #### 3.1.2. Metabolism - coarse grained views 
 
-This coarse-grained model is widely used ==(==e.g. [64, 65]. #ISSUE/Typo 
+This coarse-grained model is widely used (e.g. [64, 65]).  #ReferenceSource #CoarseGrained
 
 Emphasizing its redox reactions, the metabolic system can be visualized on a reduction potential chart, which is sometimes called a ‘redox ladder’
 
@@ -243,7 +237,7 @@ The ATP+/ADP pair forms an energy carrier, providing driving energy to reactions
 
 Within the highly inter-connected system that is metabolism, specific reaction arrangements seem to recur frequently, so-called “reaction [[motifs]]”.
 
-While automated approaches, involving graph theoretical analysis of metabolic systems represented as networks, highlighted certain metabolic motifs as significant compared to random networks, it was subsequently shown that this result is dependent both on the original network representation used and the randomized networks used for comparison [[@beberArtefactsStatisticalAnalyses2012|[72] ]].
+While automated approaches, involving graph theoretical analysis of metabolic systems represented as networks, highlighted certain metabolic motifs as significant compared to random networks, it was subsequently shown that this result is dependent both on the original network representation used and the randomized networks used for comparison [[@beberArtefactsStatisticalAnalyses2012|[72] ]]. #ToRead/Jose
 
 ### 3.2. Dynamics and regulation of metabolism 
 
@@ -274,10 +268,10 @@ At [[equilibrium]] $\Delta G_r = 0$. Re-arranging equation 3.2 under this condit
 $$\begin{align}
 \tag{3.3}
 \Delta G_r^{◦} =
-RT\ln{ \frac{ c^{\nu_c} \times d^{\nu_d} }{ a^{\nu_a} \times b^{\nu_b} } }
+- RT\ln{ \frac{ c_{eq}^{\nu_c} \times d_{eq}^{\nu_d} }{ a_{eq}^{\nu_a} \times b_{eq}^{\nu_b} } }
 \end{align}$$
 
-where the subscript “eq” denotes the concentrations of each species at the **thermodynamic equilibrium**. The ensuing ratio is known as the [[equilibrium constant]], $K_{eq} = \frac{ c^{\nu_c} \times d^{\nu_d} }{ a^{\nu_a} \times b^{\nu_b} }$ . 
+where the subscript “eq” denotes the concentrations of each species at the **thermodynamic equilibrium**. The ensuing ratio is known as the [[equilibrium constant]], $K_{eq} = \frac{ c_{eq}^{\nu_c} \times d_{eq}^{\nu_d} }{ a_{eq}^{\nu_a} \times b_{eq}^{\nu_b} }$ . 
 
 Re-arranging equation 3.3, we can derive an expression for $K_{eq}$ as follows:
 
@@ -287,7 +281,7 @@ K_{eq} = e^{\frac{-\Delta G_r^{◦}}{RT}}
 \end{align}$$
 ^eq--3-4
 
-Notice that $K_{eq}$ depends only on $\Delta G_r^{◦}$, which is the difference between the **standard Gibbs free energy** of formation of products and substrates involved in a reaction, and which can be calculated from tabulated values (where available). A good source of Keq values of many biochemical reactions is the [[eQuilibrator]] tool (equilibrator.weizmann.ac.il) [80, 81].
+Notice that $K_{eq}$ depends only on $\Delta G_r^{◦}$, which is the difference between the [[standard Gibbs free energy]] of formation of products and substrates involved in a reaction, and which can be calculated from tabulated values (where available). A good source of Keq values of many biochemical reactions is the [[eQuilibrator]] tool (equilibrator.weizmann.ac.il) [80, 81].
 
 This thermodynamic treatment, showing that the equilibrium state of a reaction is captured by a constant relating to the ratios of product and substrate concentrations at that state, is fully supported by seminal experimental works from the second half of 1800s conducted on chemical reactions by [[Peter Waage]] (1833 - 1900) and [[Cato Guldberg]] (1836 - 1902), and their contemporaries. These works were concerned with the equilibrium, or steady-state, of chemical reactions attained under different conditions and when initiated from various starting concentrations of substrates. The key contribution of these studies was the finding that the equilibrium state in a reaction, that is the ratio of the concentration of substrates and products at steady-state, is characterized by a constant [[@myselsTextbookErrorsVII1956|[82] ]]. #History #ToCheck 
 
@@ -361,7 +355,7 @@ This ‘mass action rate model’ is commonly used, especially in the context of
 
 $$\begin{align}
 \tag{3.10}
-v = k_{+}·a^{_νa} · b^{ν_b} − k_{−} · c^{ν_c} · d^{ν_d}
+v = k_{+}·a^{ν_a} · b^{ν_b} − k_{−} · c^{ν_c} · d^{ν_d}
 \end{align}$$
 
 This ratio is known as the reaction’s [[equilibrium constant]] Keq and hence the ‘mass action rate model’ is consistent with the empirical observations of [[Waage]] and [[Guldberg]].
@@ -369,7 +363,7 @@ This ratio is known as the reaction’s [[equilibrium constant]] Keq and hence t
 ... It is important to note here that, given $K_{eq}$ is a constant determined by thermodynamics, the parameters $k_{+}$ and $k_{−}$ cannot be chosen independently, i..e $k_{−} = K_{eq}/k_{+}$ ([[note-20241106-090808|notes]]). #Insight 
 
 ##### Enzymatic reactions 
-The mass action rate discussed above forms also the basis of modeling enzymatic reactions. This approach is justified by considering each enzymatic reaction as a series of ‘elementary steps’, each obeying the mass action rate model.
+The **mass action** rate discussed above forms also the basis of modeling enzymatic reactions. This approach is justified by considering each enzymatic reaction as a series of ‘elementary steps’, each obeying the mass action rate model.
 
 Here, we will cover some of the most common of such models, noticing that the construction of these models follows the same **general principles** of (i) drawing up **elementary reactions**, (ii) writing down **mass action based kinetic rates** for the system, and (iii) simplifying the system with **assumptions** on **kinetic parameters** (see Appendix A.1). #Insight 
 
@@ -521,7 +515,7 @@ The reader can consult additional books (e.g. [[@cornish-bowdenFundamentalsEnzym
 
 ### 11.1 Introduction: the decision to divide illustrated through single-cell E. coli data
 
-...based on growth and other important cellular processes and cues. Clearly this decision to divide or progress the cell cycle must be based on a set ==if== inputs... #ISSUE/Typo 
+...based on growth and other important cellular processes and cues. Clearly this decision to divide or progress the cell cycle must be based on a set ==if== inputs... #ISSUE/Typo/Submmited  
 
 However, the vast majority of these data are based on [[population averages]], out of which it turns out to be impossible to extract any direct and/or causal link between the different processes involved in cell growth that set cell division [402]. #Insight #WellWritten 
 

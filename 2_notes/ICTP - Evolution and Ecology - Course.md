@@ -12,20 +12,26 @@ creation-date: 2024:11:19-08:42:53
 > - source [youtube](https://www.youtube.com/playlist?list=PLp0hSY2uBeP8RHeLW67nLS3Toczm_CDri)
 > - #NOTE We are seeing this one
 
+### Bibliography
+#### Strogatz (non-linear dynamics and chaos)
+- source: [[@strogatzNonlinearDynamicsChaos2015]]
+#### Mathematical Biology vol i by Murray
+- source: [[@murrayMathematicalBiology2002]]
+
 > ***
-> #ISSUE/TODO
+ > #ISSUE/TODO
+>
+> #### Prepare course
 > 
-> #### Prepare to see course
-> 
-> - Link each Lecture with book/Literature 
-> 
-> #Target/Jose #Referee/Brito
-> `2024:11:19-08:46:22`
-
-
+> - Link [[ICTP - Evolution and Ecology - Course]] lectures with chapters of the books
+>
+> #Target/Jose #Target/Brito #Referee/Jose
+> `2024:11:19-09:47:32`
 
 ***
 ### Lecture 1
+
+- bibliography [[@strogatzNonlinearDynamicsChaos2015]] Part I
 
 #### Why dynamic systems are difficult to solve?
 
@@ -64,6 +70,8 @@ Problems arise typically at steps $iii$ and/or $v$.  That is, solving the integr
 
 ### Lecture 2
 
+- bibliography [[@strogatzNonlinearDynamicsChaos2015]] Part I
+
 see [[Why potentials]]
 
 > #NOTE for system with a single dimension, what it is interesting is understanding the number of fix points and its stabilities. 
@@ -101,6 +109,19 @@ This makes sense because a bifurcation is a change in the stability properties o
 
 > #NOTE At the end, the dynamic is a constraint over the derivatives of a function. A first order dynamic means that the constraint is directly over the velocity. A second order dynamic constraint directly the acceleration. The law is no force = no acceleration, but it is not constraining the velocity. 
 > #QUESTION A first order is more restrictive that a second order dynamic?
+
+### Lecture 3
+
+- bibliography [[@strogatzNonlinearDynamicsChaos2015]] Part I
+
+> #NOTE more complex examples of one dimensional dynamical systems.
+
+> #NOTE the goal is to find the bifurcation points and its dependencies on the parameters. 
+> The general procedure is simple:
+> i. find $\dot{u} = f(u)$ zeros (fix points)
+> ii. check the sign of the derivative $df/du$.
+
+### Lecture 4
 
 
 
