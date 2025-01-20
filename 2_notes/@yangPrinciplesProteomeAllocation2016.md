@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: "2024:10:28-09:21:46"
+creation-date: "2024:10:01-11:28:44"
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -22,8 +22,9 @@ ___
 
 ## View
 
-%% Write here %%
+> #NOTE Use a model with additional constraints from proteomic data. 
 
+#OnDesk 
 
 
 
@@ -31,3 +32,4 @@ ___
 ___
 %% Tags  ------------------------------------------------------- %%
 #review/ToRead
+#ModelSource

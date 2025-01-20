@@ -7,15 +7,15 @@ creation-date: 2024:10:01-01:11:13
 
 %% Write here %%
 
-## ReadingList
+### ReadingList
 
 
-### Custom
+#### Custom
 - [x] [[@baldazziResourceAllocationAccounts2023]]
 - [ ] [[@fallahiComparisonMonteCarlo2020]]
 - [ ] [[@lacroixUseAdaptiveLaboratory2015]]
 
-### ChatGPT suggested
+#### ChatGPT suggested
 
 > - I send an abstract and ask for relating papers
 
@@ -81,6 +81,6 @@ creation-date: 2024:10:01-01:11:13
 
 
 %% Tags ------------------------------------------------------- %%
+#review/NewNote
 #ProjectRoot 
-
 ___

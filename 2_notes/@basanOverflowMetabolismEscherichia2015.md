@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: "2024:10:27-01:06:01"
+creation-date: "2024:10:03-06:20:08"
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -8,7 +8,7 @@ creation-date: "2024:10:27-01:06:01"
 
 ### Meta
 - ** citekey **: basanOverflowMetabolismEscherichia2015
-- ** authors **: Markus Basan, Sheng Hui, Hiroyuki Okano, Zhongge Zhang, Yang Shen, James R. Williamson, Terence Hwa
+- ** authors **: Markus Basan, Sheng Hui, Hiroyuki Okano, Zhongge Zhang, Yang Shen, James R. Williamson, [[Terence Hwa]]
 - ** year **: [[2015]]
 - ** doi **: https://doi.org/10.1038/nature15765
 - ** publication **: Nature

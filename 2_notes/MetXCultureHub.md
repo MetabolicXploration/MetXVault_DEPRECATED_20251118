@@ -1,9 +1,6 @@
 ---
-sr-ease: 290
-creation-date: 2023:01:12-11:03:19
-sr-interval: 180
-basic-note-template: v0.2.0
-sr-due: 2024-08-12
+creation-date: "2023:01:12-11:03:19"
+basic-note-template: "v0.2.0"
 ---
 
 %% Note Body --------------------------------------------------- %%

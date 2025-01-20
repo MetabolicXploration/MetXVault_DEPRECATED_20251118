@@ -1,6 +1,6 @@
 ---
 basic-note-template: v0.2.0
-creation-date: 2024:10:14-09:27:23
+creation-date: 2025:01:20-01:18:15
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -8,11 +8,11 @@ creation-date: 2024:10:14-09:27:23
 %% Write here %%
 
 
+> - youtube "[Advanced School on Quantitative Principles in Microbial](https://www.youtube.com/playlist?list=PLRwcSE2bmyByPnSauvAJNKhbR87BbK8mB)"
 
 
 
 ___
 
 %% Tags ------------------------------------------------------- %%
-#People/Following 
-#Vault/MetXVault 
+#review/NewNote

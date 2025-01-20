@@ -22,9 +22,13 @@ Mixed microbial communities exhibit emergent biochemical properties not found in
 ([[note-20241117-074052|Research Ideas]])
 ___
 
+> #TODO 
+> ##### Create Reading List
+
 ## Introduction
 
 Recent studies have characterized the behavior of microbes in co-culture. Such strains may exhibit naturally complementary metabolism (Kim et al, 2008; Rozen et al, 2009; Hillesland and Stahl, 2010), or may be genetically engineered to interact (Shou et al, 2007; Balagadde´ et al, 2008; Gore et al, 2009). Interacting partners share metabolites, such as hydrogen (Hillesland and Stahl, 2010), acetate (Rozen et al, 2009), amino acids (Shou et al, 2007), fixed nitrogen (Kim et al, 2008) or glucose (Kim et al, 2008; Gore et al, 2009). In each case, it has been possible to extrapolate interactive dynamics from the individual characteristics of the participating strains. #ReferenceSource #Co-cultures #EColi #ToCheck 
+
 
 We find that certain pairs of auxotrophs will complement one-another’s growth in minimal media by **cross-feeding** **essential metabolites**, a relationship we refer to as synthetic mutualism in trans (SMIT). #Language
 
@@ -37,13 +41,13 @@ We find that certain pairs of auxotrophs will complement one-another’s growth 
 
 ## Results and discussion
 
-Each deletion strain exhibits robust growth in rich (LB) medium but no measurable growth in minimal (M9) medium ([[note-20241117-071943|notes]]). 
+Each deletion strain exhibits robust growth in rich (LB) medium but no measurable growth in minimal (M9) medium.
 
 Theoretical and empirical precedents have established that metabolic cooperation is enhanced at intermediate cell densities when the concentration of cross-fed metabolites is sufficiently high to improve cooperative fitness (Shou et al, 2007; Bull and Harcombe, 2009). #Insight #Interesting #ReferenceSource 
 
-Cooperating strains in this system may show enhanced proliferation through the mechanism of **invested benefits** ([[@connorBenefitsMutualismConceptual1995|Connor, 1995]]; West et al, 2007). Cooperation on the part of strain A will augment A’s growth only if B cooperates in turn. By increasing B’s abundance, A then cultivates the source of A’s own metabolites and therefore A’s own growth.
+Cooperating strains in this system may show enhanced proliferation through the mechanism of **invested benefits** (Connor, 1995; West et al, 2007). Cooperation on the part of strain A will augment A’s growth only if B cooperates in turn. By increasing B’s abundance, A then cultivates the source of A’s own metabolites and therefore A’s own growth.
 
-Given the relatively low growth rates of the co-cultured strains and the excess availability of nutrients, we do not expect a significant metabolic burden to be associated with the production of shared metabolites ([[note-20241023-020227|notes]]).
+Given the relatively low growth rates of the co-cultured strains and the excess availability of nutrients, we do not expect a significant metabolic burden to be associated with the production of shared metabolites.
 
 A simple dynamic model captures the essential features of this relationship.
 
@@ -57,7 +61,7 @@ Synthetic genetic interactions, the synergistic growth effects of multiple gene 
 
 However, mutants sharing pathways showed consistency in their set of cooperating partners.
 
-We constructed for each strain a **cooperation profile vector** consisting of the measured growth of that strain and that of its partner strain in each of the 46 co-cultures. Correlations of the cooperation profiles therefore indicate the overall similarity of the cooperative behavior between two strains ([[note-20241023-022038|notes]]).
+We constructed for each strain a cooperation profile vector consisting of the measured growth of that strain and that of its partner strain in each of the 46 co-cultures. Correlations of the cooperation profiles therefore indicate the overall similarity of the cooperative behavior between two strains.
 
 Analysis of SMIT interactions is therefore capable of identifying biosynthetic modules (Figure 3A).
 
@@ -110,6 +114,7 @@ ___
 > #### TAGS
 > #review/Read/Jose
 > #DataSource 
-> [[MetXCultureHub]] [[PublicNote]] 
+> [[MetXCultureHub]] 
+> [[PublicNote]] 
 > #Vault/MetXVault
 > #Co-cultures 
