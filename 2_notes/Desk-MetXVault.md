@@ -5,6 +5,32 @@ creation-date: 2024:10:14-06:07:23
 
 %% Note Body --------------------------------------------------- %%
 
+
+
+***
+### 2025-01-19
+
+> ***
+> #ISSUE/ResearchIdea 
+> 
+> #### Parsimonious vs maximum yield
+> 
+> How parsimony is the maximum yield mode?
+> 
+> For a given network in a given condition, you can compute a
+> maximum yield mode, a parsimonious mode, a maximum biomass mode, etc... 
+> How do they relate to each other
+>
+> A nice set of index would be:
+> - $z_{par}$ / $z_{maxY}$
+> - $|v_{par}|$ / $|v_{maxY}|$
+> - $Y_{par}$ / $Y_{maxY}$
+>
+> #Project/2024/RegulationImageMC 
+> 
+> #Target/Jose #Referee/Jose
+> `2025:01:19-07:01:44`
+
 ***
 ### 2024-12-03
 
@@ -153,6 +179,7 @@ creation-date: 2024:10:14-06:07:23
 > #Target/Jose #Target/Jose #Referee/Brito
 > `2024:10:26-08:42:14`
 
+
 ***
 ### 2024-10-18
 
@@ -190,6 +217,11 @@ ___
 > 
 > #Target/Jose #Target/Brito #Referee/Jose
 > `2024:10:15-11:04:21`
+
+> #TODO/DONE/50PC
+> Create a TODO framework with different roles
+> - assigned: The responsable(s) to do
+> - evaluator: The responsable to check when it is done, and. marked as so
 
 
 

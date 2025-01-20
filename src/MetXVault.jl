@@ -2,10 +2,10 @@ module MetXVault
 
     using Reexport
     @reexport using Oba
-    using MassExport
+    import MassExport
 
     #! include .
 
-    @exportall_non_underscore
+    MassExport.@exportall_non_underscore
 
 end # module MetXVault

@@ -8,7 +8,7 @@ creation-date: "2024:11:02-01:50:54"
 
 ### Meta
 - ** citekey **: monkGenomescaleMetabolicReconstructions2013
-- ** authors **: Jonathan M. Monk, Pep Charusanti, Ramy K. Aziz, Joshua A. Lerman, Ned Premyodhin, Jeffrey D. Orth, Adam M. Feist, Bernhard Ø Palsson
+- ** authors **: Jonathan M. Monk, Pep Charusanti, Ramy K. Aziz, Joshua A. Lerman, Ned Premyodhin, Jeffrey D. Orth, Adam M. Feist, [[Bernhard Ø Palsson|Bernhard Palsson]]
 - ** year **: [[2013]]
 - ** doi **: https://doi.org/10.1073/pnas.1307797110
 - ** publication **: Proceedings of the National Academy of Sciences

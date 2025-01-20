@@ -54,7 +54,7 @@ t &= G(x) - G(x_0)
 x(t) &= G^{-1}(t + G(x_0))
 \end{align}$$
 
-Problems arise typically at steps $iii$ and/or $v$.  That is, solving the integral and/or inverting the function $G$ ([[note-20241123-101347|notes]]). 
+Problems arise typically at steps $iii$ and/or $v$.  That is, solving the integral and/or inverting the function $G$ ([[note-20241123-101347|notes]]).  #Insight 
 
 #### Graphical methods
 
@@ -105,7 +105,7 @@ This makes sense because a bifurcation is a change in the stability properties o
 > #NOTE close to **Trans-critical bifurcation** all dynamics can be approximated to $\dot{x} = Rx - x^2$
 > #NOTE close to **Saddle node (fold) bifurcation** all dynamics can be approximated to $\dot{x} = R - x^2$
 
-> #NOTE in one dimensional systems, as those we are studying here, there are no oscillations because the system can not cross any fix point. This happen because $d^2x /dt^2$ is always zero, give that $dx/dt = f(x)$ do not explicitly depends on $t$. That is, there is not [[inertia]].  #ToCheck
+> #NOTE in one dimensional systems, as those we are studying here, there are no oscillations because the system can not cross any fix point. This happen because give that $dx/dt = f(x)$, $d^2x /dt^2 = df(x)/dt * dx/dt$ which is always always zero if $dx/dt$ is zero. That is, there is not [[inertia]] (see [[NOTE - First order-one dimension systems and oscillations]]).  #Proof #Insight 
 
 > #NOTE At the end, the dynamic is a constraint over the derivatives of a function. A first order dynamic means that the constraint is directly over the velocity. A second order dynamic constraint directly the acceleration. The law is no force = no acceleration, but it is not constraining the velocity. 
 > #QUESTION A first order is more restrictive that a second order dynamic?
@@ -120,6 +120,7 @@ This makes sense because a bifurcation is a change in the stability properties o
 > The general procedure is simple:
 > i. find $\dot{u} = f(u)$ zeros (fix points)
 > ii. check the sign of the derivative $df/du$.
+> iii. See behavior as function of parameters  
 
 ### Lecture 4
 
