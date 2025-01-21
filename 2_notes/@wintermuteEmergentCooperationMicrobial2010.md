@@ -41,13 +41,13 @@ We find that certain pairs of auxotrophs will complement one-another’s growth 
 
 ## Results and discussion
 
-Each deletion strain exhibits robust growth in rich (LB) medium but no measurable growth in minimal (M9) medium.
+Each deletion strain exhibits robust growth in rich (LB) medium but no measurable growth in minimal (M9) medium ([[note-20241117-071943|notes]]). 
 
 Theoretical and empirical precedents have established that metabolic cooperation is enhanced at intermediate cell densities when the concentration of cross-fed metabolites is sufficiently high to improve cooperative fitness (Shou et al, 2007; Bull and Harcombe, 2009). #Insight #Interesting #ReferenceSource 
 
-Cooperating strains in this system may show enhanced proliferation through the mechanism of **invested benefits** (Connor, 1995; West et al, 2007). Cooperation on the part of strain A will augment A’s growth only if B cooperates in turn. By increasing B’s abundance, A then cultivates the source of A’s own metabolites and therefore A’s own growth.
+Cooperating strains in this system may show enhanced proliferation through the mechanism of **invested benefits** ([[@connorBenefitsMutualismConceptual1995|Connor, 1995]]; West et al, 2007). Cooperation on the part of strain A will augment A’s growth only if B cooperates in turn. By increasing B’s abundance, A then cultivates the source of A’s own metabolites and therefore A’s own growth.
 
-Given the relatively low growth rates of the co-cultured strains and the excess availability of nutrients, we do not expect a significant metabolic burden to be associated with the production of shared metabolites.
+Given the relatively low growth rates of the co-cultured strains and the excess availability of nutrients, we do not expect a significant metabolic burden to be associated with the production of shared metabolites ([[note-20241023-020227|notes]]).
 
 A simple dynamic model captures the essential features of this relationship.
 
@@ -61,7 +61,7 @@ Synthetic genetic interactions, the synergistic growth effects of multiple gene 
 
 However, mutants sharing pathways showed consistency in their set of cooperating partners.
 
-We constructed for each strain a cooperation profile vector consisting of the measured growth of that strain and that of its partner strain in each of the 46 co-cultures. Correlations of the cooperation profiles therefore indicate the overall similarity of the cooperative behavior between two strains.
+We constructed for each strain a **cooperation profile vector** consisting of the measured growth of that strain and that of its partner strain in each of the 46 co-cultures. Correlations of the cooperation profiles therefore indicate the overall similarity of the cooperative behavior between two strains ([[note-20241023-022038|notes]]).
 
 Analysis of SMIT interactions is therefore capable of identifying biosynthetic modules (Figure 3A).
 

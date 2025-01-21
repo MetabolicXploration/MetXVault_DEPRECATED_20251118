@@ -10,6 +10,7 @@ creation-date: 2024:10:15-10:29:39
 
 ## Resources
 
+> #ISSUE/ToCheck 
 > #### https://github.com/timholy/AdvancedScientificComputing
 > 
 >  [[Tim Holy]] is a very prominent contributor to the Julia project.

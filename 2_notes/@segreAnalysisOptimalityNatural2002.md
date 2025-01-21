@@ -13,9 +13,9 @@ creation-date: "2022:09:26-02:02:40"
 - ** citekey **: segreAnalysisOptimalityNatural2002
 - ** authors **: Daniel Segrè, Dennis Vitkup, George M. Church
 - ** year **: [[2002]]
-- ** doi **: 10.1073/pnas.232349399
+- ** doi **: https://doi.org/10.1073/pnas.232349399
 - ** publication **: Proceedings of the National Academy of Sciences
-- ** Web ** : [Open on line]()
+- ** Web ** : [Open online](https://www.pnas.org/doi/abs/10.1073/pnas.232349399)
 
 
 ### Abstract:

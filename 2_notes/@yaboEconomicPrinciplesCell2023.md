@@ -22,6 +22,12 @@ ___
 %% Write here %%
 
 *** 
+## Preface
+
+
+As we look at cells from the perspective of resource allocation, we will neglect other aspects: we will rarely talk about regulation (e.g. the mechanisms for regulation of gene expression), and even more rarely about gene or protein sequences. Instead, we assume that certain mechanisms are in place in the cell, and that molecules encoded by sequences exist, and either ask why (that is, for what functional reason) they are the way ==the are==, or what the cell can do with them to perform certain tasks. This often means that we assume a mechanistic system with possible “choices” (among flux profiles, expression levels, enzyme parameters, etc), and ask, first, what choices exist (considering all the constraints) and, second, how profitable these choices are for the cell (assuming certain objectives). While we are hardly concerned with genetics, we are certainly interested in how optimality may arise from evolution - to connect the two, we need to think about fitness (how long-term fitness can be defined, and how it gives rise to “momentary” or “local” optimization objectives in a given  part of the cell). #ISSUE/Typo
+
+*** 
 ## 1. The cell as a factory
 
 The chemical equation of metabolism for biological systems is:
@@ -176,7 +182,7 @@ For a comparison, the average length of a protein in [[E. coli]] is ca. 300 amin
 
 ... coordination also has to be temporal, especially for prokaryotes, where both messenger RNA transcription and protein translation can happen simultaneously. In [[E. coli]], this is well illustrated by the 3-fold difference between [[elongation rates]] of **mRNAs** and **proteins**, ca. $62 nt s^{−1}$ and $21 aa s^{−1}$ , respectively (BNID 103021, 107868). ([[note-20241106-122633|notes]]) #BioNumber 
 
-> #ISSUE/TODO #Project/2024/RegulationImageMC 
+> #ISSUE/TODO #Project/RegulationImageMC
 > 
 > #### [55] Principles of cellular resource allocation revealed by condition-dependent proteome profiling
 > 
