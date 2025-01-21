@@ -1,8 +1,6 @@
 # This is the entry point for the obaserver
 # ..- .- - .- .- .- .- .-.-.-.-.-.  ...-- - . .. . .
-let
-    using MetXVault
-end
+using MetXVault
 
 # ..- .- - .- .- .- .- .-.-.-.-.-.  ...-- - . .. . .
 # Run server
@@ -11,20 +9,12 @@ let
     vault_dir = joinpath(@__DIR__)
 
     # init
-    run_init!(vault_dir) do
+    Oba_run_init!(vault_dir) do
         # Place here onsetup code
-        register_callback!("Vault.callbacks.note.onupdate") do
-
-            # replace/expand
-            fn = first(getstate("Callbacks.call.args"))::String
-            str_replace(fn, 
-                "#!cdate" => MetXVault._formatted_timetag(ctime(fn))
-            )
-        end
     end
 
     # loop
-    run_loop!() do
+    Oba_run_loop!() do
         # Place here oniter code
     end
 end

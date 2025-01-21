@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: "2024:10:29-08:21:08"
+creation-date: "2023:10:26-03:09:22"
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -23,7 +23,9 @@ ___
 ## View
 
 %% Write here %%
+It has been shown that the concentrations for most intracellular metabolites are much higher than the KM values of the corresponding enzymatic reactions in E. coli [24]. #ImportantFact
 
+This view is supported by the experimental fact that the increase of the protein production rate for an unnecessary protein linearly decreases the growth rate [5]. #ImportantFact
 
 
 

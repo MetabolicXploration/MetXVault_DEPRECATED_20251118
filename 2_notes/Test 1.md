@@ -1,12 +1,9 @@
 ---
 basic-note-template: v0.2.0
-creation-date: "{{date:YYYY:MM:DD-hh:mm:ss}}"
+creation-date: 2024:11:27-04:51:30
 ---
 
 %% Note Body --------------------------------------------------- %%
-
-%% Write here %%
-
 
 
 

@@ -1,6 +1,7 @@
 ---
 basic-note-template: v0.2.0
-creation-date: "{{date:YYYY:MM:DD-hh:mm:ss}}"
+creation-date: 2025:01:20-12:34:22
+alias: ["Bernhard O. Palsson", "Bernhard Ø. Palsson", "Bernhard Palsson", "Palsson"]
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -13,4 +14,4 @@ creation-date: "{{date:YYYY:MM:DD-hh:mm:ss}}"
 ___
 
 %% Tags ------------------------------------------------------- %%
-#review/NewNote
+#People/Following 
