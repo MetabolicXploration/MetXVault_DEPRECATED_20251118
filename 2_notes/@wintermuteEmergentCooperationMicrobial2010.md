@@ -111,10 +111,9 @@ We find that the metabolites most readily exchanged are those of little value to
 ___
 
 %% Tags  ------------------------------------------------------- %%
-> #### TAGS
-> #review/Read/Jose
-> #DataSource 
-> [[MetXCultureHub]] 
-> [[PublicNote]] 
-> #Vault/MetXVault
-> #Co-cultures 
+#### TAGS
+#review/Read/Jose
+#DataSource 
+#Vault/MetXVault
+#Co-cultures 
+#Project/PaperSON 

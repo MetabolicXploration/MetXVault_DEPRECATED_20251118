@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: #!cdate
+creation-date: 2025:01:20-20:22:45
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -8,7 +8,7 @@ creation-date: #!cdate
 
 ### Meta
 - ** citekey **: covertTranscriptionalRegulationConstraintsbased2002
-- ** authors **: Markus W. Covert, [[Bernhard Ø Palsson]]
+- ** authors **: [[Markus W. Covert]], [[Bernhard Ø Palsson]]
 - ** year **: [[2002]]
 - ** doi **: https://doi.org/10.1074/jbc.M201691200
 - ** publication **: Journal of Biological Chemistry

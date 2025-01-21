@@ -25,6 +25,13 @@ creation-date: 2024:10:01-01:11:13
 - [ ] [[@marmiesseFlexFluxCombiningMetabolic2015]]
 - [ ] [[@daiThermodynamicConstraintsRegulation2018]]
 
+
+***
+### 2025-01-20
+
+- We are looking for some features of the regulatory network that are **metabolically determined** #GoodWording 
+
+
 ***
 ### 2025-01-19
 

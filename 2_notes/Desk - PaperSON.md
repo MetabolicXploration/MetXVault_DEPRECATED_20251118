@@ -22,10 +22,6 @@ creation-date: 2024:11:27-07:02:51
 > `2024:11:27-07:45:01`
 
 
-## Desk
-
-> #TODO see [[MetXCultureHub]]
-
 ## Design
 - Each paper in a folder
 	- This way we can have a README.md per paper
@@ -33,6 +29,9 @@ creation-date: 2024:11:27-07:02:51
 		- Think about store
 			- maybe a vectorized format
 			- or External URLs
+
+
+
 
 
 ___

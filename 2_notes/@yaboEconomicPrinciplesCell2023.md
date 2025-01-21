@@ -9,7 +9,7 @@ creation-date: 2024:10:15-11:32:06
 
 ### Meta
 - ** citekey **: yaboEconomicPrinciplesCell2023
-- ** authors **: Agustín Gabriel Yabo, [[Andrea de Martino]], Andrea Weisse, Andreas Kremling, Anne Goelzer, Benjamin Mauroy, Christophe Goupil, Cyril Karamaoun, [[Daan de Groot]], Dafni Giannari, David Lacoste, [[David Tourigny]], Diana Széliová, Diego A. Oyarzun, [[Elad Noor]], Elena Pascual Garcia, Eric Herbert, Felipe Scott, Frédérique Noël, [[Gabriele Micali]], Hadrien Delattre, Herbert Sauro, Hidde De jong, Hollie J. Hindley, [[Hugo Dourado]], [[Jacopo Grilli]], [[Marcelo Rivas-Astroza]], Marco Cosentino Lagomarsino, Markus Köbi, Mattia Corigliano, Meike Wortel, Ohad Golan, Olivier Rivoire, Orkun S. Soyer, [[Pranas Grigaitis]], Robert West, Steffen Waldherr, [[Wolfram Liebermeister]]
+- ** authors **: Agustín Gabriel Yabo, [[Andrea de Martino]], Andrea Weisse, Andreas Kremling, Anne Goelzer, Benjamin Mauroy, Christophe Goupil, Cyril Karamaoun, [[Daan de Groot]], Dafni Giannari, David Lacoste, [[David Tourigny]], Diana Széliová, Diego A. Oyarzun, [[Elad Noor]], Elena Pascual Garcia, Eric Herbert, Felipe Scott, Frédérique Noël, [[Gabriele Micali]], Hadrien Delattre, Herbert Sauro, Hidde De jong, Hollie J. Hindley, [[Hugo Dourado]], [[Jacopo Grilli]], [[Marcelo Rivas-Astroza]], [[Marco Cosentino|Marco Cosentino Lagomarsino]], Markus Köbi, Mattia Corigliano, Meike Wortel, Ohad Golan, Olivier Rivoire, Orkun S. Soyer, [[Pranas Grigaitis]], Robert West, Steffen Waldherr, [[Wolfram Liebermeister]]
 - ** year **: [[2023]]
 - ** doi **: https://doi.org/10.5281/zenodo.8156386
 - ** publication **: 
