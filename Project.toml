@@ -6,6 +6,7 @@ version = "0.1.0"
 [deps]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 MassExport = "bdad8087-1bf2-41e1-917c-1d9e34c2a82c"
+Oba = "9d8676c7-1c19-4a80-a18a-ca3979d08dcb"
 ObaServers = "25f8d37a-575f-481b-82a1-d70056d35966"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 

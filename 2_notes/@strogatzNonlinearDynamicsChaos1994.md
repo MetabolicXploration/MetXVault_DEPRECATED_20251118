@@ -15,7 +15,7 @@ creation-date: 2024:11:11-12:13:47
 - ** Web ** : [Open on line]()
 
 
-### Abstract:
+> see new edition [[@strogatzNonlinearDynamicsChaos2015]]
 
 
 ___
@@ -24,11 +24,6 @@ ___
 
 %% Write here %%
 
-
-
-
-
 ___
+
 %% Tags  ------------------------------------------------------- %%
-#review/ToRead 
-#Recommended [[Jacopo Grilli]]

@@ -48,22 +48,13 @@ This is the product of the exchange with professors in the school and by mail.
 > Regarding the first question (author/paper/etc suggestions).
 > 
 > -  On quantitative ecology, there are many recent works worth to mention, but my suggestion is to explore the recent works of the following people: [[Alvaro Sanchez]], [[Otto Cordero]], [[Jeff Gore]], [[Martina Dal Bello]], [[Aksihit Goyal]], [[Seppe Kuhen]], [[Martin Ackermann]], [[Sara Mitri]] (my opinion is that the field is still lacking a strong connection between experiments and theory... and I see this as an opportunity, not a critique) 
-> - On quantitative physiology (excluding cell size control): [[Terence Hwa]], [[Jonas Cremer]], [[Marcus Basan]], [[Marco Cosentino Lagomarsino]]
+> - On quantitative physiology (excluding cell size control): [[Terence Hwa]], [[Jonas Cremer]], [[Marcus Basan]], [[Marco Cosentino|Marco Cosentino Lagomarsino]]
 >
 >
 > Regarding the second question (about [[ICTP - Evolution and Ecology - Course]])
 > 
 > do not have readable notes, but for the ecology side I mostly followed the book by [[@strogatzNonlinearDynamicsChaos2015|Strogatz (non-linear dynamics and chaos)]] and [[@murrayMathematicalBiology2002|“Mathematical Biology vol i” by Murray]]... 
 > 
-> > ***
->  > #ISSUE/TODO
-> >
-> > #### Prepare course
-> > 
-> > - Link [[ICTP - Evolution and Ecology - Course]] lectures with chapters of the books
-> >
-> > #Target/Jose #Target/Brito #Referee/Jose
-> > `2024:11:19-09:47:32`
 
 ***
 > ### From [[Gabriele Micali]]

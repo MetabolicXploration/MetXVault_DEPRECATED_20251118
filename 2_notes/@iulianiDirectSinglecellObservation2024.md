@@ -8,7 +8,7 @@
 > #Target/Jose #Referee/Brito
 > `2024:10:15-11:14:44`
 
- **Marco Cosentino Lagomarsino's Papers**
+ **[[Marco Cosentino|Marco Cosentino Lagomarsino]]'s Papers**
  Direct single-cell observation of a key **Escherichia coli** cell-cycle oscillator, 2023
  
  Abstract: Initiation of DNA replication in Escherichia coli is coupled to cell size via the DnaA protein, whose activity is depen-

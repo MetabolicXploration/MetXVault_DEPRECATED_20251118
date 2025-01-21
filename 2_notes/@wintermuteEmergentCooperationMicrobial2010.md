@@ -22,9 +22,13 @@ Mixed microbial communities exhibit emergent biochemical properties not found in
 ([[note-20241117-074052|Research Ideas]])
 ___
 
+> #TODO 
+> ##### Create Reading List
+
 ## Introduction
 
 Recent studies have characterized the behavior of microbes in co-culture. Such strains may exhibit naturally complementary metabolism (Kim et al, 2008; Rozen et al, 2009; Hillesland and Stahl, 2010), or may be genetically engineered to interact (Shou et al, 2007; Balagadde´ et al, 2008; Gore et al, 2009). Interacting partners share metabolites, such as hydrogen (Hillesland and Stahl, 2010), acetate (Rozen et al, 2009), amino acids (Shou et al, 2007), fixed nitrogen (Kim et al, 2008) or glucose (Kim et al, 2008; Gore et al, 2009). In each case, it has been possible to extrapolate interactive dynamics from the individual characteristics of the participating strains. #ReferenceSource #Co-cultures #EColi #ToCheck 
+
 
 We find that certain pairs of auxotrophs will complement one-another’s growth in minimal media by **cross-feeding** **essential metabolites**, a relationship we refer to as synthetic mutualism in trans (SMIT). #Language
 
@@ -107,9 +111,9 @@ We find that the metabolites most readily exchanged are those of little value to
 ___
 
 %% Tags  ------------------------------------------------------- %%
-> #### TAGS
-> #review/Read/Jose
-> #DataSource 
-> [[MetXCultureHub]] [[PublicNote]] 
-> #Vault/MetXVault
-> #Co-cultures 
+#### TAGS
+#review/Read/Jose
+#DataSource 
+#Vault/MetXVault
+#Co-cultures 
+#Project/PaperSON 

@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: "2024:10:28-09:21:46"
+creation-date: "2024:10:01-11:28:44"
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -8,7 +8,7 @@ creation-date: "2024:10:28-09:21:46"
 
 ### Meta
 - ** citekey **: yangPrinciplesProteomeAllocation2016
-- ** authors **: Laurence Yang, James T. Yurkovich, Colton J. Lloyd, Ali Ebrahim, Michael A. Saunders, Bernhard O. Palsson
+- ** authors **: Laurence Yang, James T. Yurkovich, Colton J. Lloyd, Ali Ebrahim, Michael A. Saunders, [[Bernhard Ø Palsson|Bernhard O. Palsson]]
 - ** year **: [[2016]]
 - ** doi **: https://doi.org/10.1038/srep36734
 - ** publication **: Scientific Reports
@@ -22,8 +22,9 @@ ___
 
 ## View
 
-%% Write here %%
+> #NOTE Use a model with additional constraints from proteomic data. 
 
+#OnDesk 
 
 
 
@@ -31,3 +32,4 @@ ___
 ___
 %% Tags  ------------------------------------------------------- %%
 #review/ToRead
+#ModelSource
