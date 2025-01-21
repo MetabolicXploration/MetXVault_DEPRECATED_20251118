@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: #!cdate
+creation-date: 2025:01:21-05:52:24
 ---
 
 %% Note Body --------------------------------------------------- %%
