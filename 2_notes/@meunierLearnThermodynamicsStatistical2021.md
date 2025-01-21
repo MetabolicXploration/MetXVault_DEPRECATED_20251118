@@ -1,7 +1,10 @@
 ---
 citation-template: v0.2.0
-creation-date: 2024:10:29-08:25:47
+creation-date: "2023:06:14-11:59:37"
 ---
+
+
+
 
 %% Note Body --------------------------------------------------- %%
 # Learn Thermodynamics and Statistical Mechanics at your own pace — Thermodynamic and Statistical Mechanics, Self Guided Course documentation
@@ -10,7 +13,6 @@ creation-date: 2024:10:29-08:25:47
 - ** citekey **: meunierLearnThermodynamicsStatistical2021
 - ** authors **: Vincent Meunier
 - ** year **: [[2021]]
-- ** doi **: https://doi.org/
 - ** publication **: 
 - ** Web ** : [Open on line](https://homepages.rpi.edu/~meuniv/TSM/)
 
@@ -18,7 +20,7 @@ creation-date: 2024:10:29-08:25:47
 ### Abstract:
 
 
-___
+---
 
 ## View
 
@@ -34,6 +36,6 @@ ___
 
 
 
-___
+
 %% Tags  ------------------------------------------------------- %%
 #review/ToRead

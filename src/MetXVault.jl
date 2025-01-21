@@ -1,14 +1,11 @@
 module MetXVault
 
     using Reexport
-    @reexport using ObaServers
-    using MassExport
-    using Dates
+    @reexport using Oba
+    import MassExport
 
     #! include .
-    include("str_replace.jl")
-    include("utils.jl")
 
-    @exportall_non_underscore
+    MassExport.@exportall_non_underscore
 
 end # module MetXVault

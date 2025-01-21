@@ -44,7 +44,7 @@ In this section we will briefly discuss how we simulate metabolism and growth of
 > ***
 > #ISSUE/TODO
 > 
-> #### #RegulationImageProject
+> #### #Project/2024/RegulationImageMC 
 > 
 >  This work might be related with the discrete aspect of the regulation image spectrum we are seen at [[RegulationImageMC_2024]]. 
 >  - Cite this work in the proper context
