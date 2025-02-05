@@ -1,6 +1,6 @@
 ---
 basic-note-template: v0.2.0
-creation-date: 2025:01:23-12:30:57
+reation-date: "2023:03:07-21:49:12"
 alias: ["Ecoli", "E. coli"]
 ---
 
