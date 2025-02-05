@@ -64,12 +64,12 @@ This is the product of the exchange with professors in the school and by mail.
 > 
 > [[Christian Kost]]  is one of the leading groups studying auxotrophies and interactions among them. His group was among the first to approach the auxotrophies in an experimental setting to prove the [[Black Queen Hypothesis]]. He is an ecologist, the work is very cool but very quantitative.
 > 
-> This paper [[@meeSyntrophicExchangeSynthetic2014]] was coming out approximately when also [[Christian Kost]] group was starting the **auxotrophy** work ([[2014]]). It has the merit of systematically comparing amino acid cross-feeding in [[E. coli]] mutants but I have a lot of problems in the ways they quantify growth and model the cross-feeding.
+> This paper [[@meeSyntrophicExchangeSynthetic2014]] was coming out approximately when also [[Christian Kost]] group was starting the **auxotrophy** work ([[2014]]). It has the merit of systematically comparing amino acid cross-feeding in [[Escherichia coli|E. coli]] mutants but I have a lot of problems in the ways they quantify growth and model the cross-feeding.
 > 
-> [[William Harcombe]] has developed a synthetic system in which Dmet [[E. coli]] cross-feed with Salmonella in Lactose media and has several publications about this system. This system was used by [[Daniel Segrè]] to develop some Flux Balance ecological models ([[COMETS]] if I am not mistaken was the software they developed).
+> [[William Harcombe]] has developed a synthetic system in which Dmet [[Escherichia coli|E. coli]] cross-feed with Salmonella in Lactose media and has several publications about this system. This system was used by [[Daniel Segrè]] to develop some Flux Balance ecological models ([[COMETS]] if I am not mistaken was the software they developed).
 > 
 > 
-> [[Alma Dal Co]], [[Simon van Vliet]], and [[Daan Kiviet]] (former [[Martin Ackermann]] group) and in parallel [[Ophelia Venturelli]] group developed [[microfluidics]] for imaging cross-feeding [[E. coli]] at the single cell level (publications in 2020): 
+> [[Alma Dal Co]], [[Simon van Vliet]], and [[Daan Kiviet]] (former [[Martin Ackermann]] group) and in parallel [[Ophelia Venturelli]] group developed [[microfluidics]] for imaging cross-feeding [[Escherichia coli|E. coli]] at the single cell level (publications in 2020): 
 > - [[@guptaInvestigatingDynamicsMicrobial2020]]
 > - [[@dalcoShortrangeInteractionsGovern2020]]
 > 

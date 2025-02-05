@@ -8,6 +8,49 @@ basic-note-template: "v0.2.0"
 %% Write here %%
 
 
+#### [[@yeeDefinedMediaOptimization1993]]
+
+#### [[@larssonGrowthMetabolismSaccharomyces1993]]
+
+- #Yeast
+- #Chemostat
+- #BiomassRate
+- #Yield
+
+#### [[@wooMachineLearningIdentifies2024]]
+
+##### Preparation of training dataset for supervised learning
+
+> - #NOTE Has Supplementary Materials
+
+> - #NOTE has a repo https://github.com/sybirg/xai_growth
+> 	- See data folder
+
+Supervised learning requires both input and output data. Growth data were obtained from previous studies (Tong et al, 2020) that measured the cell growth of gene-deletion mutants for 3796 genes of E. coli K-12 BW25113 (Keio collection) (Baba et al, 2006) growing on solid agar containing minimal media with 30 different carbon sources for 24 h. Of the 3796 genes, 1295 were associated with the E. coli K-12 metabolic network model (iML1515) (Monk et al, 2017) and the 24 h endpoint biomasses of the corresponding mutants were used as the output data. In addition to the 1295 genes, the endpoint biomasses associated with the deletions of 127 metabolic genes that were experimentally determined to be essential (Baba et al, 2006) were set to zero. Thus, the output dataset was formulated as a 1422 × 30 matrix with 1422 biomasses of gene-deletion mutants under 30 different carbon sources (Fig. 1A).
+
+
+#### [[@hermsenGrowthRateComposition2015]]
+
+#### [[@vanheerdenContinuousBatchCultures2013]]
+
+> - #Project/PaperSON/Included 
+
+#### [[@reedShrinkingMetabolicSolution2012]]
+
+> - No data directly, but a lot of References
+
+#### [[@moriYieldcostTradeoffGoverns2019]]
+
+#### [[@bernsteinCriticalAssessmentColi2023]]
+
+The E. coli genome-scale metabolic model (GEM) is a gold standard for the simulation of cellular metabolism. Experimental validation of model predictions is essential to pinpoint model uncertainty and ensure continued development of accurate models. Here we assessed the accuracy of the E. coli GEM using published mutant fitness data for the growth of gene knockout mutants across thousands of genes and 25 different carbon sources.
+
+#### [[@begIntracellularCrowdingDefines2007a]]
+
+
+#### [[@basanOverflowMetabolismEscherichia2015]]
+
+
 #### [[@herrgardIntegratedAnalysisRegulatory2006]]
 
 > ### Prediction of growth phenotypes
@@ -33,7 +76,7 @@ A large-scale in silico evaluation of gene deletions in Saccharomyces cerevisiae
 > #Figure 5. Measured amino acid consumption compared to the amino acid requirements in the biomass-based medium experiments. Sampling points, where aspartate and threonine were still present, were used for calculations. Serine (consumption was >2 mmol gDCW1 and is not shown in the figure), cysteine, aspartate, threonine and arginine were consumed more than the presumed need for protein and nucleotide synthesis, while asparagine, alanine and glycine were underutilize
 > ![[Pasted image 20241205084427.png|400]]
 
-> #Table 1. [[E. coli]] [[BW25113]] growth characteristics in the media used in this work In acid-hydrolysed casein, biomass-based and arginine addition medium overall growth and the division into two different phases (exponential growth phase and changing growth phase) is given. Yield calculation is shown in C-mole terms and considers carbon coming from both glucose and amino 
+> #Table 1. [[Escherichia coli|E. coli]] [[BW25113]] growth characteristics in the media used in this work In acid-hydrolysed casein, biomass-based and arginine addition medium overall growth and the division into two different phases (exponential growth phase and changing growth phase) is given. Yield calculation is shown in C-mole terms and considers carbon coming from both glucose and amino 
 > ![[Pasted image 20241205085046.png|600]]
 
 #### https://github.com/yinonbaron/ecoli_composition/blob/master/rna_protein_ratio.ipynb
@@ -68,7 +111,12 @@ Schmidt et al. recently published a proteomics data Resource13 covering ~55% of 
 
 #### [[@yangPrinciplesProteomeAllocation2016]]
 
-![[Pasted image 20241029030628.png|300]]
+> #Figure 
+> ![[Pasted image 20241029030628.png|300]]
+
+> - Use data from:
+> 	- [[@gerosaPseudotransitionAnalysisIdentifies2015]]
+> 	- [[@brLargescale13CfluxAnalysis2011]]
 
 #### [[@kleijnGrowthratedependentNutrientspecificGene2022]]
 
@@ -82,10 +130,13 @@ Schmidt et al. recently published a proteomics data Resource13 covering ~55% of 
 
 #### [[@monkMultiomicsQuantificationSpecies2016]]
 
-![[Pasted image 20240929213628.png|300]]
+> #Figure
+> ![[Pasted image 20240929213628.png|300]]
 
 #### [[@baldazziResourceAllocationAccounts2023]]
-> 
+
+> - #Project/PaperSON/Included 
+
 > #Figure 
 > ![[Pasted image 20240924100052.png|300]]
 
@@ -101,14 +152,6 @@ Schmidt et al. recently published a proteomics data Resource13 covering ~55% of 
 
 > #Figure 
 > ![[Pasted image 20240718120513.png]]
-
-#### [[@brLargescale13CfluxAnalysis2011]]
-
-#Figure ![[Pasted image 20240718115421.png|400]]
-
-> #Figure #Question Why the change in flux? If is galactose is very similar to glucose... It is because the growth rate? 
-
-> ![[Pasted image 20240719131733.png|400]]
 
 #### [[@carnicerMacromolecularElementalComposition2009]]
 
@@ -233,8 +276,18 @@ We examined _E_. _coli_ and _S_. _cerevisiae_ as representative prokaryoti
 #### [[@nakahigashiSystematicPhenomeAnalysis2009]]
 
 #### [[@brLargescale13CfluxAnalysis2011]]
+
+> - supp: Have supplementary materials
+
 > #Figure 1: Absolute metabolic fluxes in E. coli during aerobic growth on glucose (A) or galactose (B). Flux arrows are drawn in proportion to the substrate uptake rates for each condition. The numbers represent absolute flux values ($mmol gCDW^{-1} h^{-1}$). One of two replicate experiments is shown (Supplementary Tables 2 and 3). The presented fluxes are from one of two independent experiments and were obtained by 13C-constrained flux analysis using the software FiatFlux (Zamboni et al, 2005). They were independently confirmed by flux estimation with a whole isotopologue model (Kleijn et al, 2005; van Winden et al, 2005). Generally, the deviation between the two independent experiments was 1–5%, and whole isotopologue sensitivity analysis through addition of Gaussian noise confirmed accurate estimation for all major fluxes (Supplementary Tables 2 and 3).
 > ![[Pasted image 20230312012353.png]]
+
+#Figure ![[Pasted image 20240718115421.png|400]]
+
+> #Figure #Question Why the change in flux? If is galactose is very similar to glucose... It is because the growth rate? 
+
+> ![[Pasted image 20240719131733.png|400]]
+
 
 ### [[S. cerevisiae]]
 

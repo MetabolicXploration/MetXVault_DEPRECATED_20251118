@@ -27,6 +27,34 @@ creation-date: 2024:10:01-01:11:13
 
 
 ***
+### 2025-01-24
+
+> #ISSUE/ResearchIdea 
+> Clusterize downsets by [[Hamming Distance]] and check if it correlates with phenotypic clusters. 
+
+
+
+***
+### 2025-01-23
+
+> #ISSUE/IDEA
+> name:
+> "Studying potential effects of topological bias in metabolic network over regulation"
+
+> #ISSUE/POV
+> - We have the [[Gene Protein Reaction]] relationships for 'each' reaction
+> 	- see [[@monkGenomescaleMetabolicNetwork2022]]
+> - Each reaction will have a multiplier associated with how many gene combinations predeceases its on\off states
+> - For example:
+> 	- if a reaction GPR is just $A$, both its 'on' and 'off' multiplier is $1$.
+> 	- if a reaction GPR is $A \wedge B$, its 'on' multiplier is $1$ ($A=1 \wedge B=1$) and 'off' multiplier is $3$ ($A \neq 1 \vee B \neq 1$).
+> - This is following the same idea of 'measuring' the **physiological bias** of the network topology.
+> - Now, we are including a first layer of regulation topology.
+> 	- What will happen?
+> 		- How the metabolic network [[topological bias]] will interact with the regulation bias.
+> 
+
+***
 ### 2025-01-20
 
 - We are looking for some features of the regulatory network that are **metabolically determined** #GoodWording 

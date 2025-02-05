@@ -26,8 +26,21 @@ ___
 
 
 
+## 
+
+The finding that the metabolic flux distribution is relatively unaffected by transcriptional regulator knockouts is interesting but not novel. Similar results were shown in GCN4 KO yeast cells by Moxley et al in a recent PNAS paper. Which of the 81 transcription factors were known to regulate central metabolic enzymes? Were there many cases in which deletion of such a transcription factor did not significantly change the flux through the regulated reaction? Or were there many instances in which these knockouts affected absolute fluxes as expected without changing the relative flux distribution? Do you expect that the rigidity of the metabolic flux distribution is a result of redundancy in the transcriptional regulatory network? ([[note-20250129-012724|notes]]) #Insight 
+
+> ***
+> #ISSUE/TODO
+> 
+> ####  Create a yield histogram
+> 
+> 
+> #Target/Jose #Referee/Jose
+> `2025:01:30-09:18:52`
 
 
 ___
 %% Tags  ------------------------------------------------------- %%
 #review/ToRead
+#Project/PaperSON/Included

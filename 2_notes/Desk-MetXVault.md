@@ -6,6 +6,85 @@ creation-date: 2024:10:14-06:07:23
 %% Note Body --------------------------------------------------- %%
 
 
+***
+### 2025-02-03
+
+#### TODO
+
+#TODO Answer this question 
+https://stackoverflow.com/questions/77029618/when-should-i-use-type-annotations-for-variables-arguments-and-return-types-in
+
+```julia
+DATA = Dict{String, Any}()
+DATA["vec"] = rand(100)
+DATA["mult"] = rand()
+
+function compute_v1()
+    sum(DATA["vec"])
+end
+
+function compute_v2()
+    sum(DATA["vec"] .* DATA["mult"])
+end
+
+function compute_v3()
+    sum(DATA["vec"] .* DATA["mult"]::Float64)
+end
+
+function compute_v4()
+    _sum = 0.0
+    _vec = DATA["vec"]
+    _mult = DATA["mult"]
+    for v in _vec
+        _sum += v * _mult
+    end
+end
+
+function compute_v5()
+    _sum = 0.0
+    _vec = DATA["vec"]::Vector{Float64}
+    _mult = DATA["mult"]::Float64
+    for v in _vec
+        _sum += v * _mult
+    end
+end
+
+@time compute_v1()
+@time compute_v1()
+@time compute_v1()
+
+@time compute_v2()
+@time compute_v2()
+@time compute_v2()
+
+@time compute_v3()
+@time compute_v3()
+@time compute_v3()
+
+@time compute_v4()
+@time compute_v4()
+@time compute_v4()
+
+@time compute_v5()
+@time compute_v5()
+@time compute_v5()
+```
+
+
+***
+### 2025-01-23
+
+> ***
+> #ISSUE/TODO
+> 
+> #### Title
+> 
+>  %% Add extra data here  %%
+> 
+> 
+> #Target/JohnDoe #Referee/JohnDoe
+> `2025:01:23-11:49:57`
+
 
 ***
 ### 2025-01-19
@@ -59,7 +138,7 @@ creation-date: 2024:10:14-06:07:23
 > #### Measure Yield in CSCReactor
 > 
 >  The CSCReactor can be use to compute yield in several conditions. 
->  - This data can be use to valid the [[RegulationImageMC_2024]] models.
+>  - This data can be use to validate the [[RegulationImageMC_2024]] models.
 > 
 > #Target/Jose #Referee/Jose
 > `2024:11:19-12:16:18`
@@ -91,6 +170,7 @@ creation-date: 2024:10:14-06:07:23
 > - In a chemostat we can plot the steady state $D$ vs $s_{glc}$. That is, growth rate vs remaining glucose
 > - How this plot relate with batch $\mu$ vs $c_{glc}$ for the exponential phase?
 > - If it is not the same we are definitely in a different regulatory scenario.
+> - #ResearchIdea/CompareBatchChemostatGrowth
 
 > ***
 > #ResearchIdea 

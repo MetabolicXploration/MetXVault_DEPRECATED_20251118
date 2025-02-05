@@ -1,17 +1,20 @@
 ---
 basic-note-template: v0.2.0
-creation-date: "{{date:YYYY:MM:DD-hh:mm:ss}}"
+creation-date: 2025:01:23-12:29:29
 ---
 
 %% Note Body --------------------------------------------------- %%
 
 %% Write here %%
 
+### [[@monkGenomescaleMetabolicNetwork2022]]
+- [[Escherichia coli|E. coli]]
 
+
+### [[@monkIML1515KnowledgebaseThat2017]]
 
 
 ___
 
 %% Tags ------------------------------------------------------- %%
-#review/NewNote
-#Vault/MetXVault 
+#Project/GEMSources

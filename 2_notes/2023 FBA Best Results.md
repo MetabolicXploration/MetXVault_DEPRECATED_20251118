@@ -11,12 +11,13 @@ This is a collection of papers that I have found to be the best modeling results
 ## Desk
 
 > - #TODO Check [[@shlomiGenomescaleComputationalStudy2007#^20250120-023546]]
-
+> - #TODO Find [[Bernhard Ø Palsson|Bernhard Palsson]] conferences (youtube) 
 
 ## Escherichia coli
 
 - [[@varmaStoichiometricFluxBalance1994]]
 - [[@varmaStoichiometricInterpretationEscherichia1993]]
+- #ToCheck [[@obrienGenomescaleModelsMetabolism2013]]
 
 ## B. subtilis
 

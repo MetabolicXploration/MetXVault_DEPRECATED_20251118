@@ -1,6 +1,7 @@
 ---
 basic-note-template: v0.2.0
-creation-date: "{{date:YYYY:MM:DD-hh:mm:ss}}"
+creation-date: 2025:01:23-12:30:57
+alias: ["Ecoli", "E. coli"]
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -9,9 +10,7 @@ creation-date: "{{date:YYYY:MM:DD-hh:mm:ss}}"
 
 
 
-
 ___
 
 %% Tags ------------------------------------------------------- %%
 #review/NewNote
-#Vault/MetXVault 
