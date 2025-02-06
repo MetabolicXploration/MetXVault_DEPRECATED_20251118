@@ -8,7 +8,7 @@ creation-date: "2024:10:03-06:12:28"
 
 ### Meta
 - ** citekey **: moriYieldcostTradeoffGoverns2019
-- ** authors **: Matteo Mori, Enzo Marinari, [[Andrea De Martino]]
+- ** authors **: [[Matteo Mori]], Enzo Marinari, [[Andrea De Martino]]
 - ** year **: [[2019]]
 - ** doi **: https://doi.org/10.1038/s41540-019-0093-4
 - ** publication **: npj Systems Biology and Applications

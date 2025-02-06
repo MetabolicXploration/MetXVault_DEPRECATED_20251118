@@ -9,7 +9,7 @@ creation-date: 2024:10:14-09:27:11
 
 ### Meta
 - ** citekey **: moriConstrainedAllocationFlux2016
-- ** authors **: Matteo Mori, [[Terence Hwa]], Olivier C. Martin, Andrea De Martino, Enzo Marinari
+- ** authors **: [[Matteo Mori]], [[Terence Hwa]], Olivier C. Martin, [[Andrea De Martino,]] Enzo Marinari
 - ** year **: [[2016]]
 - ** doi **: https://doi.org/10.1371/journal.pcbi.1004913
 - ** publication **: PLoS computational biology
@@ -32,11 +32,17 @@ The coupling between the physiology of cell growth and cellular composition has 
 
 Phenomenological studies of bacterial growth physiology suggest that the bacterial proteome is organized into “sectors” whose mass fractions adjust linearly with the growth rate in response to specific environmental and intracellular changes, including carbon limitation, anabolic limitation and translational inhibition [5, 6, 8]. 
 
-**The ribosomal sector**. ϕR is experimentally found to be linearly dependent on the growth rate λ when growth is [[nutrient-limited]] [3–5]
+**The ribosomal sector**. ϕR is experimentally found to be linearly dependent on the growth rate λ when growth is [[nutrient-limited]] [3–5] #Project/PaperSON 
 
 **The carbon catabolic sector**. We focus on balanced growth in a minimal medium containing a single carbon source (e.g. glucose). Based on experimental findings [6, 8], we assume that ϕC depends linearly on the carbon intake flux vC
 
 The above analysis suggests that wC can be conveniently used to control the carbon influx: it takes on a sugar-specific value wC,0 at saturating sugar concentrations (i.e. for [g]KM,g) and the effect of reducing extracellular sugar levels can be modeled by simply increasing its value. Hence, as a proxy of varying the abundance of the carbon source, we will simply dial wC.
+
+
+> #Figure Comparison between CAFBA predictions and experimental data. (A) Acetate secretion rates for E. coli cells grown in minimal glucose media, with data obtained from different datasets \[[[@basanOverflowMetabolismEscherichia2015|29]], [[holmsFluxAnalysisControl1996|48]], [[@nanchenNonlinearDependencyIntracellular2006|49]],  [[@valgepeaSystemsBiologyApproach2010|50]], [[@vemuriOverflowMetabolismEscherichia2006|51]] \]. Full dots represent average CAFBA solutions (heterogeneous case) obtained with different degrees of carbon limitation (different wC, averages over 500 solutions). Results were obtained with two different values for the average Esector weight, namely hwi = 8.8 × 10−4 gh/mmol (red) and hwi = 1.55 × 10−3 gh/mmol (blue). These choices reproduce the acetate secretion rates of NCM3722 and ML308 (open circles) and MG1655 (open triangles) strains, respectively. (B) Same as panel (A), but for the growth yield. CAFBA predictions (red and blue filled circles) are obtained by averaging the ratio of the growth rate to the glucose intake flux, divided by the molecular weight of glucose μglc = 0.18 g/mmol. Data points from \[[[@basanOverflowMetabolismEscherichia2015|29]]\] have been converted using 1 $mM/OD600/h$ = 2 $mmol/gDW h$. x- and y-error bars for the average CAFBA solutions are too small to be visible. #PaperSON #BioNumber #PaperSON #UnitConvertion #Yield
+> ![[Pasted image 20250205174003.png]]
+
+
 
 
 ___
@@ -46,3 +52,4 @@ ___
 #Vault/MetXVault 
 #CAFBA
 #FBA
+#ToStudy

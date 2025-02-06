@@ -8,7 +8,7 @@ creation-date: 2025:02:04-19:57:51
 
 ### Meta
 - ** citekey **: nguyenDistinctGrowthPhysiology2021
-- ** authors **: Jen Nguyen, Vicente Fernandez, Sammy Pontrelli, Uwe Sauer, Martin Ackermann, Roman Stocker
+- ** authors **: Jen Nguyen, Vicente Fernandez, Sammy Pontrelli, [[Uwe Sauer]], [[Martin Ackermann]], Roman Stocker
 - ** year **: [[2021]]
 - ** doi **: https://doi.org/10.1038/s41467-021-23439-8
 - ** publication **: Nature Communications

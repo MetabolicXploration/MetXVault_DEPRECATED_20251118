@@ -8,7 +8,7 @@ creation-date: "2024:10:01-12:33:32"
 
 ### Meta
 - ** citekey **: gerosaPseudotransitionAnalysisIdentifies2015
-- ** authors **: Luca Gerosa, Bart R. B. Haverkorn van Rijsewijk, Dimitris Christodoulou, Karl Kochanowski, Thomas S. B. Schmidt, [[Elad Noor]], Uwe Sauer
+- ** authors **: Luca Gerosa, Bart R. B. Haverkorn van Rijsewijk, Dimitris Christodoulou, Karl Kochanowski, Thomas S. B. Schmidt, [[Elad Noor]], [[Uwe Sauer]]
 - ** year **: [[2015]]
 - ** doi **: https://doi.org/10.1016/j.cels.2015.09.008
 - ** publication **: Cell Systems

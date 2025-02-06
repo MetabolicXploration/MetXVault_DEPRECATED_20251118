@@ -7,11 +7,36 @@ creation-date: 2024:10:14-06:07:23
 
 
 ***
+### 2025-02-05
+
+#DOING File the doctoral thesis 'Growth Kinetics of Escherichia coli: Effect of Temperature, Mixed Substrate Utilization and Adaptation to Carbon-Limited Growth'.
+
+> ***
+> #ISSUE/TODO
+> 
+> #### File references
+> 
+>  - # Dynamics of chemostat in which one microbial population grows on multiple complementary nutrients [S Pavlou]
+> - # Dynamics of a chemostat in which one microbial population feeds on another [S Pavlou] 
+> - # On the coexistence of competing microbial species in a chemostat under cycling [S Pavlou]
+> - # Bacterial physiology, regulation and mutational adaptation in a chemostat environment [Thomas Ferenci]
+> - # Continuous culture of Escherichia coli, under selective pressure by a novel antimicrobial complex, does not result in development of resistance [Lilit Tonoyan] 
+> 	- This one for the work on microbiology
+> 		- #TODO Make Reading List
+> - Gene regulation in continuous cultures: a unified theory for bacteria and yeasts [Jason T Noel]
+> - Predicting stability of mixed microbial cultures from single species experiments: 1. Phenomenological model. Pilyugin SS, Reeves GT, [Narang A].
+> - # Bacterial choices for the consumption of multiple resources for current and future needs [A L Koch]
+> 
+> #Target/JohnDoe #Referee/JohnDoe
+> `2025:02:05-06:34:02`
+
+
+***
 ### 2025-02-03
 
 #### TODO
 
-#TODO Answer this question 
+#TODO Answer this question (move to `notebook`)
 https://stackoverflow.com/questions/77029618/when-should-i-use-type-annotations-for-variables-arguments-and-return-types-in
 
 ```julia

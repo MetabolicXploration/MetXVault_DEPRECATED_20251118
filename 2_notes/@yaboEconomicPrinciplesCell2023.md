@@ -186,7 +186,8 @@ For a comparison, the average length of a protein in [[Escherichia coli|E. coli]
 > 
 > #### [55] Principles of cellular resource allocation revealed by condition-dependent proteome profiling
 > 
->  Check if this has data for the Regulation Image project
+>  Check if this has data for the Regulation Image project.
+>  [[@metzl-razPrinciplesCellularResource2017]]
 >  
 > #Target/Jose #Referee/Brito
 > `2024:11:06-12:43:49`

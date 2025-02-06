@@ -8,7 +8,7 @@ creation-date: 2025:01:20-21:08:16
 
 ### Meta
 - ** citekey **: obrienQuantificationClassificationColi2016
-- ** authors **: Edward J. O’Brien, Jose Utrilla, Bernhard O. Palsson
+- ** authors **: Edward J. O’Brien, Jose Utrilla, [[Bernhard Ø Palsson]]
 - ** year **: [[2016]]
 - ** doi **: https://doi.org/10.1371/journal.pcbi.1004998
 - ** publication **: PLOS Computational Biology

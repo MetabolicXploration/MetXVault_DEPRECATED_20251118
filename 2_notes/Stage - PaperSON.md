@@ -7,6 +7,54 @@ basic-note-template: "v0.2.0"
 
 %% Write here %%
 
+#### [[@zengBridgingSubstrateIntake2020]]
+
+#### [[@pramanikEffectOfEscherichiaColi1998]]
+
+#### [[@valgepeaSystemsBiologyApproach2010]]
+
+#### [[@liEscherichiaColiTranslation2018]]
+
+> Here we investigate protein production strategies in continuous cultures limited for carbon, nitrogen and phosphorus, which differentially impact substrate supply for protein versus nucleic acid metabolism.
+
+#### [[@koremkohanimBacterialGrowthLaw2018]]
+
+> We test this using chemostat and batch culture experiments, as well as previous data from several species.
+
+#### [[@hermsenGrowthRateComposition2015]]
+
+#### [[@wangGrowthStrategyMicrobes2019]]
+
+#### [[@changGeneExpressionProfiling2002]]
+
+#### [[@brenGlucoseBecomesOne2016]]
+
+#### [[@zampieriRegulatoryMechanismsUnderlying2019]]
+
+#### [[@karlsenStudyDiauxicGrowth2023]]
+
+#### [[@bettenbrockQuantitativeApproachCatabolite2006]]
+
+#### [[@perrinDiauxieCoutilizationCarbon2020]]
+
+#### [[@shehataEffectNutrientConcentration1971]]
+
+#### [[@kumarMetabolicRegulationEscherichia2010]]
+
+#### [[@ihssenGlobalPhysiologicalAnalysis2005]]
+
+#### [[@guptaGlobalProteinTurnover2024]]
+
+> - protein turnover
+> - EColi
+> - Nutrient Limitation
+
+
+#### [[@zinnDualNutrientLimited2004]]
+
+#### [[@egliMultiplenutrientlimitedGrowthMicroorganisms1991]]
+
+#### [[@egliConceptMultiplenutrientlimitedGrowth2003]]
 
 #### [[@yeeDefinedMediaOptimization1993]]
 
@@ -45,7 +93,7 @@ Supervised learning requires both input and output data. Growth data were obtain
 
 The E. coli genome-scale metabolic model (GEM) is a gold standard for the simulation of cellular metabolism. Experimental validation of model predictions is essential to pinpoint model uncertainty and ensure continued development of accurate models. Here we assessed the accuracy of the E. coli GEM using published mutant fitness data for the growth of gene knockout mutants across thousands of genes and 25 different carbon sources.
 
-#### [[@begIntracellularCrowdingDefines2007a]]
+#### [[@begIntracellularCrowdingDefines2007]]
 
 
 #### [[@basanOverflowMetabolismEscherichia2015]]

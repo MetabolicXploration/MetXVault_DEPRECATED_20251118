@@ -8,7 +8,7 @@ creation-date: "2024:10:27-01:07:34"
 
 ### Meta
 - ** citekey **: huiQuantitativeProteomicAnalysis2015
-- ** authors **: Sheng Hui, Josh M. Silverman, Stephen S. Chen, David W. Erickson, Markus Basan, Jilong Wang, Terence Hwa, James R. Williamson
+- ** authors **: Sheng Hui, Josh M. Silverman, Stephen S. Chen, [[David W. Erickson]], [[Markus Basan]], Jilong Wang, [[Terence Hwa]], [[James R. Williamson]]
 - ** year **: [[2015]]
 - ** doi **: https://doi.org/10.15252/msb.20145697
 - ** publication **: Molecular Systems Biology
