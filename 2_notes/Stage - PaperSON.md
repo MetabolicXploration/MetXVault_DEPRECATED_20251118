@@ -93,7 +93,7 @@ Supervised learning requires both input and output data. Growth data were obtain
 
 The E. coli genome-scale metabolic model (GEM) is a gold standard for the simulation of cellular metabolism. Experimental validation of model predictions is essential to pinpoint model uncertainty and ensure continued development of accurate models. Here we assessed the accuracy of the E. coli GEM using published mutant fitness data for the growth of gene knockout mutants across thousands of genes and 25 different carbon sources.
 
-#### [[@begIntracellularCrowdingDefines2007]]
+#### [[@begIntracellularCrowdingDefines2007a]]
 
 
 #### [[@basanOverflowMetabolismEscherichia2015]]

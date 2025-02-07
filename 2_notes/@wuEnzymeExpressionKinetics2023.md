@@ -8,7 +8,7 @@ creation-date: 2025:01:21-05:52:24
 
 ### Meta
 - ** citekey **: wuEnzymeExpressionKinetics2023
-- ** authors **: Chenhao Wu, [[Matteo Mori]], Miriam Abele, Amir Banaei-Esfahani, Zhongge Zhang, Hiroyuki Okano, Ruedi Aebersold, Christina Ludwig, [[Terence Hwa]]
+- ** authors **: Chenhao Wu, Matteo Mori, Miriam Abele, Amir Banaei-Esfahani, Zhongge Zhang, Hiroyuki Okano, Ruedi Aebersold, Christina Ludwig, [[Terence Hwa]]
 - ** year **: [[2023]]
 - ** doi **: https://doi.org/10.1038/s41564-022-01310-w
 - ** publication **: Nature Microbiology

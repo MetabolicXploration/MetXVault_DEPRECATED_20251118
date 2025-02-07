@@ -405,8 +405,37 @@ Give me 20 papers candidates please.
 	- Culture is performed till [[washout]]
 
 
+### [[@reilingMassCultureEscherichia1985]]
 
-#### [[@bauerMaximalExponentialGrowth1974]]
+#ResearchIdea/CompareBatchChemostatGrowth
+
+- **Priority**: 
+- **Culture type**: 
+	- Chemostat
+- **Strain**: 
+	- [[Escherichia coli]] B/r
+	- Batch
+- **Medium**:
+	- minimal and complex media
+- **Physiological Data**:
+	- nutrient yield
+	- residual glucose concentration
+	- Acetate production
+	- Biomass
+	- acetate yield referring to glucose
+	- dilution rate
+	- specific oxygen consumption
+	- specific carbon dioxide production rate
+- **Nutrient Limitation(s)**:
+	- carbon-limited
+- **Data location**:
+	- Main text
+	- Figures/Tables
+- **References of interest**
+- **Notes**:
+	- Culture is performed till [[washout]]
+
+### [[@bauerMaximalExponentialGrowth1974]]
 
 #ResearchIdea/CompareBatchChemostatGrowth
 
@@ -428,6 +457,34 @@ Give me 20 papers candidates please.
 - **References of interest**
 - **Notes**:
 
+#### [[@seniorRegulationNitrogenMetabolism1975]]
+
+> - #TODO
+> - replicate figures `MetXTutorials/scripts/dual_prices.jl`
+> 	- Very interesting _glc_glu_
+> - see `MetXOptim.flux_dual_prices`
+
+- **Priority**: 5
+- **Culture type**: 
+	- Continuous culture
+- **Strain**: 
+	- E. coli W
+- **Medium**:
+	- Simple
+- **Physiological Data**:
+	- Steady-state dry weight #BioNumber
+	- NH4 Yield
+	- more
+- **Nutrient Limitation(s)**:
+	- Glutamate-nitrogen-limited
+	- Proline-nitrogen-limited
+	- Ammonia-nitrogen-limited cultures of E. coli.
+- **Data location**:
+	- Main text
+	- Figure/Tables
+	- _MetXCultureHub/src/cultures/seniorRegulationNitrogenMetabolism1975.jl_
+- **References of interest**
+- **Notes**:
 
 
 
