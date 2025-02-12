@@ -7,6 +7,10 @@ basic-note-template: "v0.2.0"
 
 %% Write here %%
 
+#### [[@hanlyDynamicFluxBalance2011]]
+
+#### [[@alterProteomeRegulationPatterns2021]]
+
 #### [[@zengBridgingSubstrateIntake2020]]
 
 #### [[@pramanikEffectOfEscherichiaColi1998]]

@@ -11,6 +11,7 @@ creation-date: 2024:10:01-01:11:13
 
 
 #### Custom
+- [ ] [[@wortelMetabolicEnzymeCost2018]]
 - [x] [[@baldazziResourceAllocationAccounts2023]]
 - [ ] [[@fallahiComparisonMonteCarlo2020]]
 - [ ] [[@lacroixUseAdaptiveLaboratory2015]]

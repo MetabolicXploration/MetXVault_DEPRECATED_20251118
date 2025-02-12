@@ -12,8 +12,6 @@ creation-date: 2025:02:05-23:18:25
 - ** year **: [[2015]]
 - ** doi **: https://doi.org/10.1089/bio.2015.0032
 - ** publication **: Biopreservation and Biobanking
-- ** Web ** : [Open online](https://asu.pure.elsevier.com/en/publications/a-novel-approach-to-high-quality-postmortem-tissue-procurement-th)
-
 
 ### Abstract:
 

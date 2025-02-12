@@ -4,8 +4,6 @@ creation-date: "2023:03:07-21:48:16"
 ---
 
 
-
-
 %% Note Body --------------------------------------------------- %%
 # Intracellular crowding defines the mode and sequence of substrate uptake by Escherichia coli and constrains its metabolic activity
 

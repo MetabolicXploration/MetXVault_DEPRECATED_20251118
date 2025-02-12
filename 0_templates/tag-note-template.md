@@ -1,0 +1,1 @@
+[[note-{{date:YYYYMMDD-hhmmss}}|^]]

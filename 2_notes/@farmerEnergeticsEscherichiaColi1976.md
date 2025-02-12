@@ -24,8 +24,38 @@ ___
 
 %% Write here %%
 
+- **Priority**: 5
+- **Culture type**: 
+	- continuous culture
+- **Strain**: 
+- **Medium**:
+- **Physiological Data**:
+	- Yield (biomass, oxygen) under different carbon sources
+- **Nutrient Limitation(s)**:
+	- carbon
+	- oxygen
+- **Data quantity**:
+	- Large
+- **Data location**:
+	- Plots
+	- Tables
+- **Relation with your research**
+- **References of interest**
+	- [[@harrisonTransientResponsesFacultatively1971]]
+	- [[@stouthamerUtilizationEnergyGrowth1973]]
+- **Notes**:
 
 
+## Introduction 
+
+Molar growth yields on oxygen or carbon substrate reflect the efficiency with which aerobic bacteria conserve energy via substrate-level and oxidative phosphorylation, and subsequently utilise this energy for growth. Yields are most easily expressed in terms of the consumption of gaseous oxygen rather than of the carbon source since the former, unlike the latter, is rarely incorporated into cell material and is used solely as a terminal oxidant for respiration. #Insight 
+
+In practice, it is possible to determine $Y_{O_2}^{max}$ graphically by plotting the respiratory activity in situ of a continuous culture as a function of dilution rate  \[[[@harrisonTransientResponsesFacultatively1971|2]] [[@stouthamerUtilizationEnergyGrowth1973|3]] [[@nagaiReassessmentMaintenanceEnergy1972|4]] 5 6 7\].
+
+
+The molar growth yield with respect to ATP equivalents $Y_{ATP}^{max}$, reflects the efficiency with which cells utilise their conserved energy and can be calculated from $Y_{O_2}^{max}$ provided that the overall efficiency of aerobic energy conservation is accurately known.
+
+Measurement of the latter has proved difficult and the results have not been entirely consistent [8 - 10]
 
 
 ___

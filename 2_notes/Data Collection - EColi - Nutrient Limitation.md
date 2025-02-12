@@ -17,7 +17,7 @@ creation-date: 2025:02:04-03:42:27
 ## Target Data
 
 - Exchange pattern
-	- If the medium is complex, we can compare the experimental exchange pattern with the ensemble average. 
+	- If the medium is complex, we can compare the experimental exchange pattern with the ensemble. 
 - Transcriptomic
 	- We can compare the ensemble downvectors with transcriptomic data
 		- corr of off genes
@@ -27,9 +27,11 @@ creation-date: 2025:02:04-03:42:27
 	- Yield is a magnitude that is directly linked to the stoichiometry and on/off regulation. It is not that important the specific culture conditions. 5 mM of glc and 4 mM of glucose might lead to the same yield. 
 	- The same for shadow prices in general
 	- For a given yield there is a metabolic configuration.
+	- We can fix a yield (select an ensemble) and compare the others.
 
 
 ## Dev
+
 
 ### Prompt
 
@@ -48,12 +50,128 @@ Give me 20 papers candidates please.
 ## Papers
 
 
+
+
 ### Priority 5
 
+#### [[@moriQuantifyingBenefitProteome2017]]
 
-#### [[@joyStudyGrowthEscherichia2010]]
+#### [[@blankLargescale13CfluxAnalysis2005]]
 
-> - **Priority**: 3
+#### [[@moriYieldcostTradeoffGoverns2019]]
+
+#### [[@nakahigashiSystematicPhenomeAnalysis2009]]
+
+#### [[@obrienGenomescaleModelsMetabolism2013]]
+
+#### [[@mahadevanDynamicFluxBalance2002]]
+
+#### [[@alterProteomeRegulationPatterns2021]]
+
+#### [[@kimGrowthColiFormate2020]]
+
+#### [[@payneEnergyYieldsGrowth1970]]
+
+- **Priority**:  5
+- #yield
+
+#### [[@bauerMaximalExponentialGrowth1974]]
+
+- **Priority**:  5
+- **Culture type**: 
+	- bench-scale fermentor
+- **Strain**: 
+	- E. coli
+- **Medium**:
+- **Physiological Data**:
+	- #yield oxigen
+		- mmol O_2 consumed / g dry cells
+	- #yield glucose
+		- g cells produced / g glucose produced
+	- #yield of ammonia
+- **Nutrient Limitation(s)**:
+	- Oxygen Limitation
+- **Data quantity**:
+	- M
+- **Data location**:
+- **Relation with your research**
+	- #ResearchIdea/CompareBatchChemostatGrowth
+- **References of interest**
+- **Notes**:
+
+#### [[@begIntracellularCrowdingDefines2007]]
+
+- **Priority**: 5
+- **Culture type**: 
+- **Strain**: 
+- **Medium**:
+	- single nutrient
+	- mixed nutrient
+- **Physiological Data**:
+	- #yield (computable from plot)
+	- Biomass
+	- Transcriptomic
+- **Nutrient Limitation(s)**:
+- **Data quantity**:
+- **Data location**:
+- **Relation with your research**
+- **References of interest**
+- **Notes**:
+
+
+#### [[@kumarMetabolicRegulationEscherichia2010]]
+
+- **Priority**: 5
+- **Culture type**: 
+	- Continuos
+- **Strain**: 
+	- Escherichia coli
+	- mutants
+- **Medium**:
+- **Physiological Data**:
+	- biomass, glucose and acetate concentration
+	- cell #Yield (g/g)
+	- specific rates of glucose consumption, acetate and CO2 production (mmol/g DCW. h).
+- **Nutrient Limitation(s)**:
+	- Carbon
+	- Nitrogen
+- **Data location**:
+	- Plots
+- **References of interest**
+- **Notes**:
+
+
+#### [[@paliyGrowthColiBL212007]]
+
+
+#### [[@turcotHydrogenProductionContinuous2008]]
+
+#### [[@andersenAreGrowthRates1980]]
+
+#### [[@pooleEffectsSulphatelimitedGrowth1975]]
+
+#### [[@stouthamerUtilizationEnergyGrowth1973]]
+
+
+- **Priority**: 5
+- **Culture type**: 
+- **Strain**: 
+- **Medium**:
+- **Physiological Data**:
+	- #Yield 
+- **Nutrient Limitation(s)**:
+- **Data quantity**:
+- **Data location**:
+- **Relation with your research**
+- **References of interest**
+- **Notes**:
+
+
+#### [[@harrisonTransientResponsesFacultatively1971]]
+
+#### [[@doshiOptimalModelMicrobial1998]]
+
+#### [[@covertTranscriptionalRegulationConstraintsbased2002]]
 
 #### [[@marrGrowthRateEscherichia1991]]
 
@@ -175,11 +293,6 @@ Give me 20 papers candidates please.
 ### Priority 4
 
 
-#### [[@carithersNovelApproachHighQuality2015]]
-
-- **Physiological Data**:
-	- Yield
-
 #### [[@peeboProteomeReallocationEscherichia2015]]
 
 
@@ -232,9 +345,6 @@ Give me 20 papers candidates please.
 - **Data location**:
 	- Supplementary Materials
 
-#### [[@begIntracellularCrowdingDefines2007]]
-
-- **Priority**: 4
 
 #### [[@zampieriRegulatoryMechanismsUnderlying2019]]
 
@@ -250,26 +360,6 @@ Give me 20 papers candidates please.
 	- Plots
 	- Supplementary Materials
 
-#### [[@kumarMetabolicRegulationEscherichia2010]]
-
-- **Priority**: 4
-- **Culture type**: 
-	- Continuos
-- **Strain**: 
-	- Escherichia coli
-	- mutants
-- **Medium**:
-- **Physiological Data**:
-	- biomass, glucose and acetate concentration
-	- cell yield (g/g)
-	- specific rates of glucose consumption, acetate and CO2 production (mmol/g DCW. h).
-- **Nutrient Limitation(s)**:
-	- Carbon
-	- Nitrogen
-- **Data location**:
-	- Plots
-- **References of interest**
-- **Notes**:
 
 #### [[@egliConceptMultiplenutrientlimitedGrowth2003]]
 
@@ -302,6 +392,18 @@ Give me 20 papers candidates please.
 
 ### Priority < 4
 
+
+#### [[@hanlyDynamicFluxBalance2011]]
+
+> - #Priority/3
+
+#### [[@frittsEnhancedNutrientUptake2020]]
+
+> - #Priority 3
+
+#### [[@joyStudyGrowthEscherichia2010]]
+
+> - **Priority**: 3
 
 #### [[@desaiRegulationArabinoseXylose2010]]
 
@@ -405,7 +507,7 @@ Give me 20 papers candidates please.
 	- Culture is performed till [[washout]]
 
 
-### [[@reilingMassCultureEscherichia1985]]
+#### [[@reilingMassCultureEscherichia1985]]
 
 #ResearchIdea/CompareBatchChemostatGrowth
 
@@ -434,10 +536,6 @@ Give me 20 papers candidates please.
 - **References of interest**
 - **Notes**:
 	- Culture is performed till [[washout]]
-
-### [[@bauerMaximalExponentialGrowth1974]]
-
-#ResearchIdea/CompareBatchChemostatGrowth
 
 - **Priority**: 3
 - **Culture type**: 
