@@ -7,6 +7,17 @@ creation-date: 2024:10:14-06:07:23
 
 
 ***
+### 2025-02-14
+
+- #TODO/ToFile
+- [53] Thierry Mora and William Bialek. Are biological systems poised at criticality? Journal of Statistical Physics, 144: 268–302, 2011.
+
+
+> #ToCheck 
+> generalization of the maximum entropy scheme in out-of-equilibrium settings known as maximum caliber [61]
+>	- [61] Kingshuk Ghosh, Purushottam D Dixit, Luca Agozzino, and Ken A Dill. The maximum caliber variational principle for nonequilibria. Annual review of physical chemistry, 71:213–238, 2020.
+
+***
 ### 2025-02-05
 
 #DOING File the doctoral thesis 'Growth Kinetics of Escherichia coli: Effect of Temperature, Mixed Substrate Utilization and Adaptation to Carbon-Limited Growth'.

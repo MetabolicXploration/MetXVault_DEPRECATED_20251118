@@ -135,11 +135,82 @@ We found that the translational protein mass concentration correlates linearly w
 > #Figure 2 Protein mass data of distinct protein sectors under diverse growth conditions taken from Schmidt et al. (41). (A) All proteins represented by the iML1515 GEM and found in the proteomic data set, comprising the active and unused enzymes sectors. (B) Translational sector covering proteins assigned to the COG (Clusters of Orthologous Groups) class “translation, ribosomal structure, and biogenesis,” which are not included in the iML1515. The black lines in panels A and B are linear fits of the data points resulting in the shown equations and coefficients of determination R2 . (C) Sum of the protein mass concentrations shown in panels A and B. The horizontal black line marks the 81% of measured protein mass used to constrain protein availability in the PAM. Glucose chemostat and batch experiments are highlighted in blue and red, respectively. Note that protein concentrations relative to the cell dry weight (cdw) were related to the total protein concentration of $0.32~ ~g~g^{-1}~cdw$ measured by Schmidt et al. (41). #BioNumber 
 > ![[Pasted image 20250212083615.png|300]]
 
+This linear growth dependency depicts a resource-efficient regulation of the translational apparatus to justly provide the proteins necessary for maintaining maximal division rates in a particular environmental condition, as reported previously \[48, 49\].
 
+### The total protein concentration constraint.
 
+Under most conditions, the total protein content of an E. coli cell is approximately 0.55 g g21 cdw  \[ 50 \]. #BioNumber 
 
+A proteomic analysis of various E. coli strains grown under different conditions \[41\] covered a constant protein mass concentration of 0.32 $g\,g^{-1}\,cdw$ (58% of the total protein content) across conditions.
 
+The protein fraction $\phi_{P,c}$ of 0.26 $g\,g^{-1}\,cdw$ considered by the PAM is in agreement with the fact that the growth-dependent part of the proteome constitutes roughly half of E. coli’s total protein content \[[[@scottInterdependenceCellGrowth2010|3]], [[@youCoordinationBacterialProteome2013|4]], [[@scottEmergenceRobustGrowth2014|5]], [[@moriConstrainedAllocationFlux2016|37]], [[@moriYieldcostTradeoffGoverns2019|39]], [[@scottBacterialGrowthLaws2011|51]]\]. [[note-20250214-034550|^]]
 
+#### The protein allocation model predicts wild-type phenotypes.
+
+To benchmark the PAM’s predictive capabilities, we simulated the wild-type phenotypic behavior on glucose minimal medium and compared the results to extensive literature data 
+\[[[@perrenoudImpactGlobalTranscriptional2005|52]], [[@nanchenNonlinearDependencyIntracellular2006|53]], [[@vemuriOverflowMetabolismEscherichia2006|54]], [[@valgepeaSystemsBiologyApproach2010|55]] , [[@folsomPhysiologicalProteomicAnalysis2014|56]] , [[@mccloskeyModeldrivenQuantitativeMetabolomics2014|57]], [[@peeboProteomeReallocationEscherichia2015|58]], [[@folsomPhysiologicalBiomassElemental2015|59]]\].
+
+## Reference
+
+- [01] ?
+- [02] [[@klumppGrowthRateDependentGlobal2009]]
+- [03] [[@scottInterdependenceCellGrowth2010]]
+- [04] [[@youCoordinationBacterialProteome2013]]
+- [05] [[@scottEmergenceRobustGrowth2014]]
+- [06] [[@weisseMechanisticLinksCellular2015]]
+- [07] [[@ericksonGlobalResourceAllocation2017]]
+- [08] [[@savinellNetworkAnalysisIntermediary1992]]
+- [09] [[@varmaStoichiometricInterpretationEscherichia1993]]
+- [10] [[@varmaStoichiometricFluxBalance1994]]
+- [11] [[@edwardsRobustnessAnalysisEscherichia2000]]
+- [12] [[@schuetzSystematicEvaluationObjective2007]]
+- [13] [[@pramanikEffectOfEscherichiaColi1998]]
+- [14] [[@mahadevanDynamicFluxBalance2002]]
+- [15] [[@palssonSilicoBiologyOmics2002]]
+- [16] [[@blankLargescale13CfluxAnalysis2005]]
+- [17] [[@beckerContextspecificMetabolicNetworks2008]]
+- [18] [[@lewisOmicDataEvolved2010]]
+- [19] [[@burgardOptimizationbasedFrameworkInferring2003]]
+- [20] [[@rochaOptFluxOpensourceSoftware2010]]
+- [21] [[@cardosoCameoPythonLibrary2018]]
+- [22] [[@alterGeneticOptimizationAlgorithm2018]]
+- [23] [[@alterDeterminationGrowthcouplingStrategies2019]]
+- [24] [[@covertIdentifyingConstraintsThat2003]]
+- [25] [[@lermanSilicoMethodModelling2012]]
+- [26] [[@obrienGenomescaleModelsMetabolism2013]]
+- [27] [[@yangPrinciplesProteomeAllocation2016]]
+- [28] [[@yangCellularResponsesReactive2019]]
+- [29] [[@chenEnergyMetabolismControls2019]]
+- [30] [[@niebelUpperLimitGibbs2019]]
+- [31] [[@begIntracellularCrowdingDefines2007]]
+- [32] [[@vazquezImpactSolventCapacity2008]]
+- [33] [[@szenkWhyFastGrowingBacteria2017]]
+- [34] [[@goelzerBacterialGrowthRate2011]]
+- [35] [[@karrWholeCellComputationalModel2012]]
+- [36] [[@molenaarShiftsGrowthStrategies2009]]
+- [37] [[@moriConstrainedAllocationFlux2016]]
+- [38] [[@noorProteinCostMetabolic2016]]
+- [39] [[@moriYieldcostTradeoffGoverns2019]]
+- [40] [[@sanchezImprovingPhenotypePredictions2017]]
+- [41] [[@schmidtQuantitativeConditiondependentEscherichia2016]]
+- [42] [[@bosdrieszHowFastgrowingBacteria2015]]
+- [43] [[@moriQuantifyingBenefitProteome2017]]
+- [44] [[@obrienQuantificationClassificationColi2016]]
+- [45] ?
+- [46] [[@fendtTradeoffEnzymeMetabolite2010]]
+- [52] [[@perrenoudImpactGlobalTranscriptional2005]]
+- [53] [[@nanchenNonlinearDependencyIntracellular2006]]
+- [54] [[@vemuriOverflowMetabolismEscherichia2006]]
+- [55] [[@valgepeaSystemsBiologyApproach2010]] 
+- [56] [[@folsomPhysiologicalProteomicAnalysis2014]] 
+- [57] [[@mccloskeyModeldrivenQuantitativeMetabolomics2014]]
+- [58] [[@peeboProteomeReallocationEscherichia2015]]
+- [59] [[@folsomPhysiologicalBiomassElemental2015]]
+- [60] [[@fischerMetabolicFluxProfiling2003]] 
+- [61] [[@gerosaPseudotransitionAnalysisIdentifies2015]]
+- [62] [[@ssParallelAdaptiveEvolution2005]]
+- [63] [[@brLargescale13CfluxAnalysis2011]]
+- [64] [[@bienickInterrelationshipPromoterStrength2014]]
 
 ___
 %% Tags  ------------------------------------------------------- %%

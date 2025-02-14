@@ -54,6 +54,38 @@ Give me 20 papers candidates please.
 
 ### Priority 5
 
+
+#### [[@perrenoudImpactGlobalTranscriptional2005]]
+
+#### [[@nanchenNonlinearDependencyIntracellular2006]]
+
+#### [[@vemuriOverflowMetabolismEscherichia2006]]
+
+#### [[@valgepeaSystemsBiologyApproach2010]] 
+
+#### [[@folsomPhysiologicalProteomicAnalysis2014]] 
+
+#### [[@mccloskeyModeldrivenQuantitativeMetabolomics2014]]
+
+#### [[@peeboProteomeReallocationEscherichia2015]]
+
+####  [[@folsomPhysiologicalBiomassElemental2015]]
+
+#### [[@folsomPhysiologicalProteomicAnalysis2014]]
+
+#### [[@schmidtQuantitativeConditiondependentEscherichia2016]]
+
+#### [[@ishiiMultipleHighthroughputAnalyses2007]]
+
+- Transcriptomic
+
+#### [[@warsiDifferentAdaptiveStrategies2018]]
+
+- #ISSUE/IDEA 
+- > Adaptive responses to nutrient limitation involve mutations that increase the efficiency of usage or uptake of the limiting nutrient. However, starvation of different nutrients has contrasting effects on physiology, resulting in different evolutionary responses. Most studies performed to understand these evolutionary responses have focused only on macronutrient limitation. Hence our understanding of adaptation under limitation of other forms of nutrients is limited. In this study, we compared the evolutionary response in populations evolving under growth-limiting conditions for a macronutrient and a major cation.
+- 
+- Check if the adaptations are combative with the Nutrient Limited ensemble
+
 #### [[@moriQuantifyingBenefitProteome2017]]
 
 #### [[@blankLargescale13CfluxAnalysis2005]]
