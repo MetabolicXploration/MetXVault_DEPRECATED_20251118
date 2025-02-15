@@ -3,6 +3,9 @@ basic-note-template: v0.2.0
 creation-date: 2025:02:04-03:42:27
 ---
 
+
+
+
 %% Note Body --------------------------------------------------- %%
 
 %% Write here %%
