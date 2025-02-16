@@ -163,7 +163,7 @@ Consequently, inconsistencies in the applied kcat values, particularly of backwa
 
 we simulated growth for a range of expression levels of an enhanced green fluorescent protein (eGFP) and compared relative growth rates with experimental data from Bienick et al. \[[[@bienickInterrelationshipPromoterStrength2014|64]]\]. #CoolExperiment 
 
-For an increasing eGFP expression strength and the accompanied protein deficiency, central carbon fluxes are progressively diverted to fermentation pathways (acetate secretion) and eventually to the ED pathway. Both routes are more protein efficient but yield fewer energy equivalents per substrate molecule than respiration or the EMP pathway \[[[@moriYieldcostTradeoffGoverns2019|39]], 65, 66\].
+For an increasing eGFP expression strength and the accompanied protein deficiency, central carbon fluxes are progressively diverted to fermentation pathways (acetate secretion) and eventually to the ED pathway. Both routes are more protein efficient but yield fewer energy equivalents per substrate molecule than respiration or the EMP pathway \[[[@moriYieldcostTradeoffGoverns2019|39]], [[@flamholzGlycolyticStrategyTradeoff2013|65]], 66\].
 
 
 
@@ -226,6 +226,7 @@ For an increasing eGFP expression strength and the accompanied protein deficienc
 - [62] [[@ssParallelAdaptiveEvolution2005]]
 - [63] [[@brLargescale13CfluxAnalysis2011]]
 - [64] [[@bienickInterrelationshipPromoterStrength2014]]
+- [65] [[@flamholzGlycolyticStrategyTradeoff2013]]
 
 ___
 %% Tags  ------------------------------------------------------- %%

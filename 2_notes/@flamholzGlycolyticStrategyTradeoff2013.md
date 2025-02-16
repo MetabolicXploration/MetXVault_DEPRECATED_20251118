@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: #!cdate
+creation-date: 2025:02:16-12:45:49
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -8,7 +8,7 @@ creation-date: #!cdate
 
 ### Meta
 - ** citekey **: flamholzGlycolyticStrategyTradeoff2013
-- ** authors **: Avi Flamholz, Elad Noor, Arren Bar-Even, Wolfram Liebermeister, Ron Milo
+- ** authors **: Avi Flamholz, [[Elad Noor]], Arren Bar-Even, [[Wolfram Liebermeister]], [[Ron Milo]]
 - ** year **: [[2013]]
 - ** doi **: https://doi.org/10.1073/pnas.1215283110
 - ** publication **: Proceedings of the National Academy of Sciences
