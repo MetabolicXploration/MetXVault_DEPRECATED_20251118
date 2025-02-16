@@ -58,6 +58,8 @@ Give me 20 papers candidates please.
 
 #### [[@longMetabolicFluxResponses2019]]
 
+#### [[@longCharacterizationPhysiologicalResponses2016]]
+
 #### [[@brLargescale13CfluxAnalysis2011]]
 
 #### [[@perrenoudImpactGlobalTranscriptional2005]]
