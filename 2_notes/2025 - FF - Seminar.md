@@ -17,6 +17,11 @@ creation-date: "2025:02:12-10:40:50"
 
 ## Materials
 
+### shlomiGenomescaleComputationalStudy2007
+
+> #Figure
+> ![[Pasted image 20250216175144.png]]
+
 ### edwardsSilicoPredictionsEscherichia2001
 
 ### okanoRegulationUnderlyingHierarchical2019
