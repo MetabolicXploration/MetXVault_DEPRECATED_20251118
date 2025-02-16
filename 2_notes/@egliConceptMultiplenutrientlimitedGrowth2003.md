@@ -65,7 +65,7 @@ The existence of dual-nutrient-limited transition zones between single-nutrient-
 
 > #Figure 2. Predicted dual-nutrient-limited zone at different dilution (growth) rates during the cultivation of K. pneumoniae in continuous culture with glycerol and ammonia, as a function of the c0/n0 ratio in the inflowing medium. Closed circles indicate data pairs below which growth should be carbon-limited, open circles those above which it should be nitrogen-limited. Adapted from Egli (1991).
 >
-> ![[Pasted image 20230524123044.png]]
+> ![[Pasted image 20230524123044.png|300]]
 
 
 

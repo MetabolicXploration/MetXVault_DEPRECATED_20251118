@@ -55,6 +55,11 @@ Give me 20 papers candidates please.
 
 ### Priority 5
 
+#### [[@okanoRegulationUnderlyingHierarchical2019]]
+
+**Usage**
+- Check if the yield for different nutrients do not change with intake rate. 
+
 #### [[@fongLatentPathwayActivation2006]]
 
 #### [[@mccloskeyEvolutionGeneKnockout2018]]
@@ -70,7 +75,6 @@ Give me 20 papers candidates please.
 - We can try to align the experimental yield spectrum with the theo spectrum
 - After we do that, we can identify the regulation modes that produces them and check the transcriptomic data
 - #Project/YieldSpectrometry
-
 
 #### [[@metzl-razPrinciplesCellularResource2017]]
 
@@ -360,10 +364,6 @@ Give me 20 papers candidates please.
 
 
 #### [[@obrienQuantificationClassificationColi2016]]
-
-- **Priority**: 4
-
-#### [[@okanoRegulationUnderlyingHierarchical2019]]
 
 - **Priority**: 4
 
