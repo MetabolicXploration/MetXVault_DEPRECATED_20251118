@@ -245,7 +245,7 @@ Alongside the over- and heterologous expression of genes, rearrangement of metab
 
 - [84] [[@heirendtCreationAnalysisBiochemical2019]]
 - [86] [[@metzl-razPrinciplesCellularResource2017]]
-
+- [87] [[@sanderAllostericFeedbackInhibition2019]]
 
 
 ___
