@@ -55,6 +55,8 @@ Give me 20 papers candidates please.
 
 ### Priority 5
 
+#### [[@fongLatentPathwayActivation2006]]
+
 #### [[@mccloskeyEvolutionGeneKnockout2018]]
 
 **Usage**

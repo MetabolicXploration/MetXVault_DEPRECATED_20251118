@@ -168,6 +168,15 @@ For an increasing eGFP expression strength and the accompanied protein deficienc
 
 Alongside the over- and heterologous expression of genes, rearrangement of metabolic networks and flux distributions by gene deletions is a core instrument in metabolic engineering. In recent years, many computational strain design methods have been developed to accelerate and rationalize the engineering of microbial cell factories. However, in contrast to the vast number of model-driven strain design and optimization methods \[[[@maiaSilicoConstraintBasedStrain2016|67]]\], constraint-based methods have often proven unreliable in predicting phenotypes of gene deletion mutant strains (GMSs). While GMSs have been shown to evolve toward FBA-predicted phenotypes \[[[@fongMetabolicGeneDeletion2004|68]]\], observed growth defects and intracellular fluxes of nonevolved GMSs cannot be explained by stoichiometry and a cellular growth objective alone \[[[@kimRELATCHRelativeOptimality2012|69]], [[@longCharacterizationPhysiologicalResponses2016|70]], [[@longMetabolicFluxResponses2019|71]]\].
 
+First, we tested the impact of 10 single-gene deletions on the PAM’s FBA results by parameterizing the unused enzyme sector with the methodically determined maximum glucose uptake rate of 9.82 $mmol\,g^{-1}\,cdw\,h^{-1}$. The calculated phenotypes did not significantly differ from the unperturbed wild-type solutions and, hence, did not compare to experimental data \[[[@longCharacterizationPhysiologicalResponses2016|70]], [[@fongLatentPathwayActivation2006|72]]\] (Fig. S4).
+
+we recalled computational frameworks such as minimization of metabolic adjustment (MOMA) (75), regulatory on/off minimization (ROOM) \[[[@shlomiRegulatoryMinimizationMetabolic2005|76]]\], and relative change (RELATCH) \[[[@kimRELATCHRelativeOptimality2012|69]]\], which determine the metabolic impact of gene knockout strains. The common principle behind all three methods is the minimization of the metabolic response to genetic perturbations due to an unchanged regulatory system that forces the GMS’ flux distribution toward the original steady state. #Insight 
+
+In the context of protein allocation, the minimal response principle can be translated as follows: upon a network perturbation, a GMS establishes a substrate uptake rate so that increases in protein allocation toward single enzymatic reactions are minimal compared to genetically unperturbed strains. The cellular objective is to allow for maximum metabolic activity in the face of knockout-induced flux rerouting and a hampered reallocation of protein due to a strict (wild-type) regulatory regime.
+
+> #Figure 8 Comparison between simulated and experimentally determined phenotypes of GMSs without considering observed glucose uptake rates as model constraints. Predicted growth, glucose uptake, and acetate secretion rates are plotted against experimentally determined values taken from references \[[[@longCharacterizationPhysiologicalResponses2016|70]]\] (blue), \[[[@longMetabolicFluxResponses2019|71]]\] (green), and \[[[@fongLatentPathwayActivation2006|72]]\] (orange). All values were normalized with corresponding wildtype data. Predictions were made applying the PAM and constraining the unused enzyme sector according to a maximum glucose uptake rate of 9.82 $mmol\,g^{-1}\,cdw\,h^{-1}$. The maximum overexpression capacity of single enzymes DNcrit e was set to 16 $mmol\,g^{-1}\,cdw\,h^{-1}$ .
+> ![[Pasted image 20250216091951.png|300]]
+
 
 ## Reference
 
@@ -235,6 +244,7 @@ Alongside the over- and heterologous expression of genes, rearrangement of metab
 - [69] [[@kimRELATCHRelativeOptimality2012]]
 - [70] [[@longCharacterizationPhysiologicalResponses2016]]
 - [71] [[@longMetabolicFluxResponses2019]]
+- [72] [[@fongLatentPathwayActivation2006]]
 - [73] [[@paulRRNATranscriptionEscherichia2004]]
 - [74] [[@mccloskeyEvolutionGeneKnockout2018]]
 - [75] [[@segreAnalysisOptimalityNatural2002]]
