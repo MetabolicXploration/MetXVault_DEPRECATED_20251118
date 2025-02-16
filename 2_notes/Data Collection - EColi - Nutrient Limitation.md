@@ -56,6 +56,8 @@ Give me 20 papers candidates please.
 ### Priority 5
 
 
+#### [[@longMetabolicFluxResponses2019]]
+
 #### [[@brLargescale13CfluxAnalysis2011]]
 
 #### [[@perrenoudImpactGlobalTranscriptional2005]]
