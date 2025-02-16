@@ -163,8 +163,11 @@ Consequently, inconsistencies in the applied kcat values, particularly of backwa
 
 we simulated growth for a range of expression levels of an enhanced green fluorescent protein (eGFP) and compared relative growth rates with experimental data from Bienick et al. \[[[@bienickInterrelationshipPromoterStrength2014|64]]\]. #CoolExperiment 
 
-For an increasing eGFP expression strength and the accompanied protein deficiency, central carbon fluxes are progressively diverted to fermentation pathways (acetate secretion) and eventually to the ED pathway. Both routes are more protein efficient but yield fewer energy equivalents per substrate molecule than respiration or the EMP pathway \[[[@moriYieldcostTradeoffGoverns2019|39]], [[@flamholzGlycolyticStrategyTradeoff2013|65]], 66\].
+For an increasing eGFP expression strength and the accompanied protein deficiency, central carbon fluxes are progressively diverted to fermentation pathways (acetate secretion) and eventually to the ED pathway. Both routes are more protein efficient but yield fewer energy equivalents per substrate molecule than respiration or the EMP pathway \[[[@moriYieldcostTradeoffGoverns2019|39]], [[@flamholzGlycolyticStrategyTradeoff2013|65]], [[@ngParetoOptimalityExplanation2019|66]]\]. #Insight #Issue
 
+### Limitations in the protein allocation of single enzymes lead to gene deletion mutant phenotypes.
+
+Alongside the over- and heterologous expression of genes, rearrangement of metabolic networks and flux distributions by gene deletions is a core instrument in metabolic engineering. In recent years, many computational strain design methods have been developed to accelerate and rationalize the engineering of microbial cell factories. However, in contrast to the vast number of model-driven strain design and optimization methods \[[[@maiaSilicoConstraintBasedStrain2016|67]]\], constraint-based methods have often proven unreliable in predicting phenotypes of gene deletion mutant strains (GMSs). While GMSs have been shown to evolve toward FBA-predicted phenotypes \[68\], observed growth defects and intracellular fluxes of nonevolved GMSs cannot be explained by stoichiometry and a cellular growth objective alone \[69, 70, 71\].
 
 
 ## Reference
@@ -227,6 +230,8 @@ For an increasing eGFP expression strength and the accompanied protein deficienc
 - [63] [[@brLargescale13CfluxAnalysis2011]]
 - [64] [[@bienickInterrelationshipPromoterStrength2014]]
 - [65] [[@flamholzGlycolyticStrategyTradeoff2013]]
+- [66] [[@ngParetoOptimalityExplanation2019]]
+- [67] [[@maiaSilicoConstraintBasedStrain2016]]
 
 ___
 %% Tags  ------------------------------------------------------- %%
