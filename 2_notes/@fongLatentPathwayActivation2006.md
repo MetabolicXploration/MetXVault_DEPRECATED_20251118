@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: #!cdate
+creation-date: 2025:02:16-14:22:03
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -8,7 +8,7 @@ creation-date: #!cdate
 
 ### Meta
 - ** citekey **: fongLatentPathwayActivation2006
-- ** authors **: Stephen S. Fong, Annik Nanchen, Bernhard O. Palsson, Uwe Sauer
+- ** authors **: Stephen S. Fong, [[Annik Nanchen]], [[Bernhard Ø Palsson]], [[Uwe Sauer]]
 - ** year **: [[2006]]
 - ** doi **: https://doi.org/10.1074/jbc.M510016200
 - ** publication **: Journal of Biological Chemistry

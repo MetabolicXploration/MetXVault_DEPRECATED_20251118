@@ -8,7 +8,7 @@ creation-date: 2025:01:21-05:52:24
 
 ### Meta
 - ** citekey **: brLargescale13CfluxAnalysis2011
-- ** authors **: Haverkorn van Rijsewijk Br, [[Nanchen A]], Nallet S, Kleijn Rj, Sauer U
+- ** authors **: Haverkorn van Rijsewijk Br, [[Annik Nanchen|Nanchen A]], Nallet S, Kleijn Rj, Sauer U
 - ** year **: [[2011]]
 - ** doi **: https://doi.org/10.1038/msb.2011.9
 - ** publication **: Molecular systems biology
