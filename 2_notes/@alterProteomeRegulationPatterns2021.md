@@ -145,16 +145,27 @@ A proteomic analysis of various E. coli strains grown under different conditions
 
 The protein fraction $\phi_{P,c}$ of 0.26 $g\,g^{-1}\,cdw$ considered by the PAM is in agreement with the fact that the growth-dependent part of the proteome constitutes roughly half of E. coli’s total protein content \[[[@scottInterdependenceCellGrowth2010|3]], [[@youCoordinationBacterialProteome2013|4]], [[@scottEmergenceRobustGrowth2014|5]], [[@moriConstrainedAllocationFlux2016|37]], [[@moriYieldcostTradeoffGoverns2019|39]], [[@scottBacterialGrowthLaws2011|51]]\]. [[note-20250214-034550|^]]
 
-#### The protein allocation model predicts wild-type phenotypes.
+### The protein allocation model predicts wild-type phenotypes.
 
 To benchmark the PAM’s predictive capabilities, we simulated the wild-type phenotypic behavior on glucose minimal medium and compared the results to extensive literature data 
 \[[[@perrenoudImpactGlobalTranscriptional2005|52]], [[@nanchenNonlinearDependencyIntracellular2006|53]], [[@vemuriOverflowMetabolismEscherichia2006|54]], [[@valgepeaSystemsBiologyApproach2010|55]] , [[@folsomPhysiologicalProteomicAnalysis2014|56]] , [[@mccloskeyModeldrivenQuantitativeMetabolomics2014|57]], [[@peeboProteomeReallocationEscherichia2015|58]], [[@folsomPhysiologicalBiomassElemental2015|59]]\].
 
 
-#### Prediction of E. coli flux distributions.
+### Prediction of E. coli flux distributions.
 
 > #Figure 5 PAM predictions of intracellular fluxes of the central carbon metabolism of E. coli grown on a glucose minimal medium. The glucose uptake rate was constrained with experimentally determined values. The unused enzymes sector was parameterized according to the computationally determined maximum value of 9.82 $mmol\,g^{-1}\,cdw\,h^{-1}$ based on a maximum total protein synthesis rate $N_P$ of 2.04 $mmol\,g^{-1}\,cdw\,h^{-1}$ . (A to C) The predictions are compared with experimental flux data from panels A \[[[@gerosaPseudotransitionAnalysisIdentifies2015|61]]\], B \[[[@brLargescale13CfluxAnalysis2011|63]]\], and C \[[[@nanchenNonlinearDependencyIntracellular2006|53]]\]. The goodness of the correlations was computed based on the Pearson correlation coefficient r and the corresponding P value.
 > ![[Pasted image 20250216063145.png|500]]
+
+Consequently, inconsistencies in the applied kcat values, particularly of backward reactions, but also the substrate-dependent differences in the biomass compositions \[[[@pramanikEffectOfEscherichiaColi1998|13]]\] may cause these observed discrepancies.
+
+
+### PAM explains the growth defect upon heterologous protein expression.
+
+we simulated growth for a range of expression levels of an enhanced green fluorescent protein (eGFP) and compared relative growth rates with experimental data from Bienick et al. \[[[@bienickInterrelationshipPromoterStrength2014|64]]\]. #CoolExperiment 
+
+For an increasing eGFP expression strength and the accompanied protein deficiency, central carbon fluxes are progressively diverted to fermentation pathways (acetate secretion) and eventually to the ED pathway. Both routes are more protein efficient but yield fewer energy equivalents per substrate molecule than respiration or the EMP pathway \[[[@moriYieldcostTradeoffGoverns2019|39]], 65, 66\].
+
+
 
 ## Reference
 

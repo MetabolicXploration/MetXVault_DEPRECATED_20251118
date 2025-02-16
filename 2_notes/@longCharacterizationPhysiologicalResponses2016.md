@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: #!cdate
+creation-date: 2025:02:16-12:13:32
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -8,7 +8,7 @@ creation-date: #!cdate
 
 ### Meta
 - ** citekey **: longCharacterizationPhysiologicalResponses2016
-- ** authors **: Christopher P. Long, Jacqueline E. Gonzalez, Nicholas R. Sandoval, Maciek R. Antoniewicz
+- ** authors **: [[Christopher P. Long]], Jacqueline E. Gonzalez, Nicholas R. Sandoval, [[Maciek R. Antoniewicz]]
 - ** year **: [[2016]]
 - ** doi **: https://doi.org/10.1016/j.ymben.2016.05.006
 - ** publication **: Metabolic Engineering
