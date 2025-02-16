@@ -55,6 +55,20 @@ Give me 20 papers candidates please.
 
 ### Priority 5
 
+#### [[@mccloskeyEvolutionGeneKnockout2018]]
+
+**Usage**
+- This is a lab evolved study of E. coli KOs
+- If we can track the yield of the evolving cells, we can see if it jump discreetly
+- We can check if the jumps are compatible with the yields 'nodes' described by the network
+- We can make a relative study 
+	- The biomass composition affects the value of the yield. 
+	- #TODO Use relative yields. #ISSUE
+- We can see how the initial OKs affects the yield spectrum
+- We can try to align the experimental yield spectrum with the theo spectrum
+- After we do that, we can identify the regulation modes that produces them and check the transcriptomic data
+- #Project/YieldSpectrometry
+
 
 #### [[@metzl-razPrinciplesCellularResource2017]]
 

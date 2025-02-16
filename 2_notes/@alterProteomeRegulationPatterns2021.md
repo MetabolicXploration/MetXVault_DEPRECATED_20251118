@@ -247,7 +247,7 @@ Alongside the over- and heterologous expression of genes, rearrangement of metab
 - [86] [[@metzl-razPrinciplesCellularResource2017]]
 - [87] [[@sanderAllostericFeedbackInhibition2019]]
 - [89] Busby S, Ebright RH. 1999. Transcription activation by catabolite activator protein (CAP). J Mol Biol 293:199–213. https://doi.org/10.1006/jmbi.1999.3161.
-
+- [94] [[@heckmannMachineLearningApplied2018]]
 
 ___
 %% Tags  ------------------------------------------------------- %%
