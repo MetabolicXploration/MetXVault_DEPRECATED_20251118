@@ -184,7 +184,7 @@ Proteins are the major molecular class in cells, and because they are the cataly
 
 The PAM’s accurate predictions confirmed the prominent role of protein allocation in shaping microbial metabolism. Nevertheless, protein allocation itself appears to be regulated by biochemical limits. Genetic sequencing results of E. coli strains that have undergone extensive adaptive laboratory evolution (ALE) \[[[@lacroixUseAdaptiveLaboratory2015|79]]\] suggest a causal link between transcription limitations and maximum cell proliferation rates. The adapted strains, all exhibiting a fitness increase of up to 1.6-fold, showed mutations in the rpoB or rpoC gene leading to single amino acid substitutions in the b/b9 subunit of the RNA polymerase. This subunit is part of the enzyme’s active center. Thus, the observed mutations globally affect transcription [79].
 
-Therefore, we join the call to establish a thorough kcatome as part of an accessible, genome-wide kinetome (85).
+Therefore, we join the call to establish a thorough kcatome as part of an accessible, genome-wide [[kinetome]] \[[[@nilssonMetabolicModelsProtein2017|85]]\].
 
 ## Reference
 
@@ -259,7 +259,7 @@ Therefore, we join the call to establish a thorough kcatome as part of an access
 - [76] [[@shlomiRegulatoryMinimizationMetabolic2005]]
 - [77] [[@nakahigashiSystematicPhenomeAnalysis2009]]
 - [79] [[@lacroixUseAdaptiveLaboratory2015]]
-
+- [85] [[@nilssonMetabolicModelsProtein2017]]
 - [84] [[@heirendtCreationAnalysisBiochemical2019]]
 - [86] [[@metzl-razPrinciplesCellularResource2017]]
 - [87] [[@sanderAllostericFeedbackInhibition2019]]
@@ -269,5 +269,5 @@ Therefore, we join the call to establish a thorough kcatome as part of an access
 
 ___
 %% Tags  ------------------------------------------------------- %%
-#review/ToRead
+#Read/Jose
 #Priority/5 

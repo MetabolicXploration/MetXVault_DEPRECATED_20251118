@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: #!cdate
+creation-date: 2025:02:16-14:35:22
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -8,7 +8,7 @@ creation-date: #!cdate
 
 ### Meta
 - ** citekey **: nilssonMetabolicModelsProtein2017
-- ** authors **: Avlant Nilsson, Jens Nielsen, Bernhard O. Palsson
+- ** authors **: Avlant Nilsson, [[Jens Nielsen]], [[Bernhard Ø Palsson|Bernhard O. Palsson]]
 - ** year **: [[2017]]
 - ** doi **: https://doi.org/10.1016/j.cels.2017.11.013
 - ** publication **: Cell Systems
