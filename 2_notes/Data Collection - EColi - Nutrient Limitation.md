@@ -56,6 +56,12 @@ Give me 20 papers candidates please.
 ### Priority 5
 
 
+#### [[@metzl-razPrinciplesCellularResource2017]]
+
+#### [[@mccloskeyEvolutionGeneKnockout2018]]
+
+#ToRead
+
 #### [[@fongMetabolicGeneDeletion2004]]
 
 #### [[@longMetabolicFluxResponses2019]]

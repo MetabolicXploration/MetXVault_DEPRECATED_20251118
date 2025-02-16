@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: #!cdate
+creation-date: 2025:02:16-12:58:10
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -8,7 +8,7 @@ creation-date: #!cdate
 
 ### Meta
 - ** citekey **: mccloskeyEvolutionGeneKnockout2018
-- ** authors **: Douglas McCloskey, Sibei Xu, Troy E. Sandberg, Elizabeth Brunk, Ying Hefner, Richard Szubin, Adam M. Feist, Bernhard O. Palsson
+- ** authors **: Douglas McCloskey, Sibei Xu, Troy E. Sandberg, Elizabeth Brunk, Ying Hefner, Richard Szubin, Adam M. Feist, [[Bernhard O. Palsson]]
 - ** year **: [[2018]]
 - ** doi **: https://doi.org/10.1038/s41467-018-06219-9
 - ** publication **: Nature Communications

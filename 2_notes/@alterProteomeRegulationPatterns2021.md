@@ -237,6 +237,17 @@ Alongside the over- and heterologous expression of genes, rearrangement of metab
 - [70] [[@longCharacterizationPhysiologicalResponses2016]]
 - [71] [[@longMetabolicFluxResponses2019]]
 - [73] [[@paulRRNATranscriptionEscherichia2004]]
+- [74] [[@mccloskeyEvolutionGeneKnockout2018]]
+- [75] [[@segreAnalysisOptimalityNatural2002]]
+- [76] [[@shlomiRegulatoryMinimizationMetabolic2005]]
+- [77] [[@nakahigashiSystematicPhenomeAnalysis2009]]
+- [79] [[@lacroixUseAdaptiveLaboratory2015]]
+
+- [84] [[@heirendtCreationAnalysisBiochemical2019]]
+- [86] [[@metzl-razPrinciplesCellularResource2017]]
+
+
+
 ___
 %% Tags  ------------------------------------------------------- %%
 #review/ToRead

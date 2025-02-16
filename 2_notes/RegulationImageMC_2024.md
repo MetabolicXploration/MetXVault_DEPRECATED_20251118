@@ -11,6 +11,9 @@ creation-date: 2024:10:01-01:11:13
 
 
 #### Custom
+
+- [ ] [[@mccloskeyEvolutionGeneKnockout2018]]
+- [ ] [[@shlomiRegulatoryMinimizationMetabolic2005]]
 - [ ] [[@wortelMetabolicEnzymeCost2018]]
 - [x] [[@baldazziResourceAllocationAccounts2023]]
 - [ ] [[@fallahiComparisonMonteCarlo2020]]
