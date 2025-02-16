@@ -150,9 +150,14 @@ The protein fraction $\phi_{P,c}$ of 0.26 $g\,g^{-1}\,cdw$ considered by the PAM
 To benchmark the PAM’s predictive capabilities, we simulated the wild-type phenotypic behavior on glucose minimal medium and compared the results to extensive literature data 
 \[[[@perrenoudImpactGlobalTranscriptional2005|52]], [[@nanchenNonlinearDependencyIntracellular2006|53]], [[@vemuriOverflowMetabolismEscherichia2006|54]], [[@valgepeaSystemsBiologyApproach2010|55]] , [[@folsomPhysiologicalProteomicAnalysis2014|56]] , [[@mccloskeyModeldrivenQuantitativeMetabolomics2014|57]], [[@peeboProteomeReallocationEscherichia2015|58]], [[@folsomPhysiologicalBiomassElemental2015|59]]\].
 
+
+#### Prediction of E. coli flux distributions.
+
+> #Figure 5 PAM predictions of intracellular fluxes of the central carbon metabolism of E. coli grown on a glucose minimal medium. The glucose uptake rate was constrained with experimentally determined values. The unused enzymes sector was parameterized according to the computationally determined maximum value of 9.82 $mmol\,g^{-1}\,cdw\,h^{-1}$ based on a maximum total protein synthesis rate $N_P$ of 2.04 $mmol\,g^{-1}\,cdw\,h^{-1}$ . (A to C) The predictions are compared with experimental flux data from panels A \[[[@gerosaPseudotransitionAnalysisIdentifies2015|61]]\], B \[[[@brLargescale13CfluxAnalysis2011|63]]\], and C \[[[@brLargescale13CfluxAnalysis2011|53]]\]. The goodness of the correlations was computed based on the Pearson correlation coefficient r and the corresponding P value.
+> ![[Pasted image 20250216063145.png|500]]
+
 ## Reference
 
-- [01] ?
 - [02] [[@klumppGrowthRateDependentGlobal2009]]
 - [03] [[@scottInterdependenceCellGrowth2010]]
 - [04] [[@youCoordinationBacterialProteome2013]]
@@ -196,7 +201,6 @@ To benchmark the PAM’s predictive capabilities, we simulated the wild-type phe
 - [42] [[@bosdrieszHowFastgrowingBacteria2015]]
 - [43] [[@moriQuantifyingBenefitProteome2017]]
 - [44] [[@obrienQuantificationClassificationColi2016]]
-- [45] ?
 - [46] [[@fendtTradeoffEnzymeMetabolite2010]]
 - [52] [[@perrenoudImpactGlobalTranscriptional2005]]
 - [53] [[@nanchenNonlinearDependencyIntracellular2006]]
