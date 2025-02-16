@@ -56,6 +56,8 @@ Give me 20 papers candidates please.
 ### Priority 5
 
 
+#### [[@fongMetabolicGeneDeletion2004]]
+
 #### [[@longMetabolicFluxResponses2019]]
 
 #### [[@longCharacterizationPhysiologicalResponses2016]]

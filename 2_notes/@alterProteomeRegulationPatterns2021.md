@@ -167,7 +167,7 @@ For an increasing eGFP expression strength and the accompanied protein deficienc
 
 ### Limitations in the protein allocation of single enzymes lead to gene deletion mutant phenotypes.
 
-Alongside the over- and heterologous expression of genes, rearrangement of metabolic networks and flux distributions by gene deletions is a core instrument in metabolic engineering. In recent years, many computational strain design methods have been developed to accelerate and rationalize the engineering of microbial cell factories. However, in contrast to the vast number of model-driven strain design and optimization methods \[[[@maiaSilicoConstraintBasedStrain2016|67]]\], constraint-based methods have often proven unreliable in predicting phenotypes of gene deletion mutant strains (GMSs). While GMSs have been shown to evolve toward FBA-predicted phenotypes \[68\], observed growth defects and intracellular fluxes of nonevolved GMSs cannot be explained by stoichiometry and a cellular growth objective alone \[69, 70, 71\].
+Alongside the over- and heterologous expression of genes, rearrangement of metabolic networks and flux distributions by gene deletions is a core instrument in metabolic engineering. In recent years, many computational strain design methods have been developed to accelerate and rationalize the engineering of microbial cell factories. However, in contrast to the vast number of model-driven strain design and optimization methods \[[[@maiaSilicoConstraintBasedStrain2016|67]]\], constraint-based methods have often proven unreliable in predicting phenotypes of gene deletion mutant strains (GMSs). While GMSs have been shown to evolve toward FBA-predicted phenotypes \[[[@fongMetabolicGeneDeletion2004|68]]\], observed growth defects and intracellular fluxes of nonevolved GMSs cannot be explained by stoichiometry and a cellular growth objective alone \[[[@kimRELATCHRelativeOptimality2012|69]], [[@longCharacterizationPhysiologicalResponses2016|70]], [[@longMetabolicFluxResponses2019|71]]\].
 
 
 ## Reference
@@ -232,7 +232,11 @@ Alongside the over- and heterologous expression of genes, rearrangement of metab
 - [65] [[@flamholzGlycolyticStrategyTradeoff2013]]
 - [66] [[@ngParetoOptimalityExplanation2019]]
 - [67] [[@maiaSilicoConstraintBasedStrain2016]]
-
+- [68] [[@fongMetabolicGeneDeletion2004]]
+- [69] [[@kimRELATCHRelativeOptimality2012]]
+- [70] [[@longCharacterizationPhysiologicalResponses2016]]
+- [71] [[@longMetabolicFluxResponses2019]]
+- [73] [[@paulRRNATranscriptionEscherichia2004]]
 ___
 %% Tags  ------------------------------------------------------- %%
 #review/ToRead
