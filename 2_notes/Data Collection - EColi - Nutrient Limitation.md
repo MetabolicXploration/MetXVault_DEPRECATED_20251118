@@ -55,6 +55,13 @@ Give me 20 papers candidates please.
 
 ### Priority 5
 
+#### [[@lewisOmicDataEvolved2010]]
+
+- yield
+- transcriptomic
+
+- You can compare in the yield spectrum the movement of the evolve strain vs wild
+
 #### [[@okanoRegulationUnderlyingHierarchical2019]]
 
 **Usage**

@@ -11,7 +11,7 @@ This is a collection of papers that I have found to be the best modeling results
 ## Desk
 
 > - #TODO Checl [[@sanchezImprovingPhenotypePredictions2017]]
-> - #TODO Check [[@lewisOmicDataEvolved2010]]
+> - [x] [[@lewisOmicDataEvolved2010]]
 > - #TODO Check [[@beckerContextspecificMetabolicNetworks2008]]
 > - #TODO Check [[@shlomiGenomescaleComputationalStudy2007#^20250120-023546]]
 > - #TODO Find [[Bernhard Ø Palsson|Bernhard Palsson]] conferences (youtube) 

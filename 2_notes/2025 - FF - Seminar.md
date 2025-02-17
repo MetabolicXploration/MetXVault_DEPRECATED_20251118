@@ -17,25 +17,36 @@ creation-date: "2025:02:12-10:40:50"
 
 ## Materials
 
-### shlomiGenomescaleComputationalStudy2007
+### [[@houDistinctGeneNumberGenome2009a]]
+
+- #DONE
+
+### [[@shlomiGenomescaleComputationalStudy2007]]
 
 > #Figure
 > ![[Pasted image 20250216175144.png]]
 
-### edwardsSilicoPredictionsEscherichia2001
+### [[@edwardsSilicoPredictionsEscherichia2001]]
 
-### okanoRegulationUnderlyingHierarchical2019
+### [[@okanoRegulationUnderlyingHierarchical2019]]
 
+- #DONE
 - See introduction
 
-### narangBacterialGeneRegulation2007
+### [[@narangBacterialGeneRegulation2007]]
 
-> #Figure 13. Bistability in mixed-substrate growth: Upper panel: Growth of _Streptococcus mutans_ GS5 on a mixture of lactose (LAC) and glucose (GLU) (Liberman and Bleiweis, 1984). (a) Glucose is consumed preferentially if the cells are precultured on glucose. (b) Glucose and lactose are consumed simultaneously if the cells are precultured on lactose. Lower panel: Growth of _Salmonella typhimurium_ SB1476 on a mixture on a mixture of glucose (GLU) and melibiose (MEL) (Kuroda et al., 1992). (c) Glucose-preultured cells consume glucose before melibiose. (d) Melibiose-precultured cells consume melibiose before gluose. In (b) and (d), the conentration of glucose increases at t ≈ 8 and t ≈ 6 h, respectively. It is believed that is due to expulsion of the glucose produced from intracellular hydrolysis of lactose and melibiose, respectively. #CoolExperiment 
+- #DONE
+> #Figure 13. Bistability in mixed-substrate growth: Upper panel: Growth of _Streptococcus mutans_ GS5 on a mixture of lactose (LAC) and glucose (GLU) (Liberman and Bleiweis, 1984). (a) Glucose is consumed preferentially if the cells are precultured on glucose. (b) Glucose and lactose are consumed simultaneously if the cells are precultured on lactose. Lower panel: Growth of _Salmonella typhimurium_ SB1476 on a mixture on a mixture of glucose (GLU) and melibiose (MEL) (Kuroda et al., 1992). (c) Glucose-precultured cells consume glucose before melibiose. (d) Melibiose-precultured cells consume melibiose before glucose. In (b) and (d), the concentration of glucose increases at t ≈ 8 and t ≈ 6 h, respectively. It is believed that is due to expulsion of the glucose produced from intracellular hydrolysis of lactose and melibiose, respectively. #CoolExperiment 
 - ![[Pasted image 20250216150044.png]]
 
-> #NOTE This is an example of the regulation not necessarily having an universal behaviour. 
+> #NOTE This is an example of the regulation not necessarily having a 'simple' behaviour. 
 
-#### alterProteomeRegulationPatterns2021
+#### [[@alterProteomeRegulationPatterns2021]]
+
+#### [[@liQuantifyingAbsoluteProtein2014]]
+
+- ribosome profiling
+- regulation of translation rate \propto copy number
 
 
 ___
