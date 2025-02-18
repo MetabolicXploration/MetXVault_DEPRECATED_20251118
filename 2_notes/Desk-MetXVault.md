@@ -20,7 +20,7 @@ creation-date: 2024:10:14-06:07:23
 ***
 ### 2025-02-05
 
-#DOING File the doctoral thesis 'Growth Kinetics of Escherichia coli: Effect of Temperature, Mixed Substrate Utilization and Adaptation to Carbon-Limited Growth'.
+#DONE File the doctoral thesis 'Growth Kinetics of Escherichia coli: Effect of Temperature, Mixed Substrate Utilization and Adaptation to Carbon-Limited Growth'.
 
 > ***
 > #ISSUE/TODO
@@ -45,9 +45,7 @@ creation-date: 2024:10:14-06:07:23
 ***
 ### 2025-02-03
 
-#### TODO
-
-#TODO Answer this question (move to `notebook`)
+#DEPRECATED Answer this question (move to `notebook`)
 https://stackoverflow.com/questions/77029618/when-should-i-use-type-annotations-for-variables-arguments-and-return-types-in
 
 ```julia
@@ -109,18 +107,6 @@ end
 
 ***
 ### 2025-01-23
-
-> ***
-> #ISSUE/TODO
-> 
-> #### Title
-> 
->  %% Add extra data here  %%
-> 
-> 
-> #Target/JohnDoe #Referee/JohnDoe
-> `2025:01:23-11:49:57`
-
 
 ***
 ### 2025-01-19
@@ -261,16 +247,11 @@ end
 > #Target/Jose #Referee/Brito
 > `2024:11:06-08:23:10`
 
-
-
-
 ***
 ### 2024-11-02
 
-
 ***
 ### 2024-11-01
-
 
 ***
 ### 2024-10-26

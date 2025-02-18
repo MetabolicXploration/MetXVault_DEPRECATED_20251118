@@ -23,6 +23,8 @@ creation-date: "2025:02:12-10:40:50"
 
 ### [[@shlomiGenomescaleComputationalStudy2007]]
 
+- #DONE
+
 > #Figure
 > ![[Pasted image 20250216175144.png]]
 
@@ -41,9 +43,9 @@ creation-date: "2025:02:12-10:40:50"
 
 > #NOTE This is an example of the regulation not necessarily having a 'simple' behaviour. 
 
-#### [[@alterProteomeRegulationPatterns2021]]
+### [[@alterProteomeRegulationPatterns2021]]
 
-#### [[@liQuantifyingAbsoluteProtein2014]]
+### [[@liQuantifyingAbsoluteProtein2014]]
 
 - ribosome profiling
 - regulation of translation rate \propto copy number

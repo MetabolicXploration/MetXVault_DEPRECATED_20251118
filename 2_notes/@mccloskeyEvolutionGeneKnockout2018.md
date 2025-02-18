@@ -24,6 +24,7 @@ ___
 
 %% Write here %%
 
+> Great work. It will be great to get all raw data from this study. he data gathering was very complete. The setup is also well design. The started from E. coli wild type and evolve it in glucode. From this optimized reference, they produce a group of metabolically meaninful KOs. After that, they evolve again every body to see the KOs strategies to recover optimality. 
 
 
 

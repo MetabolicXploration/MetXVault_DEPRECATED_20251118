@@ -23,7 +23,7 @@ creation-date: 2025:02:04-03:42:27
 	- We can compare the ensemble downvectors with transcriptomic data
 		- corr of off genes
 		- corr of on  genes
-		- coor of on ans off genes
+		- coor of on and off genes
 - Yield/Shadow prices
 	- Yield is a magnitude that is directly linked to the stoichiometry and on/off regulation. It is not that important the specific culture conditions. 5 mM of glc and 4 mM of glucose might lead to the same yield. 
 	- The same for shadow prices in general
@@ -71,6 +71,8 @@ Give me 20 papers candidates please.
 
 #### [[@mccloskeyEvolutionGeneKnockout2018]]
 
+#CHECKED 
+
 **Usage**
 - This is a lab evolved study of E. coli KOs
 - If we can track the yield of the evolving cells, we can see if it jump discreetly
@@ -82,6 +84,8 @@ Give me 20 papers candidates please.
 - We can try to align the experimental yield spectrum with the theo spectrum
 - After we do that, we can identify the regulation modes that produces them and check the transcriptomic data
 - #Project/YieldSpectrometry
+- #Problem I can't find raw flux, metabolomic, nor transcriptomic in the supp matts.
+
 
 #### [[@metzl-razPrinciplesCellularResource2017]]
 

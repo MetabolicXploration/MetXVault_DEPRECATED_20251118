@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: #!cdate
+creation-date: 2025:02:17-17:52:06
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -8,7 +8,7 @@ creation-date: #!cdate
 
 ### Meta
 - ** citekey **: vazquezMacromolecularCrowdingExplains2016
-- ** authors **: Alexei Vazquez, Zoltán N. Oltvai
+- ** authors **: [[Alexei Vazquez]], Zoltán N. Oltvai
 - ** year **: [[2016]]
 - ** doi **: https://doi.org/10.1038/srep31007
 - ** publication **: Scientific Reports
