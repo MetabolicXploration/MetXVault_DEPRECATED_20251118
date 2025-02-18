@@ -3,11 +3,13 @@ basic-note-template: v0.2.0
 creation-date: 2025:02:04-03:42:27
 ---
 
+
 %% Note Body --------------------------------------------------- %%
 
 
 %% Write here %%
 
+************************
 ## Desk
 
 #Doing 
@@ -15,6 +17,7 @@ creation-date: 2025:02:04-03:42:27
 - Keep iterativelly improving the prompt. 
 - Maybe move to mammalian cells (always complex medium)
 
+************************
 ## Target Data
 
 - Exchange pattern
@@ -31,9 +34,11 @@ creation-date: 2025:02:04-03:42:27
 	- We can fix a yield (select an ensemble) and compare the others.
 
 
+************************************************
 ## Dev
 
 
+************************
 ### Prompt
 
 Hi, I need help finding literature (papers) about E. coli cultures with the following characteristics (not all necessarily).
@@ -48,32 +53,54 @@ Hi, I need help finding literature (papers) about E. coli cultures with the foll
 Give me 20 papers candidates please.
 
 
+************************************************
 ## Papers
 
-
-
-
+************************
 ### Priority 5
 
+***
 #### [[@lewisOmicDataEvolved2010]]
 
+#PDF/YES
+
+#Physiology/Data
 - yield
 - transcriptomic
 
+#USAGE
 - You can compare in the yield spectrum the movement of the evolve strain vs wild
 
+***
 #### [[@okanoRegulationUnderlyingHierarchical2019]]
+
+#PDF/YES
 
 **Usage**
 - Check if the yield for different nutrients do not change with intake rate. 
 
+***
 #### [[@fongLatentPathwayActivation2006]]
 
+#PDF/NO
+
+***
 #### [[@mccloskeyEvolutionGeneKnockout2018]]
 
-#CHECKED 
+#PDF/YES
 
-**Usage**
+#STATUS #CHECKED 
+
+#PRIORITY/5
+
+#PROBLEM 
+I can't find raw flux, metabolomic, nor transcriptomic in the supp matts.
+
+#WOULD-BE
+
+The experimental setup is great and would be nice to have the raw data
+
+#USAGE
 - This is a lab evolved study of E. coli KOs
 - If we can track the yield of the evolving cells, we can see if it jump discreetly
 - We can check if the jumps are compatible with the yields 'nodes' described by the network
@@ -84,47 +111,74 @@ Give me 20 papers candidates please.
 - We can try to align the experimental yield spectrum with the theo spectrum
 - After we do that, we can identify the regulation modes that produces them and check the transcriptomic data
 - #Project/YieldSpectrometry
-- #Problem I can't find raw flux, metabolomic, nor transcriptomic in the supp matts.
+- 
 
 
+***
 #### [[@metzl-razPrinciplesCellularResource2017]]
 
-#### [[@mccloskeyEvolutionGeneKnockout2018]]
+#PDF/NO
 
-#ToRead
-
+***
 #### [[@fongMetabolicGeneDeletion2004]]
 
+#PDF/NO
+
+***
 #### [[@longMetabolicFluxResponses2019]]
 
+#PDF/YES
+
+#USAGE 
+
+***
 #### [[@longCharacterizationPhysiologicalResponses2016]]
 
+#PDF/NO
+
+***
 #### [[@brLargescale13CfluxAnalysis2011]]
 
+#PDF/YES
+
+#PaperSON/Included  
+
+***
 #### [[@perrenoudImpactGlobalTranscriptional2005]]
 
+***
 #### [[@nanchenNonlinearDependencyIntracellular2006]]
 
+***
 #### [[@vemuriOverflowMetabolismEscherichia2006]]
 
+***
 #### [[@valgepeaSystemsBiologyApproach2010]] 
 
+***
 #### [[@folsomPhysiologicalProteomicAnalysis2014]] 
 
+***
 #### [[@mccloskeyModeldrivenQuantitativeMetabolomics2014]]
 
+***
 #### [[@peeboProteomeReallocationEscherichia2015]]
 
+***
 ####  [[@folsomPhysiologicalBiomassElemental2015]]
 
+***
 #### [[@folsomPhysiologicalProteomicAnalysis2014]]
 
+***
 #### [[@schmidtQuantitativeConditiondependentEscherichia2016]]
 
+***
 #### [[@ishiiMultipleHighthroughputAnalyses2007]]
 
 - Transcriptomic
 
+***
 #### [[@warsiDifferentAdaptiveStrategies2018]]
 
 - #ISSUE/IDEA 
@@ -132,27 +186,37 @@ Give me 20 papers candidates please.
 - 
 - Check if the adaptations are combative with the Nutrient Limited ensemble
 
+***
 #### [[@moriQuantifyingBenefitProteome2017]]
 
+***
 #### [[@blankLargescale13CfluxAnalysis2005]]
 
+***
 #### [[@moriYieldcostTradeoffGoverns2019]]
 
+***
 #### [[@nakahigashiSystematicPhenomeAnalysis2009]]
 
+***
 #### [[@obrienGenomescaleModelsMetabolism2013]]
 
+***
 #### [[@mahadevanDynamicFluxBalance2002]]
 
+***
 #### [[@alterProteomeRegulationPatterns2021]]
 
+***
 #### [[@kimGrowthColiFormate2020]]
 
+***
 #### [[@payneEnergyYieldsGrowth1970]]
 
 - **Priority**:  5
 - #yield
 
+***
 #### [[@bauerMaximalExponentialGrowth1974]]
 
 - **Priority**:  5
@@ -177,6 +241,7 @@ Give me 20 papers candidates please.
 - **References of interest**
 - **Notes**:
 
+***
 #### [[@begIntracellularCrowdingDefines2007]]
 
 - **Priority**: 5
@@ -197,6 +262,7 @@ Give me 20 papers candidates please.
 - **Notes**:
 
 
+***
 #### [[@kumarMetabolicRegulationEscherichia2010]]
 
 - **Priority**: 5
@@ -208,7 +274,7 @@ Give me 20 papers candidates please.
 - **Medium**:
 - **Physiological Data**:
 	- biomass, glucose and acetate concentration
-	- cell #Yield (g/g)
+	- cell #yield (g/g)
 	- specific rates of glucose consumption, acetate and CO2 production (mmol/g DCW. h).
 - **Nutrient Limitation(s)**:
 	- Carbon
@@ -219,15 +285,20 @@ Give me 20 papers candidates please.
 - **Notes**:
 
 
+***
 #### [[@paliyGrowthColiBL212007]]
 
 
+***
 #### [[@turcotHydrogenProductionContinuous2008]]
 
+***
 #### [[@andersenAreGrowthRates1980]]
 
+***
 #### [[@pooleEffectsSulphatelimitedGrowth1975]]
 
+***
 #### [[@stouthamerUtilizationEnergyGrowth1973]]
 
 
@@ -245,51 +316,70 @@ Give me 20 papers candidates please.
 - **Notes**:
 
 
+***
 #### [[@harrisonTransientResponsesFacultatively1971]]
 
+***
 #### [[@doshiOptimalModelMicrobial1998]]
 
+***
 #### [[@covertTranscriptionalRegulationConstraintsbased2002]]
 
+***
 #### [[@marrGrowthRateEscherichia1991]]
 
 > - **Priority**: 3
 > - **Issue**: No pdf
 
+***
 #### [[@farmerEnergeticsEscherichiaColi1976]]
 
 > - **Priority**: 5
 
+***
 #### [[@hempflingEffectsVaryingCarbon1975]]
 
 > - **Priority**: 5
 
+***
 #### [[@vasilakouEscherichiaColiMetabolism2020]]
 
 > - **Priority**: 5
 
+***
 #### [[@kovafovaGrowthKineticsEscherichia1996]]
 
+***
 #### [[@massucciScalingOptimalSynergy2015]]
 
+***
 #### [[@lendenmannKineticModelsGrowth1998]]
 
+***
 #### [[@kovarova-kovarGrowthKineticsSuspended1998]]
 
+***
 #### [[@lendenmannGrowthKineticsEscherichia2000]]
 
+***
 #### [[@wuEnzymeExpressionKinetics2023]]
 
+***
 #### [[@brenLastGenerationBacterial2013]]
 
+***
 #### [[@wytockPredictingGrowthRate2019]]
 
+***
 #### [[@carreraIntegrativeMultiscaleGenomewide2014]]
 
+***
 #### [[@waldherrDynamicOptimizationMetabolic2015]]
 
+***
 #### [[@gerosaPseudotransitionAnalysisIdentifies2015]]
 
+***
 #### [[@seniorRegulationNitrogenMetabolism1975]]
 
 > - #TODO
@@ -319,38 +409,47 @@ Give me 20 papers candidates please.
 - **References of interest**
 - **Notes**:
 
+***
 #### [[@ammarRegulationMetabolismEscherichia2018]]
 
 - **Priority**: 5
 
 
+***
 #### [[@aidelbergHierarchyNonglucoseSugars2014]]
 
 - **Priority**: 5
 
+***
 #### [[@narangBacterialGeneRegulation2007]]
 
 - **Priority**: 5
 
+***
 #### [[@hermsenGrowthRateComposition2015]]
 
 - **Priority**: 5
 
+***
 #### [[@wangGrowthStrategyMicrobes2019]]
 
 - **Priority**: 5
 
 
+***
 #### [[@kochanowskiFewRegulatoryMetabolites2017]]
 
 - **Priority**: 5
 
+***
 #### [[@liMetabolicPotentialEscherichia2014]]
 
 
+***
 #### [[@zengBridgingSubstrateIntake2020]]
 
 
+***
 #### [[@narangNewPatternsMixedsubstrate1997]]
 
 - **Physiological Data**:
@@ -361,23 +460,28 @@ Give me 20 papers candidates please.
 	- Baltzis, B. C., Fredrickson, A. G. 1988. Limitation of growth rate by two complementary nutrients: Some elementary but neglected considerations. Biotechnol. Bioeng. 31: 75–86.
 
 
+***
 #### [[@baltzisLimitationGrowthRate1988]]
 
 
+***
 #### [[@narangSteadyStatesMicrobial1998]]
 
-%% --- . - . - - .- . - - - .  . - - - -- .- .- .-.- - .-- .-. --. -.-  %%
 
+************************
 ### Priority 4
 
 
+***
 #### [[@peeboProteomeReallocationEscherichia2015]]
 
 
+***
 #### [[@obrienQuantificationClassificationColi2016]]
 
 - **Priority**: 4
 
+***
 #### [[@reilingMassCultureEscherichia1985]]
 
 #ResearchIdea/CompareBatchChemostatGrowth
@@ -409,10 +513,12 @@ Give me 20 papers candidates please.
 	- Culture is performed till [[washout]]
 
 
+***
 #### [[@liEscherichiaColiTranslation2018]]
 
 - **Priority**: 4
 
+***
 #### [[@brenGlucoseBecomesOne2016]]
 
 - **Priority**: 4
@@ -420,6 +526,7 @@ Give me 20 papers candidates please.
 	- Supplementary Materials
 
 
+***
 #### [[@zampieriRegulatoryMechanismsUnderlying2019]]
 
 - **Priority**: 4
@@ -427,6 +534,7 @@ Give me 20 papers candidates please.
 	- Supplementary Materials
 
 
+***
 #### [[@shehataEffectNutrientConcentration1971]]
 
 - **Priority**: 4
@@ -435,6 +543,7 @@ Give me 20 papers candidates please.
 	- Supplementary Materials
 
 
+***
 #### [[@egliConceptMultiplenutrientlimitedGrowth2003]]
 
 - **Priority**: 4
@@ -464,50 +573,65 @@ Give me 20 papers candidates please.
 	- Herbert D. The chemical composition of microorganisms as a function of their growth environment. In: Meynell CG, Gooder H, editors. Microbial reaction to the environment. Cambridge: Cambridge University Press; 1961. p. 391 – 416.
 - **Notes**:
 
+
+************************
 ### Priority < 4
 
 
+***
 #### [[@hanlyDynamicFluxBalance2011]]
 
 > - #Priority/3
 
+***
 #### [[@frittsEnhancedNutrientUptake2020]]
 
 > - #Priority 3
 
+***
 #### [[@joyStudyGrowthEscherichia2010]]
 
 > - **Priority**: 3
 
+***
 #### [[@desaiRegulationArabinoseXylose2010]]
 
 - **Priority**: 3
 
+***
 #### [[@afrozBacterialSugarUtilization2014]]
 
 - **Priority**: 3
 
+***
 #### [[@kremlingUnderstandingCarbonCatabolite2015]]
 
 - **Priority**: #ToCheck
 
+***
 #### [[@changGeneExpressionProfiling2002]]
 
 - **Priority**: 3
 
 
+***
 #### [[@karlsenStudyDiauxicGrowth2023]]
 
+***
 #### [[@bettenbrockQuantitativeApproachCatabolite2006]]
 
 - **Priority**: 3
 
+***
 #### [[@perrinDiauxieCoutilizationCarbon2020]]
 
+***
 #### [[@zinnDualNutrientLimited2004]]
 
+***
 #### [[@egliMultiplenutrientlimitedGrowthMicroorganisms1991]]
 
+***
 #### [[@guptaGlobalProteinTurnover2024]]
 
 
@@ -530,6 +654,7 @@ Give me 20 papers candidates please.
 > 	- #Project/NutrientLimitation 
 
 
+***
 #### [[@edwardsSilicoPredictionsEscherichia2001]]
 
 - **Priority**: 2
@@ -545,6 +670,7 @@ Give me 20 papers candidates please.
 - **Notes**:
 
 
+***
 #### [[@yeeDefinedMediaOptimization1993]]
 
 #ResearchIdea/CompareBatchChemostatGrowth
@@ -581,6 +707,7 @@ Give me 20 papers candidates please.
 	- Culture is performed till [[washout]]
 
 
+***
 #### [[@reilingMassCultureEscherichia1985]]
 
 #ResearchIdea/CompareBatchChemostatGrowth
@@ -629,6 +756,7 @@ Give me 20 papers candidates please.
 - **References of interest**
 - **Notes**:
 
+***
 #### [[@seniorRegulationNitrogenMetabolism1975]]
 
 > - #TODO
@@ -666,4 +794,4 @@ ___
 #Project/PaperSON 
 #Project/NutrientLimitation 
 #Vault/MetXVault 
-#Auxotroph
+#DeskNote

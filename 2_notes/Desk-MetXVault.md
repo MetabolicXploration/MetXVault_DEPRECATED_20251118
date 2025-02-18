@@ -7,6 +7,16 @@ creation-date: 2024:10:14-06:07:23
 
 
 ***
+### 2025-02-18
+
+- #TODO Mark as #ToRead [[@defalcoMetabolicFluxAnalysis2022]]
+
+- #Project/RegulationImageMC 
+- Is we plot biomass_yield vs O2_yield, there is a empty line dividing two regions. 
+- How easy, data fill this empty line?
+- This is the type of feature we should find to qualitatively test against data...
+
+***
 ### 2025-02-14
 
 - #TODO/ToFile

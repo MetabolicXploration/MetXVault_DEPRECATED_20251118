@@ -25,9 +25,21 @@ ___
 %% Write here %%
 
 
+## Results
 
+> #Figure 2 In adaptive evolution through serial passaging, E. coli evolves to a higher growth rate and biomass yield at exponential growth. Growth rates and substrate uptake rates were acquired for each strain before and after adaptive evolution, as reported earlier ([[@ssParallelAdaptiveEvolution2005|Fong et al, 2005]]; Charusanti et al, submitted for publication). For growth on (A) glycerol, (B) lactate, and for (C) the Dpgi strain grown on glucose, the evolved strains (red) all improved their growth rate and biomass yield at exponential growth, compared with the unevolved parent strains (blue).
+> ![[Pasted image 20250218113853.png]]
+
+## Reference
+
+- [Fong et al, 2005]  [[@ssParallelAdaptiveEvolution2005]] 
 
 
 ___
 %% Tags  ------------------------------------------------------- %%
 #review/ToRead
+#Evolution 
+#Data/Yield
+#Data/Transcriptomic 
+#EColi 
+#PaperSON/Included

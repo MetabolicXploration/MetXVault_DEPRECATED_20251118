@@ -7,6 +7,14 @@ basic-note-template: "v0.2.0"
 
 %% Write here %%
 
+#### [[@gopalakrishnanKFITAcceleratedKinetic2020]]
+
+#Fluxomic
+
+The applicability of K-FIT to large-scale models is demonstrated by parameterizing an expanded kinetic model for E. coli (307 reactions and 258 metabolites) using fluxomic data from six mutants.
+
+#### [[@huKETCHUPParameterizingLargescale2024]]
+
 #### [[@hanlyDynamicFluxBalance2011]]
 
 #### [[@alterProteomeRegulationPatterns2021]]

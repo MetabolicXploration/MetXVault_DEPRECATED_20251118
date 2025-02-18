@@ -28,13 +28,13 @@ ___
 
 ## Introduction
 
-Bacteria grown on multiple carbon substrates often consume them sequentially, using some only after others are depleted [1,2] . This ‘hierarchical’ order of utilization has been studied most intensely in Escherichia coli [1,3–5] , particularly through the iconic diauxic growth on lactose and glucose [6, 7] . #Project/PaperSON [[Data Collection - EColi - Nutrient Limitation]]
+Bacteria grown on multiple carbon substrates often consume them sequentially, using some only after others are depleted [1,2] . This ‘hierarchical’ order of utilization has been studied most intensely in Escherichia coli [1,3–5] , particularly through the iconic diauxic growth on lactose and glucose [6, 7] . #Project/PaperSON [[Data Collection - EColi - Physiology]]
 
-However, several studies have demonstrated that mixtures of carbon substrates that are utilized hierarchically in batch cultures are utilized simultaneously in carbon-limited chemostat cultures [8–10]. #Project/PaperSON [[Data Collection - EColi - Nutrient Limitation]]
+However, several studies have demonstrated that mixtures of carbon substrates that are utilized hierarchically in batch cultures are utilized simultaneously in carbon-limited chemostat cultures [8–10]. #Project/PaperSON [[Data Collection - EColi - Physiology]]
 
-Similarly, if multiple substrates are present at low concentrations, they are often utilized simultaneously even in batch culture [8,11–13]. #Project/PaperSON [[Data Collection - EColi - Nutrient Limitation]]
+Similarly, if multiple substrates are present at low concentrations, they are often utilized simultaneously even in batch culture [8,11–13]. #Project/PaperSON [[Data Collection - EColi - Physiology]]
 
-Intriguingly, hierarchical utilization appears to be limited to combinations of glycolytic substrates: gluconeogenic substrates tend to be co-utilized with other substrates [14] #Project/PaperSON [[Data Collection - EColi - Nutrient Limitation]]
+Intriguingly, hierarchical utilization appears to be limited to combinations of glycolytic substrates: gluconeogenic substrates tend to be co-utilized with other substrates [14] #Project/PaperSON [[Data Collection - EColi - Physiology]]
 
 
 ## Results
@@ -53,11 +53,11 @@ A recent study reported that the intracellular FBP pool increases linearly with 
 
 ## Reference
 
-[1] [[@monod1942recherches]]
-[2] [[@monodPHENOMENONENZYMATICADAPTATION1978]]
-[3] [[@narangBacterialGeneRegulation2007]]
-[4] Deutscher, J., Francke, C. & Postma, P. W. How phosphotransferase system-related protein phosphorylation regulates carbohydrate metabolism in bacteria. Microbiol. Mol. Biol. Rev. 70, 939–1031 (2006).
-[5] Narang, A. & Pilyugin, S. S. Bacterial gene regulation in diauxic and non-diauxic growth. J. Teor. Biol. 244, 326–348 (2007).
+[1]  [[@monod1942recherches]]
+[2]  [[@monodPHENOMENONENZYMATICADAPTATION1978]]
+[3]  [[@narangBacterialGeneRegulation2007]]
+[4]  [[@deutscherHowPhosphotransferaseSystemRelated2006]].
+[5]  [[narangBacterialGeneRegulation2007]]
 [6] Loomis, W. F. & Magasanik, B. Glucose-lactose diauxie in Escherichia coli. J. Bacteriol. 93, 1397–1401 (1967).
 [7] Inada, T., Kimata, K. & Aiba, H. Mechanism responsible for glucose-lactose diauxie in Escherichia coli: challenge to the cAMP model. Genes Cells 1, 293–301 (1996).
 [7] Lendenmann, U., Snozzi, M. & Egli, T. Kinetics of the simultaneous utilization of sugar mixtures by Escherichia coli in continuous culture. Appl. Environ. Microbiol. 62, 1493–1499 (1996).
