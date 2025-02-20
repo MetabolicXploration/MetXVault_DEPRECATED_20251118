@@ -80,13 +80,16 @@ One of the most consistent observations is that the relative amount of RNA per c
 
 Nevertheless, when looking at [[RNA-protein ratio|RNA:protein ratio]] we consistently find a positive correlation with growth rate across various species of bacteria (see Figure 2.2) and yeast [15, 17]. RNA:protein ratio is a measure of protein production capacity since most RNA is dedicated to protein synthesis. 80% is rRNA, which forms 2/3 of the mass of a bacterial ribosome – the molecular machine that makes proteins, and 15% is tRNA which brings new amino acids to the ribosome... #ReferenceSource/ToRead
 
-Indeed, we also observe a correlation between ribosome content and growth rate. The increase of RNA:protein ratio and ribosome content with increasing growth rate reflect higher biosynthetic needs of faster-growing cells. To support higher growth rate, cells need to reallocate resources according to the growth demands (for example, make more ribosomes which can then make more proteins) [18, 17, 15, 19]. #ReferenceSource/ToRead 
+Indeed, we also observe a correlation between ribosome content and growth rate. The increase of RNA:protein ratio and ribosome content with increasing growth rate reflect higher biosynthetic needs of faster-growing cells. To support higher growth rate, cells need to reallocate resources according to the growth demands (for example, make more ribosomes which can then make more proteins) \[18, 17, 15, [[@liEscherichiaColiTranslation2018|19]]\]. #ReferenceSource/ToRead 
 
 Similarly to protein content, there is no clear correlation between the relative DNA and lipid content with growth rate across studies [13] (BNID 111460, 111755, 108196). The content of storage carbohydrates decreases at higher growth rates in yeast and bacteria [16] (BNID 111755, 111460).
 
-Conversely, environmental factors can influence cell composition without affecting growth rate. This shows that cell metabolism is flexible – cells can reach the same growth rate in different ways, depending on the conditions. For example, in yeast, changes of O2 concentration lead to changes in biomass composition while keeping the growth constant using a [chemostat] [20] ([[note-20241017-072016|notes]]). #DataSource 
+Conversely, environmental factors can influence cell composition without affecting growth rate. This shows that cell metabolism is flexible – cells can reach the same growth rate in different ways, depending on the conditions. For example, in yeast, changes of O2 concentration lead to changes in biomass composition while keeping the growth constant using a [[chemostat]] [20] ([[note-20241017-072016|notes]]). #DataSource 
 
-Interestingly, even though the total protein content is variable, the amino acid composition is roughly constant at different growth rates/conditions in bacteria, yeast, and mammalian cells and can even be predicted from a genome sequence with reasonable accuracy [20, 21, 12] ([[note-20241017-072513|notes]]). #ReferenceSource/ToCheck #Interesting 
+Interestingly, even though the total protein content is variable, the amino acid composition is roughly constant at different growth rates/conditions in bacteria, yeast, and mammalian cells and can even be predicted from a genome sequence with reasonable accuracy [20, 21, 12] ([[note-20241017-072513|notes]]). #ReferenceSource/ToCheck #Interesting  #GEM/Constraint
+
+
+
 
 #### 2.3.3. Biomass composition is not uniform
 
@@ -370,6 +373,7 @@ This ratio is known as the reaction’s [[equilibrium constant]] Keq and hence t
 ... It is important to note here that, given $K_{eq}$ is a constant determined by thermodynamics, the parameters $k_{+}$ and $k_{−}$ cannot be chosen independently, i..e $k_{−} = K_{eq}/k_{+}$ ([[note-20241106-090808|notes]]). #Insight 
 
 ##### Enzymatic reactions 
+
 The **mass action** rate discussed above forms also the basis of modeling enzymatic reactions. This approach is justified by considering each enzymatic reaction as a series of ‘elementary steps’, each obeying the mass action rate model.
 
 Here, we will cover some of the most common of such models, noticing that the construction of these models follows the same **general principles** of (i) drawing up **elementary reactions**, (ii) writing down **mass action based kinetic rates** for the system, and (iii) simplifying the system with **assumptions** on **kinetic parameters** (see Appendix A.1). #Insight 
@@ -558,3 +562,4 @@ Second, in [[steady growth]], the size distribution of newborn cells does not ch
 ___
 %% Tags  ------------------------------------------------------- %%
 #review/ToRead
+#Vault/MetXVault 
