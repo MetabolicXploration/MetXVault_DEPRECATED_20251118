@@ -28,13 +28,13 @@ ___
 
 ## Introduction
 
-Bacteria grown on multiple carbon substrates often consume them sequentially, using some only after others are depleted [1,2] . This ‘hierarchical’ order of utilization has been studied most intensely in Escherichia coli [1,3–5] , particularly through the iconic diauxic growth on lactose and glucose [6, 7] . #Project/PaperSON [[Data Collection - EColi - Physiology]]
+Bacteria grown on multiple carbon substrates often consume them sequentially, using some only after others are depleted [1,2] . This ‘hierarchical’ order of utilization has been studied most intensely in Escherichia coli [1,3–5] , particularly through the iconic diauxic growth on lactose and glucose [6, 7] . #Project/PaperSON [[Collection - EColi - Physiology]]
 
-However, several studies have demonstrated that mixtures of carbon substrates that are utilized hierarchically in batch cultures are utilized simultaneously in carbon-limited chemostat cultures [8–10]. #Project/PaperSON [[Data Collection - EColi - Physiology]]
+However, several studies have demonstrated that mixtures of carbon substrates that are utilized hierarchically in batch cultures are utilized simultaneously in carbon-limited chemostat cultures [8–10]. #Project/PaperSON [[Collection - EColi - Physiology]]
 
-Similarly, if multiple substrates are present at low concentrations, they are often utilized simultaneously even in batch culture [8,11–13]. #Project/PaperSON [[Data Collection - EColi - Physiology]]
+Similarly, if multiple substrates are present at low concentrations, they are often utilized simultaneously even in batch culture [8,11–13]. #Project/PaperSON [[Collection - EColi - Physiology]]
 
-Intriguingly, hierarchical utilization appears to be limited to combinations of glycolytic substrates: gluconeogenic substrates tend to be co-utilized with other substrates [14] #Project/PaperSON [[Data Collection - EColi - Physiology]]
+Intriguingly, hierarchical utilization appears to be limited to combinations of glycolytic substrates: gluconeogenic substrates tend to be co-utilized with other substrates [14] #Project/PaperSON [[Collection - EColi - Physiology]]
 
 
 ## Results

@@ -52,7 +52,7 @@ Check supplementary materials
 ***
 ### [[@mccloskeyEvolutionGeneKnockout2018]]
 
-See at [[Data Collection - EColi - Physiology#@mccloskeyEvolutionGeneKnockout2018]]
+See at [[Collection - EColi - Physiology#@mccloskeyEvolutionGeneKnockout2018]]
 
 ***
 ### [[@longMetabolicFluxResponses2019]]

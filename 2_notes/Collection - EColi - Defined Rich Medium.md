@@ -28,8 +28,6 @@ This collection must contain papers with studies made on E. coli in defined rich
 		- nutrient yields?
 		- yield change after some nutrients are depleted?
 
-***
-### [[@chenUnconventionalUptakeRate2019]]
 
 
 
