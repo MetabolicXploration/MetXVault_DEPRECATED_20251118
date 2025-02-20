@@ -6,7 +6,7 @@ dev
 Manifest.toml
 .obsidian
 _dev*
-ObaServer.json
+Oba.json
 *.webm
 
 _DEPRECATED
