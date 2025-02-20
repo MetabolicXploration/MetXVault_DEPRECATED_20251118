@@ -3,7 +3,7 @@ citation-template: v0.2.0
 creation-date: "2023:05:24-11:45:14"
 ---
 
-#!cdate
+#!mdate
 
 
 %% Note Body --------------------------------------------------- %%
