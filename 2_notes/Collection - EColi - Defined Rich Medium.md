@@ -7,11 +7,6 @@ creation-date: "2025:02:20-10:03:06"
 
 %% Write here %%
 
-
-2025:02:20-18:20:02
-
-
-
 ******
 ## Abstract
 
@@ -35,7 +30,6 @@ This collection must contain papers with studies made on E. coli in defined rich
 
 ***
 ### [[@chenUnconventionalUptakeRate2019]]
-
 
 ___
 
