@@ -17,6 +17,10 @@ This collection group resources for getting the kinetic parameters necessary for
 ### [[@gopalakrishnanKFITAcceleratedKinetic2020]]
 
 
+### [[@huKETCHUPParameterizingLargescale2024]]
+
+
+
 ___
 
 %% Tags ------------------------------------------------------- %%

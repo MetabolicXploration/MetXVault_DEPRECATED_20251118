@@ -10,14 +10,6 @@ creation-date: 2025:02:04-03:42:27
 %% Write here %%
 
 ************************
-## Desk
-
-#Doing 
-- Create a detailed prompt to search specific papers on deepseek/OpenIA etc
-- Keep iterativelly improving the prompt. 
-- Maybe move to mammalian cells (always complex medium)
-
-************************
 ## Target Data
 
 - Exchange pattern
