@@ -64,7 +64,39 @@ The existence of dual-nutrient-limited transition zones between single-nutrient-
 >
 > ![[Pasted image 20230524123044.png|300]]
 
+## References
 
+[1] https://doi.org/10.1002/bit.260360810 (1990) missing
+[2] https://doi.org/10.1007/BF00245217 (1992) missing
+[3] (1986) missing
+[4] https://doi.org/10.1128/AEM.31.1.91-98.1976 (1976) missing
+[5] (1989) missing
+[6] Durner RA. Feast and starvation: accumulation of bioplastic in Pseudomonas oleovorans. PhD thesis No 12591, Swiss Federal Institute of Technology, Zürich, Switzerland; 1998.
+[7] https://doi.org/10.1128/AEM.66.8.3408-3414.2000 (2000) missing
+[8] https://doi.org/10.1007/BF01053988 (1982) missing
+[9] https://doi.org/10.1007/BF00430367 (1991) missing
+[10] (1997) missing
+[11] (1986) missing
+[12] Frank SE. Growth characteristics of Acinetobacter johnsonii 210A under single and dual nutrient limitation, with special reference to carbon, nitrogen and phosphorus. PhD thesis No 13407, Swiss Federal Institute of Technology, Zürich, Switzerland; 1999.
+[13] (1986) missing
+[14] https://doi.org/10.1002/bit.260290704 (1987) missing
+[15] https://doi.org/10.1002/jctb.5020220311 (1972) missing
+[16] (1961) missing
+[17] (1976) missing
+[18] https://doi.org/10.1007/BF00446819 (1979) missing
+[19] Jung K. Synthesis of functionalized poly(3-hydroxyalkanoates) (PHAs) from organic solvents by Pseudomonas oleovorans. PhD thesis No 13495, Swiss Federal Institute of Technology, Zürich, Switzerland; 1999.
+[20] https://doi.org/10.1007/BF00329403 (1991) missing
+[21] (1988) missing
+[22] (1942) missing
+[23] https://doi.org/10.3354/meps035111 (1987) missing
+[24] https://doi.org/10.1128/AEM.64.8.2970-2976.1998 (1998) missing
+[25] (1975) missing
+[26] https://doi.org/10.1007/BF00248430 (1990) missing
+[27] (1991) missing
+[28] (1843) missing
+[29] https://doi.org/10.1016/0040-6031(94)02071-U (1995) missing
+[30] https://doi.org/10.1016/S0169-409X(01)00218-6 (2001) missing
+[31] https://doi.org/10.1002/abio.200390039 (2003) missing
 
 ___
 
