@@ -109,3 +109,4 @@ A recent study reported that the intracellular FBP pool increases linearly with 
 ___
 %% Tags  ------------------------------------------------------- %%
 #review/ToRead
+#Vault/MetXVault 

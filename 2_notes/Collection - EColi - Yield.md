@@ -8,7 +8,13 @@ creation-date: "2025:02:18-11:45:21"
 %% Write here %%
 
 ******
-## Papers
+## Abstract
+
+Group papers/resources where we can gather yield data for as many culture conditions as possible. 
+
+
+******
+## Resources
 
 
 ***
