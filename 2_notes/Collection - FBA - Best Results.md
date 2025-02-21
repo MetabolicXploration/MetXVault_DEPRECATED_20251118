@@ -21,6 +21,7 @@ This is a collection of papers that I have found to be the best modeling results
 - [[@varmaStoichiometricFluxBalance1994]]
 - [[@varmaStoichiometricInterpretationEscherichia1993]]
 - #ToCheck [[@obrienGenomescaleModelsMetabolism2013]]
+- [[@fongMetabolicGeneDeletion2004]]
 
 ## B. subtilis
 

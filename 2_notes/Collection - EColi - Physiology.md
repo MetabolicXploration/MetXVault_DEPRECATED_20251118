@@ -53,9 +53,28 @@ Give me 20 papers candidates please.
 
 ***
 #### [[@caglarColiMolecularPhenotype2017]]
+
+#PDF/YES
+
+- several growth conditions
+	- single C medium
+- transcriptomic 
+- fluxomic
+- proteomic
+
+#### [[@houserControlledMeasurementComparative2015]]
+
+#PDF/NO
+
+- glucose starvation
+- transcriptomic 
+- fluxomic
+- proteomic
  
 ***
 #### [[@lewisOmicDataEvolved2010]]
+
+#Priority/3 
 
 #PDF/YES
 
@@ -112,27 +131,49 @@ The experimental setup is great and would be nice to have the raw data
 ***
 #### [[@metzl-razPrinciplesCellularResource2017]]
 
-#PDF/NO
+#PDF/YES 
+
+#Yeast 
 
 ***
 #### [[@fongMetabolicGeneDeletion2004]]
 
-#PDF/NO
+#PDF/YES
+
+- evolution
+- single carbon source
 
 ***
 #### [[@longMetabolicFluxResponses2019]]
 
 #PDF/YES
 
-#USAGE 
+- KO study
+- central metabolic fluxs
+- acetate exchange
+- single C medium
 
 ***
 #### [[@longCharacterizationPhysiologicalResponses2016]]
 
-#PDF/NO
+#PDF/YES
+
+- Growth rate
+- acetate yield
+- biomass yield
+- oxigen uptake rate
+- % Protein
+- % RNA
+- % Lipids
+- % Glycogen
 
 ***
 #### [[@brLargescale13CfluxAnalysis2011]]
+
+- Acetate secretion
+- single C medium
+- C intake
+- Growth rate
 
 #PDF/YES
 
@@ -295,7 +336,6 @@ The experimental setup is great and would be nice to have the raw data
 
 ***
 #### [[@stouthamerUtilizationEnergyGrowth1973]]
-
 
 - **Priority**: 5
 - **Culture type**: 

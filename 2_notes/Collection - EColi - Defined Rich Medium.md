@@ -10,7 +10,7 @@ creation-date: "2025:02:20-10:03:06"
 ******
 ## Abstract
 
-This collection must contain papers with studies made on E. coli in defined rich mediums.
+This collection must contain papers with studies made on E. coli in defined rich mediums (more than 1 source of elements).
 
 ******
 ## Papers
@@ -27,6 +27,12 @@ This collection must contain papers with studies made on E. coli in defined rich
 	- Can we reproduce the consumption patterns for each medium?
 		- nutrient yields?
 		- yield change after some nutrients are depleted?
+
+
+
+### [[@okanoRegulationUnderlyingHierarchical2019]]
+
+- medium up to two C sources
 
 
 

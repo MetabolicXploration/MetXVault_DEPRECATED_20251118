@@ -17,11 +17,18 @@ Group papers/resources where we can gather yield data for as many culture condit
 ## Resources
 
 
+*** 
+### [[@longCharacterizationPhysiologicalResponses2016]]
+
+![[Collection - EColi - Physiology#@longCharacterizationPhysiologicalResponses2016]]
+
 ***
 ### [[@maserAvoidingAminoAcid2019]]
 
 ***
 ### [[@lewisOmicDataEvolved2010]]
+
+#Priority/3 
 
 #PaperSON/Partial
 
