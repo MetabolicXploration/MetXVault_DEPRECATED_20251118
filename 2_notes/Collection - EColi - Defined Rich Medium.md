@@ -1,6 +1,6 @@
 ---
 basic-note-template: v0.2.0
-creation-date: "2025:02:20-10:03:06"
+creation-date: 2025:02:20-10:03:06
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -17,6 +17,7 @@ This collection must contain papers with studies made on E. coli in defined rich
 
 ***
 ### [[@maserAvoidingAminoAcid2019]]
+%% addf46as %%
 
 - The experiments showed sequential (but also simultaneous) consumption of amino acids.
 - The yield (in time) for each aminoacid can be computed.
@@ -28,7 +29,7 @@ This collection must contain papers with studies made on E. coli in defined rich
 		- nutrient yields?
 		- yield change after some nutrients are depleted?
 
-
+%% 767asdf %%
 
 ### [[@okanoRegulationUnderlyingHierarchical2019]]
 

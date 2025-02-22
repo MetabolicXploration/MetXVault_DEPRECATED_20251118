@@ -9,7 +9,7 @@ creation-date: 2024:10:14-09:27:11
 
 ### Meta
 - ** citekey **: moriConstrainedAllocationFlux2016
-- ** authors **: Matteo Mori, [[Terence Hwa]], Olivier C. Martin, Andrea De Martino, Enzo Marinari
+- ** authors **: Matteo Mori, [[Terence Hwa]], Olivier C. Martin, [[Andrea De Martino]], Enzo Marinari
 - ** year **: [[2016]]
 - ** doi **: https://doi.org/10.1371/journal.pcbi.1004913
 - ** publication **: PLoS computational biology

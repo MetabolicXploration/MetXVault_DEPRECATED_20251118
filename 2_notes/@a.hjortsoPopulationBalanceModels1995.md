@@ -18,6 +18,8 @@ creation-date: 2025:02:13-16:39:37
 ### Abstract:
 Autonomous oscillations in continuous microbial cultures is well documented for the case of baker's yeast, Saccharomyces cerevisiae, for which it has been observed under a range of operating conditions. We have found that autonomous microbial oscillations can be modeled by unstructured population balance models in which a key cell cycle parameter is a function of the environmental conditions e.g., the concentration of a substrate or product. Although these models are remarkably simple, they can display a wide range of dynamic behaviors. These behaviors include, for binary fission organisms, solutions containing a single synchronous population and, for budding yeasts, two synchronized subpopulations with a period of oscillation similar to that of the cell cycle length, a pattern that has been observed experimentally in S. cerevisiae. Numerical simulations of the model equations also show that complex periodic solutions with periods very different from the cell cycle length are possible. The ability of the population balance approach to accurately describe the available data of yeast culture dynamics will be discussed.
 
+
+
 ___
 
 ## View
