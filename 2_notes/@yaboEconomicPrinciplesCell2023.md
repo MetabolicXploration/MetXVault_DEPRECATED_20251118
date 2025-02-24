@@ -55,7 +55,7 @@ To begin with, a number of different small molecules are required to produce bot
 
 The most abundant component is protein, which forms around half of the cell’s dry mass. When we divide the proteome into functional groups, we find that the biggest fractions belong to translation, central carbon metabolism, folding, sorting and degradation, and biosynthesis. A substantial fraction belongs to proteins that are not mapped (especially in mammalian cells), illustrating that we still lack knowledge about the function of many proteins ([[note-20241016-075937|notes]]). 
 
-[[RNA]] forms 20% of dry cell mass in [[E. coli]], but this number is lower in eukaryotes, such as yeast (11%) or mammalian cells (4%). While the total amount of RNA is variable in different organisms, its relative composition is similar – most of the RNA mass is formed by rRNA (80%), followed by tRNA (15%) and mRNA (5%) (BNID 100258, 100261, 106154).
+[[RNA]] forms 20% of dry cell mass in [[Escherichia coli|E. coli]], but this number is lower in eukaryotes, such as yeast (11%) or mammalian cells (4%). While the total amount of RNA is variable in different organisms, its relative composition is similar – most of the RNA mass is formed by rRNA (80%), followed by tRNA (15%) and mRNA (5%) (BNID 100258, 100261, 106154).
 
 [[Lipid]] content is the highest in mammalian cells (13%) compared to yeast and bacteria (4-10%, BNID 111209)
 
@@ -80,13 +80,16 @@ One of the most consistent observations is that the relative amount of RNA per c
 
 Nevertheless, when looking at [[RNA-protein ratio|RNA:protein ratio]] we consistently find a positive correlation with growth rate across various species of bacteria (see Figure 2.2) and yeast [15, 17]. RNA:protein ratio is a measure of protein production capacity since most RNA is dedicated to protein synthesis. 80% is rRNA, which forms 2/3 of the mass of a bacterial ribosome – the molecular machine that makes proteins, and 15% is tRNA which brings new amino acids to the ribosome... #ReferenceSource/ToRead
 
-Indeed, we also observe a correlation between ribosome content and growth rate. The increase of RNA:protein ratio and ribosome content with increasing growth rate reflect higher biosynthetic needs of faster-growing cells. To support higher growth rate, cells need to reallocate resources according to the growth demands (for example, make more ribosomes which can then make more proteins) [18, 17, 15, 19]. #ReferenceSource/ToRead 
+Indeed, we also observe a correlation between ribosome content and growth rate. The increase of RNA:protein ratio and ribosome content with increasing growth rate reflect higher biosynthetic needs of faster-growing cells. To support higher growth rate, cells need to reallocate resources according to the growth demands (for example, make more ribosomes which can then make more proteins) \[18, 17, 15, [[@liEscherichiaColiTranslation2018|19]]\]. #ReferenceSource/ToRead 
 
 Similarly to protein content, there is no clear correlation between the relative DNA and lipid content with growth rate across studies [13] (BNID 111460, 111755, 108196). The content of storage carbohydrates decreases at higher growth rates in yeast and bacteria [16] (BNID 111755, 111460).
 
-Conversely, environmental factors can influence cell composition without affecting growth rate. This shows that cell metabolism is flexible – cells can reach the same growth rate in different ways, depending on the conditions. For example, in yeast, changes of O2 concentration lead to changes in biomass composition while keeping the growth constant using a [chemostat] [20] ([[note-20241017-072016|notes]]). #DataSource 
+Conversely, environmental factors can influence cell composition without affecting growth rate. This shows that cell metabolism is flexible – cells can reach the same growth rate in different ways, depending on the conditions. For example, in yeast, changes of O2 concentration lead to changes in biomass composition while keeping the growth constant using a [[chemostat]] [20] ([[note-20241017-072016|notes]]). #DataSource 
 
-Interestingly, even though the total protein content is variable, the amino acid composition is roughly constant at different growth rates/conditions in bacteria, yeast, and mammalian cells and can even be predicted from a genome sequence with reasonable accuracy [20, 21, 12] ([[note-20241017-072513|notes]]). #ReferenceSource/ToCheck #Interesting 
+Interestingly, even though the total protein content is variable, the amino acid composition is roughly constant at different growth rates/conditions in bacteria, yeast, and mammalian cells and can even be predicted from a genome sequence with reasonable accuracy [20, 21, 12] ([[note-20241017-072513|notes]]). #ReferenceSource/ToCheck #Interesting  #GEM/Constraint
+
+
+
 
 #### 2.3.3. Biomass composition is not uniform
 
@@ -156,7 +159,7 @@ Talking in energetic terms alone, protein expression accounts for ca. 40% of ene
 
 **kinetic aspects**: the eﬃcacy (represented by the turnover number **kcat** ) and substrate speciﬁcity (**Michaelis constant** **KM** ) of an enzyme. Importantly, these two parameters are intertwined: high substrate speciﬁcity usually comes at the cost of eﬃcacy and vice versa.
 
-[[E. coli]] [[ribosome]] consists of 62% RNA and 38% protein. An average protein is ca. 32.7 kDa, roughly 70× lower than the ribosome that synthesizes this protein. #Insight #BioNumber #EColi 
+[[Escherichia coli|E. coli]] [[ribosome]] consists of 62% RNA and 38% protein. An average protein is ca. 32.7 kDa, roughly 70× lower than the ribosome that synthesizes this protein. #Insight #BioNumber #EColi 
 
 ##### Metabolic enzymes
 
@@ -168,7 +171,7 @@ Enzymes and their complexes come in different sizes and flavors, and their activ
 
 On the higher end, the benefit from high substrate concentration becomes negligible (saturation kinetics) as the concentration moves from the order of magnitude of KM (see Exercises for an example). The lower bound of concentrations is defined through high demand of enzymes: in order to sustain flux, a lot of enzyme would have to be produced. As cells have a finite volume to accommodate proteins, such a strategy works only for a very small number of enzymes. Taken together the limitations on the both sides of the spectrum, enzyme kinetics set the bounds for the concentrations of metabolites in the cells. #Insight/Metabolism 
 
-To illustrate the diversity of enzyme turnover values kcat and the condition-dependent expression of enzymes (dictated by the flux v these enzymes have to sustain), we can consider the proteome composition of [[E. coli]] under two conditions: growth medium with the complete supplement of amino acids (all 20 proteogenic **amino acids** present in medium), in contrast to the supplement with a single amino acid missing (a “dropout” medium) (Figure 2.7). The growth of E. coli in a **nutrient-rich medium** (**glucose** + **amino acid** supplement) is indeed a very fast one (with doubling time of $τ_{d,rich} = 21.5 ± 0.4$ vs. $τ_{d,minimal} = 56.3 ± 0.5$ minutes). The omission of methionine from the amino acid supplement does increase the doubling time ($τ_{d,−Met} = 26.5±1.1$ minutes), yet the growth rate remains high, and so is the [[methionine]] biosynthesis demand in these conditions ([[note-20241106-111343|notes]]). #ISSUE/Missing/Ref 
+To illustrate the diversity of enzyme turnover values kcat and the condition-dependent expression of enzymes (dictated by the flux v these enzymes have to sustain), we can consider the proteome composition of [[Escherichia coli|E. coli]] under two conditions: growth medium with the complete supplement of amino acids (all 20 proteogenic **amino acids** present in medium), in contrast to the supplement with a single amino acid missing (a “dropout” medium) (Figure 2.7). The growth of E. coli in a **nutrient-rich medium** (**glucose** + **amino acid** supplement) is indeed a very fast one (with doubling time of $τ_{d,rich} = 21.5 ± 0.4$ vs. $τ_{d,minimal} = 56.3 ± 0.5$ minutes). The omission of methionine from the amino acid supplement does increase the doubling time ($τ_{d,−Met} = 26.5±1.1$ minutes), yet the growth rate remains high, and so is the [[methionine]] biosynthesis demand in these conditions ([[note-20241106-111343|notes]]). #ISSUE/Missing/Ref 
 
 [[Methionine]] is an amino acid that is energetically the most expensive to make [[@kaletaMetabolicCostsAmino2013|[51] ]], and the final enzymatic reaction in the methionine synthesis pathway is so-called rate-limiting, or the reaction which dictates the flux through the whole pathway. Moreover, the enzyme methionine synthase (MetE) is a very slow enzyme (Figure 2.7, table on the bottom), thus required at large quantities to provide enough methionine for protein synthesis at high growth. Consequently, it was observed that MetE alone could occupy up to ca. 7.5% of the total proteome (by mass) in medium lacking methionine, and growth on a medium, containing methionine, would reduce the proteome fraction by ca. 800-fold, to 0.009% [[@liQuantifyingAbsoluteProtein2014|[50] ]]. To contrast this highly condition-dependent expression of MetE, we considered a protein in the lower glycolysis, called enolase Eno (Table 2.4). The expression of glycolytic proteins, including Eno, was determined to be similar, as both the complete- and the methionine-free media contained glucose as the main carbon source. A noticeable contrast of [[Eno]] vs. [[MetE]]. #Insight #ExperimentalValidation 
 
@@ -178,15 +181,16 @@ The [[kapp]] value of an enzyme in vivo can be computed as follows: knowing the 
 
 ##### Macromolecule polymerization
 
-For a comparison, the average length of a protein in [[E. coli]] is ca. 300 amino acids (BNID 100017) and average amino acid weight is ca. 109 Da (BNID 104877). By multiplying these numbers, the molecular mass of an average protein is ca. 32.7 kDa, roughly 70× lower than the [[ribosome]] that synthesizes this protein. #BioNumber
+For a comparison, the average length of a protein in [[Escherichia coli|E. coli]] is ca. 300 amino acids (BNID 100017) and average amino acid weight is ca. 109 Da (BNID 104877). By multiplying these numbers, the molecular mass of an average protein is ca. 32.7 kDa, roughly 70× lower than the [[ribosome]] that synthesizes this protein. #BioNumber
 
-... coordination also has to be temporal, especially for prokaryotes, where both messenger RNA transcription and protein translation can happen simultaneously. In [[E. coli]], this is well illustrated by the 3-fold difference between [[elongation rates]] of **mRNAs** and **proteins**, ca. $62 nt s^{−1}$ and $21 aa s^{−1}$ , respectively (BNID 103021, 107868). ([[note-20241106-122633|notes]]) #BioNumber 
+... coordination also has to be temporal, especially for prokaryotes, where both messenger RNA transcription and protein translation can happen simultaneously. In [[Escherichia coli|E. coli]], this is well illustrated by the 3-fold difference between [[elongation rates]] of **mRNAs** and **proteins**, ca. $62 nt s^{−1}$ and $21 aa s^{−1}$ , respectively (BNID 103021, 107868). ([[note-20241106-122633|notes]]) #BioNumber 
 
 > #ISSUE/TODO #Project/RegulationImageMC
 > 
 > #### [55] Principles of cellular resource allocation revealed by condition-dependent proteome profiling
 > 
->  Check if this has data for the Regulation Image project
+>  Check if this has data for the Regulation Image project.
+>  [[@metzl-razPrinciplesCellularResource2017]]
 >  
 > #Target/Jose #Referee/Brito
 > `2024:11:06-12:43:49`
@@ -369,6 +373,7 @@ This ratio is known as the reaction’s [[equilibrium constant]] Keq and hence t
 ... It is important to note here that, given $K_{eq}$ is a constant determined by thermodynamics, the parameters $k_{+}$ and $k_{−}$ cannot be chosen independently, i..e $k_{−} = K_{eq}/k_{+}$ ([[note-20241106-090808|notes]]). #Insight 
 
 ##### Enzymatic reactions 
+
 The **mass action** rate discussed above forms also the basis of modeling enzymatic reactions. This approach is justified by considering each enzymatic reaction as a series of ‘elementary steps’, each obeying the mass action rate model.
 
 Here, we will cover some of the most common of such models, noticing that the construction of these models follows the same **general principles** of (i) drawing up **elementary reactions**, (ii) writing down **mass action based kinetic rates** for the system, and (iii) simplifying the system with **assumptions** on **kinetic parameters** (see Appendix A.1). #Insight 
@@ -557,3 +562,4 @@ Second, in [[steady growth]], the size distribution of newborn cells does not ch
 ___
 %% Tags  ------------------------------------------------------- %%
 #review/ToRead
+#Vault/MetXVault 

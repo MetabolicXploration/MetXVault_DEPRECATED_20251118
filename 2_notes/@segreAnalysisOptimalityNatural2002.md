@@ -3,9 +3,6 @@ citation-template: "v0.2.0"
 creation-date: "2022:09:26-02:02:40"
 ---
 
-
-
-
 %% Note Body --------------------------------------------------- %%
 # Analysis of optimality in natural and perturbed metabolic networks
 

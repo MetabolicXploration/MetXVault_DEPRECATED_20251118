@@ -44,12 +44,16 @@ Flux balance analysis ([[FBA]]) is a commonly used constraint-based approach tha
 We quantify the ___effect of transcriptional regulation on metabolism___ by measuring the fraction of genes whose flux activity is determined by the integrated model but not by the metabolic component alone (i.e., the standard FBA model). ___The metabolic component yields a determined flux activity state for 45–51% of all genes in the network, on the average, depending on the growth medium (Figure 2A)___. Such genes are termed ___metabolically determined___. ___The activity of a core set of 30% of all genes is determined in all growth media___, involving membrane lipid metabolism, cofactor biosynthesis and cell envelope biosynthesis. ___Overall, the metabolic constraints determine the activity state of 57% of the genes in at least one or more growth media___. The activity of the remaining genes in the metabolic-only model is undetermined, forming alternative pathways (or isozymes) for which the activity state cannot be determined solely by metabolic constraints. #Insight
 
 
+### Redundant expression of metabolic genes 
+
+In the previous section, we have shown that the flux activity states of about half of the genes are already determined by the metabolic constraints alone. Here, we study the extent to which the regulatory constraints match the flux activity states of these genes. This investigation is motivated by previous findings of a significant, but rather moderate correlation between the flux rate through a metabolic reaction and the expression level of its associated genes. This moderate-only correlation may either result from the intermediary effects of post-transcriptional regulation, reflect the complex interplay between hierarchical and metabolic regulation (Rossell et al, 2006) or reflect the non-optimality of the regulatory system in expressing the minimal set of genes required to fulfill metabolic demands (Akashi, 2003; Daran-Lapujade et al, 2004).
+
 ___
 %% Tags  ------------------------------------------------------- %%
 #review/Read
 #Fluxome 
 #Regulome
-#Regulation 
+#Regulation
 #Metabolism
 #RegulatoryNetwork
 #Modeling
