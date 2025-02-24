@@ -1,6 +1,6 @@
 ---
-creation-date: "2023:01:12-11:03:19"
-basic-note-template: "v0.2.0"
+creation-date: 2023:01:12-11:03:19
+basic-note-template: v0.2.0
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -22,6 +22,22 @@ The applicability of K-FIT to large-scale models is demonstrated by parameterizi
 #### [[@zengBridgingSubstrateIntake2020]]
 
 #### [[@pramanikEffectOfEscherichiaColi1998]]
+
+
+- **Priority**: 2
+- **Culture type**: 
+	- continuous culture
+	- batch culture
+- **Strain**: 
+- **Medium**:
+- **Physiological Data**:
+- **Nutrient Limitation(s)**:
+- **Data quantity**:
+- **Data location**:
+- **Relation with your research**
+- **References of interest**
+- **Notes**:
+
 
 #### [[@valgepeaSystemsBiologyApproach2010]]
 
@@ -90,6 +106,8 @@ Supervised learning requires both input and output data. Growth data were obtain
 
 
 #### [[@hermsenGrowthRateComposition2015]]
+
+
 
 #### [[@vanheerdenContinuousBatchCultures2013]]
 
@@ -465,4 +483,5 @@ ___
 
 %% Tags ------------------------------------------------------- %%
 #ProjectRoot 
+#Vault/MetXVault 
 ___

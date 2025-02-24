@@ -46,7 +46,7 @@ Give me 20 papers candidates please.
 
 
 ************************************************
-## Papers
+## Resources
 
 ************************
 ### Priority 5
