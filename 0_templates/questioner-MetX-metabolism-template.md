@@ -1,0 +1,12 @@
+
+- **Priority**: 
+- **Culture type**: 
+- **Strain**: 
+- **Medium**:
+- **Physiological Data**:
+- **Nutrient Limitation(s)**:
+- **Data quantity**:
+- **Data location**:
+- **Relation with your research**
+- **References of interest**
+- **Notes**:

@@ -11,7 +11,7 @@ creation-date: "2023:03:07-21:48:21"
 
 ### Meta
 - ** citekey **: nanchenNonlinearDependencyIntracellular2006
-- ** authors **: Annik Nanchen, Alexander Schicker, Uwe Sauer
+- ** authors **: [[Annik Nanchen]], Alexander Schicker, [[Uwe Sauer]]
 - ** year **: [[2006]]
 - ** doi **: https://doi.org/10.1128/AEM.72.2.1164-1172.2006
 - ** publication **: Applied and Environmental Microbiology

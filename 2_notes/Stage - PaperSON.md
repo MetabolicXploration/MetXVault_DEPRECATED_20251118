@@ -5,6 +5,8 @@ basic-note-template: "v0.2.0"
 
 %% Note Body --------------------------------------------------- %%
 
+#TOD: Unify with [[Collection - PaperSON]]
+
 %% Write here %%
 
 

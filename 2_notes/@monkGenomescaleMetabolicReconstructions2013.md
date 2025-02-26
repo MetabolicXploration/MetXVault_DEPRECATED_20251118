@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: "2024:11:02-01:50:54"
+creation-date: 2024:11:02-01:50:54
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -8,7 +8,7 @@ creation-date: "2024:11:02-01:50:54"
 
 ### Meta
 - ** citekey **: monkGenomescaleMetabolicReconstructions2013
-- ** authors **: Jonathan M. Monk, Pep Charusanti, Ramy K. Aziz, Joshua A. Lerman, Ned Premyodhin, Jeffrey D. Orth, Adam M. Feist, [[Bernhard Ø Palsson|Bernhard Palsson]]
+- ** authors **: [[Jonathan M. Monk]], Pep Charusanti, Ramy K. Aziz, Joshua A. Lerman, Ned Premyodhin, Jeffrey D. Orth, Adam M. Feist, [[Bernhard Ø Palsson|Bernhard Palsson]]
 - ** year **: [[2013]]
 - ** doi **: https://doi.org/10.1073/pnas.1307797110
 - ** publication **: Proceedings of the National Academy of Sciences
@@ -22,7 +22,19 @@ ___
 
 ## View
 
-%% Write here %%
+> ***
+> #ISSUE/TODO
+> 
+> #### Core definition and evaluation
+> 
+>  - At [[RegulationImageMC_2024]] you can defined any sub ensemble describing a given characteristic. 
+>  - We can then try to extract a core network representing such all instances of the sub ensemble. 
+>  - This is a form of [[Model Contextualization]] that is not limited by our analytical capabilities. 
+>  - In this study, network are study and a core is defined.
+> 	 - explore how the methodology apply to our work. 
+> 
+> #Target/Jose #Referee/Jose #Project/RegulationImageMC 
+> `2025:01:23-12:21:11`
 
 
 

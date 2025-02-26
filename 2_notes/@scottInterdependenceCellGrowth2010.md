@@ -8,7 +8,7 @@ creation-date: "2024:10:26-08:02:23"
 
 ### Meta
 - ** citekey **: scottInterdependenceCellGrowth2010
-- ** authors **: Matthew Scott, Carl W. Gunderson, Eduard M. Mateescu, Zhongge Zhang, Terence Hwa
+- ** authors **: [[Matthew Scott]], Carl W. Gunderson, Eduard M. Mateescu, Zhongge Zhang, [[Terence Hwa]]
 - ** year **: [[2010]]
 - ** doi **: https://doi.org/10.1126/science.1192588
 - ** publication **: Science

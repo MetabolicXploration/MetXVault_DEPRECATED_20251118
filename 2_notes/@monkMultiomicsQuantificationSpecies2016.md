@@ -8,7 +8,7 @@ creation-date: 2025:01:21-05:52:24
 
 ### Meta
 - ** citekey **: monkMultiomicsQuantificationSpecies2016
-- ** authors **: Jonathan M. Monk, Anna Koza, Miguel A. Campodonico, Daniel Machado, Jose Miguel Seoane, Bernhard O. Palsson, Markus J. Herrgård, Adam M. Feist
+- ** authors **: Jonathan M. Monk, Anna Koza, Miguel A. Campodonico, Daniel Machado, Jose Miguel Seoane, [[Bernhard Ø Palsson|Bernhard O. Palsson]], Markus J. Herrgård, Adam M. Feist
 - ** year **: [[2016]]
 - ** doi **: https://doi.org/10.1016/j.cels.2016.08.013
 - ** publication **: Cell Systems
