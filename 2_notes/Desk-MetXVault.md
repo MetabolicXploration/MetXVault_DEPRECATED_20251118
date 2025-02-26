@@ -5,7 +5,117 @@ creation-date: 2024:10:14-06:07:23
 
 %% Note Body --------------------------------------------------- %%
 
+***
+### 2025-02-18
 
+- #TODO Mark as #ToRead [[@defalcoMetabolicFluxAnalysis2022]]
+
+- #Project/RegulationImageMC 
+- Is we plot biomass_yield vs O2_yield, there is a empty line dividing two regions. 
+- How easy, data fill this empty line?
+- This is the type of feature we should find to qualitatively test against data...
+
+***
+### 2025-02-14
+
+- #TODO/ToFile
+- [53] Thierry Mora and William Bialek. Are biological systems poised at criticality? Journal of Statistical Physics, 144: 268–302, 2011.
+
+
+> #ToCheck 
+> generalization of the maximum entropy scheme in out-of-equilibrium settings known as maximum caliber [61]
+>	- [61] Kingshuk Ghosh, Purushottam D Dixit, Luca Agozzino, and Ken A Dill. The maximum caliber variational principle for nonequilibria. Annual review of physical chemistry, 71:213–238, 2020.
+
+***
+### 2025-02-05
+
+#DONE File the doctoral thesis 'Growth Kinetics of Escherichia coli: Effect of Temperature, Mixed Substrate Utilization and Adaptation to Carbon-Limited Growth'.
+
+> ***
+> #ISSUE/TODO
+> 
+> #### File references
+> 
+>  - # Dynamics of chemostat in which one microbial population grows on multiple complementary nutrients [S Pavlou]
+> - # Dynamics of a chemostat in which one microbial population feeds on another [S Pavlou] 
+> - # On the coexistence of competing microbial species in a chemostat under cycling [S Pavlou]
+> - # Bacterial physiology, regulation and mutational adaptation in a chemostat environment [Thomas Ferenci]
+> - # Continuous culture of Escherichia coli, under selective pressure by a novel antimicrobial complex, does not result in development of resistance [Lilit Tonoyan] 
+> 	- This one for the work on microbiology
+> 		- #TODO Make Reading List
+> - Gene regulation in continuous cultures: a unified theory for bacteria and yeasts [Jason T Noel]
+> - Predicting stability of mixed microbial cultures from single species experiments: 1. Phenomenological model. Pilyugin SS, Reeves GT, [Narang A].
+> - # Bacterial choices for the consumption of multiple resources for current and future needs [A L Koch]
+> 
+> #Target/JohnDoe #Referee/JohnDoe
+> `2025:02:05-06:34:02`
+
+
+***
+### 2025-02-03
+
+#DEPRECATED Answer this question (move to `notebook`)
+https://stackoverflow.com/questions/77029618/when-should-i-use-type-annotations-for-variables-arguments-and-return-types-in
+
+```julia
+DATA = Dict{String, Any}()
+DATA["vec"] = rand(100)
+DATA["mult"] = rand()
+
+function compute_v1()
+    sum(DATA["vec"])
+end
+
+function compute_v2()
+    sum(DATA["vec"] .* DATA["mult"])
+end
+
+function compute_v3()
+    sum(DATA["vec"] .* DATA["mult"]::Float64)
+end
+
+function compute_v4()
+    _sum = 0.0
+    _vec = DATA["vec"]
+    _mult = DATA["mult"]
+    for v in _vec
+        _sum += v * _mult
+    end
+end
+
+function compute_v5()
+    _sum = 0.0
+    _vec = DATA["vec"]::Vector{Float64}
+    _mult = DATA["mult"]::Float64
+    for v in _vec
+        _sum += v * _mult
+    end
+end
+
+@time compute_v1()
+@time compute_v1()
+@time compute_v1()
+
+@time compute_v2()
+@time compute_v2()
+@time compute_v2()
+
+@time compute_v3()
+@time compute_v3()
+@time compute_v3()
+
+@time compute_v4()
+@time compute_v4()
+@time compute_v4()
+
+@time compute_v5()
+@time compute_v5()
+@time compute_v5()
+```
+
+
+***
+### 2025-01-23
 
 ***
 ### 2025-01-19
@@ -59,7 +169,7 @@ creation-date: 2024:10:14-06:07:23
 > #### Measure Yield in CSCReactor
 > 
 >  The CSCReactor can be use to compute yield in several conditions. 
->  - This data can be use to valid the [[RegulationImageMC_2024]] models.
+>  - This data can be use to validate the [[RegulationImageMC_2024]] models.
 > 
 > #Target/Jose #Referee/Jose
 > `2024:11:19-12:16:18`
@@ -91,6 +201,7 @@ creation-date: 2024:10:14-06:07:23
 > - In a chemostat we can plot the steady state $D$ vs $s_{glc}$. That is, growth rate vs remaining glucose
 > - How this plot relate with batch $\mu$ vs $c_{glc}$ for the exponential phase?
 > - If it is not the same we are definitely in a different regulatory scenario.
+> - #ResearchIdea/CompareBatchChemostatGrowth
 
 > ***
 > #ResearchIdea 
@@ -145,16 +256,11 @@ creation-date: 2024:10:14-06:07:23
 > #Target/Jose #Referee/Brito
 > `2024:11:06-08:23:10`
 
-
-
-
 ***
 ### 2024-11-02
 
-
 ***
 ### 2024-11-01
-
 
 ***
 ### 2024-10-26

@@ -380,6 +380,8 @@ Here, we will cover some of the most common of such models, noticing that the co
 
 The reader can consult additional books (e.g. [[@cornish-bowdenFundamentalsEnzymeKinetics2012|[93] ]]) for more specific, elaborate enzymatic reaction schemes, or can attempt them as a exercise. #ReferenceSource/Recommended/Books  
 
+
+
 #ReadingHead/Jose 
 
 ### 3.4. Dynamics of metabolism: experimental evidence and model-based explanations 
