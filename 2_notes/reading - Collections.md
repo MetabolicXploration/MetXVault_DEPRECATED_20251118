@@ -15,6 +15,7 @@
 ### Gabriele-Micali
 
 - micaliMinoritiesDriveGrowth2023
+- bowsherEnvironmentalSensingInformation2014
 - 
 
 
