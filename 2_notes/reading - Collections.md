@@ -17,8 +17,17 @@
 - micaliMinoritiesDriveGrowth2023
 - bowsherEnvironmentalSensingInformation2014
 - micaliMaximalInformationTransmission2019
+- micaliBacterialChemotaxisInformation2016
+- mcmahonInformationTheorySignal2014
 
+### GEMs
 
+- vanthofHighqualityGenomescaleMetabolic2022 
+
+### Gut-Ensemble
+
+- garzaMetabolicModelsHuman2023
+- sungGlobalMetabolicInteraction2017
 
 
 
