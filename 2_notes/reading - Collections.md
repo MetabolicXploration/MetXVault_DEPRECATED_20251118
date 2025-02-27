@@ -28,6 +28,19 @@
 
 - garzaMetabolicModelsHuman2023
 - sungGlobalMetabolicInteraction2017
+- heinkenGenomescaleMetabolicReconstruction2023
+
+
+### Machine Learning
+
+- buitinckAPIDesignMachine2013
+- geronHandsonMachineLearning2019
+- behnelCythonBestBoth2011
+
+### Epistasis
+
+- snitkinEpistaticInteractionMaps2011
+
 
 
 
