@@ -49,7 +49,28 @@
 ### MinCell
 
 - breuerEssentialMetabolismMinimal2019
-- 
+- moger-reischerEvolutionMinimalCell2023
+
+### NutrinetLimited
+
+- huaAnalysisGeneExpression2004
+
+
+### ThermodynamicsOfInformation
+
+- parrondoThermodynamicsInformation2015
+- toyabeExperimentalDemonstrationInformationtoenergy2010
+- witkowskiPreciseLinkEnergy2024
+
+
+### Thermodynamics
+
+- sriencStatisticalThermodynamicalInterpretation2010
+- sekerkaThermalPhysicsThermodynamics2015
+- saslowHistoryThermodynamicsMissing2020
+- hallDevelopmentLawsThermodynamics2017
+- callenThermodynamicsIntroductionThermostatistics1985
+- vandenbroeckEnsembleTrajectoryThermodynamics2015
 
 
 
