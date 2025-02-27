@@ -16,7 +16,7 @@
 
 - micaliMinoritiesDriveGrowth2023
 - bowsherEnvironmentalSensingInformation2014
-- 
+- micaliMaximalInformationTransmission2019
 
 
 
