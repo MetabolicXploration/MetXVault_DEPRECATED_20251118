@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: #!cdate
+creation-date: 2025:02:27-20:12:14
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -8,7 +8,7 @@ creation-date: #!cdate
 
 ### Meta
 - ** citekey **: orthWhatFluxBalance2010
-- ** authors **: Jeffrey D. Orth, Ines Thiele, Bernhard O. Palsson
+- ** authors **: Jeffrey D. Orth, Ines Thiele, [[Bernhard Ø Palsson]]
 - ** year **: [[2010]]
 - ** doi **: https://doi.org/10.1038/nbt.1614
 - ** publication **: Nature Biotechnology

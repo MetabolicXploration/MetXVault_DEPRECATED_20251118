@@ -73,6 +73,23 @@
 - vandenbroeckEnsembleTrajectoryThermodynamics2015
 
 
+### TerryHwa
+
+- balakrishnanPrinciplesGeneRegulation2022
+- balakrishnanSuboptimalResourceAllocation2021
+- basanOverflowMetabolismEscherichia2015
+- douradoOptimalityEnzymeSubstrate2021
+- hermsenGrowthRateComposition2015
+- klumppMolecularCrowdingLimits2013
+- molenaarShiftsGrowthStrategies2009
+- monkMultiomicsQuantificationSpecies2016
+- moriConstrainedAllocationFlux2016
+- okanoRegulationUnderlyingHierarchical2019
+- scottBacterialGrowthLaws2011
+- scottInterdependenceCellGrowth2010
+- wuCellularPerceptionGrowth2022
+- youCoordinationBacterialProteome2013
+
 
 
 
