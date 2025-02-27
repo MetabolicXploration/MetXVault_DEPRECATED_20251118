@@ -91,6 +91,9 @@
 - youCoordinationBacterialProteome2013
 
 
+### RNA2Flux
 
+- c.IntegrationInformationGene2002
+- hrovatinModelingMetabolicState2022
 
 #Vault/MetXVault 
