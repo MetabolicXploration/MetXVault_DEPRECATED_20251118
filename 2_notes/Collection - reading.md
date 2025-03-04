@@ -75,25 +75,46 @@
 
 ### TerryHwa
 
+- amarnathStressinducedMetabolicExchanges2023
 - balakrishnanPrinciplesGeneRegulation2022
 - balakrishnanSuboptimalResourceAllocation2021
+- basanInflatingBacterialCells2015
 - basanOverflowMetabolismEscherichia2015
+- daiReductionTranslatingRibosomes2016
 - douradoOptimalityEnzymeSubstrate2021
 - hermsenGrowthRateComposition2015
+- klumppBacterialGrowthGlobal2014
 - klumppMolecularCrowdingLimits2013
+- klumppRibosomeLoadCodon2012
+- kochanowskiGlobalCoordinationMetabolic2021
 - molenaarShiftsGrowthStrategies2009
 - monkMultiomicsQuantificationSpecies2016
 - moriConstrainedAllocationFlux2016
+- moriFunctionalDecompositionMetabolism2023
+- moriQuantifyingBenefitProteome2017
 - okanoRegulationUnderlyingHierarchical2019
 - scottBacterialGrowthLaws2011
 - scottInterdependenceCellGrowth2010
 - wuCellularPerceptionGrowth2022
 - youCoordinationBacterialProteome2013
+- zhengGeneralQuantitativeRelations2020
+
+### StatPhy
+
+- esslerLectureNotesC62015
+- _READ-yedidiaConstructingFreeEnergyApproximations2005
+- gottwaldTwoKindsFree2020
+- jaynesInformationTheoryStatistical1957
+- nguyenInverseStatisticalProblems2017
+- nishimoriElementsPhaseTransitions2015
+- wuPottsModel1982
+- zdeborovaStatisticalPhysicsInference2016
 
 
 ### RNA2Flux
 
 - c.IntegrationInformationGene2002
 - hrovatinModelingMetabolicState2022
+- gonzalez-arruePhenotypespecificEstimationMetabolic2023
 
 #Vault/MetXVault 

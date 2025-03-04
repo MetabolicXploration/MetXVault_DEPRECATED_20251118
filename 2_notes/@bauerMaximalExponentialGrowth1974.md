@@ -33,3 +33,8 @@ According to Klempner as cited by Finn [7], the critical concentration of oxygen
 ___
 %% Tags  ------------------------------------------------------- %%
 #review/ToRead
+#yield 
+#EColi 
+#Physiology/Data 
+#Oxygen
+#Vault/MetXVault 
