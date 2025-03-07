@@ -13,7 +13,7 @@ creation-date: 2025:02:12-10:01:20
 - ** doi **: https://doi.org/10.1128/msystems.00625-20
 - ** publication **: mSystems
 - ** Web ** : [Open online](https://journals.asm.org/doi/10.1128/msystems.00625-20)
-- ** file ** : [Open locally](#!local.pdf.url)
+- ** file ** : [Open locally](file:///Users/Pereiro/Desktop/reading/alterProteomeRegulationPatterns2021.pdf)
 
 ### Abstract:
 It is generally recognized that proteins constitute the key cellular component in shaping microbial phenotypes. Due to limited cellular resources and space, optimal allocation of proteins is crucial for microbes to facilitate maximum proliferation rates while allowing a flexible response to environmental changes. 
