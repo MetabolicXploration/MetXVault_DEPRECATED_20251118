@@ -1,1 +1,1 @@
-- ** file ** : "#!local.pdf.url"
+- ** file ** : [Open locally](#!local.pdf.url)
