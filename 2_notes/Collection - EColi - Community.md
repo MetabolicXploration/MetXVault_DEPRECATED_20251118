@@ -16,7 +16,7 @@ creation-date: "2025:03:07-11:38:24"
 
 ### [[@jagmannDesignSyntheticMicrobial2014]]
 
-### [[@@wintermuteDynamicsMixedMicrobial2010]]
+### [[@wintermuteDynamicsMixedMicrobial2010]]
 
 ### [[@frittsExtracellularMetabolismSets2021]]
 
