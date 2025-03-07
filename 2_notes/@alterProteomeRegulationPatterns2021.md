@@ -25,7 +25,7 @@ ___
 
 ## View
 
-([[note-20250226-044226|notes]])
+[[note-20250226-044226|global-notes]]
 
 ## INTRODUCTION
 
