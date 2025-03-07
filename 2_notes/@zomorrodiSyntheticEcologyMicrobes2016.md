@@ -13,7 +13,7 @@ creation-date: 2025:03:07-19:33:49
 - ** doi **: https://doi.org/10.1016/j.jmb.2015.10.019
 - ** publication **: Journal of Molecular Biology
 - ** Web ** : [Open online](https://linkinghub.elsevier.com/retrieve/pii/S0022283615006129)
-- ** file ** : #!local.pdf.url
+- ** file ** : file:///Users/Pereiro/Desktop/reading/zomorrodiSyntheticEcologyMicrobes2016.pdf
 
 ### Abstract:
 
