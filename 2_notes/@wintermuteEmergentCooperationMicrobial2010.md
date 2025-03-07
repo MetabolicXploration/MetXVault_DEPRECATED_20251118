@@ -8,11 +8,18 @@ creation-date: 2024:10:02-08:01:17
 
 ### Meta
 - ** citekey **: wintermuteEmergentCooperationMicrobial2010
-- ** authors **: Edwin H Wintermute, Pamela A Silver
+- ** authors **: Edwin H Wintermute, [[Pamela A Silver]]
 - ** year **: [[2010]]
 - ** doi **: https://doi.org/10.1038/msb.2010.66
 - ** publication **: Molecular Systems Biology
 - ** Web ** : [Open on line](https://www.embopress.org/doi/10.1038/msb.2010.66)
+
+
+> #TODO/ToFile 
+> - Dynamics in the mixed microbial concourse
+> - A new approach to an old problem: Synthetic biology tools for human disease and metabolism
+> - 
+
 
 
 ### Abstract:
