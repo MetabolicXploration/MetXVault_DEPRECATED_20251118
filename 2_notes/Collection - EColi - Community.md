@@ -20,6 +20,14 @@ creation-date: "2025:03:07-11:38:24"
 
 ### [[@frittsExtracellularMetabolismSets2021]]
 
+### [[@khandelwalCommunityFluxBalance2013]]
+
+
+
+
+
+
+
 ___
 
 %% Tags ------------------------------------------------------- %%
