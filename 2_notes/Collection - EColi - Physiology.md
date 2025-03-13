@@ -51,6 +51,27 @@ Give me 20 papers candidates please.
 ************************
 ### Priority 5
 
+
+***
+#### [[@yao13CMetabolicFlux2019]]
+
+***
+#### [[@holmsFluxAnalysisControl1996]]
+
+***
+#### [[@usuiInvestigatingEffectsPerturbations2012]]
+
+*** 
+#### [[@toyaOptimal13ClabelingGlycerol2018]]
+
+***
+#### [[@bennettAbsoluteMetaboliteConcentrations2009]]
+
+
+***
+#### [[@fischerMetabolicFluxProfiling2003]]
+
+
 ***
 #### [[@caglarColiMolecularPhenotype2017]]
 

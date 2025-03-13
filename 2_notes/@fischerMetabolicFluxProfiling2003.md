@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: #!cdate
+creation-date: 2025:03:13-04:46:11
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -8,7 +8,7 @@ creation-date: #!cdate
 
 ### Meta
 - ** citekey **: fischerMetabolicFluxProfiling2003
-- ** authors **: Eliane Fischer, Uwe Sauer
+- ** authors **: Eliane Fischer, [[Uwe Sauer]]
 - ** year **: [[2003]]
 - ** doi **: https://doi.org/10.1046/j.1432-1033.2003.03448.x
 - ** publication **: European Journal of Biochemistry
