@@ -8,6 +8,7 @@ Manifest.toml
 _dev*
 Oba.json
 *.webm
+*marker
 
 _DEPRECATED
 /dev
