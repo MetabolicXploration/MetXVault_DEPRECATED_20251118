@@ -1,0 +1,1095 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Avoiding amino acid depletion in a complex medium results in\nimproved Escherichia coli BW25113 growth",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.44103801250458,
+          101.40030978620052
+        ],
+        [
+          540.1020512580872,
+          101.40030978620052
+        ],
+        [
+          540.1020512580872,
+          138.9403076171875
+        ],
+        [
+          44.44103801250458,
+          138.9403076171875
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.23804572224617,
+          185.02470190823078
+        ],
+        [
+          92.92080688476562,
+          185.02470190823078
+        ],
+        [
+          92.92080688476562,
+          196.2935791015625
+        ],
+        [
+          56.23804572224617,
+          196.2935791015625
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.241607666015625,
+          362.0122412145138
+        ],
+        [
+          125.4573084115982,
+          362.0122412145138
+        ],
+        [
+          124.50392150878906,
+          375.24462890625
+        ],
+        [
+          44.189916253089905,
+          375.24462890625
+        ]
+      ]
+    },
+    {
+      "title": "METHODS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          44.96996033191681,
+          362.6448823213577
+        ],
+        [
+          99.87474542856216,
+          362.6448823213577
+        ],
+        [
+          99.87474542856216,
+          374.8481750488281
+        ],
+        [
+          44.96996033191681,
+          374.8481750488281
+        ]
+      ]
+    },
+    {
+      "title": "Strain",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          44.8091059923172,
+          380.39154052734375
+        ],
+        [
+          74.19268757104874,
+          379.65548649430275
+        ],
+        [
+          74.19268757104874,
+          390.85223388671875
+        ],
+        [
+          44.8091059923172,
+          391.2676979005337
+        ]
+      ]
+    },
+    {
+      "title": "Media",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          45.23780074715614,
+          426.3126525878906
+        ],
+        [
+          73.0232564508915,
+          425.2068829536438
+        ],
+        [
+          72.44927978515625,
+          436.7733459472656
+        ],
+        [
+          44.07373824715614,
+          437.3467036485672
+        ]
+      ]
+    },
+    {
+      "title": "Inoculum preparation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          44.70215544104576,
+          96.58868108689785
+        ],
+        [
+          145.5820939540863,
+          96.58868108689785
+        ],
+        [
+          145.5820939540863,
+          108.8060302734375
+        ],
+        [
+          44.70215544104576,
+          108.8060302734375
+        ]
+      ]
+    },
+    {
+      "title": "Fermentation system",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          44.56655892729759,
+          176.5873053073883
+        ],
+        [
+          144.1913149356842,
+          176.5873053073883
+        ],
+        [
+          144.1913149356842,
+          188.96978759765625
+        ],
+        [
+          44.56655892729759,
+          188.96978759765625
+        ]
+      ]
+    },
+    {
+      "title": "Sampling",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          44.706955671310425,
+          394.438324034214
+        ],
+        [
+          89.82470625638962,
+          394.438324034214
+        ],
+        [
+          89.82470625638962,
+          407.1230163574219
+        ],
+        [
+          44.706955671310425,
+          407.1230163574219
+        ]
+      ]
+    },
+    {
+      "title": "Assessing growth phases and \u00b5 calculations",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          45.24098205566406,
+          509.4772639274597
+        ],
+        [
+          252.16255235671997,
+          509.4772639274597
+        ],
+        [
+          250.99848985671997,
+          521.8136596679688
+        ],
+        [
+          44.11149621009827,
+          521.8136596679688
+        ]
+      ]
+    },
+    {
+      "title": "High-performance liquid chromatography for\norganic acids and glucose analysis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          309.5596649646759,
+          176.96364404261112
+        ],
+        [
+          519.1810047626495,
+          176.96364404261112
+        ],
+        [
+          519.1810047626495,
+          200.59112548828125
+        ],
+        [
+          309.5596649646759,
+          200.59112548828125
+        ]
+      ]
+    },
+    {
+      "title": "Ultra performance liquid chromatography for\namino acid analysis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          309.9967956542969,
+          325.4070774614811
+        ],
+        [
+          521.510053396225,
+          325.4070774614811
+        ],
+        [
+          520.345990896225,
+          349.4668884277344
+        ],
+        [
+          309.95228028297424,
+          349.4668884277344
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          308.06526136398315,
+          525.3354583382607
+        ],
+        [
+          358.8927307128906,
+          525.3354583382607
+        ],
+        [
+          358.8927307128906,
+          539.5981597900391
+        ],
+        [
+          308.06526136398315,
+          539.5981597900391
+        ]
+      ]
+    },
+    {
+      "title": "Apparent growth stops observed in Escherichia coli\ngrowth on acid-hydrolysed casein",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          309.2140839099884,
+          543.0427703857422
+        ],
+        [
+          547.4885265827179,
+          543.0427703857422
+        ],
+        [
+          547.4885265827179,
+          567.1081595420837
+        ],
+        [
+          309.2140839099884,
+          567.1081595420837
+        ]
+      ]
+    },
+    {
+      "title": "Apparent growth stops are caused by amino acid\ndepletions",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          44.53865897655487,
+          443.4916076660156
+        ],
+        [
+          273.33846843242645,
+          443.4916076660156
+        ],
+        [
+          273.33846843242645,
+          465.4730157852173
+        ],
+        [
+          44.53865897655487,
+          465.4730157852173
+        ]
+      ]
+    },
+    {
+      "title": "Arginine addition removed the first apparent\ngrowth stop",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          309.9972229003906,
+          395.6421203613281
+        ],
+        [
+          518.076090335846,
+          395.6421203613281
+        ],
+        [
+          516.912027835846,
+          417.5547790527344
+        ],
+        [
+          309.9972229003906,
+          417.5547790527344
+        ]
+      ]
+    },
+    {
+      "title": "In a medium based on consumption values all\napparent growth stops were removed",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          45.24100112915039,
+          558.6915893554688
+        ],
+        [
+          259.6196856498718,
+          558.2276154756546
+        ],
+        [
+          258.4556231498718,
+          580.6042938232422
+        ],
+        [
+          44.1103949546814,
+          581.0338711738586
+        ]
+      ]
+    },
+    {
+      "title": "Modifying medium composition improved growth\non acid-hydrolysed casein",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          309.99700927734375,
+          660.0587997436523
+        ],
+        [
+          537.5649363994598,
+          660.0587997436523
+        ],
+        [
+          536.4008738994598,
+          681.9715042114258
+        ],
+        [
+          309.99700927734375,
+          682.6486666202545
+        ]
+      ]
+    },
+    {
+      "title": "Different medium composition yielded similar\nspecific growth rates",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          44.60741639137268,
+          683.1324920654297
+        ],
+        [
+          256.4325256347656,
+          683.1324920654297
+        ],
+        [
+          256.4325256347656,
+          705.0451965332031
+        ],
+        [
+          44.60741639137268,
+          705.0451965332031
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          309.9969787597656,
+          274.3398132324219
+        ],
+        [
+          375.87296772003174,
+          273.48616978526115
+        ],
+        [
+          374.8055725097656,
+          286.294921875
+        ],
+        [
+          309.9969787597656,
+          286.294921875
+        ]
+      ]
+    },
+    {
+      "title": "Funding information",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          44.76661440730095,
+          440.77385383844376
+        ],
+        [
+          115.09085369110107,
+          440.77385383844376
+        ],
+        [
+          115.09085369110107,
+          450.0679626464844
+        ],
+        [
+          44.76661440730095,
+          450.0679626464844
+        ]
+      ]
+    },
+    {
+      "title": "Conflicts of interest",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          44.91969335079193,
+          481.9528503417969
+        ],
+        [
+          113.0846860408783,
+          481.2462700009346
+        ],
+        [
+          113.0846860408783,
+          489.9230041503906
+        ],
+        [
+          44.91969335079193,
+          491.06376975774765
+        ]
+      ]
+    },
+    {
+      "title": "Ethical statement",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          45.24100112915039,
+          512.8505249023438
+        ],
+        [
+          105.96264523267746,
+          511.3366141319275
+        ],
+        [
+          105.22200012207031,
+          520.8206787109375
+        ],
+        [
+          44.51234430074692,
+          521.1153774261475
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          45.24100112915039,
+          555.5970001220703
+        ],
+        [
+          86.54572713375092,
+          554.4895468354225
+        ],
+        [
+          85.38166463375092,
+          563.5671691894531
+        ],
+        [
+          44.73795512318611,
+          564.1116841435432
+        ]
+      ]
+    },
+    {
+      "title": "Five reasons to publish your next article with a Microbiology Society journal",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          128.14861679077148,
+          625.1858062744141
+        ],
+        [
+          464.40420508384705,
+          624.4560922980309
+        ],
+        [
+          464.40420508384705,
+          635.1484375
+        ],
+        [
+          128.14861679077148,
+          635.6322618126869
+        ]
+      ]
+    },
+    {
+      "title": "Find out more and submit your article at microbiologyresearch.org.",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          129.0334014892578,
+          707.590950012207
+        ],
+        [
+          366.99848318099976,
+          707.2212116718292
+        ],
+        [
+          366.99848318099976,
+          715.5611190795898
+        ],
+        [
+          129.0334014892578,
+          716.8046125173569
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          261
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Footnote",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          362
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "TableCell",
+          65
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          328
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          262
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          251
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          551
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "ListItem",
+          26
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          248
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/maserAvoidingAminoAcid2019"
+}

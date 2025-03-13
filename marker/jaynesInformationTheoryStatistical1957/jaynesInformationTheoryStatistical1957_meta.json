@@ -1,0 +1,678 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Infolrxiation Theory and Statistical Mechanics",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          180.45820820331573,
+          441.09619140625
+        ],
+        [
+          424.6247706413269,
+          441.09619140625
+        ],
+        [
+          423.4294581413269,
+          453.2843017578125
+        ],
+        [
+          179.26289570331573,
+          453.68907165527344
+        ]
+      ]
+    },
+    {
+      "title": "1. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          141.9375958442688,
+          630.7109222412109
+        ],
+        [
+          222.63964748382568,
+          630.7109222412109
+        ],
+        [
+          222.63964748382568,
+          640.4009246826172
+        ],
+        [
+          141.9375958442688,
+          641.2045655250549
+        ]
+      ]
+    },
+    {
+      "title": "2. MAXIMUM-ENTROPY ESTIMATES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          341.1370003223419,
+          668.066032409668
+        ],
+        [
+          497.11827778816223,
+          668.066032409668
+        ],
+        [
+          497.11827778816223,
+          677.5086898803711
+        ],
+        [
+          341.1370003223419,
+          677.5086898803711
+        ]
+      ]
+    },
+    {
+      "title": "&o=lnZ. (2-12) 3. APPLICATION TO STATISTICAL MECHANICS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          161.1999969482422,
+          523.279052734375
+        ],
+        [
+          520.3755104541779,
+          523.279052734375
+        ],
+        [
+          520.3755104541779,
+          536.2156829833984
+        ],
+        [
+          161.1999969482422,
+          536.8295903205872
+        ]
+      ]
+    },
+    {
+      "title": "E(nt ns, ),",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          391.20001220703125,
+          600.9319763183594
+        ],
+        [
+          446.91974902153015,
+          600.9319763183594
+        ],
+        [
+          445.72443652153015,
+          613.4310455322266
+        ],
+        [
+          391.10039162635803,
+          613.4310455322266
+        ]
+      ]
+    },
+    {
+      "title": "4. SUBJECTIVE AND OBJECTIVE\nSTATISTICAL MECHANICS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          113.81348097324371,
+          586.6557922363281
+        ],
+        [
+          252.18545758724213,
+          586.6557922363281
+        ],
+        [
+          252.18545758724213,
+          604.9585576057434
+        ],
+        [
+          113.81348097324371,
+          604.9585576057434
+        ]
+      ]
+    },
+    {
+      "title": "5. GENERALIZED STATISTICAL MECHANICS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          323.1100158691406,
+          202.109375
+        ],
+        [
+          509.4517228603363,
+          202.109375
+        ],
+        [
+          509.4517228603363,
+          211.2493896484375
+        ],
+        [
+          323.1100158691406,
+          211.2493896484375
+        ]
+      ]
+    },
+    {
+      "title": "Ei;+E2r=Ei +Ex",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          140.20036554336548,
+          625.6264038085938
+        ],
+        [
+          224.61154103279114,
+          625.6264038085938
+        ],
+        [
+          224.61154103279114,
+          637.3508148193359
+        ],
+        [
+          140.20036554336548,
+          637.3508148193359
+        ]
+      ]
+    },
+    {
+      "title": "6. CONCLUSION",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          385.47471141815186,
+          563.2993927001953
+        ],
+        [
+          452.859432220459,
+          563.2993927001953
+        ],
+        [
+          452.859432220459,
+          572.4393920898438
+        ],
+        [
+          385.47471141815186,
+          572.4393920898438
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX A. ENTROPY OF A PROBABILITY\nDISTRIBUTION",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          88.01617276668549,
+          179.65460205078125
+        ],
+        [
+          276.6085284948349,
+          179.65460205078125
+        ],
+        [
+          275.4132159948349,
+          197.10565185546875
+        ],
+        [
+          86.82086026668549,
+          197.10565185546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1676
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1935
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1856
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Footnote",
+          7
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1406
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "Equation",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1736
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Equation",
+          9
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1507
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Equation",
+          8
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1446
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1826
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1710
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "Equation",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1469
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Equation",
+          12
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1227
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          8
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/jaynesInformationTheoryStatistical1957"
+}

@@ -1,0 +1,766 @@
+{
+  "table_of_contents": [
+    {
+      "title": "An optimal model for microbial .growth in a \nmultiple substrate environment: simultaneous \nand sequential utilization",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.65528774261475,
+          144.586669921875
+        ],
+        [
+          549.6373572349548,
+          144.586669921875
+        ],
+        [
+          549.6373572349548,
+          223.44847190380096
+        ],
+        [
+          64.65528774261475,
+          223.44847190380096
+        ]
+      ]
+    },
+    {
+      "title": "Pankaj Doshi and K. V. Venkatesh*",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          213.60000610351562,
+          259.0274852514267
+        ],
+        [
+          402.7720031738281,
+          259.0274852514267
+        ],
+        [
+          402.7720031738281,
+          272.65130615234375
+        ],
+        [
+          213.60000610351562,
+          272.65130615234375
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          94.94341689348221,
+          350.446253657341
+        ],
+        [
+          130.80459594726562,
+          348.829066157341
+        ],
+        [
+          130.80459594726562,
+          360.02984619140625
+        ],
+        [
+          94.94341689348221,
+          360.13866913318634
+        ]
+      ]
+    },
+    {
+      "title": "Nomenclature",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.48165285587311,
+          529.7246503829956
+        ],
+        [
+          116.98756408691406,
+          528.1074628829956
+        ],
+        [
+          116.98756408691406,
+          538.58984375
+        ],
+        [
+          54.48165285587311,
+          539.4622235298157
+        ]
+      ]
+    },
+    {
+      "title": ":~ Fraction of cells growing on a specific sub-\nstrate (control parameter)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.400001525878906,
+          710.0323257446289
+        ],
+        [
+          296.3525426387787,
+          709.0125968456268
+        ],
+        [
+          295.1572301387787,
+          730.2739334106445
+        ],
+        [
+          55.33836704492569,
+          730.5900671482086
+        ]
+      ]
+    },
+    {
+      "title": "Supers'cript",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          317.5136740207672,
+          733.5025482177734
+        ],
+        [
+          366.89715576171875,
+          732.4014573097229
+        ],
+        [
+          366.89715576171875,
+          742.025420665741
+        ],
+        [
+          317.5136740207672,
+          743.642608165741
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.89736598730087,
+          69.32629707455635
+        ],
+        [
+          107.48086547851562,
+          69.32629707455635
+        ],
+        [
+          107.48086547851562,
+          80.12255859375
+        ],
+        [
+          50.89736598730087,
+          80.12255859375
+        ]
+      ]
+    },
+    {
+      "title": "Theory",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          51.811893314123154,
+          563.6217956542969
+        ],
+        [
+          85.55918884277344,
+          563.0998213291168
+        ],
+        [
+          85.55918884277344,
+          573.3226013183594
+        ],
+        [
+          51.811893314123154,
+          574.9335000514984
+        ]
+      ]
+    },
+    {
+      "title": "Model development",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          51.506334990262985,
+          67.60015743970871
+        ],
+        [
+          137.15306282043457,
+          67.60015743970871
+        ],
+        [
+          137.15306282043457,
+          77.678955078125
+        ],
+        [
+          51.506334990262985,
+          77.678955078125
+        ]
+      ]
+    },
+    {
+      "title": "Materials and methods",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.0400085449219,
+          503.02921199798584
+        ],
+        [
+          417.49214601516724,
+          501.41202449798584
+        ],
+        [
+          417.49214601516724,
+          511.5990295410156
+        ],
+        [
+          317.0400085449219,
+          512.484290599823
+        ]
+      ]
+    },
+    {
+      "title": "Otgunism and medium",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          316.79998779296875,
+          526.7159156799316
+        ],
+        [
+          413.3262023925781,
+          525.0987281799316
+        ],
+        [
+          413.3262023925781,
+          536.0619201660156
+        ],
+        [
+          315.75875186920166,
+          536.08354139328
+        ]
+      ]
+    },
+    {
+      "title": "Results and discussion",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          55.5679826438427,
+          105.59010922908783
+        ],
+        [
+          155.71310424804688,
+          105.59010922908783
+        ],
+        [
+          155.71310424804688,
+          115.87579345703125
+        ],
+        [
+          55.5679826438427,
+          115.87579345703125
+        ]
+      ]
+    },
+    {
+      "title": "Model parameter estimation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          55.24352869391441,
+          130.42502689361572
+        ],
+        [
+          172.6828155517578,
+          128.80783939361572
+        ],
+        [
+          172.6828155517578,
+          139.88323974609375
+        ],
+        [
+          55.24352869391441,
+          140.61822366714478
+        ]
+      ]
+    },
+    {
+      "title": "Simultaneous utilization o[ substrate ]'or growth",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.067836701869965,
+          310.70570182800293
+        ],
+        [
+          252.60403442382812,
+          309.08851432800293
+        ],
+        [
+          252.60403442382812,
+          320.36322021484375
+        ],
+        [
+          54.872524201869965,
+          320.80626368522644
+        ]
+      ]
+    },
+    {
+      "title": "Sequential utilization cq\" suhstrate /or growth",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          315.49012756347656,
+          357.4369812011719
+        ],
+        [
+          500.2370910644531,
+          356.672904253006
+        ],
+        [
+          500.2370910644531,
+          366.91217041015625
+        ],
+        [
+          314.29481506347656,
+          367.28915190696716
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          318.9599914550781,
+          69.57058650255203
+        ],
+        [
+          368.6014099121094,
+          69.57058650255203
+        ],
+        [
+          368.6014099121094,
+          79.395751953125
+        ],
+        [
+          318.9599914550781,
+          79.395751953125
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          318.9676158428192,
+          407.10277032852173
+        ],
+        [
+          366.591552734375,
+          407.10277032852173
+        ],
+        [
+          366.591552734375,
+          416.67496275901794
+        ],
+        [
+          318.9676158428192,
+          416.67496275901794
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          208
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Equation",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "TableCell",
+          64
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          197
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "FigureGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          184
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "FigureGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          200
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "FigureGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/doshiOptimalModelMicrobial1998"
+}

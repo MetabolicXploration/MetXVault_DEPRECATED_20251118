@@ -1,0 +1,496 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Effect of Nutrient Concentration on the\nGrowth of Escherichia coli",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          83.76004028320312,
+          129.59815686941147
+        ],
+        [
+          397.3193359375,
+          129.59815686941147
+        ],
+        [
+          397.3193359375,
+          170.3721923828125
+        ],
+        [
+          83.02431327104568,
+          170.3721923828125
+        ]
+      ]
+    },
+    {
+      "title": "Received for publication 22 March 1971",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          168.91452050209045,
+          208.26265454292297
+        ],
+        [
+          309.5250244140625,
+          208.26265454292297
+        ],
+        [
+          309.5250244140625,
+          217.43304443359375
+        ],
+        [
+          168.91452050209045,
+          217.43304443359375
+        ]
+      ]
+    },
+    {
+      "title": "MATERIALS AND METHODS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          76.9514475017786,
+          182.6998291015625
+        ],
+        [
+          195.9167938232422,
+          182.6998291015625
+        ],
+        [
+          195.9167938232422,
+          192.6998291015625
+        ],
+        [
+          76.9514475017786,
+          192.6998291015625
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          117.83021582663059,
+          139.30902099609375
+        ],
+        [
+          162.47012329101562,
+          139.30902099609375
+        ],
+        [
+          162.47012329101562,
+          149.32293701171875
+        ],
+        [
+          117.83021582663059,
+          149.32293701171875
+        ]
+      ]
+    },
+    {
+      "title": "centration.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          39.4467638656497,
+          108.59458437561989
+        ],
+        [
+          83.45561218261719,
+          108.59458437561989
+        ],
+        [
+          83.45561218261719,
+          117.68157958984375
+        ],
+        [
+          38.5073107406497,
+          117.68157958984375
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          110.3051297813654,
+          539.20458984375
+        ],
+        [
+          170.05796813964844,
+          539.20458984375
+        ],
+        [
+          170.05796813964844,
+          548.674560546875
+        ],
+        [
+          110.3051297813654,
+          548.674560546875
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          306.05675810575485,
+          224.15847778320312
+        ],
+        [
+          384.61938577890396,
+          223.03676825761795
+        ],
+        [
+          383.67993265390396,
+          232.43215942382812
+        ],
+        [
+          305.11730498075485,
+          232.43215942382812
+        ]
+      ]
+    },
+    {
+      "title": "LITERATURE CITED",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          310.0200500488281,
+          289.7174987792969
+        ],
+        [
+          379.4070379137993,
+          288.51347655057907
+        ],
+        [
+          379.4070379137993,
+          296.9977722167969
+        ],
+        [
+          310.0200500488281,
+          296.9977722167969
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1337
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1960
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1369
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          974
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1286
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1779
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "TableCell",
+          11
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          723
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/shehataEffectNutrientConcentration1971"
+}

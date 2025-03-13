@@ -1,0 +1,1841 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.36283881962299,
+          55.30124158412218
+        ],
+        [
+          228.4891306757927,
+          53.77194470912218
+        ],
+        [
+          228.4891306757927,
+          90.48350539058447
+        ],
+        [
+          51.36283881962299,
+          92.01280226558447
+        ]
+      ]
+    },
+    {
+      "title": "The Effects of Stochasticity at the Single-Cell Level\nand Cell Size Control on the Population Growth",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.77755996584892,
+          94.80818641930819
+        ],
+        [
+          542.8247748613358,
+          94.80818641930819
+        ],
+        [
+          542.8247748613358,
+          138.87992584705353
+        ],
+        [
+          51.77755996584892,
+          138.87992584705353
+        ]
+      ]
+    },
+    {
+      "title": "Graphical Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.12119674682617,
+          151.17337395250797
+        ],
+        [
+          158.25201845169067,
+          149.64407707750797
+        ],
+        [
+          158.25201845169067,
+          164.98291015625
+        ],
+        [
+          53.12119674682617,
+          166.24808840453625
+        ]
+      ]
+    },
+    {
+      "title": "Authors",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          352.28451150655746,
+          149.96234612166882
+        ],
+        [
+          399.99130779504776,
+          148.43304924666882
+        ],
+        [
+          399.99130779504776,
+          164.98291015625
+        ],
+        [
+          352.28451150655746,
+          165.21916861832142
+        ]
+      ]
+    },
+    {
+      "title": "In Brief",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          353.13672280311584,
+          237.79637664556503
+        ],
+        [
+          394.38690185546875,
+          236.26707977056503
+        ],
+        [
+          394.38690185546875,
+          251.8039948940277
+        ],
+        [
+          351.95898842811584,
+          253.3332917690277
+        ]
+      ]
+    },
+    {
+      "title": "Highlights",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.12119674682617,
+          472.10651832818985
+        ],
+        [
+          108.7928894162178,
+          470.57722145318985
+        ],
+        [
+          108.32984924316406,
+          486.1905360817909
+        ],
+        [
+          52.497901529073715,
+          487.7198329567909
+        ]
+      ]
+    },
+    {
+      "title": "The Effects of Stochasticity at\nthe Single-Cell Level and Cell Size Control\non the Population Growth",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.980328649282455,
+          100.1871337890625
+        ],
+        [
+          444.27297735214233,
+          99.0851177573204
+        ],
+        [
+          444.27297735214233,
+          161.9515380859375
+        ],
+        [
+          58.980328649282455,
+          162.74480706453323
+        ]
+      ]
+    },
+    {
+      "title": "Jie Lin1 and Ariel Amir1,2,\n*",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.414718836545944,
+          173.70684814453125
+        ],
+        [
+          165.6174774169922,
+          173.70684814453125
+        ],
+        [
+          165.6174774169922,
+          183.65093994140625
+        ],
+        [
+          59.414718836545944,
+          183.97171184420586
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.754302978515625,
+          254.44293212890625
+        ],
+        [
+          106.02959132194519,
+          253.2021011710167
+        ],
+        [
+          105.0676498413086,
+          262.9111328125
+        ],
+        [
+          58.81977751851082,
+          263.8491679430008
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.754302978515625,
+          561.1151620745659
+        ],
+        [
+          127.43934698402882,
+          559.5858651995659
+        ],
+        [
+          126.91561126708984,
+          569.7897796630859
+        ],
+        [
+          58.89145405590534,
+          570.2192575335503
+        ]
+      ]
+    },
+    {
+      "title": "Figure 1. Phenomenological Models for Cell Size Control in Bacteria",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.12119674682617,
+          274.49176025390625
+        ],
+        [
+          298.064432233572,
+          274.49176025390625
+        ],
+        [
+          298.064432233572,
+          281.96356201171875
+        ],
+        [
+          53.12119674682617,
+          281.96356201171875
+        ]
+      ]
+    },
+    {
+      "title": "The Size Regulation Model",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.611715100705624,
+          616.1445770263672
+        ],
+        [
+          165.63819885253906,
+          616.1445770263672
+        ],
+        [
+          165.63819885253906,
+          624.8617984056473
+        ],
+        [
+          52.611715100705624,
+          624.8617984056473
+        ]
+      ]
+    },
+    {
+      "title": "B Figure 2. Differences between the Statistics\non Single Lineages and on Trees and the\nBreakdown of the Independent Generation\nTime Model",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          224.7329864501953,
+          101.12493896484375
+        ],
+        [
+          549.9329223632812,
+          101.12493896484375
+        ],
+        [
+          549.9329223632812,
+          136.999267578125
+        ],
+        [
+          224.7329864501953,
+          136.999267578125
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          309.69806349277496,
+          510.2981872558594
+        ],
+        [
+          350.9446105957031,
+          509.0492493510246
+        ],
+        [
+          350.9446105957031,
+          518.7663879394531
+        ],
+        [
+          309.69806349277496,
+          519.240019261837
+        ]
+      ]
+    },
+    {
+      "title": "A Simple Case: sl = 0",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          310.7112931609154,
+          532.2380676269531
+        ],
+        [
+          401.5744634270668,
+          531.5408529639244
+        ],
+        [
+          400.612060546875,
+          541.8707733154297
+        ],
+        [
+          309.5335587859154,
+          541.8707733154297
+        ]
+      ]
+    },
+    {
+      "title": "Single Lineages and Tree Statistics Are Distinct",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          52.60120667517185,
+          714.7333755493164
+        ],
+        [
+          255.80690377950668,
+          714.5003997087479
+        ],
+        [
+          255.80690377950668,
+          723.2015762329102
+        ],
+        [
+          52.60120667517185,
+          724.1503525972366
+        ]
+      ]
+    },
+    {
+      "title": "Variable Single-Cell Growth Rates: sl > 0",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          304.0924676656723,
+          528.4396667480469
+        ],
+        [
+          476.2403564453125,
+          527.7676414847374
+        ],
+        [
+          476.2403564453125,
+          538.0723571777344
+        ],
+        [
+          302.9147332906723,
+          538.0723571777344
+        ]
+      ]
+    },
+    {
+      "title": "Figure 3. Population Growth with Variable Single-Cell Growth Rates",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.229709446430206,
+          242.06341552734375
+        ],
+        [
+          301.63654214143753,
+          242.06341552734375
+        ],
+        [
+          301.63654214143753,
+          249.53521728515625
+        ],
+        [
+          59.229709446430206,
+          249.53521728515625
+        ]
+      ]
+    },
+    {
+      "title": "Robustness of the Results to the Form of Noise\nDistributions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          310.8068259358406,
+          605.1458129882812
+        ],
+        [
+          509.59283447265625,
+          605.1458129882812
+        ],
+        [
+          509.59283447265625,
+          624.6125183105469
+        ],
+        [
+          310.8068259358406,
+          624.907628774643
+        ]
+      ]
+    },
+    {
+      "title": "Effects of Growth Rate Correlations",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          52.63178399205208,
+          668.7552261352539
+        ],
+        [
+          204.7288572192192,
+          668.2678248882294
+        ],
+        [
+          204.37741088867188,
+          677.2234268188477
+        ],
+        [
+          51.45404961705208,
+          678.319703578949
+        ]
+      ]
+    },
+    {
+      "title": "Experimental Test of the Model on E. coli Data",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          58.99082359671593,
+          429.7945556640625
+        ],
+        [
+          255.356201171875,
+          429.7945556640625
+        ],
+        [
+          255.356201171875,
+          438.519578397274
+        ],
+        [
+          58.99082359671593,
+          438.519578397274
+        ]
+      ]
+    },
+    {
+      "title": "Figure 5. Experimental Tests of the Model Predictions",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          53.12119674682617,
+          354.3721923828125
+        ],
+        [
+          246.8750745356083,
+          353.51024106144905
+        ],
+        [
+          246.8750745356083,
+          361.843994140625
+        ],
+        [
+          53.12119674682617,
+          362.1977562010288
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          53.12119674682617,
+          514.8334655761719
+        ],
+        [
+          107.74765375256538,
+          513.7256737947464
+        ],
+        [
+          107.3261489868164,
+          523.3016662597656
+        ],
+        [
+          52.02961841225624,
+          523.7460032701492
+        ]
+      ]
+    },
+    {
+      "title": "STAR+METHODS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          310.8484802246094,
+          244.0155029296875
+        ],
+        [
+          385.74614185094833,
+          242.97527834773064
+        ],
+        [
+          385.5397033691406,
+          252.53424072265625
+        ],
+        [
+          310.11538141965866,
+          253.02655032277107
+        ]
+      ]
+    },
+    {
+      "title": "SUPPLEMENTAL INFORMATION",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          310.8471984863281,
+          427.30205887556076
+        ],
+        [
+          423.9919586777687,
+          425.77276200056076
+        ],
+        [
+          422.8142243027687,
+          434.4450378417969
+        ],
+        [
+          310.0733297467232,
+          435.2979181408882
+        ]
+      ]
+    },
+    {
+      "title": "AUTHOR CONTRIBUTIONS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          310.84722900390625,
+          475.17229932546616
+        ],
+        [
+          402.7961120605469,
+          473.64300245046616
+        ],
+        [
+          402.7961120605469,
+          482.35015869140625
+        ],
+        [
+          310.28157538175583,
+          483.0172263979912
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          310.21332228183746,
+          523.281494140625
+        ],
+        [
+          389.5170986652374,
+          521.8190742731094
+        ],
+        [
+          388.986572265625,
+          530.2552947998047
+        ],
+        [
+          309.03558790683746,
+          531.2308212518692
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          309.3168668746948,
+          655.8854598999023
+        ],
+        [
+          359.4057922363281,
+          654.3635349869728
+        ],
+        [
+          359.4057922363281,
+          662.859260559082
+        ],
+        [
+          309.3168668746948,
+          663.9909927248955
+        ]
+      ]
+    },
+    {
+      "title": "STAR+METHODS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          59.071256406605244,
+          100.8031005859375
+        ],
+        [
+          152.2222937643528,
+          100.8031005859375
+        ],
+        [
+          152.2222937643528,
+          111.32623291015625
+        ],
+        [
+          59.071256406605244,
+          111.32623291015625
+        ]
+      ]
+    },
+    {
+      "title": "CONTACT FOR REAGENT AND RESOURCE SHARING",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          59.32933956384659,
+          124.332763671875
+        ],
+        [
+          281.2748718261719,
+          124.332763671875
+        ],
+        [
+          281.2748718261719,
+          132.95461218059063
+        ],
+        [
+          59.32933956384659,
+          132.95461218059063
+        ]
+      ]
+    },
+    {
+      "title": "Computing the Correlation of Mother-Daughter Cells' Generation Time",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          58.10585153102875,
+          179.09832763671875
+        ],
+        [
+          358.33772403001785,
+          179.09832763671875
+        ],
+        [
+          358.33772403001785,
+          187.71276739239693
+        ],
+        [
+          58.10585153102875,
+          187.71276739239693
+        ]
+      ]
+    },
+    {
+      "title": "A Recursive Derivation of the Independent Generation Time Model",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          58.54717844724655,
+          485.09471422433853
+        ],
+        [
+          340.7738544344902,
+          485.09471422433853
+        ],
+        [
+          340.7738544344902,
+          493.5937805175781
+        ],
+        [
+          58.54717844724655,
+          493.5937805175781
+        ]
+      ]
+    },
+    {
+      "title": "Relations between Different Generation Time Distributions\nTwo Kinds of Cells: Branch Cell and Leaf Cell",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          59.17792658507824,
+          648.9688720703125
+        ],
+        [
+          308.30902099609375,
+          648.4946808815002
+        ],
+        [
+          308.30902099609375,
+          668.4355697631836
+        ],
+        [
+          59.17792658507824,
+          668.4355697631836
+        ]
+      ]
+    },
+    {
+      "title": "Age Distribution: f(x)",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          51.859097979962826,
+          128.30035400390625
+        ],
+        [
+          142.61642456054688,
+          127.89511679112911
+        ],
+        [
+          142.61642456054688,
+          137.00225830078125
+        ],
+        [
+          51.859097979962826,
+          137.719127073884
+        ]
+      ]
+    },
+    {
+      "title": "Ancestors' Generation Time Distribution: f1(t)",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          52.650743186473846,
+          626.2349700927734
+        ],
+        [
+          245.96530276536942,
+          625.9729281663895
+        ],
+        [
+          245.96530276536942,
+          635.6922912597656
+        ],
+        [
+          52.650743186473846,
+          635.6922912597656
+        ]
+      ]
+    },
+    {
+      "title": "Computing the Population Growth Rate",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          58.88849785923958,
+          340.6459785103798
+        ],
+        [
+          225.29559326171875,
+          340.6459785103798
+        ],
+        [
+          225.29559326171875,
+          349.14019775390625
+        ],
+        [
+          58.88849785923958,
+          349.14019775390625
+        ]
+      ]
+    },
+    {
+      "title": "Robustness of the Results to Other Form of Noise Distributions",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          52.838924422860146,
+          100.9752197265625
+        ],
+        [
+          318.85760498046875,
+          100.14930872619152
+        ],
+        [
+          318.85760498046875,
+          109.59559182822704
+        ],
+        [
+          51.661190047860146,
+          111.12488870322704
+        ]
+      ]
+    },
+    {
+      "title": "Effects of Size-Additive Noises",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          53.12119674682617,
+          111.9169921875
+        ],
+        [
+          182.88116455078125,
+          111.24878704547882
+        ],
+        [
+          182.88116455078125,
+          120.38519287109375
+        ],
+        [
+          52.38569634407759,
+          121.0330807864666
+        ]
+      ]
+    },
+    {
+      "title": "Effects of Non-Gaussian Time-Additive Noises",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          52.89475969970226,
+          220.76751708984375
+        ],
+        [
+          247.4867107272148,
+          219.83217877149582
+        ],
+        [
+          247.4507293701172,
+          229.2357177734375
+        ],
+        [
+          51.71702532470226,
+          230.02607560157776
+        ]
+      ]
+    },
+    {
+      "title": "Effects of Non-Gaussian Growth Rate Distribution",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          52.91073574125767,
+          351.78466796875
+        ],
+        [
+          263.4527245759964,
+          350.721682459116
+        ],
+        [
+          262.7836608886719,
+          360.25286865234375
+        ],
+        [
+          51.73300136625767,
+          361.2066628038883
+        ]
+      ]
+    },
+    {
+      "title": "Simulations vs. Experiments",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          52.28216656297445,
+          504.515380859375
+        ],
+        [
+          173.0449523627758,
+          504.19491720199585
+        ],
+        [
+          173.0449523627758,
+          512.9835815429688
+        ],
+        [
+          52.28216656297445,
+          514.3378032445908
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary Information",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          202.2469940185547,
+          123.9229736328125
+        ],
+        [
+          393.77657437324524,
+          123.9229736328125
+        ],
+        [
+          393.0280456542969,
+          141.13836669921875
+        ],
+        [
+          201.59446668624878,
+          141.13836669921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          250
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          351
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          463
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          762
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "TextInlineMath",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          443
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          460
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          350
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "TableCell",
+          47
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          286
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          338
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          38
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          567
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          693
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Equation",
+          9
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          652
+        ],
+        [
+          "Line",
+          127
+        ],
+        [
+          "Equation",
+          11
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          434
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Text",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          181
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          241
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/linEffectsStochasticitySingleCell2017"
+}

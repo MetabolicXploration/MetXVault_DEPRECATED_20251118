@@ -1,0 +1,495 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DOI: 10.1126/science.1070919\nScience 297, 1183 (2002);\nMichael B. Elowitz et al.\nStochastic Gene Expression in a Single Cell",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          182.0,
+          77.52655863761902
+        ],
+        [
+          436.8864634037018,
+          77.52655863761902
+        ],
+        [
+          436.8864634037018,
+          129.55642247200012
+        ],
+        [
+          182.0,
+          129.55642247200012
+        ]
+      ]
+    },
+    {
+      "title": "References and Notes",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.5,
+          575.0600337982178
+        ],
+        [
+          138.53810673952103,
+          575.0600337982178
+        ],
+        [
+          138.53810673952103,
+          583.5
+        ],
+        [
+          59.5,
+          583.5
+        ]
+      ]
+    },
+    {
+      "title": "Supporting Online Material",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          403.03772163391113,
+          156.26324462890625
+        ],
+        [
+          488.5599088668823,
+          155.43031203746796
+        ],
+        [
+          488.5599088668823,
+          163.26324462890625
+        ],
+        [
+          403.03772163391113,
+          164.27449715137482
+        ]
+      ]
+    },
+    {
+      "title": "Stochastic Gene Expression in a\nSingle Cell",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          250.26691317558289,
+          259.5
+        ],
+        [
+          541.0773103237152,
+          258.20482063293457
+        ],
+        [
+          540.3992309570312,
+          303.5
+        ],
+        [
+          249.07160067558289,
+          303.5610008239746
+        ]
+      ]
+    },
+    {
+      "title": "Michael B. Elowitz,1,2* Arnold J. Levine,1 Eric D. Siggia,2\nPeter S. Swain2",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          271.6903076171875,
+          309.125
+        ],
+        [
+          521.3616333007812,
+          309.125
+        ],
+        [
+          521.3616333007812,
+          333.0
+        ],
+        [
+          270.82633924484253,
+          333.0
+        ]
+      ]
+    },
+    {
+      "title": "R EPORTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          280.9226771593094,
+          53.43293488025665
+        ],
+        [
+          336.75576853752136,
+          53.43293488025665
+        ],
+        [
+          336.75576853752136,
+          64.0
+        ],
+        [
+          280.9226771593094,
+          64.0
+        ]
+      ]
+    },
+    {
+      "title": "R EPORTS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          281.085205078125,
+          54.0
+        ],
+        [
+          337.3872764110565,
+          54.0
+        ],
+        [
+          337.3872764110565,
+          64.0
+        ],
+        [
+          281.085205078125,
+          64.0
+        ]
+      ]
+    },
+    {
+      "title": "R EPORTS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          280.3915568590164,
+          54.0
+        ],
+        [
+          336.03999638557434,
+          52.72343319654465
+        ],
+        [
+          336.03999638557434,
+          64.0
+        ],
+        [
+          280.3915568590164,
+          64.0
+        ]
+      ]
+    },
+    {
+      "title": "References and Notes",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          235.59631991386414,
+          74.10526371002197
+        ],
+        [
+          314.8631896972656,
+          72.55838871002197
+        ],
+        [
+          314.8631896972656,
+          82.5
+        ],
+        [
+          234.40100741386414,
+          82.64258050918579
+        ]
+      ]
+    },
+    {
+      "title": "Supporting Online Material",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          403.49725341796875,
+          307.3639397621155
+        ],
+        [
+          490.1050822734833,
+          305.8170647621155
+        ],
+        [
+          488.9097697734833,
+          315.2582702636719
+        ],
+        [
+          403.49725341796875,
+          316.71595287323
+        ]
+      ]
+    },
+    {
+      "title": "S-Nitrosylation of Matrix\nMetalloproteinases: Signaling\nPathway to Neuronal Cell Death",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          254.62649536132812,
+          382.79512667655945
+        ],
+        [
+          540.0348408222198,
+          381.24825167655945
+        ],
+        [
+          540.0348408222198,
+          453.5
+        ],
+        [
+          254.62649536132812,
+          453.5662865638733
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          598
+        ],
+        [
+          "Line",
+          187
+        ],
+        [
+          "ListItem",
+          27
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          411
+        ],
+        [
+          "Line",
+          148
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          549
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "TableCell",
+          46
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          580
+        ],
+        [
+          "Line",
+          193
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/elowitzStochasticGeneExpression2002"
+}

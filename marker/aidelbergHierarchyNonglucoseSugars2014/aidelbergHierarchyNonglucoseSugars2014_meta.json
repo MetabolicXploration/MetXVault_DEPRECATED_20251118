@@ -1,0 +1,1003 @@
+{
+  "table_of_contents": [
+    {
+      "title": "R E S EAR CH A R TIC L E Open Access",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.72849044203758,
+          91.76017332077026
+        ],
+        [
+          534.50048828125,
+          90.20939207077026
+        ],
+        [
+          534.50048828125,
+          106.263671875
+        ],
+        [
+          58.72849044203758,
+          107.54537585377692
+        ]
+      ]
+    },
+    {
+      "title": "Hierarchy of non-glucose sugars in Escherichia coli",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.69291687011719,
+          121.45613402128218
+        ],
+        [
+          539.3039963245392,
+          119.90535277128218
+        ],
+        [
+          538.1399338245392,
+          146.47979736328125
+        ],
+        [
+          55.828924894332886,
+          147.79201346635818
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.61263161897659,
+          195.4825477898121
+        ],
+        [
+          103.0675157904625,
+          193.9317665398121
+        ],
+        [
+          101.9034532904625,
+          206.166748046875
+        ],
+        [
+          61.44856911897659,
+          207.51729983091354
+        ]
+      ]
+    },
+    {
+      "title": "Background",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.69291687011719,
+          530.7792084217072
+        ],
+        [
+          113.13996195793152,
+          529.2284271717072
+        ],
+        [
+          112.23670196533203,
+          541.6186065673828
+        ],
+        [
+          55.78249454498291,
+          542.6547436714172
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.2993230819702,
+          209.0762939453125
+        ],
+        [
+          337.9718060493469,
+          208.86659026145935
+        ],
+        [
+          337.3031921386719,
+          219.37628173828125
+        ],
+        [
+          303.1352605819702,
+          219.63374853134152
+        ]
+      ]
+    },
+    {
+      "title": "Sugar utilization promoter activities were measured in all\npairs of six non-PTS sugars",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.72430419921875,
+          221.945068359375
+        ],
+        [
+          538.5721943378448,
+          221.48410391807553
+        ],
+        [
+          537.4081318378448,
+          243.1641845703125
+        ],
+        [
+          304.4901955127716,
+          243.3281223773956
+        ]
+      ]
+    },
+    {
+      "title": "Promoter activity shows a hierarchy of dominance among\nsugars",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.5868573188782,
+          545.9451446533203
+        ],
+        [
+          540.2823729515076,
+          545.9451446533203
+        ],
+        [
+          539.1183104515076,
+          567.1642456054688
+        ],
+        [
+          303.4227948188782,
+          568.358346581459
+        ]
+      ]
+    },
+    {
+      "title": "Sugar systems show very little cross activation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.2476351261139,
+          197.9345242381096
+        ],
+        [
+          491.82212567329407,
+          197.9345242381096
+        ],
+        [
+          491.82212567329407,
+          207.16424560546875
+        ],
+        [
+          304.2476351261139,
+          207.16424560546875
+        ]
+      ]
+    },
+    {
+      "title": "Sugar hierarchy can be quantitatively explained by\ndifferential activation by cAMP-CRP",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.07820826768875,
+          413.96405029296875
+        ],
+        [
+          263.1631348133087,
+          413.21803510189056
+        ],
+        [
+          263.1631348133087,
+          435.1261291503906
+        ],
+        [
+          56.07820826768875,
+          435.8316704034805
+        ]
+      ]
+    },
+    {
+      "title": "Both sequential and simultaneous expression of sugar\nsystems is observed",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          56.33102631568909,
+          173.92626953125
+        ],
+        [
+          277.22502970695496,
+          173.34374696016312
+        ],
+        [
+          276.06096720695496,
+          195.1453857421875
+        ],
+        [
+          55.16696381568909,
+          196.246284365654
+        ]
+      ]
+    },
+    {
+      "title": "Simultaneous expression cannot be explained by simple\noptimality models, and suggests multi-objective optimality",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          56.242446303367615,
+          340.615793466568
+        ],
+        [
+          288.57991445064545,
+          340.615793466568
+        ],
+        [
+          288.57991445064545,
+          363.1261291503906
+        ],
+        [
+          56.242446303367615,
+          363.1261291503906
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          55.84782385826111,
+          209.0762939453125
+        ],
+        [
+          105.11580646038055,
+          209.0762939453125
+        ],
+        [
+          105.11580646038055,
+          219.37628173828125
+        ],
+        [
+          55.84782385826111,
+          219.37628173828125
+        ]
+      ]
+    },
+    {
+      "title": "Conclusions",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          304.60259461402893,
+          233.1141357421875
+        ],
+        [
+          360.92378067970276,
+          233.1141357421875
+        ],
+        [
+          360.92378067970276,
+          243.41412353515625
+        ],
+        [
+          304.60259461402893,
+          243.41412353515625
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          304.72430419921875,
+          400.74912536144257
+        ],
+        [
+          347.8907425403595,
+          400.74912536144257
+        ],
+        [
+          346.7266800403595,
+          411.3951110839844
+        ],
+        [
+          304.72430419921875,
+          411.3951110839844
+        ]
+      ]
+    },
+    {
+      "title": "Strains and Growth conditions",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          304.72430419921875,
+          413.6682481765747
+        ],
+        [
+          429.1427171230316,
+          413.6682481765747
+        ],
+        [
+          427.9786546230316,
+          423.1641540527344
+        ],
+        [
+          304.72430419921875,
+          423.1641540527344
+        ]
+      ]
+    },
+    {
+      "title": "Robotic assays",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          304.72430419921875,
+          641.9261169433594
+        ],
+        [
+          363.2847595214844,
+          641.8079618215561
+        ],
+        [
+          363.2847595214844,
+          651.126220703125
+        ],
+        [
+          304.72430419921875,
+          652.5050774812698
+        ]
+      ]
+    },
+    {
+      "title": "Promoter Activity and growth rate calculation",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          56.06740885972977,
+          224.77984619140625
+        ],
+        [
+          241.69579458236694,
+          224.77984619140625
+        ],
+        [
+          241.69579458236694,
+          233.97998046875
+        ],
+        [
+          56.06740885972977,
+          233.97998046875
+        ]
+      ]
+    },
+    {
+      "title": "CRP Model fitting",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          56.11973625421524,
+          515.4785895347595
+        ],
+        [
+          127.11231231689453,
+          515.4785895347595
+        ],
+        [
+          127.11231231689453,
+          524.8145751953125
+        ],
+        [
+          56.11973625421524,
+          524.8145751953125
+        ]
+      ]
+    },
+    {
+      "title": "Additional file",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          55.86040836572647,
+          625.5990600585938
+        ],
+        [
+          122.83341640233994,
+          625.5990600585938
+        ],
+        [
+          122.83341640233994,
+          636.0442122220993
+        ],
+        [
+          55.86040836572647,
+          636.0442122220993
+        ]
+      ]
+    },
+    {
+      "title": "Competing interest",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          304.7243347167969,
+          137.06181687116623
+        ],
+        [
+          368.0169668197632,
+          137.06181687116623
+        ],
+        [
+          368.0169668197632,
+          145.09490966796875
+        ],
+        [
+          304.7243347167969,
+          145.09490966796875
+        ]
+      ]
+    },
+    {
+      "title": "Author contributions",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          304.7243347167969,
+          165.91124400496483
+        ],
+        [
+          373.138427734375,
+          165.91124400496483
+        ],
+        [
+          373.138427734375,
+          173.66796875
+        ],
+        [
+          304.7243347167969,
+          173.66796875
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          304.7243347167969,
+          221.3961247205734
+        ],
+        [
+          368.8289794921875,
+          221.3961247205734
+        ],
+        [
+          368.8289794921875,
+          229.22650146484375
+        ],
+        [
+          304.7243347167969,
+          229.22650146484375
+        ]
+      ]
+    },
+    {
+      "title": "Received: 8 June 2014 Accepted: 4 December 2014",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          304.72430419921875,
+          293.7275085449219
+        ],
+        [
+          469.2046129703522,
+          293.7275085449219
+        ],
+        [
+          468.0405504703522,
+          310.38187712430954
+        ],
+        [
+          304.2524664402008,
+          310.38187712430954
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          304.72430419921875,
+          321.5128073692322
+        ],
+        [
+          341.3815414905548,
+          321.5128073692322
+        ],
+        [
+          341.3815414905548,
+          329.744873046875
+        ],
+        [
+          304.72430419921875,
+          329.744873046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          295
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          195
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          345
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          244
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          462
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          751
+        ],
+        [
+          "Line",
+          137
+        ],
+        [
+          "ListItem",
+          47
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/aidelbergHierarchyNonglucoseSugars2014"
+}

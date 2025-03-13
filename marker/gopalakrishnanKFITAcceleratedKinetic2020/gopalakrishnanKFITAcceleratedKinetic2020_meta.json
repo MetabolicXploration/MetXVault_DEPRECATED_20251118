@@ -1,0 +1,813 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Original Research Article",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          37.53071799874306,
+          144.76752150058746
+        ],
+        [
+          147.18198716640472,
+          144.76752150058746
+        ],
+        [
+          146.01792466640472,
+          156.4334716796875
+        ],
+        [
+          36.36665549874306,
+          156.4334716796875
+        ]
+      ]
+    },
+    {
+      "title": "K-FIT: An accelerated kinetic parameterization algorithm using steady-state\nfluxomic data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          37.43183147907257,
+          164.6132787168026
+        ],
+        [
+          488.80865478515625,
+          164.6132787168026
+        ],
+        [
+          488.80865478515625,
+          196.5299072265625
+        ],
+        [
+          37.43183147907257,
+          196.5299072265625
+        ]
+      ]
+    },
+    {
+      "title": "Saratram Gopalakrishnan, Satyakam Dash, Costas Maranas\u2217",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.04806852340698,
+          204.631591796875
+        ],
+        [
+          319.0146179199219,
+          204.631591796875
+        ],
+        [
+          319.0146179199219,
+          217.784912109375
+        ],
+        [
+          36.04806852340698,
+          217.784912109375
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          37.039116248488426,
+          415.11581122875214
+        ],
+        [
+          96.83552914857864,
+          415.11581122875214
+        ],
+        [
+          96.83552914857864,
+          424.66473388671875
+        ],
+        [
+          37.039116248488426,
+          424.66473388671875
+        ]
+      ]
+    },
+    {
+      "title": "2. Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          37.10284696519375,
+          676.0353244543076
+        ],
+        [
+          81.35363644361496,
+          676.0353244543076
+        ],
+        [
+          81.35363644361496,
+          684.486213684082
+        ],
+        [
+          37.10284696519375,
+          684.486213684082
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Kinetic parameterization using K-FIT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.604859709739685,
+          697.1885240077972
+        ],
+        [
+          178.29799449443817,
+          697.1885240077972
+        ],
+        [
+          178.29799449443817,
+          705.4071350097656
+        ],
+        [
+          36.604859709739685,
+          705.4071350097656
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Construction of the expanded kinetic model of E. coli, k-ecoli307",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          306.5946960449219,
+          323.46079647541046
+        ],
+        [
+          545.0900988578796,
+          321.91001522541046
+        ],
+        [
+          543.9260363578796,
+          331.4629821777344
+        ],
+        [
+          305.6469044685364,
+          331.4629821777344
+        ]
+      ]
+    },
+    {
+      "title": "3. Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.6782259941101,
+          666.028434753418
+        ],
+        [
+          345.3018798828125,
+          665.0065475702286
+        ],
+        [
+          345.3018798828125,
+          673.9986343383789
+        ],
+        [
+          304.6782259941101,
+          674.7647136449814
+        ]
+      ]
+    },
+    {
+      "title": "3.1. The K-FIT algorithm",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          36.816953510046005,
+          697.4383316040039
+        ],
+        [
+          123.16741180419922,
+          696.1723855733871
+        ],
+        [
+          123.16741180419922,
+          705.4085311889648
+        ],
+        [
+          36.816953510046005,
+          706.0854972600937
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Benchmarking K-FIT against Ensemble Modeling",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          36.90486299991608,
+          696.899976849556
+        ],
+        [
+          218.00764846801758,
+          696.899976849556
+        ],
+        [
+          218.00764846801758,
+          705.4075469970703
+        ],
+        [
+          36.90486299991608,
+          705.4075469970703
+        ]
+      ]
+    },
+    {
+      "title": "3.3. Parameterization of a kinetic model (k-ecoli307) for E. coli with near-\ngenome-wide coverage",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          36.51446795463562,
+          132.37119814753532
+        ],
+        [
+          289.5023579597473,
+          132.37119814753532
+        ],
+        [
+          289.5023579597473,
+          151.07882210612297
+        ],
+        [
+          36.51446795463562,
+          151.07882210612297
+        ]
+      ]
+    },
+    {
+      "title": "Table 1",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          36.736437529325485,
+          601.9350228309631
+        ],
+        [
+          63.60079076886177,
+          601.9350228309631
+        ],
+        [
+          63.60079076886177,
+          609.9182434082031
+        ],
+        [
+          36.736437529325485,
+          609.9182434082031
+        ]
+      ]
+    },
+    {
+      "title": "4. Discussion",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          306.5972595214844,
+          162.97664794325829
+        ],
+        [
+          358.0799865722656,
+          162.97664794325829
+        ],
+        [
+          358.0799865722656,
+          171.9219970703125
+        ],
+        [
+          306.5972595214844,
+          171.9219970703125
+        ]
+      ]
+    },
+    {
+      "title": "Author statement",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          305.1862955093384,
+          59.35516357421875
+        ],
+        [
+          375.3381838798523,
+          58.30743226408958
+        ],
+        [
+          375.3381838798523,
+          67.32537841796875
+        ],
+        [
+          305.1862955093384,
+          67.36353948712349
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgement",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          306.59735107421875,
+          143.03271484375
+        ],
+        [
+          376.8227844238281,
+          142.5028853714466
+        ],
+        [
+          376.8227844238281,
+          151.0029296875
+        ],
+        [
+          305.5254821777344,
+          151.54162392020226
+        ]
+      ]
+    },
+    {
+      "title": "Appendix A. Supplementary data",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          306.06680250167847,
+          226.710205078125
+        ],
+        [
+          434.19073486328125,
+          226.181028842926
+        ],
+        [
+          434.19073486328125,
+          234.680419921875
+        ],
+        [
+          304.90274000167847,
+          235.39570212364194
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          306.100266456604,
+          278.9803466796875
+        ],
+        [
+          348.40190267562866,
+          278.12346905469894
+        ],
+        [
+          347.7642517089844,
+          286.9505615234375
+        ],
+        [
+          304.936203956604,
+          287.15305000543594
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          250
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          477
+        ],
+        [
+          "Line",
+          136
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          405
+        ],
+        [
+          "Line",
+          132
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          530
+        ],
+        [
+          "Line",
+          132
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          370
+        ],
+        [
+          "Line",
+          137
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          401
+        ],
+        [
+          "Line",
+          139
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "Reference",
+          22
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          216
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "ListItem",
+          29
+        ],
+        [
+          "Reference",
+          29
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/gopalakrishnanKFITAcceleratedKinetic2020"
+}

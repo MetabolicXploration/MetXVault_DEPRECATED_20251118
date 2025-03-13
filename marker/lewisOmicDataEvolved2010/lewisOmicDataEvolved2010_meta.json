@@ -1,0 +1,1246 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Omic data from evolved E. coli are consistent with\ncomputed optimal growth from genome-scale models",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.5545357465744,
+          72.88257771730423
+        ],
+        [
+          509.12814140319824,
+          71.33179646730423
+        ],
+        [
+          509.12814140319824,
+          113.5245361328125
+        ],
+        [
+          47.5545357465744,
+          114.64191091060637
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.69289219379425,
+          572.5803068876266
+        ],
+        [
+          118.51323580741882,
+          571.0295256376266
+        ],
+        [
+          118.51323580741882,
+          585.3568725585938
+        ],
+        [
+          46.69289219379425,
+          585.70780646801
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          308.8628845214844,
+          120.63224598765372
+        ],
+        [
+          352.8283100128174,
+          120.63224598765372
+        ],
+        [
+          352.8283100128174,
+          134.08148193359375
+        ],
+        [
+          308.8628845214844,
+          134.08148193359375
+        ]
+      ]
+    },
+    {
+      "title": "The omics data sets",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          308.8628845214844,
+          139.62450087070465
+        ],
+        [
+          406.6686518192291,
+          139.62450087070465
+        ],
+        [
+          406.6686518192291,
+          151.53642988204956
+        ],
+        [
+          308.8628845214844,
+          151.53642988204956
+        ]
+      ]
+    },
+    {
+      "title": "Analysis of omics data in the context of computed\noptimal growth states",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.84880065917969,
+          401.6764327287674
+        ],
+        [
+          290.6667757034302,
+          400.1256514787674
+        ],
+        [
+          289.5027132034302,
+          425.1354675292969
+        ],
+        [
+          47.036705911159515,
+          425.81680762767786
+        ]
+      ]
+    },
+    {
+      "title": "Many metabolic genes and proteins are\ndifferentially expressed with adaptation",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.84880065917969,
+          259.53070551157
+        ],
+        [
+          241.16378164291382,
+          257.97992426157
+        ],
+        [
+          239.99971914291382,
+          282.6661682128906
+        ],
+        [
+          46.76680952310562,
+          282.91523545980453
+        ]
+      ]
+    },
+    {
+      "title": "Adaptive evolution overcomes dosage limitations\nof essential genes",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          51.817298889160156,
+          219.7477334141731
+        ],
+        [
+          291.74240028858185,
+          219.7477334141731
+        ],
+        [
+          290.57833778858185,
+          244.22833251953125
+        ],
+        [
+          50.85666787624359,
+          244.22833251953125
+        ]
+      ]
+    },
+    {
+      "title": "The emergence of the optimal metabolic states\nin adaptive evolution",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          51.817298889160156,
+          553.6501083374023
+        ],
+        [
+          280.31513464450836,
+          553.6501083374023
+        ],
+        [
+          279.15107214450836,
+          578.5464935302734
+        ],
+        [
+          50.82188951969147,
+          578.5464935302734
+        ]
+      ]
+    },
+    {
+      "title": "Adaptation suppresses conditionally inactive\npathways",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          308.12678956985474,
+          391.2216029763222
+        ],
+        [
+          528.3256521224976,
+          389.6708217263222
+        ],
+        [
+          527.1615896224976,
+          414.1370849609375
+        ],
+        [
+          306.96272706985474,
+          415.1150540113449
+        ]
+      ]
+    },
+    {
+      "title": "Only downregulation is tied to known regulon\nstructure",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          308.8628845214844,
+          676.0070234537125
+        ],
+        [
+          532.165765285492,
+          674.4562422037125
+        ],
+        [
+          531.001702785492,
+          699.0755844116211
+        ],
+        [
+          308.3892436027527,
+          700.1818517446518
+        ]
+      ]
+    },
+    {
+      "title": "Adaptively evolved strains largely eliminate the\nstringent response",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          51.817298889160156,
+          609.7637516260147
+        ],
+        [
+          282.9729435443878,
+          608.2129703760147
+        ],
+        [
+          281.8088810443878,
+          633.3116912841797
+        ],
+        [
+          50.946704387664795,
+          634.2309604883194
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          308.8628845214844,
+          487.2868175506591
+        ],
+        [
+          374.950044631958,
+          485.7360363006591
+        ],
+        [
+          373.785982131958,
+          501.2814025878906
+        ],
+        [
+          308.42235231399536,
+          502.551941871643
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          304.3931074142456,
+          622.5085251331329
+        ],
+        [
+          359.28826904296875,
+          620.9577438831329
+        ],
+        [
+          359.28826904296875,
+          633.4113199710846
+        ],
+        [
+          304.3931074142456,
+          634.9621012210846
+        ]
+      ]
+    },
+    {
+      "title": "Materials and methods",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          51.817298889160156,
+          224.5923630595207
+        ],
+        [
+          183.4861330986023,
+          224.5923630595207
+        ],
+        [
+          182.49969482421875,
+          239.303466796875
+        ],
+        [
+          50.87399488687515,
+          239.303466796875
+        ]
+      ]
+    },
+    {
+      "title": "Parsimonious enzyme usage FBA",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          51.817298889160156,
+          245.3232955932617
+        ],
+        [
+          214.90516328811646,
+          245.3232955932617
+        ],
+        [
+          213.74110078811646,
+          256.7576904296875
+        ],
+        [
+          50.686852514743805,
+          256.7576904296875
+        ]
+      ]
+    },
+    {
+      "title": "Regulon enrichment",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          308.8628845214844,
+          150.77083575725555
+        ],
+        [
+          407.3130283355713,
+          149.22005450725555
+        ],
+        [
+          406.1489658355713,
+          162.1373291015625
+        ],
+        [
+          308.8628845214844,
+          162.76719450950623
+        ]
+      ]
+    },
+    {
+      "title": "Gene expression profiling",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          308.8628845214844,
+          229.7840349078178
+        ],
+        [
+          435.3356091976166,
+          228.2332536578178
+        ],
+        [
+          434.1715466976166,
+          240.94036865234375
+        ],
+        [
+          308.8355362415314,
+          241.44243806600568
+        ]
+      ]
+    },
+    {
+      "title": "Cell preparation",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          308.8628845214844,
+          344.22630071640015
+        ],
+        [
+          387.10424542427063,
+          342.67551946640015
+        ],
+        [
+          385.94018292427063,
+          355.6300964355469
+        ],
+        [
+          308.12398314476013,
+          356.14911472797394
+        ]
+      ]
+    },
+    {
+      "title": "Cell lysis",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          308.8628845214844,
+          675.5552486181259
+        ],
+        [
+          353.5952100753784,
+          674.0044673681259
+        ],
+        [
+          352.5727844238281,
+          687.1134872436523
+        ],
+        [
+          308.789674282074,
+          687.1134872436523
+        ]
+      ]
+    },
+    {
+      "title": "Protein reduction, trypsin digestion, and alkylation",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.84880065917969,
+          143.1370076239109
+        ],
+        [
+          287.61043667793274,
+          141.5862263739109
+        ],
+        [
+          286.9064025878906,
+          154.08673095703125
+        ],
+        [
+          46.69108933210373,
+          154.89453527331352
+        ]
+      ]
+    },
+    {
+      "title": "Peptide concentration and cleanup",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.83746957778931,
+          257.97249406576157
+        ],
+        [
+          217.19810140132904,
+          256.42171281576157
+        ],
+        [
+          216.03403890132904,
+          269.6268310546875
+        ],
+        [
+          46.67340707778931,
+          269.8622744679451
+        ]
+      ]
+    },
+    {
+      "title": "SCX fractionation of peptides and data\npreprocessing",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.34279274940491,
+          330.69179677963257
+        ],
+        [
+          236.35832929611206,
+          329.14101552963257
+        ],
+        [
+          235.19426679611206,
+          354.3827209472656
+        ],
+        [
+          46.17873024940491,
+          354.4133358001709
+        ]
+      ]
+    },
+    {
+      "title": "Accurate mass and time tag analysis of peptides",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.101635575294495,
+          496.7135117053985
+        ],
+        [
+          281.919273018837,
+          495.1627304553985
+        ],
+        [
+          281.919273018837,
+          507.79376220703125
+        ],
+        [
+          47.101635575294495,
+          508.63589978218073
+        ]
+      ]
+    },
+    {
+      "title": "Computation of differential expression",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          304.5764842033386,
+          77.57275867462158
+        ],
+        [
+          489.4386901855469,
+          76.02197742462158
+        ],
+        [
+          489.4386901855469,
+          89.2867431640625
+        ],
+        [
+          303.4124217033386,
+          90.02035984396935
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary information",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          304.8376770019531,
+          169.9815715253353
+        ],
+        [
+          436.55661725997925,
+          168.4307902753353
+        ],
+        [
+          435.39255475997925,
+          181.9796142578125
+        ],
+        [
+          304.0678462982178,
+          182.28098288178444
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          304.8376770019531,
+          219.2462661862373
+        ],
+        [
+          418.00898933410645,
+          217.6954849362373
+        ],
+        [
+          417.0912780761719,
+          233.23724365234375
+        ],
+        [
+          304.8376770019531,
+          233.8385081887245
+        ]
+      ]
+    },
+    {
+      "title": "Conflict of interest",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          304.8376770019531,
+          402.9956474304199
+        ],
+        [
+          413.2127022743225,
+          401.4448661804199
+        ],
+        [
+          412.0486397743225,
+          417.09234619140625
+        ],
+        [
+          304.17939281463623,
+          417.6104166507721
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          304.8376770019531,
+          449.6748350858688
+        ],
+        [
+          371.45853209495544,
+          448.1240538358688
+        ],
+        [
+          370.29446959495544,
+          462.9570007324219
+        ],
+        [
+          304.8376770019531,
+          464.333617568016
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          303
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          294
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          326
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          455
+        ],
+        [
+          "Line",
+          222
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          291
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          409
+        ],
+        [
+          "Line",
+          127
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          360
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          348
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          381
+        ],
+        [
+          "Line",
+          133
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          375
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          504
+        ],
+        [
+          "Line",
+          142
+        ],
+        [
+          "ListItem",
+          41
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/lewisOmicDataEvolved2010"
+}

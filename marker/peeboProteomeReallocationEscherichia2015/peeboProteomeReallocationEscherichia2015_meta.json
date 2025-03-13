@@ -1,0 +1,883 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Molecular\nBioSystems",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.64829635620117,
+          30.35024866461754
+        ],
+        [
+          152.23081696033478,
+          30.35024866461754
+        ],
+        [
+          152.23081696033478,
+          74.69781494140625
+        ],
+        [
+          40.64829635620117,
+          74.69781494140625
+        ]
+      ]
+    },
+    {
+      "title": "PAPER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.76800638437271,
+          91.75518125295639
+        ],
+        [
+          98.84245300292969,
+          91.75518125295639
+        ],
+        [
+          98.84245300292969,
+          111.60089111328125
+        ],
+        [
+          45.76800638437271,
+          111.60089111328125
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.45447093248367,
+          455.68843245506287
+        ],
+        [
+          122.63470458984375,
+          455.68843245506287
+        ],
+        [
+          122.63470458984375,
+          470.9402883052826
+        ],
+        [
+          42.45447093248367,
+          470.9402883052826
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.24268352985382,
+          25.78093573451042
+        ],
+        [
+          64.28296077251434,
+          25.78093573451042
+        ],
+        [
+          64.28296077251434,
+          34.57018867135048
+        ],
+        [
+          42.24268352985382,
+          34.57018867135048
+        ]
+      ]
+    },
+    {
+      "title": "Results and discussion",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.3069763183594,
+          253.8548583984375
+        ],
+        [
+          450.2844409942627,
+          253.28684985637665
+        ],
+        [
+          450.2844409942627,
+          267.80242919921875
+        ],
+        [
+          303.3069763183594,
+          267.80242919921875
+        ]
+      ]
+    },
+    {
+      "title": "Physiological characteristics of Escherichia coli in glucose\nminimal and defined rich media",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.3069763183594,
+          273.8952941894531
+        ],
+        [
+          536.3570013046265,
+          273.3579343557358
+        ],
+        [
+          535.1929388046265,
+          294.82354736328125
+        ],
+        [
+          302.7504606246948,
+          294.82354736328125
+        ]
+      ]
+    },
+    {
+      "title": "Specific growth rate-dependent proteome analysis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          42.2661207318306,
+          453.2148742675781
+        ],
+        [
+          242.09309911727905,
+          452.26051211357117
+        ],
+        [
+          242.09309911727905,
+          462.1811828613281
+        ],
+        [
+          42.2661207318306,
+          462.82954573631287
+        ]
+      ]
+    },
+    {
+      "title": "Reallocation of proteome resources with faster growth",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.30767822265625,
+          297.8158264160156
+        ],
+        [
+          521.6433053016663,
+          297.05197155475616
+        ],
+        [
+          520.4993286132812,
+          306.7821350097656
+        ],
+        [
+          302.5632472038269,
+          307.2090893983841
+        ]
+      ]
+    },
+    {
+      "title": "cAMP and CRP roles in the coordination of proteome allocation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          303.3069763183594,
+          680.3833923339844
+        ],
+        [
+          553.0553727149963,
+          679.935986995697
+        ],
+        [
+          553.0553727149963,
+          689.3496932983398
+        ],
+        [
+          303.3069763183594,
+          690.2699589729309
+        ]
+      ]
+    },
+    {
+      "title": "Most important single protein expression changes with rising l",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          303.3069763183594,
+          536.6257781982422
+        ],
+        [
+          552.773681640625,
+          535.9746301174164
+        ],
+        [
+          552.773681640625,
+          545.8595733642578
+        ],
+        [
+          303.3069763183594,
+          546.8873298168182
+        ]
+      ]
+    },
+    {
+      "title": "Acetate overflow as a result of more economic protein resource\nusage",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          303.3069763183594,
+          226.0465087890625
+        ],
+        [
+          554.2874999046326,
+          225.16409039497375
+        ],
+        [
+          553.1234374046326,
+          246.9747314453125
+        ],
+        [
+          303.0011205673218,
+          247.3430585861206
+        ]
+      ]
+    },
+    {
+      "title": "Experimental",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          42.51969909667969,
+          504.8911437988281
+        ],
+        [
+          126.62545621395111,
+          504.0876066684723
+        ],
+        [
+          126.42845153808594,
+          518.8387451171875
+        ],
+        [
+          42.51969909667969,
+          518.8387451171875
+        ]
+      ]
+    },
+    {
+      "title": "Bacterial strains, growth media and cultivation conditions",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          42.51969909667969,
+          524.9314880371094
+        ],
+        [
+          276.50857424736023,
+          524.5418751239777
+        ],
+        [
+          275.9573974609375,
+          533.8977966308594
+        ],
+        [
+          41.9982847571373,
+          534.7835147380829
+        ]
+      ]
+    },
+    {
+      "title": "Exo-metabolome and amino acid analysis",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          303.3049621582031,
+          441.2518310546875
+        ],
+        [
+          471.13852405548096,
+          441.09601378440857
+        ],
+        [
+          471.13852405548096,
+          450.2181396484375
+        ],
+        [
+          303.3049621582031,
+          451.2413227558136
+        ]
+      ]
+    },
+    {
+      "title": "Proteome analysis",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          40.90627455711365,
+          142.36773681640625
+        ],
+        [
+          114.84725189208984,
+          140.90048789978027
+        ],
+        [
+          114.84725189208984,
+          151.33404541015625
+        ],
+        [
+          40.90627455711365,
+          151.51471138000488
+        ]
+      ]
+    },
+    {
+      "title": "Conclusions",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          301.1202473640442,
+          600.4184875488281
+        ],
+        [
+          382.625581741333,
+          599.2136514186859
+        ],
+        [
+          382.625581741333,
+          614.3660888671875
+        ],
+        [
+          301.1202473640442,
+          615.2967774868011
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          42.28947800397873,
+          176.01544189453125
+        ],
+        [
+          170.67025542259216,
+          175.31863152980804
+        ],
+        [
+          169.50619292259216,
+          189.99438643455505
+        ],
+        [
+          41.12541550397873,
+          191.51782393455505
+        ]
+      ]
+    },
+    {
+      "title": "Notes and references",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          42.51969909667969,
+          313.49578857421875
+        ],
+        [
+          181.75275707244873,
+          312.59042501449585
+        ],
+        [
+          181.11282348632812,
+          327.4433898925781
+        ],
+        [
+          42.38775172829628,
+          328.0207622051239
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          265
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          473
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          302
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          309
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          244
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          300
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "TableCell",
+          86
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          394
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          368
+        ],
+        [
+          "Line",
+          130
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          462
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "ListItem",
+          40
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          244
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/peeboProteomeReallocationEscherichia2015"
+}

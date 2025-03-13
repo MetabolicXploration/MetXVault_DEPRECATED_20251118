@@ -1,0 +1,632 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The concept of multiple-nutrient-limited growth of\nmicroorganisms and its application in\nbiotechnological processes",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.57742691040039,
+          197.1561279296875
+        ],
+        [
+          442.22739601135254,
+          197.1561279296875
+        ],
+        [
+          442.22739601135254,
+          253.947265625
+        ],
+        [
+          89.57742691040039,
+          253.947265625
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.51621198654175,
+          334.27911376953125
+        ],
+        [
+          117.97251892089844,
+          334.27911376953125
+        ],
+        [
+          117.97251892089844,
+          343.9210914373398
+        ],
+        [
+          84.51621198654175,
+          343.9210914373398
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          100.33348846435547,
+          214.52880859375
+        ],
+        [
+          165.7064208984375,
+          214.52880859375
+        ],
+        [
+          164.95350646972656,
+          224.49139404296875
+        ],
+        [
+          99.27098846435547,
+          224.49139404296875
+        ]
+      ]
+    },
+    {
+      "title": "2. The phenomenon",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          85.03929901123047,
+          156.8719482421875
+        ],
+        [
+          171.56409740447998,
+          156.8719482421875
+        ],
+        [
+          170.50159740447998,
+          166.83453369140625
+        ],
+        [
+          84.05520248413086,
+          166.83453369140625
+        ]
+      ]
+    },
+    {
+      "title": "3. A concept for the prediction of multiple-nutrient-limited growth regimes",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          100.57319641113281,
+          106.98223876953125
+        ],
+        [
+          423.0427017211914,
+          106.98223876953125
+        ],
+        [
+          422.6302795410156,
+          116.94482421875
+        ],
+        [
+          100.09861850738525,
+          116.94482421875
+        ]
+      ]
+    },
+    {
+      "title": "4. The dual-nutrient-limited zone of growth at different growth rates",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          84.28872680664062,
+          211.57958984375
+        ],
+        [
+          382.1013355255127,
+          211.57958984375
+        ],
+        [
+          382.1013355255127,
+          221.54217529296875
+        ],
+        [
+          84.28872680664062,
+          221.54217529296875
+        ]
+      ]
+    },
+    {
+      "title": "5. Application to biotechnological processes",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          100.08302211761475,
+          201.60205078125
+        ],
+        [
+          287.51766204833984,
+          201.60205078125
+        ],
+        [
+          286.9784240722656,
+          211.56463623046875
+        ],
+        [
+          99.02052211761475,
+          211.56463623046875
+        ]
+      ]
+    },
+    {
+      "title": "6. Outlook",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          84.64957571029663,
+          287.3211975097656
+        ],
+        [
+          131.1374363899231,
+          287.3211975097656
+        ],
+        [
+          131.1374363899231,
+          297.2838134765625
+        ],
+        [
+          84.64957571029663,
+          297.2838134765625
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          84.63529253005981,
+          466.6390686035156
+        ],
+        [
+          167.08360481262207,
+          466.6390686035156
+        ],
+        [
+          167.08360481262207,
+          476.6016845703125
+        ],
+        [
+          84.63529253005981,
+          476.6016845703125
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          84.50551986694336,
+          550.3169555664062
+        ],
+        [
+          130.85629272460938,
+          550.3169555664062
+        ],
+        [
+          130.85629272460938,
+          560.2795562744141
+        ],
+        [
+          84.50551986694336,
+          560.2795562744141
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          36
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/egliConceptMultiplenutrientlimitedGrowth2003"
+}

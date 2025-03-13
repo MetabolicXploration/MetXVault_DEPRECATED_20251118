@@ -1,0 +1,596 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Bacterial growth laws and their applications\nMatthew Scott1 and Terence Hwa2,3",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.443261593580246,
+          81.18018972873688
+        ],
+        [
+          403.3358726501465,
+          81.18018972873688
+        ],
+        [
+          403.3358726501465,
+          118.26327949762343
+        ],
+        [
+          60.443261593580246,
+          118.26327949762343
+        ]
+      ]
+    },
+    {
+      "title": "Addresses",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.17654590308666,
+          310.41680377721786
+        ],
+        [
+          98.90513662993908,
+          310.41680377721786
+        ],
+        [
+          98.90513662993908,
+          319.75301045179367
+        ],
+        [
+          60.17654590308666,
+          319.75301045179367
+        ]
+      ]
+    },
+    {
+      "title": "Current Opinion in Biotechnology 2011, 22:559\u2013565",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          67.37899307906628,
+          446.11345231533045
+        ],
+        [
+          254.6659763455391,
+          446.11345231533045
+        ],
+        [
+          254.23472595214844,
+          456.10003662109375
+        ],
+        [
+          66.18172745406628,
+          456.10003662109375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.70048663020134,
+          592.3173679113388
+        ],
+        [
+          125.99070462584496,
+          590.7665866613388
+        ],
+        [
+          124.91258239746094,
+          604.1053466796875
+        ],
+        [
+          59.50322100520134,
+          604.8445833921432
+        ]
+      ]
+    },
+    {
+      "title": "Empirical growth-rate dependence",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          318.2173156738281,
+          268.687546312809
+        ],
+        [
+          502.5496884584427,
+          268.687546312809
+        ],
+        [
+          501.3524228334427,
+          280.7857666015625
+        ],
+        [
+          317.8914153575897,
+          280.7857666015625
+        ]
+      ]
+    },
+    {
+      "title": "Box 1 Monod's growth relation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.47485065460205,
+          84.36225982010365
+        ],
+        [
+          175.98810863494873,
+          82.81147857010365
+        ],
+        [
+          175.98810863494873,
+          93.24615478515625
+        ],
+        [
+          58.47485065460205,
+          94.7951302677393
+        ]
+      ]
+    },
+    {
+      "title": "Quantitative models of bacterial physiology",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.61327005922794,
+          512.0823274850845
+        ],
+        [
+          283.8806752562523,
+          510.5315462350845
+        ],
+        [
+          283.8806752562523,
+          523.2612609863281
+        ],
+        [
+          53.61327005922794,
+          523.6907542943954
+        ]
+      ]
+    },
+    {
+      "title": "Bacterial growth laws",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.130615234375,
+          650.9163360595703
+        ],
+        [
+          427.98796939849854,
+          649.4667426347733
+        ],
+        [
+          427.98796939849854,
+          661.8753356933594
+        ],
+        [
+          311.130615234375,
+          662.7565706968307
+        ]
+      ]
+    },
+    {
+      "title": "Applications of the growth laws",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.41159138083458,
+          500.7935485839844
+        ],
+        [
+          221.4641571044922,
+          500.7935485839844
+        ],
+        [
+          221.4641571044922,
+          511.7525634765625
+        ],
+        [
+          53.41159138083458,
+          511.7525634765625
+        ]
+      ]
+    },
+    {
+      "title": "Outlook",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          60.59959705173969,
+          442.2351740598678
+        ],
+        [
+          103.99084828794003,
+          440.6843928098678
+        ],
+        [
+          102.79358266294003,
+          453.9825744628906
+        ],
+        [
+          59.40233142673969,
+          454.24076139926905
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          318.2173156738281,
+          223.29276502132413
+        ],
+        [
+          424.2078940272331,
+          221.74198377132413
+        ],
+        [
+          423.0106284022331,
+          234.63763427734375
+        ],
+        [
+          317.07827001810074,
+          234.73995184898374
+        ]
+      ]
+    },
+    {
+      "title": "References and recommended reading",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          318.2173156738281,
+          289.1023254394531
+        ],
+        [
+          526.0001350641251,
+          287.6059843301773
+        ],
+        [
+          524.8028694391251,
+          300.06134033203125
+        ],
+        [
+          318.0130857229233,
+          300.2890919446945
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          277
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          359
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          310
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          332
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          391
+        ],
+        [
+          "Line",
+          140
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          723
+        ],
+        [
+          "Line",
+          147
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/scottBacterialGrowthLaws2011"
+}

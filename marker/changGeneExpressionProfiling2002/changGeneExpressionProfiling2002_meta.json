@@ -1,0 +1,1507 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Gene expression profiling of Escherichia coli growth\ntransitions: an expanded stringent response model",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.473504453897476,
+          77.545654296875
+        ],
+        [
+          515.3655046224594,
+          76.0525643825531
+        ],
+        [
+          515.3655046224594,
+          115.54547119140625
+        ],
+        [
+          56.473504453897476,
+          117.06649604439735
+        ]
+      ]
+    },
+    {
+      "title": "Dong-Eun Chang, Darren J. Smalley and \nTyrrell Conway*",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.968502044677734,
+          137.873000562191
+        ],
+        [
+          234.4737091064453,
+          136.345656812191
+        ],
+        [
+          234.4737091064453,
+          159.60462522506714
+        ],
+        [
+          56.31379775702953,
+          161.13196897506714
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.968502044677734,
+          215.579224050045
+        ],
+        [
+          99.01629015803337,
+          214.051880300045
+        ],
+        [
+          97.97610473632812,
+          225.496337890625
+        ],
+        [
+          56.35807994753122,
+          226.09271675348282
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          308.9682922363281,
+          203.99240040779114
+        ],
+        [
+          362.88574635982513,
+          202.46505665779114
+        ],
+        [
+          361.72363698482513,
+          213.45965576171875
+        ],
+        [
+          307.9122418165207,
+          214.32280576229095
+        ]
+      ]
+    },
+    {
+      "title": "290 D. E. Chang et al.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.43933852761984,
+          36.32138030230999
+        ],
+        [
+          155.61487883329391,
+          36.32138030230999
+        ],
+        [
+          155.61487883329391,
+          45.4232177734375
+        ],
+        [
+          57.43933852761984,
+          45.4232177734375
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.98633374273777,
+          654.227170586586
+        ],
+        [
+          91.085205078125,
+          654.227170586586
+        ],
+        [
+          91.085205078125,
+          663.4704437255859
+        ],
+        [
+          57.98633374273777,
+          663.4704437255859
+        ]
+      ]
+    },
+    {
+      "title": "Description of datasets",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.28334670513868,
+          672.4704437255859
+        ],
+        [
+          151.10256958007812,
+          671.0653803348541
+        ],
+        [
+          151.10256958007812,
+          681.4704437255859
+        ],
+        [
+          58.28334670513868,
+          681.4704437255859
+        ]
+      ]
+    },
+    {
+      "title": "Overview of datasets",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          308.71115654706955,
+          384.4674987792969
+        ],
+        [
+          396.03193014860153,
+          383.6311070919037
+        ],
+        [
+          394.86982077360153,
+          393.4674987792969
+        ],
+        [
+          307.54904717206955,
+          393.8349174261093
+        ]
+      ]
+    },
+    {
+      "title": "Statistical and cluster analysis",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.968502044677734,
+          95.16464279592037
+        ],
+        [
+          178.4837646484375,
+          95.16464279592037
+        ],
+        [
+          178.4837646484375,
+          105.4722900390625
+        ],
+        [
+          56.968502044677734,
+          105.4722900390625
+        ]
+      ]
+    },
+    {
+      "title": "The stringent response and class 1 genes",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          308.9683837890625,
+          275.5274429321289
+        ],
+        [
+          479.51413959264755,
+          275.5274429321289
+        ],
+        [
+          479.51413959264755,
+          285.4681091308594
+        ],
+        [
+          308.9683837890625,
+          285.4681091308594
+        ]
+      ]
+    },
+    {
+      "title": "Transcription and translation apparatus",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          308.9683837890625,
+          407.4958997964859
+        ],
+        [
+          467.29518085718155,
+          407.4958997964859
+        ],
+        [
+          467.29518085718155,
+          417.47222900390625
+        ],
+        [
+          308.9683837890625,
+          417.47222900390625
+        ]
+      ]
+    },
+    {
+      "title": "294 D. E. Chang et al.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          56.86402913182974,
+          36.4232177734375
+        ],
+        [
+          155.60841369628906,
+          36.4232177734375
+        ],
+        [
+          155.60841369628906,
+          45.867806024849415
+        ],
+        [
+          56.86402913182974,
+          45.867806024849415
+        ]
+      ]
+    },
+    {
+      "title": "Amino acid biosynthesis",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          58.58300018310547,
+          588.4973673820496
+        ],
+        [
+          156.80709779262543,
+          586.9700236320496
+        ],
+        [
+          156.0979766845703,
+          597.5463409423828
+        ],
+        [
+          57.63132702559233,
+          597.9418406486511
+        ]
+      ]
+    },
+    {
+      "title": "Nucleotide biosynthesis",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          56.50633595883846,
+          672.2661685943604
+        ],
+        [
+          151.98486328125,
+          672.2661685943604
+        ],
+        [
+          151.98486328125,
+          681.5659332275391
+        ],
+        [
+          56.50633595883846,
+          681.5659332275391
+        ]
+      ]
+    },
+    {
+      "title": "Aerobic metabolism",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          308.96826171875,
+          576.5219259262085
+        ],
+        [
+          388.9328420162201,
+          576.5219259262085
+        ],
+        [
+          388.9328420162201,
+          585.5614166259766
+        ],
+        [
+          308.96826171875,
+          585.5614166259766
+        ]
+      ]
+    },
+    {
+      "title": "Cell process genes",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          310.5848083496094,
+          624.0740638971329
+        ],
+        [
+          388.19191217422485,
+          624.0740638971329
+        ],
+        [
+          388.19191217422485,
+          633.5138092041016
+        ],
+        [
+          310.5848083496094,
+          633.5138092041016
+        ]
+      ]
+    },
+    {
+      "title": "Stationary phase, stress survival and class 5 genes",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          308.3093762397766,
+          330.4644470214844
+        ],
+        [
+          517.007568359375,
+          329.61905735731125
+        ],
+        [
+          517.007568359375,
+          339.4644470214844
+        ],
+        [
+          308.3093762397766,
+          339.66881889104843
+        ]
+      ]
+    },
+    {
+      "title": "Programmed cell death or controlled growth arrest?",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          56.96832275390625,
+          179.98311412334442
+        ],
+        [
+          266.1018566787243,
+          179.98311412334442
+        ],
+        [
+          265.0006408691406,
+          189.47003173828125
+        ],
+        [
+          56.2479130923748,
+          189.47003173828125
+        ]
+      ]
+    },
+    {
+      "title": "300 D. E. Chang et al.",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          57.68174018710852,
+          35.52214144915342
+        ],
+        [
+          156.21137842535973,
+          35.52214144915342
+        ],
+        [
+          156.21137842535973,
+          45.48721692711115
+        ],
+        [
+          57.68174018710852,
+          45.48721692711115
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          58.159978091716766,
+          484.4095060825348
+        ],
+        [
+          106.87311843037605,
+          484.4095060825348
+        ],
+        [
+          106.87311843037605,
+          495.4631042480469
+        ],
+        [
+          58.159978091716766,
+          495.4631042480469
+        ]
+      ]
+    },
+    {
+      "title": "ppGpp and the stringent response",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          57.95860916376114,
+          503.0626484155655
+        ],
+        [
+          196.79691702127457,
+          503.0626484155655
+        ],
+        [
+          196.79691702127457,
+          513.4631042480469
+        ],
+        [
+          57.95860916376114,
+          513.4631042480469
+        ]
+      ]
+    },
+    {
+      "title": "Stringent control of translation apparatus",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          310.51400780677795,
+          155.53766697645187
+        ],
+        [
+          475.448494553566,
+          155.53766697645187
+        ],
+        [
+          475.448494553566,
+          165.53767144680023
+        ],
+        [
+          310.51400780677795,
+          165.53767144680023
+        ]
+      ]
+    },
+    {
+      "title": "Amino acid biosynthesis",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          309.92593109607697,
+          431.0930531024933
+        ],
+        [
+          409.1855627298355,
+          431.0930531024933
+        ],
+        [
+          409.1855627298355,
+          441.46514892578125
+        ],
+        [
+          309.92593109607697,
+          441.46514892578125
+        ]
+      ]
+    },
+    {
+      "title": "Model for stringent control of aerobic metabolism",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          56.96917724609375,
+          281.4904133081436
+        ],
+        [
+          256.1920264363289,
+          281.4904133081436
+        ],
+        [
+          255.0299170613289,
+          291.4679260253906
+        ],
+        [
+          55.85917495191097,
+          291.4679260253906
+        ]
+      ]
+    },
+    {
+      "title": "Stationary phase and the stringent response",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          56.970062255859375,
+          671.2776460647583
+        ],
+        [
+          236.03224182128906,
+          671.2776460647583
+        ],
+        [
+          236.03224182128906,
+          681.4597930908203
+        ],
+        [
+          56.970062255859375,
+          681.4597930908203
+        ]
+      ]
+    },
+    {
+      "title": "Gene expression during transient growth arrest 301",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          321.86791002750397,
+          36.4232177734375
+        ],
+        [
+          536.9689331054688,
+          35.89045441895723
+        ],
+        [
+          536.9689331054688,
+          45.4232177734375
+        ],
+        [
+          321.86791002750397,
+          46.27758515626192
+        ]
+      ]
+    },
+    {
+      "title": "Addiction module genes",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          308.9709777832031,
+          444.4503173828125
+        ],
+        [
+          406.22432589530945,
+          442.9809594154358
+        ],
+        [
+          406.22432589530945,
+          453.4503173828125
+        ],
+        [
+          308.9709777832031,
+          453.91213178634644
+        ]
+      ]
+    },
+    {
+      "title": "Expanded stringent response model",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          309.3377125263214,
+          215.41734462976456
+        ],
+        [
+          456.47768318653107,
+          215.41734462976456
+        ],
+        [
+          456.47768318653107,
+          225.4639892578125
+        ],
+        [
+          309.3377125263214,
+          225.4639892578125
+        ]
+      ]
+    },
+    {
+      "title": "Concluding remarks",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          56.96917724609375,
+          359.18465781211853
+        ],
+        [
+          138.51775959134102,
+          359.18465781211853
+        ],
+        [
+          137.4732666015625,
+          369.6374206542969
+        ],
+        [
+          56.382133923470974,
+          369.6374206542969
+        ]
+      ]
+    },
+    {
+      "title": "Experimental procedures",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          307.5746527314186,
+          133.49379634857178
+        ],
+        [
+          418.8364115357399,
+          133.49379634857178
+        ],
+        [
+          418.8364115357399,
+          143.55064272880554
+        ],
+        [
+          307.5746527314186,
+          143.55064272880554
+        ]
+      ]
+    },
+    {
+      "title": "Bacterial growth",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          308.96868896484375,
+          152.08970057964325
+        ],
+        [
+          373.9765930175781,
+          152.08970057964325
+        ],
+        [
+          373.9765930175781,
+          161.89403277635574
+        ],
+        [
+          308.96868896484375,
+          161.89403277635574
+        ]
+      ]
+    },
+    {
+      "title": "Gene expression profiling and treatment of data",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          308.9244416356087,
+          337.44475972652435
+        ],
+        [
+          504.44281846284866,
+          337.44475972652435
+        ],
+        [
+          504.44281846284866,
+          347.97283935546875
+        ],
+        [
+          308.9244416356087,
+          347.97283935546875
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          308.5171642899513,
+          619.0394414663315
+        ],
+        [
+          393.7928268313408,
+          619.0394414663315
+        ],
+        [
+          393.7928268313408,
+          628.9728546142578
+        ],
+        [
+          308.5171642899513,
+          628.9728546142578
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          57.75193825364113,
+          52.97471983730793
+        ],
+        [
+          107.82245695590973,
+          52.97471983730793
+        ],
+        [
+          107.82245695590973,
+          63.847127601504326
+        ],
+        [
+          57.75193825364113,
+          63.847127601504326
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          190
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          208
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          10
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Footnote",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          200
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          144
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          277
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          246
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          202
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          259
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          433
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "ListItem",
+          31
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          397
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "ListItem",
+          31
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          285
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/changGeneExpressionProfiling2002"
+}

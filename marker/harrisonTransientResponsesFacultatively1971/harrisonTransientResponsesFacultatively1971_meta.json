@@ -1,0 +1,688 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Transient Responses of Facultatively \nAnaerobic Bacteria Growing in Chemostat Culture to a Change \nfrom Anaerobic to Aerobic Conditions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.51467251777649,
+          98.16864013671875
+        ],
+        [
+          432.534912109375,
+          98.16864013671875
+        ],
+        [
+          432.534912109375,
+          142.122314453125
+        ],
+        [
+          71.51467251777649,
+          142.122314453125
+        ]
+      ]
+    },
+    {
+      "title": "By D. E. F. HARRISON* AND J. E. LOVELESS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          135.77007508277893,
+          151.9666748046875
+        ],
+        [
+          369.0054931640625,
+          151.9666748046875
+        ],
+        [
+          369.0054931640625,
+          164.06671142578125
+        ],
+        [
+          135.77007508277893,
+          164.06671142578125
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          227.5284068584442,
+          212.8119993209839
+        ],
+        [
+          276.9386901855469,
+          212.8119993209839
+        ],
+        [
+          276.9386901855469,
+          221.61114692687988
+        ],
+        [
+          227.5284068584442,
+          221.61114692687988
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          213.27391004562378,
+          361.75708293914795
+        ],
+        [
+          289.2165222167969,
+          361.75708293914795
+        ],
+        [
+          289.2165222167969,
+          370.51567554473877
+        ],
+        [
+          213.27391004562378,
+          370.51567554473877
+        ]
+      ]
+    },
+    {
+      "title": "METHODS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          227.1623454093933,
+          147.8891623020172
+        ],
+        [
+          274.70538330078125,
+          147.8891623020172
+        ],
+        [
+          274.70538330078125,
+          156.26949906349182
+        ],
+        [
+          227.1623454093933,
+          156.26949906349182
+        ]
+      ]
+    },
+    {
+      "title": "Analysis",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.39627516269684,
+          221.67831420898438
+        ],
+        [
+          97.49430084228516,
+          221.67831420898438
+        ],
+        [
+          97.49430084228516,
+          231.77828979492188
+        ],
+        [
+          59.39627516269684,
+          231.77828979492188
+        ]
+      ]
+    },
+    {
+      "title": "Calculation of yield coejicients during transient states",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.273295879364014,
+          320.43359375
+        ],
+        [
+          278.862060546875,
+          320.43359375
+        ],
+        [
+          278.862060546875,
+          330.3335876464844
+        ],
+        [
+          59.273295879364014,
+          330.3335876464844
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          229.04571962356567,
+          68.26537370681763
+        ],
+        [
+          273.41357421875,
+          68.26537370681763
+        ],
+        [
+          273.41357421875,
+          76.16796875
+        ],
+        [
+          229.04571962356567,
+          76.16796875
+        ]
+      ]
+    },
+    {
+      "title": "Klebsiella aerogenes",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.39573818445206,
+          78.6583251953125
+        ],
+        [
+          146.6871337890625,
+          78.6583251953125
+        ],
+        [
+          146.6871337890625,
+          88.75830078125
+        ],
+        [
+          59.39573818445206,
+          88.75830078125
+        ]
+      ]
+    },
+    {
+      "title": "Transient responses of facultative anaerobes 49",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          153.92758512496948,
+          42.49725341796875
+        ],
+        [
+          448.12762451171875,
+          42.49725341796875
+        ],
+        [
+          448.12762451171875,
+          56.0400390625
+        ],
+        [
+          153.92758512496948,
+          56.0400390625
+        ]
+      ]
+    },
+    {
+      "title": "Eflect of the duration of the anaerobic period prior to reaeration",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.10641956329346,
+          509.96302795410156
+        ],
+        [
+          329.5120544433594,
+          509.96302795410156
+        ],
+        [
+          329.5120544433594,
+          520.2630310058594
+        ],
+        [
+          59.10641956329346,
+          520.2630310058594
+        ]
+      ]
+    },
+    {
+      "title": "COz production during adaptation to unuerobic growth",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.892773509025574,
+          274.69287109375
+        ],
+        [
+          287.8858642578125,
+          274.69287109375
+        ],
+        [
+          287.8858642578125,
+          285.19287109375
+        ],
+        [
+          59.892773509025574,
+          285.19287109375
+        ]
+      ]
+    },
+    {
+      "title": "Escherichia coli",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          60.42335307598114,
+          358.2845664024353
+        ],
+        [
+          128.68739318847656,
+          358.2845664024353
+        ],
+        [
+          128.68739318847656,
+          368.6534729003906
+        ],
+        [
+          60.42335307598114,
+          368.6534729003906
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          224.22158217430115,
+          474.4507598876953
+        ],
+        [
+          281.78411865234375,
+          474.4507598876953
+        ],
+        [
+          281.78411865234375,
+          482.9231929779053
+        ],
+        [
+          224.22158217430115,
+          482.9231929779053
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          222.23626470565796,
+          123.28237295150757
+        ],
+        [
+          282.8406982421875,
+          123.28237295150757
+        ],
+        [
+          282.8406982421875,
+          131.56390380859375
+        ],
+        [
+          222.23626470565796,
+          131.56390380859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          156
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/harrisonTransientResponsesFacultatively1971"
+}

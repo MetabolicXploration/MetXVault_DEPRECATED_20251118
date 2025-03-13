@@ -1,0 +1,1738 @@
+{
+  "table_of_contents": [
+    {
+      "title": "OPEN ACCESS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.287659257650375,
+          349.0922477245331
+        ],
+        [
+          104.86370265483856,
+          349.0922477245331
+        ],
+        [
+          104.86370265483856,
+          368.0911281108856
+        ],
+        [
+          34.287659257650375,
+          368.0911281108856
+        ]
+      ]
+    },
+    {
+      "title": "Quantification and Classification of E. coli\nProteome Utilization and Unused Protein\nCosts across Environments",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          200.0124969482422,
+          106.19819927215576
+        ],
+        [
+          545.5845737457275,
+          104.65132427215576
+        ],
+        [
+          544.3892612457275,
+          179.7991282939911
+        ],
+        [
+          200.0124969482422,
+          181.3460032939911
+        ]
+      ]
+    },
+    {
+      "title": "Edward J. O'Brien1,2, Jose Utrilla1,3, Bernhard O. Palsson1,4,5*",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          200.0124969482422,
+          191.99796402454376
+        ],
+        [
+          458.20440673828125,
+          190.45108902454376
+        ],
+        [
+          458.20440673828125,
+          203.462158203125
+        ],
+        [
+          199.673126578331,
+          203.61818504333496
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          199.45839858055115,
+          315.37030029296875
+        ],
+        [
+          256.32040786743164,
+          315.37030029296875
+        ],
+        [
+          255.62814331054688,
+          334.3130486011505
+        ],
+        [
+          198.26308608055115,
+          335.8599236011505
+        ]
+      ]
+    },
+    {
+      "title": "Author Summary",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          208.66195464134216,
+          607.4418754577637
+        ],
+        [
+          298.46575927734375,
+          605.8950004577637
+        ],
+        [
+          298.46575927734375,
+          621.6743621826172
+        ],
+        [
+          208.66195464134216,
+          622.2772979736328
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          200.0124969482422,
+          212.23886919021606
+        ],
+        [
+          269.758189201355,
+          210.69199419021606
+        ],
+        [
+          268.951904296875,
+          225.3048095703125
+        ],
+        [
+          199.6258692741394,
+          226.39139699935913
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          199.4950407743454,
+          519.8064594268799
+        ],
+        [
+          242.9931367635727,
+          518.2595844268799
+        ],
+        [
+          242.85214233398438,
+          533.7709045410156
+        ],
+        [
+          198.2997282743454,
+          534.7914333343506
+        ]
+      ]
+    },
+    {
+      "title": "Defining the un-utilized and under-utilized ME proteome",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          199.80614376068115,
+          538.8701548576355
+        ],
+        [
+          490.8091449737549,
+          537.3232798576355
+        ],
+        [
+          489.6138324737549,
+          551.8290252685547
+        ],
+        [
+          198.61083126068115,
+          552.4401497840881
+        ]
+      ]
+    },
+    {
+      "title": "Un-utilized and under-utilized ME proteome abundance varies across\nenvironments",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          200.0124969482422,
+          331.6970794200897
+        ],
+        [
+          561.355052947998,
+          330.1502044200897
+        ],
+        [
+          560.159740447998,
+          358.675537109375
+        ],
+        [
+          199.1963950395584,
+          358.73311972618103
+        ]
+      ]
+    },
+    {
+      "title": "Growth rate variation can be explained by unused proteome expression",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          200.0124969482422,
+          643.8035736083984
+        ],
+        [
+          571.1059255599976,
+          642.2871136665344
+        ],
+        [
+          571.1059255599976,
+          655.803466796875
+        ],
+        [
+          200.0124969482422,
+          656.6150622367859
+        ]
+      ]
+    },
+    {
+      "title": "Selection for faster growth rates results in a decrease in unused protein\nexpression",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          199.15926039218903,
+          278.814697265625
+        ],
+        [
+          567.8572640419006,
+          278.814697265625
+        ],
+        [
+          567.8572640419006,
+          304.8172912597656
+        ],
+        [
+          199.15926039218903,
+          304.8172912597656
+        ]
+      ]
+    },
+    {
+      "title": "Model-driven classification of proteome segments",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          198.13269531726837,
+          669.825569152832
+        ],
+        [
+          458.089599609375,
+          668.4889140129089
+        ],
+        [
+          458.089599609375,
+          681.8254699707031
+        ],
+        [
+          198.13269531726837,
+          681.8562026023865
+        ]
+      ]
+    },
+    {
+      "title": "The core ME proteome is under-utilized",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          200.0124969482422,
+          258.731885433197
+        ],
+        [
+          404.63699197769165,
+          258.731885433197
+        ],
+        [
+          404.5387878417969,
+          271.59564208984375
+        ],
+        [
+          200.0124969482422,
+          271.59564208984375
+        ]
+      ]
+    },
+    {
+      "title": "The non-core ME proteome is largely un-utilized in any particular\nminimal media environment",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          199.49888920783997,
+          551.3599147796631
+        ],
+        [
+          534.9500205516815,
+          551.3599147796631
+        ],
+        [
+          533.873779296875,
+          577.7935485839844
+        ],
+        [
+          198.30357670783997,
+          577.7935485839844
+        ]
+      ]
+    },
+    {
+      "title": "The non-ME proteome expression balances growth and stress\nresistance",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          199.50051248073578,
+          485.9797568321228
+        ],
+        [
+          524.4552512168884,
+          484.4328818321228
+        ],
+        [
+          523.2599387168884,
+          512.8235778808594
+        ],
+        [
+          198.30519998073578,
+          513.2279448509216
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          200.01162457466125,
+          637.7647094726562
+        ],
+        [
+          263.7849826812744,
+          636.5497784614563
+        ],
+        [
+          263.34796142578125,
+          649.7646026611328
+        ],
+        [
+          198.81631207466125,
+          650.5473732948303
+        ]
+      ]
+    },
+    {
+      "title": "Microbial growth rates may be largely determined by unused protein\nexpression",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          199.66358757019043,
+          655.8228149414062
+        ],
+        [
+          551.9402160644531,
+          654.7548279762268
+        ],
+        [
+          551.9402160644531,
+          681.8254089355469
+        ],
+        [
+          199.66358757019043,
+          682.3107104301453
+        ]
+      ]
+    },
+    {
+      "title": "Expression of an under-utilized core proteome may enable faster\nadaptation to improved growth conditions",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          199.59745287895203,
+          512.8429565429688
+        ],
+        [
+          535.3521728515625,
+          512.8429565429688
+        ],
+        [
+          535.3521728515625,
+          539.0861263275146
+        ],
+        [
+          199.59745287895203,
+          539.0861263275146
+        ]
+      ]
+    },
+    {
+      "title": "Expression of an un-utilized C-proteome may balance resource\nallocation to growth versus nutrient readiness",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          197.64250338077545,
+          642.1278848648071
+        ],
+        [
+          528.9661259651184,
+          640.5810098648071
+        ],
+        [
+          528.9661259651184,
+          668.8423690795898
+        ],
+        [
+          197.64250338077545,
+          669.9890069961548
+        ]
+      ]
+    },
+    {
+      "title": "Proteome allocation reflects fitness tradeoffs and ecological strategies",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          200.0124969482422,
+          236.29167079925537
+        ],
+        [
+          564.6095509529114,
+          236.29167079925537
+        ],
+        [
+          564.6095509529114,
+          249.03192138671875
+        ],
+        [
+          200.0124969482422,
+          249.03192138671875
+        ]
+      ]
+    },
+    {
+      "title": "The proteome burden of a generalist species",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          195.86410760879517,
+          74.9868757724762
+        ],
+        [
+          431.78460693359375,
+          74.9868757724762
+        ],
+        [
+          431.78460693359375,
+          89.21175992488861
+        ],
+        [
+          195.86410760879517,
+          89.21175992488861
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          200.0124969482422,
+          276.07510256767273
+        ],
+        [
+          248.7321014404297,
+          276.07510256767273
+        ],
+        [
+          248.7321014404297,
+          289.17180132865906
+        ],
+        [
+          200.0124969482422,
+          289.17180132865906
+        ]
+      ]
+    },
+    {
+      "title": "Proteomics dataset and normalization",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          199.6717404127121,
+          294.4269654750824
+        ],
+        [
+          397.0322685241699,
+          294.4269654750824
+        ],
+        [
+          397.0322685241699,
+          307.0860290527344
+        ],
+        [
+          199.6717404127121,
+          307.0860290527344
+        ]
+      ]
+    },
+    {
+      "title": "Quantifying the utilized and un-utilized proteome",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          199.04583191871643,
+          481.70899772644043
+        ],
+        [
+          450.73724365234375,
+          481.70899772644043
+        ],
+        [
+          450.73724365234375,
+          494.6455707550049
+        ],
+        [
+          199.04583191871643,
+          494.6455707550049
+        ]
+      ]
+    },
+    {
+      "title": "Quantifying the under-utilized proteome",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          198.95379781723022,
+          669.0398182868958
+        ],
+        [
+          405.7795715332031,
+          669.0398182868958
+        ],
+        [
+          405.7795715332031,
+          681.8254699707031
+        ],
+        [
+          198.95379781723022,
+          681.8254699707031
+        ]
+      ]
+    },
+    {
+      "title": "Growth rate predictions",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          199.41004693508148,
+          177.75685250759125
+        ],
+        [
+          321.30389404296875,
+          177.75685250759125
+        ],
+        [
+          321.30389404296875,
+          191.64575350284576
+        ],
+        [
+          199.41004693508148,
+          191.64575350284576
+        ]
+      ]
+    },
+    {
+      "title": "Quantifying un-utilized and under-utilized transcriptome from adaptive\nevolution experiments",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          199.80618023872375,
+          390.3374168872833
+        ],
+        [
+          563.4462296962738,
+          390.3374168872833
+        ],
+        [
+          563.4462296962738,
+          417.69287109375
+        ],
+        [
+          199.80618023872375,
+          417.69287109375
+        ]
+      ]
+    },
+    {
+      "title": "ME proteome classification",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          199.2151082754135,
+          576.7679314613342
+        ],
+        [
+          340.6429138183594,
+          576.7679314613342
+        ],
+        [
+          340.6429138183594,
+          590.8334655761719
+        ],
+        [
+          199.2151082754135,
+          590.8334655761719
+        ]
+      ]
+    },
+    {
+      "title": "Fitness benefit simulations for the under-utilized core proteome",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          199.065420627594,
+          140.33496844768524
+        ],
+        [
+          526.9960198402405,
+          140.33496844768524
+        ],
+        [
+          526.9960198402405,
+          153.50433349609375
+        ],
+        [
+          199.065420627594,
+          153.50433349609375
+        ]
+      ]
+    },
+    {
+      "title": "Fitness benefit simulations for the non-core ME proteome",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          198.9921362400055,
+          275.2054810523987
+        ],
+        [
+          496.8865051269531,
+          275.2054810523987
+        ],
+        [
+          496.8865051269531,
+          288.60357666015625
+        ],
+        [
+          198.9921362400055,
+          288.60357666015625
+        ]
+      ]
+    },
+    {
+      "title": "non-ME proteome classification",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          199.71531343460083,
+          359.2206959724426
+        ],
+        [
+          365.20597887039185,
+          359.2206959724426
+        ],
+        [
+          364.39794921875,
+          371.71539306640625
+        ],
+        [
+          198.52000093460083,
+          371.71539306640625
+        ]
+      ]
+    },
+    {
+      "title": "Supporting Information",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          200.0124969482422,
+          441.28041315078735
+        ],
+        [
+          330.8966064453125,
+          441.28041315078735
+        ],
+        [
+          330.8966064453125,
+          455.150643825531
+        ],
+        [
+          199.33787512779236,
+          455.150643825531
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          199.34688520431519,
+          548.6652045249939
+        ],
+        [
+          305.1394100189209,
+          547.1183295249939
+        ],
+        [
+          304.8856201171875,
+          560.8701171875
+        ],
+        [
+          198.15157270431519,
+          560.9025492668152
+        ]
+      ]
+    },
+    {
+      "title": "Author Contributions",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          198.9206027984619,
+          619.3395233154297
+        ],
+        [
+          319.0107116699219,
+          617.8149261474609
+        ],
+        [
+          319.0107116699219,
+          631.3394165039062
+        ],
+        [
+          198.9206027984619,
+          632.0694208145142
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          199.9404194355011,
+          676.769401550293
+        ],
+        [
+          264.10394287109375,
+          676.35768699646
+        ],
+        [
+          264.10394287109375,
+          688.7693023681641
+        ],
+        [
+          199.9404194355011,
+          689.2610263824463
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          191
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          148
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          152
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          148
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          149
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          273
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          292
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          38
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/obrienQuantificationClassificationColi2016"
+}

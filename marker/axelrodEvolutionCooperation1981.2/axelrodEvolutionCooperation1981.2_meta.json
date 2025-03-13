@@ -1,0 +1,604 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Evolution of Cooperation**",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          149.29035633802414,
+          163.511962890625
+        ],
+        [
+          410.03900146484375,
+          163.511962890625
+        ],
+        [
+          410.03900146484375,
+          184.6417751312256
+        ],
+        [
+          148.09504383802414,
+          184.6417751312256
+        ]
+      ]
+    },
+    {
+      "title": "Robert Axelrod",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          149.38565522432327,
+          213.9471435546875
+        ],
+        [
+          251.30920028686523,
+          213.9471435546875
+        ],
+        [
+          250.11388778686523,
+          227.8671875
+        ],
+        [
+          148.19034272432327,
+          227.8671875
+        ]
+      ]
+    },
+    {
+      "title": "2 / Process of Change",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          149.0233644247055,
+          100.59100341796875
+        ],
+        [
+          242.0758056640625,
+          100.59100341796875
+        ],
+        [
+          242.0758056640625,
+          111.46432721614838
+        ],
+        [
+          149.0233644247055,
+          111.46432721614838
+        ]
+      ]
+    },
+    {
+      "title": "The Computer Tournament",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          149.99899291992188,
+          136.7783203125
+        ],
+        [
+          267.6001892089844,
+          136.7783203125
+        ],
+        [
+          267.6001892089844,
+          147.57830810546875
+        ],
+        [
+          149.99899291992188,
+          147.57830810546875
+        ]
+      ]
+    },
+    {
+      "title": "Live and Let Live in World War I",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          149.20914709568024,
+          267.81829833984375
+        ],
+        [
+          295.0568972826004,
+          267.81829833984375
+        ],
+        [
+          295.0568972826004,
+          278.9030306339264
+        ],
+        [
+          149.20914709568024,
+          278.9030306339264
+        ]
+      ]
+    },
+    {
+      "title": "4 / Process of Change",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          149.37804043293,
+          100.59100341796875
+        ],
+        [
+          243.38370716571808,
+          100.59100341796875
+        ],
+        [
+          243.38370716571808,
+          111.779043674469
+        ],
+        [
+          149.37804043293,
+          111.779043674469
+        ]
+      ]
+    },
+    {
+      "title": "Conditions for Stable Cooperation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          149.99899291992188,
+          123.81829833984375
+        ],
+        [
+          299.89078509807587,
+          123.81829833984375
+        ],
+        [
+          299.89078509807587,
+          134.6182861328125
+        ],
+        [
+          149.99899291992188,
+          136.03580260276794
+        ]
+      ]
+    },
+    {
+      "title": "Evolution of Cooperation",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          149.88579654693604,
+          468.69854736328125
+        ],
+        [
+          260.69405221939087,
+          468.69854736328125
+        ],
+        [
+          260.69405221939087,
+          480.00464057922363
+        ],
+        [
+          149.88579654693604,
+          480.00464057922363
+        ]
+      ]
+    },
+    {
+      "title": "6 / Process of Change",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          149.41300463676453,
+          100.59100341796875
+        ],
+        [
+          242.09335112571716,
+          100.59100341796875
+        ],
+        [
+          242.09335112571716,
+          111.59098327159882
+        ],
+        [
+          149.41300463676453,
+          111.59098327159882
+        ]
+      ]
+    },
+    {
+      "title": "The Value of Provocability",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          149.9986572265625,
+          461.7379455566406
+        ],
+        [
+          266.6926574707031,
+          461.7379455566406
+        ],
+        [
+          266.6926574707031,
+          472.5379638671875
+        ],
+        [
+          149.9986572265625,
+          472.5379638671875
+        ]
+      ]
+    },
+    {
+      "title": "A Self-Reinforcing Ratchet Effect",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          149.99864196777344,
+          331.8981018066406
+        ],
+        [
+          294.35764968395233,
+          331.8981018066406
+        ],
+        [
+          293.6818542480469,
+          342.6981201171875
+        ],
+        [
+          149.15351808071136,
+          342.6981201171875
+        ]
+      ]
+    },
+    {
+      "title": "8 / Process of Change",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          149.59327912330627,
+          100.59100341796875
+        ],
+        [
+          242.0758056640625,
+          100.59100341796875
+        ],
+        [
+          242.0758056640625,
+          111.70326483249664
+        ],
+        [
+          149.59327912330627,
+          111.70326483249664
+        ]
+      ]
+    },
+    {
+      "title": "From National Competitiveness to Global Cooperation",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          149.99899291992188,
+          123.81829833984375
+        ],
+        [
+          389.6402850151062,
+          123.81829833984375
+        ],
+        [
+          389.6402850151062,
+          134.6182861328125
+        ],
+        [
+          149.99899291992188,
+          135.63599574565887
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          149.1870049238205,
+          245.574462890625
+        ],
+        [
+          224.6891632080078,
+          245.574462890625
+        ],
+        [
+          224.6891632080078,
+          261.11082887649536
+        ],
+        [
+          149.1870049238205,
+          261.11082887649536
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/axelrodEvolutionCooperation1981.2"
+}

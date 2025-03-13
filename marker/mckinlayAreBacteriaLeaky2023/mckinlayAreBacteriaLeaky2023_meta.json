@@ -1,0 +1,1711 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Annual Review of Microbiology\nAre Bacteria Leaky?\nMechanisms of Metabolite\nExternalization in Bacterial\nCross-Feeding",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          253.6117672920227,
+          157.40640377998352
+        ],
+        [
+          499.0095548629761,
+          155.85952877998352
+        ],
+        [
+          499.0095548629761,
+          281.8914620876312
+        ],
+        [
+          253.6117672920227,
+          283.4383370876312
+        ]
+      ]
+    },
+    {
+      "title": "James B. McKinlay",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          253.5987993478775,
+          296.9683949947357
+        ],
+        [
+          354.48274755477905,
+          295.4215199947357
+        ],
+        [
+          354.48274755477905,
+          309.1778869628906
+        ],
+        [
+          253.5987993478775,
+          309.8702709674835
+        ]
+      ]
+    },
+    {
+      "title": "Keywords",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          257.60400390625,
+          437.66861486434937
+        ],
+        [
+          302.39764404296875,
+          437.66861486434937
+        ],
+        [
+          302.39764404296875,
+          448.6524963378906
+        ],
+        [
+          257.60400390625,
+          448.6524963378906
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          257.0608026981354,
+          485.4366888999939
+        ],
+        [
+          295.5431213378906,
+          485.4366888999939
+        ],
+        [
+          295.5431213378906,
+          496.4734802246094
+        ],
+        [
+          257.0608026981354,
+          496.4734802246094
+        ]
+      ]
+    },
+    {
+      "title": "Contents",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          159.58021938800812,
+          120.57204473018646
+        ],
+        [
+          204.2070770263672,
+          120.57204473018646
+        ],
+        [
+          204.2070770263672,
+          130.6734619140625
+        ],
+        [
+          159.58021938800812,
+          130.6734619140625
+        ]
+      ]
+    },
+    {
+      "title": "1. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          160.7752583026886,
+          400.9450149536133
+        ],
+        [
+          264.0050354003906,
+          400.9450149536133
+        ],
+        [
+          264.0050354003906,
+          411.79287242889404
+        ],
+        [
+          160.7752583026886,
+          411.79287242889404
+        ]
+      ]
+    },
+    {
+      "title": "2. DEFINITIONS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          87.24301147460938,
+          180.8190211057663
+        ],
+        [
+          172.72017574310303,
+          180.8190211057663
+        ],
+        [
+          171.9584503173828,
+          190.97749292850494
+        ],
+        [
+          86.0819519162178,
+          190.97749292850494
+        ]
+      ]
+    },
+    {
+      "title": "2.1. When Is Metabolite Externalization Considered to Be Cross-Feeding?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          86.08442330360413,
+          196.056032538414
+        ],
+        [
+          428.75273537635803,
+          196.056032538414
+        ],
+        [
+          427.55742287635803,
+          206.77972412109375
+        ],
+        [
+          84.88911080360413,
+          206.77972412109375
+        ]
+      ]
+    },
+    {
+      "title": "2.2. What Does It Mean for a Bacterial Cell to Be Leaky?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          86.216847717762,
+          310.4877133369446
+        ],
+        [
+          347.61513590812683,
+          310.4877133369446
+        ],
+        [
+          347.61513590812683,
+          321.2148132324219
+        ],
+        [
+          86.216847717762,
+          321.2148132324219
+        ]
+      ]
+    },
+    {
+      "title": "Permease:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          460.77644419670105,
+          385.74293661117554
+        ],
+        [
+          500.8914794921875,
+          384.19606161117554
+        ],
+        [
+          500.8914794921875,
+          398.281982421875
+        ],
+        [
+          459.58113169670105,
+          398.281982421875
+        ]
+      ]
+    },
+    {
+      "title": "Channel:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          463.83099365234375,
+          475.9910583496094
+        ],
+        [
+          497.92298340797424,
+          475.9910583496094
+        ],
+        [
+          496.8985290527344,
+          484.8427791595459
+        ],
+        [
+          463.83099365234375,
+          486.3896541595459
+        ]
+      ]
+    },
+    {
+      "title": "3. PERMEABILITY CONSTRAINTS OF THE CELL ENVELOPE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          160.90838491916656,
+          340.8903830051422
+        ],
+        [
+          475.6489562988281,
+          340.8903830051422
+        ],
+        [
+          475.6489562988281,
+          351.16961669921875
+        ],
+        [
+          160.90838491916656,
+          351.16961669921875
+        ]
+      ]
+    },
+    {
+      "title": "3.1. The Outer Membrane",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          161.95394897460938,
+          442.9735412597656
+        ],
+        [
+          283.1939392089844,
+          442.9735412597656
+        ],
+        [
+          283.1939392089844,
+          452.9365539550781
+        ],
+        [
+          161.95394897460938,
+          452.9365539550781
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Peptidoglycan",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          160.97968125343323,
+          616.4704895019531
+        ],
+        [
+          246.34585189819336,
+          615.4000582695007
+        ],
+        [
+          246.34585189819336,
+          626.4334869384766
+        ],
+        [
+          160.97968125343323,
+          626.9226908683777
+        ]
+      ]
+    },
+    {
+      "title": "Figure 1",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          85.6803925037384,
+          297.64722990989685
+        ],
+        [
+          118.70872485637665,
+          297.64722990989685
+        ],
+        [
+          118.70872485637665,
+          307.01359391212463
+        ],
+        [
+          85.6803925037384,
+          307.01359391212463
+        ]
+      ]
+    },
+    {
+      "title": "3.3. The Cytoplasmic Membrane",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          85.95281052589417,
+          519.4331002235413
+        ],
+        [
+          237.754944562912,
+          519.4331002235413
+        ],
+        [
+          237.42550659179688,
+          530.7925415039062
+        ],
+        [
+          84.75749802589417,
+          530.7925415039062
+        ]
+      ]
+    },
+    {
+      "title": "4. HOW ARE COMMUNALLY VALUABLE METABOLITES\nEXTERNALIZED?",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          161.9539794921875,
+          155.60228669643402
+        ],
+        [
+          448.2437195777893,
+          155.60228669643402
+        ],
+        [
+          448.0016784667969,
+          178.0684814453125
+        ],
+        [
+          161.03939580917358,
+          178.0684814453125
+        ]
+      ]
+    },
+    {
+      "title": "4.1. Cell Envelope Metabolism",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          161.9539794921875,
+          341.0652844905853
+        ],
+        [
+          301.7948913574219,
+          341.0652844905853
+        ],
+        [
+          301.7948913574219,
+          351.4645080566406
+        ],
+        [
+          161.9539794921875,
+          351.4645080566406
+        ]
+      ]
+    },
+    {
+      "title": "282 McKinlay",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          138.38697814941406,
+          693.939558506012
+        ],
+        [
+          190.65362548828125,
+          693.939558506012
+        ],
+        [
+          190.65362548828125,
+          701.7551293373108
+        ],
+        [
+          138.38697814941406,
+          701.7551293373108
+        ]
+      ]
+    },
+    {
+      "title": "4.2. Diffusion Across a Membrane",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          87.24299621582031,
+          145.23748779296875
+        ],
+        [
+          242.12808227539062,
+          145.23748779296875
+        ],
+        [
+          242.12808227539062,
+          155.200439453125
+        ],
+        [
+          86.41234266757965,
+          155.200439453125
+        ]
+      ]
+    },
+    {
+      "title": "Figure 2",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          159.16555523872375,
+          494.5712671279907
+        ],
+        [
+          192.66238403320312,
+          494.5712671279907
+        ],
+        [
+          192.66238403320312,
+          503.9779930114746
+        ],
+        [
+          159.16555523872375,
+          503.9779930114746
+        ]
+      ]
+    },
+    {
+      "title": "4.3. Mechanosensitive Channels and Facilitated Diffusion",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          86.39748698472977,
+          155.68090975284576
+        ],
+        [
+          347.34735107421875,
+          155.68090975284576
+        ],
+        [
+          347.34735107421875,
+          166.11346435546875
+        ],
+        [
+          86.39748698472977,
+          166.11346435546875
+        ]
+      ]
+    },
+    {
+      "title": "4.4. Cell Lysis",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          86.18115395307541,
+          448.98254585266113
+        ],
+        [
+          151.14584350585938,
+          448.98254585266113
+        ],
+        [
+          151.14584350585938,
+          459.2780828475952
+        ],
+        [
+          86.18115395307541,
+          459.2780828475952
+        ]
+      ]
+    },
+    {
+      "title": "4.5. Active Externalization",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          161.74883902072906,
+          168.18048870563507
+        ],
+        [
+          281.5401611328125,
+          168.18048870563507
+        ],
+        [
+          281.5401611328125,
+          178.84149169921875
+        ],
+        [
+          161.74883902072906,
+          178.84149169921875
+        ]
+      ]
+    },
+    {
+      "title": "5. PHYSIOLOGICAL EXPLANATIONS FOR METABOLITE EXCRETION",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          159.97529482841492,
+          591.7652263641357
+        ],
+        [
+          522.713898897171,
+          591.7652263641357
+        ],
+        [
+          522.713898897171,
+          602.0772247314453
+        ],
+        [
+          159.97529482841492,
+          602.0772247314453
+        ]
+      ]
+    },
+    {
+      "title": "5.1. Relief Valves",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          86.49587738513947,
+          106.22487115859985
+        ],
+        [
+          164.66424560546875,
+          104.67799615859985
+        ],
+        [
+          164.66424560546875,
+          116.8094482421875
+        ],
+        [
+          85.30056488513947,
+          117.14981746673584
+        ]
+      ]
+    },
+    {
+      "title": "5.2. Moonlighting Metabolites?",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          161.95401000976562,
+          386.6193323135376
+        ],
+        [
+          305.16241455078125,
+          386.6193323135376
+        ],
+        [
+          305.16241455078125,
+          397.2624816894531
+        ],
+        [
+          160.94987869262695,
+          397.2624816894531
+        ]
+      ]
+    },
+    {
+      "title": "5.3. Partner-Stimulated Metabolite Efflux",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          158.79289555549622,
+          646.2433805465698
+        ],
+        [
+          351.163610458374,
+          646.2433805465698
+        ],
+        [
+          351.163610458374,
+          656.3213653564453
+        ],
+        [
+          158.79289555549622,
+          656.3213653564453
+        ]
+      ]
+    },
+    {
+      "title": "6. CONCLUDING REMARKS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          87.24313354492188,
+          550.7173156738281
+        ],
+        [
+          232.57688641548157,
+          549.6219935417175
+        ],
+        [
+          231.38157391548157,
+          560.6803131103516
+        ],
+        [
+          86.27519434690475,
+          560.7148547172546
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY POINTS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          173.90899658203125,
+          149.72775650024414
+        ],
+        [
+          275.2980183362961,
+          149.72775650024414
+        ],
+        [
+          274.1027058362961,
+          159.7564697265625
+        ],
+        [
+          173.3102263212204,
+          159.7564697265625
+        ]
+      ]
+    },
+    {
+      "title": "FUTURE ISSUES",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          172.95319747924805,
+          377.91159868240356
+        ],
+        [
+          258.59234619140625,
+          377.91159868240356
+        ],
+        [
+          258.59234619140625,
+          388.92449951171875
+        ],
+        [
+          172.95319747924805,
+          388.92449951171875
+        ]
+      ]
+    },
+    {
+      "title": "DISCLOSURE STATEMENT",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          161.54206323623657,
+          568.7823214530945
+        ],
+        [
+          303.65887570381165,
+          568.7823214530945
+        ],
+        [
+          303.65887570381165,
+          579.5074005126953
+        ],
+        [
+          161.54206323623657,
+          579.5074005126953
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          160.46442890167236,
+          628.4144282341003
+        ],
+        [
+          283.1141138076782,
+          628.4144282341003
+        ],
+        [
+          283.1141138076782,
+          638.4220032691956
+        ],
+        [
+          160.46442890167236,
+          638.4220032691956
+        ]
+      ]
+    },
+    {
+      "title": "290 McKinlay",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          138.38699340820312,
+          693.2972145080566
+        ],
+        [
+          190.6536407470703,
+          693.2972145080566
+        ],
+        [
+          190.6536407470703,
+          701.7729263305664
+        ],
+        [
+          138.38699340820312,
+          701.7729263305664
+        ]
+      ]
+    },
+    {
+      "title": "LITERATURE CITED",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          87.24299621582031,
+          142.2221578359604
+        ],
+        [
+          185.1517333984375,
+          142.2221578359604
+        ],
+        [
+          185.1517333984375,
+          152.85022008419037
+        ],
+        [
+          87.24299621582031,
+          152.85022008419037
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          246
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          167
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          287
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          202
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          338
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          364
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          194
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          255
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          235
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          220
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          317
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          265
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "ListItem",
+          26
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          282
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          258
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "ListItem",
+          26
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          266
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          271
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "ListItem",
+          26
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/mckinlayAreBacteriaLeaky2023"
+}

@@ -1,0 +1,536 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Conservation of Energy\nReadings on the Origins of the \nFirst Law of Thermodynamics. Part II",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.67919075489044,
+          66.5762597322464
+        ],
+        [
+          546.3603792190552,
+          65.0528222322464
+        ],
+        [
+          545.1963167190552,
+          159.63958740234375
+        ],
+        [
+          46.51512825489044,
+          159.63958740234375
+        ]
+      ]
+    },
+    {
+      "title": "abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.97466912865639,
+          195.90098440647125
+        ],
+        [
+          115.19192051887512,
+          194.37754690647125
+        ],
+        [
+          114.75999450683594,
+          206.43902587890625
+        ],
+        [
+          46.81060662865639,
+          207.53504812717438
+        ]
+      ]
+    },
+    {
+      "title": "Resumen",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.876186698675156,
+          435.57931780815125
+        ],
+        [
+          96.1088160276413,
+          434.05588030815125
+        ],
+        [
+          95.02999877929688,
+          446.6937561035156
+        ],
+        [
+          46.712124198675156,
+          447.5166928768158
+        ]
+      ]
+    },
+    {
+      "title": "Ludvig August Colding (1815-1888)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.983545780181885,
+          519.294365644455
+        ],
+        [
+          222.7649120092392,
+          517.770928144455
+        ],
+        [
+          222.51998901367188,
+          530.6937255859375
+        ],
+        [
+          46.819483280181885,
+          531.3744699954987
+        ]
+      ]
+    },
+    {
+      "title": "Julius Robert Mayer (1814-1878)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          309.5427198410034,
+          447.98128366470337
+        ],
+        [
+          467.98836517333984,
+          446.45784616470337
+        ],
+        [
+          467.98836517333984,
+          458.6937561035156
+        ],
+        [
+          309.5427198410034,
+          458.727171421051
+        ]
+      ]
+    },
+    {
+      "title": "James Prescott Joule (1818-1889)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          308.3364899158478,
+          688.2694244384766
+        ],
+        [
+          471.1277770996094,
+          688.2694244384766
+        ],
+        [
+          471.1277770996094,
+          699.1561818122864
+        ],
+        [
+          308.3364899158478,
+          699.1561818122864
+        ]
+      ]
+    },
+    {
+      "title": "Hermann Ludwig von Helmholtz (1821-1894)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          308.7982711791992,
+          171.21027141809464
+        ],
+        [
+          536.099449634552,
+          171.21027141809464
+        ],
+        [
+          536.099449634552,
+          182.69378662109375
+        ],
+        [
+          308.7982711791992,
+          182.69378662109375
+        ]
+      ]
+    },
+    {
+      "title": "Closing remarks",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.62158355116844,
+          700.6938247680664
+        ],
+        [
+          130.4628872871399,
+          699.3661379814148
+        ],
+        [
+          130.4628872871399,
+          710.6938247680664
+        ],
+        [
+          47.62158355116844,
+          711.8186402320862
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          35.787521705031395,
+          124.3796780705452
+        ],
+        [
+          91.25950884819031,
+          122.8562405705452
+        ],
+        [
+          90.20000457763672,
+          134.69378662109375
+        ],
+        [
+          34.623459205031395,
+          135.25176733732224
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          208
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          295
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          213
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          217
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          218
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "ListItem",
+          26
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/v19n3a10"
+}

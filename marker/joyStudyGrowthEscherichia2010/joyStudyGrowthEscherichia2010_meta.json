@@ -1,0 +1,775 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Study of the growth of Escherichia coli on\nmixed substrates using dynamic flux\nbalance analysis",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          143.05231973528862,
+          102.07182592153549
+        ],
+        [
+          455.2945786714554,
+          102.07182592153549
+        ],
+        [
+          455.2945786714554,
+          153.0292086005211
+        ],
+        [
+          143.05231973528862,
+          153.0292086005211
+        ]
+      ]
+    },
+    {
+      "title": "1. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          117.65492081642151,
+          460.7186316251755
+        ],
+        [
+          216.02566361427307,
+          460.7186316251755
+        ],
+        [
+          216.02566361427307,
+          472.8306579589844
+        ],
+        [
+          117.65492081642151,
+          472.8306579589844
+        ]
+      ]
+    },
+    {
+      "title": "2. METABOLIC NETWORK",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          99.4846023619175,
+          159.531982421875
+        ],
+        [
+          232.1928253173828,
+          159.531982421875
+        ],
+        [
+          232.1928253173828,
+          169.49456787109375
+        ],
+        [
+          99.4846023619175,
+          169.49456787109375
+        ]
+      ]
+    },
+    {
+      "title": "3. DYNAMIC FLUX BALANCE ANALYSIS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          65.23129731416702,
+          302.37129563093185
+        ],
+        [
+          266.0954284667969,
+          302.37129563093185
+        ],
+        [
+          266.0954284667969,
+          312.89984130859375
+        ],
+        [
+          65.23129731416702,
+          312.89984130859375
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Dynamic Mass Balances - Extracellular Metabolites",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.29961280524731,
+          457.3053894042969
+        ],
+        [
+          284.7169032692909,
+          457.3053894042969
+        ],
+        [
+          284.7169032692909,
+          467.26800537109375
+        ],
+        [
+          40.29961280524731,
+          467.26800537109375
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Dynamic Mass Balances - Intracellular metabolites",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.01640206575394,
+          70.91089969873428
+        ],
+        [
+          545.53759765625,
+          70.91089969873428
+        ],
+        [
+          545.53759765625,
+          81.53704833984375
+        ],
+        [
+          304.01640206575394,
+          81.53704833984375
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Metabolic Constraints",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          305.8560485839844,
+          294.56829833984375
+        ],
+        [
+          419.8700675368309,
+          294.56829833984375
+        ],
+        [
+          419.8700675368309,
+          304.5308837890625
+        ],
+        [
+          305.8560485839844,
+          304.5308837890625
+        ]
+      ]
+    },
+    {
+      "title": "3.4 Objective Function",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          305.5667796730995,
+          587.7609710693359
+        ],
+        [
+          405.55450439453125,
+          587.2715545892715
+        ],
+        [
+          405.55450439453125,
+          597.7235717773438
+        ],
+        [
+          305.5667796730995,
+          598.191165804863
+        ]
+      ]
+    },
+    {
+      "title": "4. BILEVEL DYNAMIC OPTIMIZATION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.26319885253906,
+          163.71221268177032
+        ],
+        [
+          261.89664006233215,
+          163.71221268177032
+        ],
+        [
+          261.89664006233215,
+          174.174560546875
+        ],
+        [
+          71.26319885253906,
+          174.174560546875
+        ]
+      ]
+    },
+    {
+      "title": "4.1 Choice of Objective Functions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          40.813777923583984,
+          681.3744953870773
+        ],
+        [
+          190.29165089130402,
+          681.3744953870773
+        ],
+        [
+          190.29165089130402,
+          691.4870978593826
+        ],
+        [
+          40.813777923583984,
+          691.4870978593826
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Connecting Constraints",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          305.853759765625,
+          148.8891358077526
+        ],
+        [
+          427.3746597766876,
+          148.8891358077526
+        ],
+        [
+          427.3746597766876,
+          159.23394775390625
+        ],
+        [
+          305.853759765625,
+          159.23394775390625
+        ]
+      ]
+    },
+    {
+      "title": "5. MATHEMATICAL PROGRAM WITH\nCOMPLIMENTARITY CONDITIONS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          336.22695446014404,
+          343.4310774207115
+        ],
+        [
+          526.605635881424,
+          343.4310774207115
+        ],
+        [
+          525.443526506424,
+          364.4603576660156
+        ],
+        [
+          335.06484508514404,
+          364.4603576660156
+        ]
+      ]
+    },
+    {
+      "title": "5.1 Bilevel To Reformulated MPCC - General Formulation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          305.4155224561691,
+          625.1364750862122
+        ],
+        [
+          557.7218017578125,
+          625.1364750862122
+        ],
+        [
+          557.7218017578125,
+          635.4424896240234
+        ],
+        [
+          305.4155224561691,
+          635.4424896240234
+        ]
+      ]
+    },
+    {
+      "title": "6. DYNAMIC OPTIMIZATION PROBLEM\nSOLUTION",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          67.42061696946621,
+          580.5410113334656
+        ],
+        [
+          266.67977273464203,
+          580.5410113334656
+        ],
+        [
+          265.51766335964203,
+          601.6660614013672
+        ],
+        [
+          66.25850759446621,
+          601.6660614013672
+        ]
+      ]
+    },
+    {
+      "title": "7. DFBA : MIXED-SUBSTRATE GROWTH PATTERN",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          39.700488820672035,
+          724.8358809947968
+        ],
+        [
+          292.54085570573807,
+          723.1913497447968
+        ],
+        [
+          292.54085570573807,
+          735.2256317138672
+        ],
+        [
+          39.700488820672035,
+          735.2256317138672
+        ]
+      ]
+    },
+    {
+      "title": "7.1 Batch Culture Medium - Initial Concentrations",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          305.85369873046875,
+          132.8748779296875
+        ],
+        [
+          530.3952586650848,
+          131.30680921673775
+        ],
+        [
+          529.2331492900848,
+          142.83746337890625
+        ],
+        [
+          305.5761069059372,
+          142.83746337890625
+        ]
+      ]
+    },
+    {
+      "title": "7.2 Dynamic Optimization Problem Formulation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          305.8533020019531,
+          250.96343994140625
+        ],
+        [
+          519.68894302845,
+          250.08573615550995
+        ],
+        [
+          518.899169921875,
+          260.926025390625
+        ],
+        [
+          304.92050528526306,
+          261.4801174402237
+        ]
+      ]
+    },
+    {
+      "title": "7.3 Metabolic Constraints",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          305.85174560546875,
+          457.7281188964844
+        ],
+        [
+          420.5642902851105,
+          456.2422424554825
+        ],
+        [
+          419.4021809101105,
+          467.69073486328125
+        ],
+        [
+          305.49333214759827,
+          467.69073486328125
+        ]
+      ]
+    },
+    {
+      "title": "7.4 Acetate production and consumption",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          305.8521728515625,
+          542.9402160644531
+        ],
+        [
+          484.11154329776764,
+          541.9168100357056
+        ],
+        [
+          482.94943392276764,
+          552.90283203125
+        ],
+        [
+          305.8521728515625,
+          553.592841386795
+        ]
+      ]
+    },
+    {
+      "title": "8. CONCLUSION",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          125.38318932056427,
+          509.4863004684448
+        ],
+        [
+          206.44961547851562,
+          509.4863004684448
+        ],
+        [
+          206.44961547851562,
+          520.1073608398438
+        ],
+        [
+          125.38318932056427,
+          520.1073608398438
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGEMENTS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          370.0675028562546,
+          137.86825954914093
+        ],
+        [
+          492.82729268074036,
+          137.86825954914093
+        ],
+        [
+          492.82729268074036,
+          148.00262451171875
+        ],
+        [
+          370.0675028562546,
+          148.00262451171875
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          396.6851556301117,
+          205.3599853515625
+        ],
+        [
+          465.83782732486725,
+          204.66766801476479
+        ],
+        [
+          465.83782732486725,
+          215.32257080078125
+        ],
+        [
+          396.6851556301117,
+          215.32257080078125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1235
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1637
+        ],
+        [
+          "Line",
+          128
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Equation",
+          7
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1647
+        ],
+        [
+          "Line",
+          130
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1520
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1264
+        ],
+        [
+          "Line",
+          145
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          546
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/joyStudyGrowthEscherichia2010"
+}

@@ -1,0 +1,1483 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Individuality and universality in the growth-division laws of single E. coli cells",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.95600128173828,
+          71.2130126953125
+        ],
+        [
+          503.2911148071289,
+          71.2130126953125
+        ],
+        [
+          503.2911148071289,
+          83.1680908203125
+        ],
+        [
+          103.95600128173828,
+          83.1680908203125
+        ]
+      ]
+    },
+    {
+      "title": "I. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          129.77310609817505,
+          488.7858098745346
+        ],
+        [
+          212.71423530578613,
+          488.7858098745346
+        ],
+        [
+          212.71423530578613,
+          497.8990173339844
+        ],
+        [
+          129.77310609817505,
+          497.8990173339844
+        ]
+      ]
+    },
+    {
+      "title": "II. RESULTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          143.19001150131226,
+          635.1238098144531
+        ],
+        [
+          199.2931079864502,
+          635.0930428504944
+        ],
+        [
+          199.2931079864502,
+          644.0902099609375
+        ],
+        [
+          143.19001150131226,
+          645.4347610473633
+        ]
+      ]
+    },
+    {
+      "title": "A. Reliable high-throughput collection of cell division cycles",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.67936706542969,
+          652.0532684326172
+        ],
+        [
+          287.8367290496826,
+          652.0532684326172
+        ],
+        [
+          287.8367290496826,
+          661.0196685791016
+        ],
+        [
+          55.67936706542969,
+          662.3089724779129
+        ]
+      ]
+    },
+    {
+      "title": "B. Single-cell size and interdivision times\nrescale with growth rate",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          354.47375106811523,
+          339.30291748046875
+        ],
+        [
+          513.0863227844238,
+          339.30291748046875
+        ],
+        [
+          513.0863227844238,
+          359.7265625
+        ],
+        [
+          354.47375106811523,
+          359.7265625
+        ]
+      ]
+    },
+    {
+      "title": "C. Increased deviations from mean-cell behavior at faster\ngrowth conditions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          60.395999908447266,
+          709.3379135131836
+        ],
+        [
+          281.6931343078613,
+          709.3379135131836
+        ],
+        [
+          281.6931343078613,
+          729.7615814208984
+        ],
+        [
+          60.395999908447266,
+          730.4147708415985
+        ]
+      ]
+    },
+    {
+      "title": "D. Fluctuations in cell size and interdivision times are\nlinked to cell division control",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          67.62114524841309,
+          71.73291015625
+        ],
+        [
+          274.14715576171875,
+          71.73291015625
+        ],
+        [
+          274.14715576171875,
+          92.15655517578125
+        ],
+        [
+          67.62114524841309,
+          92.15655517578125
+        ]
+      ]
+    },
+    {
+      "title": "E. Theoretical constraints posed by finite-size\nscaling on division control",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          83.28299713134766,
+          583.3108062744141
+        ],
+        [
+          258.73028564453125,
+          583.3108062744141
+        ],
+        [
+          258.73028564453125,
+          603.7344665527344
+        ],
+        [
+          83.28299713134766,
+          603.7344665527344
+        ]
+      ]
+    },
+    {
+      "title": "F. The theory justifies the increased deviations of fluctuations\nfrom means in faster growth conditions",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          315.2047481536865,
+          503.3099365234375
+        ],
+        [
+          553.6157398223877,
+          503.3099365234375
+        ],
+        [
+          553.6157398223877,
+          523.7335815429688
+        ],
+        [
+          315.2047481536865,
+          523.7335815429688
+        ]
+      ]
+    },
+    {
+      "title": "III. DISCUSSION AND CONCLUSIONS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          87.34028434753418,
+          684.4349136352539
+        ],
+        [
+          251.90901947021484,
+          684.4349136352539
+        ],
+        [
+          251.90901947021484,
+          693.4013137817383
+        ],
+        [
+          87.34028434753418,
+          694.6503782272339
+        ]
+      ]
+    },
+    {
+      "title": "IV. MATERIALS AND METHODS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          364.7220153808594,
+          658.0377960205078
+        ],
+        [
+          503.93487548828125,
+          658.0377960205078
+        ],
+        [
+          503.93487548828125,
+          667.5448644161224
+        ],
+        [
+          364.7220153808594,
+          667.5448644161224
+        ]
+      ]
+    },
+    {
+      "title": "A. Strains and growth conditions",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          368.81311798095703,
+          674.9672546386719
+        ],
+        [
+          499.0536880493164,
+          674.9672546386719
+        ],
+        [
+          499.0536880493164,
+          684.0353965759277
+        ],
+        [
+          368.81311798095703,
+          684.0353965759277
+        ]
+      ]
+    },
+    {
+      "title": "B. Microscopy",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          139.36417627334595,
+          377.0449796319008
+        ],
+        [
+          199.67564392089844,
+          377.0449796319008
+        ],
+        [
+          199.67564392089844,
+          386.05120849609375
+        ],
+        [
+          139.36417627334595,
+          386.05120849609375
+        ]
+      ]
+    },
+    {
+      "title": "C. Data analysis",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          399.1560478210449,
+          350.6878356933594
+        ],
+        [
+          467.36467361450195,
+          350.6878356933594
+        ],
+        [
+          467.36467361450195,
+          359.6542053222656
+        ],
+        [
+          399.1560478210449,
+          359.6542053222656
+        ]
+      ]
+    },
+    {
+      "title": "1. Segmentation and tracking",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          377.3924865722656,
+          365.6276550292969
+        ],
+        [
+          489.64874267578125,
+          365.6276550292969
+        ],
+        [
+          489.64874267578125,
+          374.6605145931244
+        ],
+        [
+          377.3924865722656,
+          374.6605145931244
+        ]
+      ]
+    },
+    {
+      "title": "2. Measurements",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          136.83685207366943,
+          164.8488825559616
+        ],
+        [
+          203.752685546875,
+          164.8488825559616
+        ],
+        [
+          203.752685546875,
+          174.10113525390625
+        ],
+        [
+          136.83685207366943,
+          174.10113525390625
+        ]
+      ]
+    },
+    {
+      "title": "3. Image analysis filters",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          126.00134944915771,
+          342.6141947507858
+        ],
+        [
+          215.95521545410156,
+          342.6141947507858
+        ],
+        [
+          215.95521545410156,
+          351.68023681640625
+        ],
+        [
+          126.00134944915771,
+          351.68023681640625
+        ]
+      ]
+    },
+    {
+      "title": "4. Selection of steady state cells",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          374.5578956604004,
+          141.28485107421875
+        ],
+        [
+          492.904052734375,
+          141.28485107421875
+        ],
+        [
+          492.904052734375,
+          150.25128173828125
+        ],
+        [
+          374.5578956604004,
+          150.25128173828125
+        ]
+      ]
+    },
+    {
+      "title": "5. Statistics and evaluation of goodness-of-collapse",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          337.2459774017334,
+          432.5158386230469
+        ],
+        [
+          530.681058883667,
+          432.5158386230469
+        ],
+        [
+          530.681058883667,
+          441.4822082519531
+        ],
+        [
+          337.2459774017334,
+          441.4822082519531
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          384.0788059234619,
+          661.5208129882812
+        ],
+        [
+          483.6378231048584,
+          661.5208129882812
+        ],
+        [
+          483.6378231048584,
+          670.4872131347656
+        ],
+        [
+          384.0788059234619,
+          670.4872131347656
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX : THEORETICAL ARGUMENTS ON\nFINITE-SIZE SCALING AND DIVISION CONTROL",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          65.76982879638672,
+          71.73291015625
+        ],
+        [
+          276.4119338989258,
+          71.73291015625
+        ],
+        [
+          276.4119338989258,
+          92.15655517578125
+        ],
+        [
+          65.76982879638672,
+          92.56502598524094
+        ]
+      ]
+    },
+    {
+      "title": "1. Theoretical description of the growth and division process",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          54.04319095611572,
+          252.2548828125
+        ],
+        [
+          287.2329406738281,
+          252.2548828125
+        ],
+        [
+          287.2329406738281,
+          261.2213134765625
+        ],
+        [
+          52.85569095611572,
+          262.53281861543655
+        ]
+      ]
+    },
+    {
+      "title": "2. General scaling form of the division hazard rate function",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          319.49182319641113,
+          447.5368347167969
+        ],
+        [
+          548.5945949554443,
+          446.9177931547165
+        ],
+        [
+          548.5945949554443,
+          456.5032043457031
+        ],
+        [
+          319.49182319641113,
+          456.979199051857
+        ]
+      ]
+    },
+    {
+      "title": "3. Relationship between fluctuations around the Shaechter\ngrowth law and universal distributions of interdivision times\nand initial sizes",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          318.65087890625,
+          636.3029174804688
+        ],
+        [
+          549.8553352355957,
+          636.3029174804688
+        ],
+        [
+          549.8553352355957,
+          668.1838531494141
+        ],
+        [
+          318.65087890625,
+          668.7986415624619
+        ]
+      ]
+    },
+    {
+      "title": "4. Inference of division hazard rate from data",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          82.9229965209961,
+          457.2838439941406
+        ],
+        [
+          259.087646484375,
+          457.2838439941406
+        ],
+        [
+          259.087646484375,
+          466.2502136230469
+        ],
+        [
+          82.9229965209961,
+          466.2502136230469
+        ]
+      ]
+    },
+    {
+      "title": "5. Connection between scaling and division\ncontrol in specific models",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          350.5481300354004,
+          507.5039367675781
+        ],
+        [
+          517.0832633972168,
+          507.5039367675781
+        ],
+        [
+          517.0832633972168,
+          527.9275817871094
+        ],
+        [
+          350.5481300354004,
+          527.9275817871094
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          174
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          290
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          326
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          200
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          533
+        ],
+        [
+          "Line",
+          144
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          310
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          347
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          388
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          374
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          875
+        ],
+        [
+          "Line",
+          160
+        ],
+        [
+          "TextInlineMath",
+          12
+        ],
+        [
+          "Equation",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          738
+        ],
+        [
+          "Line",
+          225
+        ],
+        [
+          "Equation",
+          10
+        ],
+        [
+          "TextInlineMath",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          793
+        ],
+        [
+          "Line",
+          161
+        ],
+        [
+          "TextInlineMath",
+          9
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          680
+        ],
+        [
+          "Line",
+          187
+        ],
+        [
+          "TextInlineMath",
+          7
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          541
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "ListItem",
+          36
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          205
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/kennardIndividualityUniversalityGrowthdivision2016"
+}

@@ -1,0 +1,1396 @@
+{
+  "table_of_contents": [
+    {
+      "title": "R E S EAR CH Open Access",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.48152059316635,
+          91.44985616207123
+        ],
+        [
+          534.50048828125,
+          91.44985616207123
+        ],
+        [
+          534.50048828125,
+          106.28392264246939
+        ],
+        [
+          58.48152059316635,
+          106.28392264246939
+        ]
+      ]
+    },
+    {
+      "title": "The metabolic potential of Escherichia coli BL21 in\ndefined and rich medium",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.98741686344147,
+          119.66667547821997
+        ],
+        [
+          539.0616135597229,
+          119.66667547821997
+        ],
+        [
+          539.0616135597229,
+          172.5010986328125
+        ],
+        [
+          55.98741686344147,
+          172.5010986328125
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.71069663763046,
+          220.01737380027768
+        ],
+        [
+          102.42468458414078,
+          220.01737380027768
+        ],
+        [
+          102.42468458414078,
+          232.387088060379
+        ],
+        [
+          62.71069663763046,
+          232.387088060379
+        ]
+      ]
+    },
+    {
+      "title": "Background",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.290173292160034,
+          532.8731511831284
+        ],
+        [
+          113.23410153388977,
+          531.3223699331284
+        ],
+        [
+          113.23410153388977,
+          543.6028900146484
+        ],
+        [
+          56.290173292160034,
+          544.6900967359543
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          55.92891266942024,
+          280.2737298607826
+        ],
+        [
+          90.71076393127441,
+          280.2737298607826
+        ],
+        [
+          90.71076393127441,
+          291.37591552734375
+        ],
+        [
+          55.92891266942024,
+          291.37591552734375
+        ]
+      ]
+    },
+    {
+      "title": "Central (carbon) metabolism",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          55.90104824304581,
+          641.5032764673233
+        ],
+        [
+          171.0042200088501,
+          641.5032764673233
+        ],
+        [
+          171.0042200088501,
+          652.2681630849838
+        ],
+        [
+          55.90104824304581,
+          652.2681630849838
+        ]
+      ]
+    },
+    {
+      "title": "Glycolysis, pyruvate dehydrogenase, and pentose\nphosphate pathway",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.7239990234375,
+          496.77418375015253
+        ],
+        [
+          497.7534873485565,
+          496.77418375015253
+        ],
+        [
+          497.7534873485565,
+          519.1473083496094
+        ],
+        [
+          304.7239990234375,
+          519.1473083496094
+        ]
+      ]
+    },
+    {
+      "title": "Tricarbocyclic acid (TCA) cycle and metabolism of acetate\nand fermentative by-products",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.40270560979843,
+          364.3195378780365
+        ],
+        [
+          282.8148956298828,
+          364.3195378780365
+        ],
+        [
+          281.6508331298828,
+          387.1662902832031
+        ],
+        [
+          55.23864310979843,
+          387.1662902832031
+        ]
+      ]
+    },
+    {
+      "title": "Anaplerotic reactions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.7239990234375,
+          328.37172996997833
+        ],
+        [
+          387.6407344341278,
+          328.37172996997833
+        ],
+        [
+          387.6407344341278,
+          339.1779795885086
+        ],
+        [
+          304.7239990234375,
+          339.1779795885086
+        ]
+      ]
+    },
+    {
+      "title": "Respiratory energy generation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.7239990234375,
+          496.87304794788355
+        ],
+        [
+          423.05149579048157,
+          496.87304794788355
+        ],
+        [
+          423.05149579048157,
+          507.1282958984375
+        ],
+        [
+          304.7239990234375,
+          507.1282958984375
+        ]
+      ]
+    },
+    {
+      "title": "Amino acid biosynthesis and degradation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.523517370224,
+          677.8264275789261
+        ],
+        [
+          467.32217669487,
+          677.8264275789261
+        ],
+        [
+          467.32217669487,
+          687.7207981348038
+        ],
+        [
+          304.523517370224,
+          687.7207981348038
+        ]
+      ]
+    },
+    {
+      "title": "(See figure on previous page.)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          62.34654077887535,
+          94.12711662054062
+        ],
+        [
+          159.88802349567413,
+          94.12711662054062
+        ],
+        [
+          159.88802349567413,
+          103.76739501953125
+        ],
+        [
+          62.34654077887535,
+          103.76739501953125
+        ]
+      ]
+    },
+    {
+      "title": "Transport systems",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          56.09892785549164,
+          268.635629594326
+        ],
+        [
+          131.19984030723572,
+          268.635629594326
+        ],
+        [
+          131.19984030723572,
+          279.16400146484375
+        ],
+        [
+          56.09892785549164,
+          279.16400146484375
+        ]
+      ]
+    },
+    {
+      "title": "Protein synthesis and folding",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          55.98279869556427,
+          557.4795460700989
+        ],
+        [
+          174.81038963794708,
+          557.4795460700989
+        ],
+        [
+          174.81038963794708,
+          567.4573051929474
+        ],
+        [
+          55.98279869556427,
+          567.4573051929474
+        ]
+      ]
+    },
+    {
+      "title": "Stationary phase response",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.7239990234375,
+          437.0623853206634
+        ],
+        [
+          412.926837682724,
+          437.0623853206634
+        ],
+        [
+          411.762775182724,
+          447.14501953125
+        ],
+        [
+          304.4136049747467,
+          447.14501953125
+        ]
+      ]
+    },
+    {
+      "title": "Central (carbon) metabolism",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.7239990234375,
+          617.6107009649277
+        ],
+        [
+          416.88382601737976,
+          617.6107009649277
+        ],
+        [
+          416.88382601737976,
+          627.36148416996
+        ],
+        [
+          304.7239990234375,
+          627.36148416996
+        ]
+      ]
+    },
+    {
+      "title": "(See figure on previous page.)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          62.07450848817825,
+          94.2582217156887
+        ],
+        [
+          160.74915194511414,
+          94.2582217156887
+        ],
+        [
+          160.74915194511414,
+          103.76739501953125
+        ],
+        [
+          62.07450848817825,
+          103.76739501953125
+        ]
+      ]
+    },
+    {
+      "title": "Amino acid biosynthesis, transport systems, and salvage\npathways",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          56.118839263916016,
+          520.9056613445282
+        ],
+        [
+          278.76671624183655,
+          520.9056613445282
+        ],
+        [
+          278.76671624183655,
+          543.1282806396484
+        ],
+        [
+          56.118839263916016,
+          543.1282806396484
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          55.541981250047684,
+          147.9130972623825
+        ],
+        [
+          107.13208079338074,
+          147.9130972623825
+        ],
+        [
+          107.13208079338074,
+          159.3948974609375
+        ],
+        [
+          55.541981250047684,
+          159.3948974609375
+        ]
+      ]
+    },
+    {
+      "title": "Antagonistic regulation of central metabolic pathways\nand acetate formation",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          56.268174827098846,
+          244.38922059535977
+        ],
+        [
+          277.7805597782135,
+          244.38922059535977
+        ],
+        [
+          276.6164972782135,
+          267.14495849609375
+        ],
+        [
+          55.104112327098846,
+          267.14495849609375
+        ]
+      ]
+    },
+    {
+      "title": "Table 1 Compendium of quantitative proteomic changes at different growth conditions",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          54.04050385951996,
+          89.20189064741135
+        ],
+        [
+          411.92792797088623,
+          87.65110939741135
+        ],
+        [
+          411.92792797088623,
+          98.83514404296875
+        ],
+        [
+          54.04050385951996,
+          98.83514404296875
+        ]
+      ]
+    },
+    {
+      "title": "More details about the pyruvate node and acetate\ndilemma",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          56.229062497615814,
+          341.1036307811737
+        ],
+        [
+          259.40704345703125,
+          341.1036307811737
+        ],
+        [
+          259.40704345703125,
+          363.1260070800781
+        ],
+        [
+          55.064999997615814,
+          363.1260070800781
+        ]
+      ]
+    },
+    {
+      "title": "Stringent-like and stationary phase responses",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          55.88658982515335,
+          436.02083277702326
+        ],
+        [
+          242.3960154056549,
+          436.02083277702326
+        ],
+        [
+          242.3960154056549,
+          447.14501953125
+        ],
+        [
+          55.88658982515335,
+          447.14501953125
+        ]
+      ]
+    },
+    {
+      "title": "Conclusions",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          56.00563198328018,
+          447.02542603015894
+        ],
+        [
+          111.90057891607285,
+          447.02542603015894
+        ],
+        [
+          111.90057891607285,
+          459.4139099121094
+        ],
+        [
+          56.00563198328018,
+          459.4139099121094
+        ]
+      ]
+    },
+    {
+      "title": "Materials and methods",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          304.7239990234375,
+          87.5106692314148
+        ],
+        [
+          413.6966862678528,
+          87.5106692314148
+        ],
+        [
+          413.6966862678528,
+          99.4140625
+        ],
+        [
+          304.7239990234375,
+          99.4140625
+        ]
+      ]
+    },
+    {
+      "title": "2D gel electrophoresis",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          304.7239990234375,
+          604.5657380819321
+        ],
+        [
+          396.0080020427704,
+          604.5657380819321
+        ],
+        [
+          396.0080020427704,
+          615.654240489006
+        ],
+        [
+          304.7239990234375,
+          615.654240489006
+        ]
+      ]
+    },
+    {
+      "title": "Protein identification and classification",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          56.48212921619415,
+          318.9057078361511
+        ],
+        [
+          213.50457954406738,
+          318.9057078361511
+        ],
+        [
+          212.3825225830078,
+          329.9040222167969
+        ],
+        [
+          55.31806671619415,
+          329.9040222167969
+        ]
+      ]
+    },
+    {
+      "title": "Additional files",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          55.653638780117035,
+          669.4295964241028
+        ],
+        [
+          127.79839092493057,
+          669.4295964241028
+        ],
+        [
+          127.79839092493057,
+          681.3391118049622
+        ],
+        [
+          55.653638780117035,
+          681.3391118049622
+        ]
+      ]
+    },
+    {
+      "title": "Competing interests",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          304.7236633300781,
+          300.48644173145294
+        ],
+        [
+          371.8547353744507,
+          298.93566048145294
+        ],
+        [
+          370.884033203125,
+          309.3378601074219
+        ],
+        [
+          303.9155888557434,
+          309.83173501491547
+        ]
+      ]
+    },
+    {
+      "title": "Authors' contributions",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          304.7236633300781,
+          328.7718010544777
+        ],
+        [
+          379.6232752799988,
+          327.2210198044777
+        ],
+        [
+          378.4592127799988,
+          337.17376708984375
+        ],
+        [
+          304.29996252059937,
+          338.25528651475906
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          304.722900390625,
+          382.9686667919159
+        ],
+        [
+          370.549427986145,
+          381.4178855419159
+        ],
+        [
+          369.385365486145,
+          391.93878173828125
+        ],
+        [
+          304.1889843940735,
+          392.44883942604065
+        ]
+      ]
+    },
+    {
+      "title": "Received: 19 November 2013 Accepted: 14 March 2014\nPublished: 23 March 2014",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          304.7085282802582,
+          428.4196951389312
+        ],
+        [
+          481.25796008110046,
+          426.8689138889312
+        ],
+        [
+          480.09389758110046,
+          445.96990966796875
+        ],
+        [
+          303.5444657802582,
+          446.89570522308344
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          304.722900390625,
+          455.0570417642593
+        ],
+        [
+          339.9199523925781,
+          453.5062605142593
+        ],
+        [
+          339.9199523925781,
+          464.73284912109375
+        ],
+        [
+          304.722900390625,
+          464.73284912109375
+        ]
+      ]
+    },
+    {
+      "title": "doi:10.1186/1475-2859-13-45",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          308.0428810119629,
+          614.0149594545364
+        ],
+        [
+          399.6238498687744,
+          612.4641782045364
+        ],
+        [
+          399.6238498687744,
+          622.0961729288101
+        ],
+        [
+          308.0428810119629,
+          623.6469541788101
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          302
+        ],
+        [
+          "Line",
+          141
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          325
+        ],
+        [
+          "Line",
+          133
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          16
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          282
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          16
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          255
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          302
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          414
+        ],
+        [
+          "TableCell",
+          340
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          305
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "TableCell",
+          81
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          367
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          333
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          461
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          938
+        ],
+        [
+          "Line",
+          144
+        ],
+        [
+          "ListItem",
+          46
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          858
+        ],
+        [
+          "Line",
+          137
+        ],
+        [
+          "ListItem",
+          40
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/liMetabolicPotentialEscherichia2014"
+}

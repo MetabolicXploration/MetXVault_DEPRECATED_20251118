@@ -1,0 +1,366 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Cellular Heterogeneity: \nDo Differences Make a Difference?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.97747880220413,
+          99.11635194718838
+        ],
+        [
+          435.11016941070557,
+          97.58705507218838
+        ],
+        [
+          433.93243503570557,
+          150.224609375
+        ],
+        [
+          48.79974442720413,
+          151.38551442325115
+        ]
+      ]
+    },
+    {
+      "title": "Steven J. Altschuler1,* and Lani F. Wu1,*",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.98945051431656,
+          167.51739501953125
+        ],
+        [
+          212.30039978027344,
+          166.13507594168186
+        ],
+        [
+          212.30039978027344,
+          176.51739501953125
+        ],
+        [
+          49.81171613931656,
+          177.08137021958828
+        ]
+      ]
+    },
+    {
+      "title": "A Hidden World beneath Population \nAverages",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          219.00250244140625,
+          319.8495618402958
+        ],
+        [
+          373.45599365234375,
+          319.8495618402958
+        ],
+        [
+          373.45599365234375,
+          340.64105224609375
+        ],
+        [
+          219.00250244140625,
+          340.64105224609375
+        ]
+      ]
+    },
+    {
+      "title": "Figure 1. Ensemble Averages and Heterogeneity",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.14081688225269,
+          290.8280407190323
+        ],
+        [
+          231.5803239941597,
+          290.8280407190323
+        ],
+        [
+          231.5803239941597,
+          298.6853942871094
+        ],
+        [
+          59.14081688225269,
+          298.6853942871094
+        ]
+      ]
+    },
+    {
+      "title": "Interpreting Cellular Heterogeneity",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          51.0,
+          476.9981994628906
+        ],
+        [
+          200.15464156866074,
+          475.7458789944649
+        ],
+        [
+          200.0814971923828,
+          485.4981994628906
+        ],
+        [
+          50.09318380057812,
+          486.4235149025917
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          227.0811544060707,
+          520.5283100008965
+        ],
+        [
+          275.7030334472656,
+          520.5283100008965
+        ],
+        [
+          275.7030334472656,
+          529.777457177639
+        ],
+        [
+          227.0811544060707,
+          529.777457177639
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          394.11884558200836,
+          486.3417482972145
+        ],
+        [
+          473.2301187515259,
+          484.8124514222145
+        ],
+        [
+          473.2301187515259,
+          494.0480041503906
+        ],
+        [
+          394.11884558200836,
+          495.0149822831154
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          394.7390897870064,
+          610.8056429028511
+        ],
+        [
+          443.32000732421875,
+          609.2763460278511
+        ],
+        [
+          443.32000732421875,
+          618.1440124511719
+        ],
+        [
+          394.7390897870064,
+          619.1645981669426
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          244
+        ],
+        [
+          "Line",
+          131
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          302
+        ],
+        [
+          "Line",
+          174
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          319
+        ],
+        [
+          "Line",
+          173
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          296
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "Text",
+          44
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/altschulerCellularHeterogeneityDifferences2010"
+}

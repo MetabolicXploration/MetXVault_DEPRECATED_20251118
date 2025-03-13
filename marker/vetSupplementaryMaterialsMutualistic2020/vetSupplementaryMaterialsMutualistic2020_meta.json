@@ -1,0 +1,1103 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Supplementary Material - Mutualistic cross-feeding in\nmicrobial systems generates bistability via an Allee\neffect",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.69133770465851,
+          59.67551350593567
+        ],
+        [
+          549.3175177574158,
+          59.67551350593567
+        ],
+        [
+          549.3175177574158,
+          131.78302001953125
+        ],
+        [
+          55.69133770465851,
+          131.78302001953125
+        ]
+      ]
+    },
+    {
+      "title": "Contents",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.258142709732056,
+          257.89575719833374
+        ],
+        [
+          106.59952855110168,
+          257.89575719833374
+        ],
+        [
+          106.59952855110168,
+          270.5150146484375
+        ],
+        [
+          55.258142709732056,
+          270.5150146484375
+        ]
+      ]
+    },
+    {
+      "title": "S1 Reduction of nutrient-explicit equations of a single species.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          55.11009657382965,
+          64.15305644273758
+        ],
+        [
+          401.3579077720642,
+          64.15305644273758
+        ],
+        [
+          401.3579077720642,
+          76.35382080078125
+        ],
+        [
+          55.11009657382965,
+          76.35382080078125
+        ]
+      ]
+    },
+    {
+      "title": "Batch and chemostat reactors",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          55.63753259181976,
+          84.4869384765625
+        ],
+        [
+          194.8217475414276,
+          84.4869384765625
+        ],
+        [
+          194.8217475414276,
+          94.48223090171814
+        ],
+        [
+          55.63753259181976,
+          94.48223090171814
+        ]
+      ]
+    },
+    {
+      "title": "Reduction of the batch equations",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          55.8894317150116,
+          332.9089050292969
+        ],
+        [
+          209.3765959739685,
+          332.9089050292969
+        ],
+        [
+          209.3765959739685,
+          342.8714904785156
+        ],
+        [
+          55.8894317150116,
+          342.8714904785156
+        ]
+      ]
+    },
+    {
+      "title": "Reduction of the chemostat equations",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.394324362277985,
+          593.1409149169922
+        ],
+        [
+          231.04847717285156,
+          593.1409149169922
+        ],
+        [
+          231.04847717285156,
+          603.103515625
+        ],
+        [
+          55.394324362277985,
+          603.103515625
+        ]
+      ]
+    },
+    {
+      "title": "Dynamics of the logistic growth equation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          55.537272691726685,
+          427.574951171875
+        ],
+        [
+          244.60760498046875,
+          427.574951171875
+        ],
+        [
+          244.60760498046875,
+          437.53753662109375
+        ],
+        [
+          55.537272691726685,
+          437.53753662109375
+        ]
+      ]
+    },
+    {
+      "title": "S2 Reduction of nutrient-explicit mutualistic cross-feeding equations",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          55.87567949295044,
+          64.39862060546875
+        ],
+        [
+          433.21002197265625,
+          64.39862060546875
+        ],
+        [
+          433.21002197265625,
+          76.35382080078125
+        ],
+        [
+          55.87567949295044,
+          76.35382080078125
+        ]
+      ]
+    },
+    {
+      "title": "Overview of the different explicit chemostat equations",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          56.5388503074646,
+          340.07293701171875
+        ],
+        [
+          304.6254708766937,
+          340.07293701171875
+        ],
+        [
+          304.49273681640625,
+          350.325621843338
+        ],
+        [
+          55.3435378074646,
+          350.325621843338
+        ]
+      ]
+    },
+    {
+      "title": "Reduction",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          55.62688100337982,
+          262.2579345703125
+        ],
+        [
+          102.45127868652344,
+          262.2579345703125
+        ],
+        [
+          102.45127868652344,
+          272.22052001953125
+        ],
+        [
+          55.62688100337982,
+          272.22052001953125
+        ]
+      ]
+    },
+    {
+      "title": "First simplification: Taylor approximation for limiting nutrient concentrations",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          56.30860090255737,
+          330.8977961540222
+        ],
+        [
+          373.21123123168945,
+          330.8977961540222
+        ],
+        [
+          372.01591873168945,
+          340.4378662109375
+        ],
+        [
+          55.11328840255737,
+          340.4378662109375
+        ]
+      ]
+    },
+    {
+      "title": "Second simplification: conservation of biomass for t  1/d",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          56.17450761795044,
+          626.0692596435547
+        ],
+        [
+          297.74399757385254,
+          624.8020162582397
+        ],
+        [
+          297.74399757385254,
+          635.1629638671875
+        ],
+        [
+          56.17450761795044,
+          635.7859239578247
+        ]
+      ]
+    },
+    {
+      "title": "Elimination of the equations for the substrates and reduction to two variables",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          55.3679963350296,
+          212.469482421875
+        ],
+        [
+          375.6458435058594,
+          212.469482421875
+        ],
+        [
+          375.6458435058594,
+          222.10505962371826
+        ],
+        [
+          55.3679963350296,
+          222.10505962371826
+        ]
+      ]
+    },
+    {
+      "title": "Similarities between the different systems",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          55.578501999378204,
+          466.7439270019531
+        ],
+        [
+          246.28126525878906,
+          466.7439270019531
+        ],
+        [
+          246.28126525878906,
+          476.7065124511719
+        ],
+        [
+          55.578501999378204,
+          476.7065124511719
+        ]
+      ]
+    },
+    {
+      "title": "S3 Analysis for asymmetric parameter values",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          55.98333531618118,
+          64.39862060546875
+        ],
+        [
+          303.854736328125,
+          64.39862060546875
+        ],
+        [
+          303.854736328125,
+          76.35382080078125
+        ],
+        [
+          55.98333531618118,
+          76.35382080078125
+        ]
+      ]
+    },
+    {
+      "title": "S4 Methods for simulating ordinary differential equations",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          56.36778652667999,
+          211.65567541122437
+        ],
+        [
+          371.5670928955078,
+          211.65567541122437
+        ],
+        [
+          370.8158264160156,
+          224.7137451171875
+        ],
+        [
+          55.17247402667999,
+          224.7137451171875
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          56.69300079345703,
+          291.2936089038849
+        ],
+        [
+          116.54457378387451,
+          291.2936089038849
+        ],
+        [
+          115.56040954589844,
+          304.33184814453125
+        ],
+        [
+          55.773486256599426,
+          304.33184814453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "TableCell",
+          47
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          350
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Equation",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          360
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "FigureGroup",
+          3
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          508
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          521
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          453
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          365
+        ],
+        [
+          "TableCell",
+          77
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          304
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          536
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          186
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/vetSupplementaryMaterialsMutualistic2020"
+}

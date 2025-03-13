@@ -1,0 +1,696 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Metabolic networks in motion: 13C-based flux analysis",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.704238802194595,
+          94.5587158203125
+        ],
+        [
+          508.40660870075226,
+          94.5587158203125
+        ],
+        [
+          508.40660870075226,
+          117.03875732421875
+        ],
+        [
+          46.704238802194595,
+          117.03875732421875
+        ]
+      ]
+    },
+    {
+      "title": "Uwe Sauer*",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.401520386338234,
+          136.9410288631916
+        ],
+        [
+          92.26960754394531,
+          136.9410288631916
+        ],
+        [
+          92.26960754394531,
+          148.019775390625
+        ],
+        [
+          47.401520386338234,
+          148.019775390625
+        ]
+      ]
+    },
+    {
+      "title": "Fluxes quantify the integrated network\nresponse of gene\u2013protein\u2013metabolite\ninteractions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.84880065917969,
+          537.6112024784088
+        ],
+        [
+          273.20397704839706,
+          536.0604212284088
+        ],
+        [
+          272.04186767339706,
+          577.9876098632812
+        ],
+        [
+          46.69445939362049,
+          577.9876098632812
+        ]
+      ]
+    },
+    {
+      "title": "The principle of 13C-based metabolic flux\nanalysis",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          303.7275415658951,
+          680.5812835693359
+        ],
+        [
+          544.5800292491913,
+          679.8048473596573
+        ],
+        [
+          543.4179198741913,
+          709.6348592042923
+        ],
+        [
+          302.5654321908951,
+          711.1856404542923
+        ]
+      ]
+    },
+    {
+      "title": "Network operation versus pathway\nconcept",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.8376770019531,
+          568.762700676918
+        ],
+        [
+          507.08997935056686,
+          567.211919426918
+        ],
+        [
+          505.92786997556686,
+          594.8249969482422
+        ],
+        [
+          304.06846433877945,
+          595.5638428926468
+        ]
+      ]
+    },
+    {
+      "title": "Regulation and control of flux",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          308.2056772708893,
+          498.58516383171076
+        ],
+        [
+          483.9873456954956,
+          498.58516383171076
+        ],
+        [
+          483.9873456954956,
+          512.27978515625
+        ],
+        [
+          308.2056772708893,
+          512.27978515625
+        ]
+      ]
+    },
+    {
+      "title": "Metabolic engineering of\nbiotechnologically relevant flux states",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          304.3085962533951,
+          118.16848534345625
+        ],
+        [
+          527.0774590969086,
+          116.61770409345625
+        ],
+        [
+          525.9153497219086,
+          145.080322265625
+        ],
+        [
+          303.1464868783951,
+          146.61162984371185
+        ]
+      ]
+    },
+    {
+      "title": "Fluxes as input for or predictions of\ncomputer modeling",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          304.77095037698746,
+          517.9768863916397
+        ],
+        [
+          516.1959829926491,
+          516.4261051416397
+        ],
+        [
+          515.0338736176491,
+          545.1052703857422
+        ],
+        [
+          303.60884100198746,
+          546.2377544641495
+        ]
+      ]
+    },
+    {
+      "title": "Evolutionary 'design' of metabolism",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          308.8628845214844,
+          115.5993649959564
+        ],
+        [
+          517.6817083358765,
+          114.0485837459564
+        ],
+        [
+          516.5195989608765,
+          128.69561767578125
+        ],
+        [
+          308.71622800827026,
+          129.44413876533508
+        ]
+      ]
+    },
+    {
+      "title": "Future directions",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.84880065917969,
+          116.07804471254347
+        ],
+        [
+          149.62573140859604,
+          114.52726346254347
+        ],
+        [
+          148.46362203359604,
+          128.69561767578125
+        ],
+        [
+          46.77076183259487,
+          129.55381697416306
+        ]
+      ]
+    },
+    {
+      "title": "Conclusions",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          304.70406383275986,
+          418.69475197792053
+        ],
+        [
+          378.1983318924904,
+          417.14397072792053
+        ],
+        [
+          377.0362225174904,
+          431.7759094238281
+        ],
+        [
+          303.54195445775986,
+          432.3129284381866
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          304.8376770019531,
+          605.4010435342789
+        ],
+        [
+          418.9881297945976,
+          603.8502622842789
+        ],
+        [
+          417.8260204195976,
+          618.6923675537109
+        ],
+        [
+          303.78034859895706,
+          619.4337018728256
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          304.8376770019531,
+          667.6458761692047
+        ],
+        [
+          371.87280118465424,
+          666.0950949192047
+        ],
+        [
+          371.87280118465424,
+          680.6009826660156
+        ],
+        [
+          304.8376770019531,
+          681.6835510730743
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          276
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          333
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          301
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          285
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          266
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          590
+        ],
+        [
+          "Line",
+          141
+        ],
+        [
+          "ListItem",
+          43
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          555
+        ],
+        [
+          "Line",
+          141
+        ],
+        [
+          "ListItem",
+          42
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/sauerMetabolicNetworksMotion2006"
+}

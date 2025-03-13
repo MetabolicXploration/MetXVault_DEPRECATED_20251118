@@ -1,0 +1,639 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.37275183200836,
+          62.4496298879385
+        ],
+        [
+          556.7124643325806,
+          62.4496298879385
+        ],
+        [
+          555.5484018325806,
+          132.38058914244175
+        ],
+        [
+          39.20868933200836,
+          132.38058914244175
+        ]
+      ]
+    },
+    {
+      "title": "OPEN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          88.93774271011353,
+          150.63192687928677
+        ],
+        [
+          143.68042123317719,
+          149.10263000428677
+        ],
+        [
+          143.68042123317719,
+          170.07585762441158
+        ],
+        [
+          88.93774271011353,
+          171.60515449941158
+        ]
+      ]
+    },
+    {
+      "title": "Principles of proteome allocation \nare revealed using proteomic data \nand genome-scale models",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          149.95597851276398,
+          147.53246149420738
+        ],
+        [
+          539.4511027336121,
+          146.00316461920738
+        ],
+        [
+          539.4511027336121,
+          237.51460388302803
+        ],
+        [
+          149.95597851276398,
+          239.04390075802803
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          153.75030076503754,
+          210.34521484375
+        ],
+        [
+          191.112095952034,
+          210.34521484375
+        ],
+        [
+          191.112095952034,
+          221.34521484375
+        ],
+        [
+          153.75030076503754,
+          221.34521484375
+        ]
+      ]
+    },
+    {
+      "title": "Table 1. Sectors and their mass fractions defined from proteomics data and used to constrain the ME \nmodel.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          154.8361918926239,
+          630.7265455126762
+        ],
+        [
+          534.73291015625,
+          630.7265455126762
+        ],
+        [
+          534.73291015625,
+          650.9459522366524
+        ],
+        [
+          154.8361918926239,
+          650.9459522366524
+        ]
+      ]
+    },
+    {
+      "title": "Table 2. Predicted protein percent of cell dry weight.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          155.63760375976562,
+          252.97917982935905
+        ],
+        [
+          354.43682861328125,
+          252.97917982935905
+        ],
+        [
+          354.43682861328125,
+          263.35382080078125
+        ],
+        [
+          155.63760375976562,
+          263.35382080078125
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          154.04087233543396,
+          267.9130662381649
+        ],
+        [
+          205.73199462890625,
+          267.9130662381649
+        ],
+        [
+          205.73199462890625,
+          279.3451843261719
+        ],
+        [
+          154.04087233543396,
+          279.3451843261719
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          155.29516673088074,
+          696.3451919555664
+        ],
+        [
+          197.5919952392578,
+          696.3451919555664
+        ],
+        [
+          197.5919952392578,
+          707.3451919555664
+        ],
+        [
+          155.29516673088074,
+          707.3451919555664
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          155.16397523880005,
+          180.00738525390625
+        ],
+        [
+          207.98040771484375,
+          180.00738525390625
+        ],
+        [
+          207.98040771484375,
+          191.00738525390625
+        ],
+        [
+          155.16397523880005,
+          191.00738525390625
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          152.41012620925903,
+          124.34521484375
+        ],
+        [
+          252.04176950454712,
+          124.34521484375
+        ],
+        [
+          252.04176950454712,
+          135.34521484375
+        ],
+        [
+          152.41012620925903,
+          135.34521484375
+        ]
+      ]
+    },
+    {
+      "title": "Author Contributions",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          153.89920115470886,
+          192.34521484375
+        ],
+        [
+          256.7644145488739,
+          192.34521484375
+        ],
+        [
+          256.7644145488739,
+          203.34521484375
+        ],
+        [
+          153.89920115470886,
+          203.34521484375
+        ]
+      ]
+    },
+    {
+      "title": "Additional Information",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          153.81371176242828,
+          240.34521484375
+        ],
+        [
+          264.89954817295074,
+          240.34521484375
+        ],
+        [
+          264.2839050292969,
+          251.34521484375
+        ],
+        [
+          152.64964926242828,
+          251.34521484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          339
+        ],
+        [
+          "TableCell",
+          83
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          218
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          434
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "Equation",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          412
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "ListItem",
+          33
+        ],
+        [
+          "Reference",
+          31
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/yangPrinciplesProteomeAllocation2016"
+}

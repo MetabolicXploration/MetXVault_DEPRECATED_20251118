@@ -1,0 +1,739 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Bacterial chemotaxis: information processing,\nthermodynamics, and behavior\nGabriele Micali1,2 and Robert G Endres1,2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.542086720466614,
+          81.60092456638813
+        ],
+        [
+          408.9215654730797,
+          81.60092456638813
+        ],
+        [
+          408.9215654730797,
+          135.5509033203125
+        ],
+        [
+          52.542086720466614,
+          135.5509033203125
+        ]
+      ]
+    },
+    {
+      "title": "Addresses",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.01785255968571,
+          311.74399292469025
+        ],
+        [
+          94.37089681625366,
+          311.74399292469025
+        ],
+        [
+          94.37089681625366,
+          321.9903564453125
+        ],
+        [
+          53.01785255968571,
+          321.9903564453125
+        ]
+      ]
+    },
+    {
+      "title": "http://dx.doi.org/10.1016/j.mib.2015.12.001",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.23161379992962,
+          466.3669829368591
+        ],
+        [
+          210.011381149292,
+          466.3669829368591
+        ],
+        [
+          208.814115524292,
+          477.0295505523681
+        ],
+        [
+          54.03434817492962,
+          477.0295505523681
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.73778122663498,
+          545.4838498830795
+        ],
+        [
+          120.42364600300789,
+          545.4838498830795
+        ],
+        [
+          119.22638037800789,
+          557.900634765625
+        ],
+        [
+          52.54051560163498,
+          557.900634765625
+        ]
+      ]
+    },
+    {
+      "title": "Classical view of Escherichia coli chemotaxis",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.130615234375,
+          233.70052897930142
+        ],
+        [
+          552.9164698123932,
+          233.70052897930142
+        ],
+        [
+          551.7192041873932,
+          246.14630126953125
+        ],
+        [
+          310.8170691728592,
+          246.14630126953125
+        ]
+      ]
+    },
+    {
+      "title": "Information processing",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.858299255371094,
+          120.44097900390625
+        ],
+        [
+          176.07139620184898,
+          120.44097900390625
+        ],
+        [
+          176.07139620184898,
+          131.39996337890625
+        ],
+        [
+          53.858299255371094,
+          131.39996337890625
+        ]
+      ]
+    },
+    {
+      "title": "Figure 2",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.858299255371094,
+          424.55457353591913
+        ],
+        [
+          83.38203498721123,
+          423.00379228591913
+        ],
+        [
+          83.04093933105469,
+          432.3714599609375
+        ],
+        [
+          52.748218424618244,
+          432.9828765392303
+        ]
+      ]
+    },
+    {
+      "title": "Box 1 Mutual information as a universal language of sensing and signaling.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          66.00024496018887,
+          93.91513124108315
+        ],
+        [
+          340.6943664550781,
+          93.91513124108315
+        ],
+        [
+          340.6943664550781,
+          102.71380615234375
+        ],
+        [
+          66.00024496018887,
+          102.71380615234375
+        ]
+      ]
+    },
+    {
+      "title": "Thermodynamics of chemotaxis",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.54879938066006,
+          125.13713347911833
+        ],
+        [
+          224.3252967596054,
+          123.58635222911833
+        ],
+        [
+          224.3252967596054,
+          136.16217041015625
+        ],
+        [
+          53.54879938066006,
+          136.16217041015625
+        ]
+      ]
+    },
+    {
+      "title": "Box 2 Thermodynamics and information.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          58.939134538173676,
+          535.332782626152
+        ],
+        [
+          208.3303985595703,
+          533.782001376152
+        ],
+        [
+          208.3303985595703,
+          542.9341125488281
+        ],
+        [
+          57.741868913173676,
+          544.0450421571732
+        ]
+      ]
+    },
+    {
+      "title": "Cell-to-cell variability and cell behavior",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          311.130615234375,
+          367.6786193847656
+        ],
+        [
+          517.1620070338249,
+          367.4021226167679
+        ],
+        [
+          516.6621704101562,
+          378.63763427734375
+        ],
+        [
+          310.6310560107231,
+          379.3705116510391
+        ]
+      ]
+    },
+    {
+      "title": "Conclusions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          60.56816554069519,
+          458.70687699317926
+        ],
+        [
+          126.5088267326355,
+          458.70687699317926
+        ],
+        [
+          125.82217407226562,
+          470.1966552734375
+        ],
+        [
+          59.37089991569519,
+          470.1966552734375
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.85212356597185,
+          702.0198076963425
+        ],
+        [
+          158.3986112177372,
+          702.0198076963425
+        ],
+        [
+          158.3986112177372,
+          713.2110077142715
+        ],
+        [
+          59.85212356597185,
+          713.2110077142715
+        ]
+      ]
+    },
+    {
+      "title": "References and recommended reading",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          318.1083028316498,
+          84.5531141012907
+        ],
+        [
+          527.5324509143829,
+          83.0023328512907
+        ],
+        [
+          526.3351852893829,
+          96.08026123046875
+        ],
+        [
+          316.9110372066498,
+          96.35711596906185
+        ]
+      ]
+    },
+    {
+      "title": "40.\n-\n\nBarato AC, Hartich D, Seifert U: Efficiency of cellular information\nprocessing. New J Phys 2014, 16:103024.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          310.7898851633072,
+          83.83875046670437
+        ],
+        [
+          548.1960980892181,
+          80.73718796670437
+        ],
+        [
+          546.9988324642181,
+          99.96099853515625
+        ],
+        [
+          309.5926195383072,
+          99.96099853515625
+        ]
+      ]
+    },
+    {
+      "title": "44.\n-\n\nGovern CC, ten Wolde RP: Energy dissipation and noise\ncorrelations in biochemical sensing. Phys Rev Lett 2014,\n113:1-5.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          310.112477183342,
+          322.8589506149292
+        ],
+        [
+          529.7460477352142,
+          321.3081693649292
+        ],
+        [
+          528.5487821102142,
+          347.0245666503906
+        ],
+        [
+          308.915211558342,
+          347.0245666503906
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1430
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          622
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1079
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1171
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1820
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1892
+        ],
+        [
+          "Line",
+          130
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          2442
+        ],
+        [
+          "Line",
+          178
+        ],
+        [
+          "ListItem",
+          35
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListGroup",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          510
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/micaliBacterialChemotaxisInformation2016"
+}

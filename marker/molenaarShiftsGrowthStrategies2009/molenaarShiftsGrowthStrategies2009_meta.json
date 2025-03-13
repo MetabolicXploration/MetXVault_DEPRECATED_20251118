@@ -1,0 +1,751 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PERSPECTIVE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.646050959825516,
+          72.61707836389542
+        ],
+        [
+          134.5117416381836,
+          71.06629711389542
+        ],
+        [
+          134.5117416381836,
+          85.77215576171875
+        ],
+        [
+          47.646050959825516,
+          85.77215576171875
+        ]
+      ]
+    },
+    {
+      "title": "Shifts in growth strategies reflect tradeoffs\nin cellular economics",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.01406800746918,
+          97.51334553956985
+        ],
+        [
+          418.0047264099121,
+          95.96256428956985
+        ],
+        [
+          418.0047264099121,
+          136.92791748046875
+        ],
+        [
+          47.01406800746918,
+          137.39586806297302
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          304.8379821777344,
+          157.2225765287876
+        ],
+        [
+          375.82451248168945,
+          155.6717952787876
+        ],
+        [
+          375.82451248168945,
+          170.4149169921875
+        ],
+        [
+          304.8379821777344,
+          170.51777610182762
+        ]
+      ]
+    },
+    {
+      "title": "Growth and fitness in unicellular\norganisms",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          304.8379821777344,
+          418.7563705444336
+        ],
+        [
+          495.61612820625305,
+          417.2055892944336
+        ],
+        [
+          494.45206570625305,
+          446.5096740722656
+        ],
+        [
+          304.04180693626404,
+          447.6443092823028
+        ]
+      ]
+    },
+    {
+      "title": "Current growth models\nand their limitations",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          51.817298889160156,
+          254.29260677099225
+        ],
+        [
+          187.34685039520264,
+          254.29260677099225
+        ],
+        [
+          186.18278789520264,
+          282.0997314453125
+        ],
+        [
+          50.87506061792374,
+          282.0997314453125
+        ]
+      ]
+    },
+    {
+      "title": "Metabolic models ignore specific protein\ncosts and benefits",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          51.817298889160156,
+          254.58974361419675
+        ],
+        [
+          289.1076111793518,
+          254.58974361419675
+        ],
+        [
+          287.9435486793518,
+          282.0997314453125
+        ],
+        [
+          50.81088584661484,
+          282.0997314453125
+        ]
+      ]
+    },
+    {
+      "title": "Metabolic strategies resulting\nfrom growth rate optimization",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          304.8379821777344,
+          490.9928761720657
+        ],
+        [
+          479.0360174179077,
+          489.4420949220657
+        ],
+        [
+          477.8719549179077,
+          517.6586608886719
+        ],
+        [
+          304.8379821777344,
+          518.3347662687302
+        ]
+      ]
+    },
+    {
+      "title": "Use of alternative pathways at different\nsubstrate concentrations",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          304.4894139766693,
+          594.7922383546829
+        ],
+        [
+          532.5974929332733,
+          593.2414571046829
+        ],
+        [
+          531.4334304332733,
+          621.8607177734375
+        ],
+        [
+          303.3253514766693,
+          622.4289699792862
+        ]
+      ]
+    },
+    {
+      "title": "Effect of other limiting substrates\nor recombinant protein expression\non overflow metabolism",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          51.817298889160156,
+          546.8200546503067
+        ],
+        [
+          255.19738137722015,
+          546.8200546503067
+        ],
+        [
+          254.03331887722015,
+          588.9771270751953
+        ],
+        [
+          51.25912344455719,
+          588.9771270751953
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion and outlook",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          308.86297607421875,
+          399.87340342998505
+        ],
+        [
+          448.85994935035706,
+          399.87340342998505
+        ],
+        [
+          447.69588685035706,
+          413.70237028598785
+        ],
+        [
+          308.84967494010925,
+          413.70237028598785
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary information",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.84880065917969,
+          376.1056213378906
+        ],
+        [
+          178.9534546136856,
+          374.8489062190056
+        ],
+        [
+          178.13571166992188,
+          386.0682373046875
+        ],
+        [
+          46.791330218315125,
+          386.8179104924202
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.84880065917969,
+          436.2033694982528
+        ],
+        [
+          160.12793731689453,
+          434.6525882482528
+        ],
+        [
+          159.98764038085938,
+          448.2098693847656
+        ],
+        [
+          46.88693517446518,
+          448.8465338945388
+        ]
+      ]
+    },
+    {
+      "title": "Conflict of interest",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.84880065917969,
+          517.9630198478699
+        ],
+        [
+          157.19889986515045,
+          516.4122385978699
+        ],
+        [
+          156.03483736515045,
+          531.264892578125
+        ],
+        [
+          46.942060112953186,
+          532.0094027519226
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.84880065917969,
+          573.5592943429947
+        ],
+        [
+          112.90187764167786,
+          572.0085130929947
+        ],
+        [
+          111.95204162597656,
+          585.9738922119141
+        ],
+        [
+          47.16199591755867,
+          586.9314697980881
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          256
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          339
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          283
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          298
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          198
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          297
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          273
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          400
+        ],
+        [
+          "Line",
+          130
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          537
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "ListItem",
+          40
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/molenaarShiftsGrowthStrategies2009"
+}

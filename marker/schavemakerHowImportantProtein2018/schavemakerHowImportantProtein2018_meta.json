@@ -1,0 +1,1468 @@
+{
+  "table_of_contents": [
+    {
+      "title": "How Important Is Protein Diffusion in\nProkaryotes?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          177.24899542331696,
+          119.78084295988083
+        ],
+        [
+          548.2148933410645,
+          118.25740545988083
+        ],
+        [
+          548.2148933410645,
+          167.3553466796875
+        ],
+        [
+          177.24899542331696,
+          167.94030636548996
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.28508222103119,
+          381.00710213184357
+        ],
+        [
+          162.65665066242218,
+          379.48366463184357
+        ],
+        [
+          161.49258816242218,
+          391.20636463165283
+        ],
+        [
+          88.12101972103119,
+          392.72980213165283
+        ]
+      ]
+    },
+    {
+      "title": "Edited by:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          126.58499908447266,
+          402.64362931251526
+        ],
+        [
+          165.98487544059753,
+          401.12019181251526
+        ],
+        [
+          164.82081294059753,
+          411.6710937023163
+        ],
+        [
+          126.58499908447266,
+          413.1945312023163
+        ]
+      ]
+    },
+    {
+      "title": "Reviewed by:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          113.31324982643127,
+          456.4211404323578
+        ],
+        [
+          160.9831154346466,
+          454.8977029323578
+        ],
+        [
+          159.90647888183594,
+          465.01586079597473
+        ],
+        [
+          112.14918732643127,
+          466.53929829597473
+        ]
+      ]
+    },
+    {
+      "title": "Specialty section:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          100.55828756093979,
+          562.47922539711
+        ],
+        [
+          159.9063720703125,
+          560.95578789711
+        ],
+        [
+          159.9063720703125,
+          571.0754334926605
+        ],
+        [
+          99.39422506093979,
+          572.5988709926605
+        ]
+      ]
+    },
+    {
+      "title": "Citation:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          130.2403804063797,
+          650.3837728500366
+        ],
+        [
+          159.90643310546875,
+          648.8603353500366
+        ],
+        [
+          159.90643310546875,
+          658.9484596252441
+        ],
+        [
+          129.0763179063797,
+          660.4718971252441
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          173.84499716758728,
+          399.2635488510132
+        ],
+        [
+          272.86370301246643,
+          397.7401113510132
+        ],
+        [
+          272.86370301246643,
+          413.46906423568726
+        ],
+        [
+          173.84499716758728,
+          414.99250173568726
+        ]
+      ]
+    },
+    {
+      "title": "OVERVIEW OF DIFFUSION RATES AND THEIR CONSEQUENCES\nIN PROKARYOTES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          177.83953857421875,
+          641.3627707958221
+        ],
+        [
+          547.9700593948364,
+          639.8393332958221
+        ],
+        [
+          547.9700593948364,
+          668.3468704223633
+        ],
+        [
+          177.83953857421875,
+          669.8515355587006
+        ]
+      ]
+    },
+    {
+      "title": "General Principles of Diffusion",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          177.83953857421875,
+          674.0834355354309
+        ],
+        [
+          350.672119140625,
+          672.5599980354309
+        ],
+        [
+          350.672119140625,
+          686.7788772583008
+        ],
+        [
+          177.83953857421875,
+          687.8972125053406
+        ]
+      ]
+    },
+    {
+      "title": "Diffusion Limited Reactions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          305.10858154296875,
+          242.6444091796875
+        ],
+        [
+          462.2240905761719,
+          242.16403126716614
+        ],
+        [
+          462.2240905761719,
+          254.59954833984375
+        ],
+        [
+          304.5585443973541,
+          255.39373397827148
+        ]
+      ]
+    },
+    {
+      "title": "Diffusion Limitation Depends on the\nIntracellular Environment",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          44.82890319824219,
+          503.37586641311646
+        ],
+        [
+          251.6754777431488,
+          503.37586641311646
+        ],
+        [
+          250.5114152431488,
+          530.9443054199219
+        ],
+        [
+          43.836342215538025,
+          530.9443054199219
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 1 | Overview of experimentally determined diffusion coefficients.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          43.73698943853378,
+          61.421599835157394
+        ],
+        [
+          258.78166580200195,
+          61.421599835157394
+        ],
+        [
+          258.78166580200195,
+          70.950439453125
+        ],
+        [
+          43.73698943853378,
+          70.950439453125
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 1 | Continued",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          43.5564723610878,
+          61.50377377867699
+        ],
+        [
+          110.69928687810898,
+          61.50377377867699
+        ],
+        [
+          110.69928687810898,
+          71.25056818127632
+        ],
+        [
+          43.5564723610878,
+          71.25056818127632
+        ]
+      ]
+    },
+    {
+      "title": "What Are the Diffusion Coefficients of\nProteins in Cells?",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          44.0659983754158,
+          170.62136203050613
+        ],
+        [
+          262.44170594215393,
+          170.62136203050613
+        ],
+        [
+          262.44170594215393,
+          198.69085693359375
+        ],
+        [
+          44.0659983754158,
+          198.69085693359375
+        ]
+      ]
+    },
+    {
+      "title": "Examples of Diffusion Limitation in\nProkaryotes",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          305.1105041503906,
+          447.6895022392273
+        ],
+        [
+          508.15512895584106,
+          447.6895022392273
+        ],
+        [
+          506.99106645584106,
+          475.2869567871094
+        ],
+        [
+          304.73392820358276,
+          475.2869567871094
+        ]
+      ]
+    },
+    {
+      "title": "The On-Rate Constant of Barnase-Barstar Goes\nBeyond the Diffusion Limit",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          305.1089782714844,
+          576.0291159152985
+        ],
+        [
+          528.3866119384766,
+          576.0291159152985
+        ],
+        [
+          527.2225494384766,
+          599.464613199234
+        ],
+        [
+          304.425434589386,
+          599.464613199234
+        ]
+      ]
+    },
+    {
+      "title": "Translation and Cell Growth Rate Are Limited by\nCharged tRNA Availability",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          44.12686049938202,
+          416.59000039100647
+        ],
+        [
+          269.03067696094513,
+          416.59000039100647
+        ],
+        [
+          267.86661446094513,
+          440.4056091308594
+        ],
+        [
+          42.96279799938202,
+          440.4056091308594
+        ]
+      ]
+    },
+    {
+      "title": "The Combination of Cell Size and Protein\nConcentration in Prokaryotic and Eukaryotic Cells Is\nOptimized to Facilitate Rapid Diffusion",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          304.62557888031006,
+          326.84624433517456
+        ],
+        [
+          546.2726340293884,
+          326.84624433517456
+        ],
+        [
+          546.2726340293884,
+          361.3399353027344
+        ],
+        [
+          304.62557888031006,
+          361.3399353027344
+        ]
+      ]
+    },
+    {
+      "title": "Differences in Diffusion Coefficients\nLeading to Functional Differences",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          305.10931396484375,
+          629.3787181377411
+        ],
+        [
+          513.4353289604187,
+          629.3787181377411
+        ],
+        [
+          513.4353289604187,
+          657.893797159195
+        ],
+        [
+          305.10931396484375,
+          657.893797159195
+        ]
+      ]
+    },
+    {
+      "title": "The Min System Oscillation in E. coli",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          43.877932369709015,
+          92.58652120828629
+        ],
+        [
+          213.1376838684082,
+          92.58652120828629
+        ],
+        [
+          213.1376838684082,
+          104.21075439453125
+        ],
+        [
+          43.877932369709015,
+          104.21075439453125
+        ]
+      ]
+    },
+    {
+      "title": "Stable Cytoplasmic Protein Gradients in Small Cells",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          44.18488955497742,
+          296.30171298980713
+        ],
+        [
+          283.88151478767395,
+          296.30171298980713
+        ],
+        [
+          283.88151478767395,
+          307.9977722167969
+        ],
+        [
+          44.18488955497742,
+          307.9977722167969
+        ]
+      ]
+    },
+    {
+      "title": "NEW HORIZONS AND OUTSTANDING\nQUESTIONS",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          44.82920837402344,
+          528.0754244327545
+        ],
+        [
+          261.5174684524536,
+          528.0754244327545
+        ],
+        [
+          260.3534059524536,
+          554.9559936523438
+        ],
+        [
+          43.82727462053299,
+          554.9559936523438
+        ]
+      ]
+    },
+    {
+      "title": "Consequences of Electrostatic Steering\nand Ionic Strength on Diffusion Limitation",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          44.22526299953461,
+          640.8500611782074
+        ],
+        [
+          282.1106427907944,
+          640.8500611782074
+        ],
+        [
+          282.1106427907944,
+          668.4277114868164
+        ],
+        [
+          44.22526299953461,
+          668.4277114868164
+        ]
+      ]
+    },
+    {
+      "title": "The Effect of Temperature on Diffusion\nCoefficients",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          305.10888671875,
+          183.6485356092453
+        ],
+        [
+          527.7918984889984,
+          182.1250981092453
+        ],
+        [
+          526.6278359889984,
+          210.24749755859375
+        ],
+        [
+          304.45602107048035,
+          210.88030636310577
+        ]
+      ]
+    },
+    {
+      "title": "Direct Measurements of Diffusion\nLimitation",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          305.1090087890625,
+          572.8177070617676
+        ],
+        [
+          499.5344305038452,
+          571.2942695617676
+        ],
+        [
+          498.3703680038452,
+          599.6865081787109
+        ],
+        [
+          304.21342515945435,
+          600.8074307441711
+        ]
+      ]
+    },
+    {
+      "title": "A Note on the Use of d=\n\u221a\n2nDt",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          43.5627424120903,
+          102.24615478515625
+        ],
+        [
+          222.98011779785156,
+          102.24615478515625
+        ],
+        [
+          222.98011779785156,
+          124.38916015625
+        ],
+        [
+          43.5627424120903,
+          124.38916015625
+        ]
+      ]
+    },
+    {
+      "title": "Cell Size and Diffusion Length Scales",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          43.946050345897675,
+          254.52006340026855
+        ],
+        [
+          256.6639709472656,
+          254.52006340026855
+        ],
+        [
+          256.6639709472656,
+          267.5690996646881
+        ],
+        [
+          43.946050345897675,
+          267.5690996646881
+        ]
+      ]
+    },
+    {
+      "title": "Diffusion Limitation and Membrane\nProteins",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          305.1090087890625,
+          370.66394805908203
+        ],
+        [
+          507.54215598106384,
+          370.66394805908203
+        ],
+        [
+          507.54215598106384,
+          399.18408203125
+        ],
+        [
+          305.1090087890625,
+          399.18408203125
+        ]
+      ]
+    },
+    {
+      "title": "The Importance of Diffusion Coefficients in\na Cellular Context",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          305.109130859375,
+          538.5395264625549
+        ],
+        [
+          551.8538675308228,
+          537.0160889625549
+        ],
+        [
+          551.8538675308228,
+          565.3154754638672
+        ],
+        [
+          305.109130859375,
+          566.3013482093811
+        ]
+      ]
+    },
+    {
+      "title": "Diffusion May Affect Different Parts of\nCells Differently",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          44.67212402820587,
+          424.20393347740173
+        ],
+        [
+          263.8942440748215,
+          422.68049597740173
+        ],
+        [
+          262.7301815748215,
+          450.7404479980469
+        ],
+        [
+          43.50806152820587,
+          451.47461771965027
+        ]
+      ]
+    },
+    {
+      "title": "The Reach of Diffusion Limitation",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          305.10882568359375,
+          264.179162979126
+        ],
+        [
+          496.6291410923004,
+          262.655725479126
+        ],
+        [
+          495.4650785923004,
+          277.44140625
+        ],
+        [
+          304.92380595207214,
+          277.77703285217285
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          305.10882568359375,
+          439.40385818481445
+        ],
+        [
+          388.61101150512695,
+          437.88042068481445
+        ],
+        [
+          387.44694900512695,
+          452.8332214355469
+        ],
+        [
+          304.6057562828064,
+          453.4197807312012
+        ]
+      ]
+    },
+    {
+      "title": "AUTHOR CONTRIBUTIONS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          43.94533985853195,
+          92.61227175593376
+        ],
+        [
+          201.13115787506104,
+          92.61227175593376
+        ],
+        [
+          201.13115787506104,
+          106.68356001377106
+        ],
+        [
+          43.94533985853195,
+          106.68356001377106
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          44.119364857673645,
+          169.6098554134369
+        ],
+        [
+          126.00298047065735,
+          169.6098554134369
+        ],
+        [
+          126.00298047065735,
+          183.211669921875
+        ],
+        [
+          44.119364857673645,
+          183.211669921875
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          304.7292034626007,
+          60.8082275390625
+        ],
+        [
+          437.6131474971771,
+          59.92136746644974
+        ],
+        [
+          437.6131474971771,
+          72.76336669921875
+        ],
+        [
+          304.7292034626007,
+          73.84646862745285
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          173
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          632
+        ],
+        [
+          "Line",
+          160
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          314
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          214
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          409
+        ],
+        [
+          "TableCell",
+          205
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          364
+        ],
+        [
+          "TableCell",
+          120
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          523
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          149
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          463
+        ],
+        [
+          "Line",
+          135
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          399
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          415
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          268
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          484
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "ListItem",
+          38
+        ],
+        [
+          "Reference",
+          38
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          520
+        ],
+        [
+          "Line",
+          138
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "Reference",
+          44
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          186
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Reference",
+          14
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/schavemakerHowImportantProtein2018"
+}

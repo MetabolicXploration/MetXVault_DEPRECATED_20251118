@@ -1,0 +1,1335 @@
+{
+  "table_of_contents": [
+    {
+      "title": "RESEARCH ARTICLE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.07001727819443,
+          97.93416577577591
+        ],
+        [
+          235.89228510856628,
+          97.93416577577591
+        ],
+        [
+          235.89228510856628,
+          124.71868896484375
+        ],
+        [
+          59.07001727819443,
+          124.71868896484375
+        ]
+      ]
+    },
+    {
+      "title": "Developing a low-cost milliliter-scale\nchemostat array for precise control of\ncellular growth",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.15320646762848,
+          140.211181640625
+        ],
+        [
+          468.2713522911072,
+          138.83687630295753
+        ],
+        [
+          468.2713522911072,
+          211.97052001953125
+        ],
+        [
+          59.15320646762848,
+          211.97052001953125
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.5275993347168,
+          618.4624328613281
+        ],
+        [
+          157.2229676246643,
+          616.9657949209213
+        ],
+        [
+          156.0589051246643,
+          630.4175415039062
+        ],
+        [
+          58.78265622258186,
+          630.9964896440506
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS AND DISCUSSION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          316.59537267684937,
+          151.5665321946144
+        ],
+        [
+          477.3768162727356,
+          151.5665321946144
+        ],
+        [
+          477.3768162727356,
+          164.0050048828125
+        ],
+        [
+          316.59537267684937,
+          164.0050048828125
+        ]
+      ]
+    },
+    {
+      "title": "Variable dilution rates in multiplexed turbidostats",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.4801940917969,
+          176.84642305970192
+        ],
+        [
+          551.9347565174103,
+          176.84642305970192
+        ],
+        [
+          551.9347565174103,
+          188.13873291015625
+        ],
+        [
+          317.4801940917969,
+          188.13873291015625
+        ]
+      ]
+    },
+    {
+      "title": "Rigid tubing reduces the flow rate anomaly of the\nfirst chamber",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          316.626492023468,
+          332.0306396484375
+        ],
+        [
+          556.0516400337219,
+          332.0306396484375
+        ],
+        [
+          556.0516400337219,
+          355.4966125488281
+        ],
+        [
+          316.626492023468,
+          355.4966125488281
+        ]
+      ]
+    },
+    {
+      "title": "Modification of syringe pump operation for\nlong-term culturing",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          39.685001373291016,
+          550.7518157958984
+        ],
+        [
+          246.6825988292694,
+          549.956561923027
+        ],
+        [
+          245.5185363292694,
+          574.273681640625
+        ],
+        [
+          38.87797522544861,
+          574.3083339929581
+        ]
+      ]
+    },
+    {
+      "title": "Cycling dispense order increases flow rate\nconsistency",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          297.6376953125,
+          670.3171157836914
+        ],
+        [
+          496.387859582901,
+          670.1507041454315
+        ],
+        [
+          495.223797082901,
+          693.8389892578125
+        ],
+        [
+          297.6376953125,
+          695.0695395469666
+        ]
+      ]
+    },
+    {
+      "title": "Increasing humidity of inflow air increases flow rate\naccuracy",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          316.99019050598145,
+          421.8321228027344
+        ],
+        [
+          555.96027135849,
+          421.3598191738129
+        ],
+        [
+          555.96027135849,
+          445.35400390625
+        ],
+        [
+          316.99019050598145,
+          445.35400390625
+        ]
+      ]
+    },
+    {
+      "title": "High consistency and accuracy under a range of\ntarget flow rates",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.5275993347168,
+          658.2757415771484
+        ],
+        [
+          288.59613132476807,
+          657.7839074134827
+        ],
+        [
+          288.59613132476807,
+          681.1964874267578
+        ],
+        [
+          59.5275993347168,
+          681.6312067508698
+        ]
+      ]
+    },
+    {
+      "title": "Precise control of flow rate is important for\nphenotype quantification",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          317.42767310142517,
+          306.4620361328125
+        ],
+        [
+          521.085205078125,
+          306.4620361328125
+        ],
+        [
+          521.085205078125,
+          329.9839172363281
+        ],
+        [
+          317.42767310142517,
+          329.9839172363281
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          317.4285967350006,
+          644.4277496337891
+        ],
+        [
+          381.6093361377716,
+          644.1597236394882
+        ],
+        [
+          381.6093361377716,
+          656.3828582763672
+        ],
+        [
+          317.4285967350006,
+          656.41923558712
+        ]
+      ]
+    },
+    {
+      "title": "MATERIALS AND METHODS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          39.674706876277924,
+          667.0207056999207
+        ],
+        [
+          206.23164010047913,
+          665.4855494499207
+        ],
+        [
+          205.06757760047913,
+          679.0600357055664
+        ],
+        [
+          38.510644376277924,
+          679.0600357055664
+        ]
+      ]
+    },
+    {
+      "title": "Modified components",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          297.36656498908997,
+          544.5722198486328
+        ],
+        [
+          398.9790470600128,
+          543.6694393157959
+        ],
+        [
+          398.9790470600128,
+          556.1323394775391
+        ],
+        [
+          297.36656498908997,
+          556.611170053482
+        ]
+      ]
+    },
+    {
+      "title": "Syringes",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          297.6376953125,
+          572.3882904052734
+        ],
+        [
+          337.87827038764954,
+          571.6294001340866
+        ],
+        [
+          336.71420788764954,
+          582.8489837646484
+        ],
+        [
+          297.6376953125,
+          583.9492539167404
+        ]
+      ]
+    },
+    {
+      "title": "PTFE tubing",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          59.52760314941406,
+          344.18240135908127
+        ],
+        [
+          114.872085750103,
+          344.18240135908127
+        ],
+        [
+          113.708023250103,
+          356.636962890625
+        ],
+        [
+          58.73118585348129,
+          356.636962890625
+        ]
+      ]
+    },
+    {
+      "title": "Aquarium bubbler stone and regulation valves",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          59.5275993347168,
+          518.3170140981674
+        ],
+        [
+          281.4737796783447,
+          518.3170140981674
+        ],
+        [
+          280.3097171783447,
+          530.6206359863281
+        ],
+        [
+          58.86090308427811,
+          530.6206359863281
+        ]
+      ]
+    },
+    {
+      "title": "Measurements of flow rates and distances",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          59.5275993347168,
+          621.1076354980469
+        ],
+        [
+          257.9481930732727,
+          619.6657172441483
+        ],
+        [
+          256.7841305732727,
+          632.6677551269531
+        ],
+        [
+          58.68817472457886,
+          633.2842322587967
+        ]
+      ]
+    },
+    {
+      "title": "Operation of chemostat",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          317.4801940917969,
+          376.7141697406769
+        ],
+        [
+          430.14350962638855,
+          375.1790134906769
+        ],
+        [
+          428.97944712638855,
+          388.8883361816406
+        ],
+        [
+          317.3663580417633,
+          389.2759999036789
+        ]
+      ]
+    },
+    {
+      "title": "Chemostat set up",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          317.4801940917969,
+          404.16361427307135
+        ],
+        [
+          391.95900559425354,
+          402.62845802307135
+        ],
+        [
+          390.79494309425354,
+          415.6050109863281
+        ],
+        [
+          316.3965427875519,
+          416.1696717739106
+        ]
+      ]
+    },
+    {
+      "title": "Chemostat inoculation",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          39.687034606933594,
+          255.79400467872622
+        ],
+        [
+          134.36092293262482,
+          254.25884842872622
+        ],
+        [
+          133.73081970214844,
+          266.38519287109375
+        ],
+        [
+          38.93467655777931,
+          266.38519287109375
+        ]
+      ]
+    },
+    {
+      "title": "SUPPLEMENTARY MATERIALS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          58.95784464478493,
+          180.35638064146042
+        ],
+        [
+          196.00932550430298,
+          180.35638064146042
+        ],
+        [
+          196.00932550430298,
+          189.5211181640625
+        ],
+        [
+          58.95784464478493,
+          189.5211181640625
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGEMENTS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          58.85936665534973,
+          235.65063053369525
+        ],
+        [
+          164.6036834716797,
+          235.65063053369525
+        ],
+        [
+          164.6036834716797,
+          245.30694580078125
+        ],
+        [
+          58.85936665534973,
+          245.30694580078125
+        ]
+      ]
+    },
+    {
+      "title": "COMPLIANCE WITH ETHICS GUIDELINES",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          59.13776224851608,
+          348.9480008482933
+        ],
+        [
+          245.61839532852173,
+          348.9480008482933
+        ],
+        [
+          244.4898681640625,
+          358.6360168457031
+        ],
+        [
+          57.97369974851608,
+          358.6360168457031
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          317.4801940917969,
+          80.33349609375
+        ],
+        [
+          399.9653811454773,
+          80.33349609375
+        ],
+        [
+          398.8013186454773,
+          92.28857421875
+        ],
+        [
+          317.4801940917969,
+          92.28857421875
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary Figure S1. Pump backlash",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          71.75054061412811,
+          455.1855297088623
+        ],
+        [
+          285.8189392089844,
+          455.1855297088623
+        ],
+        [
+          285.8189392089844,
+          469.6299743652344
+        ],
+        [
+          71.75054061412811,
+          469.6299743652344
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary Figure S3. Silicone gasket assembly.",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          71.24047726392746,
+          73.28058314323425
+        ],
+        [
+          337.5389709472656,
+          73.28058314323425
+        ],
+        [
+          337.5389709472656,
+          87.60003662109375
+        ],
+        [
+          71.24047726392746,
+          87.60003662109375
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary Figure S4. Aquarium stone reduces bubble size and potentially increases \nthe humidity of air in the bubble",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          71.43102943897247,
+          411.7202682495117
+        ],
+        [
+          525.2393798828125,
+          411.7202682495117
+        ],
+        [
+          525.2393798828125,
+          443.22998046875
+        ],
+        [
+          71.43102943897247,
+          443.22998046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          158
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          500
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          235
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          203
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          176
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          286
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          309
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          410
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          40
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/skeldingDevelopingLowcostMilliliterscale2018"
+}

@@ -1,0 +1,1320 @@
+{
+  "table_of_contents": [
+    {
+      "title": "A Brief History of Thermodynamics, As Illustrated by Books and\nPeople",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.23412823677063,
+          117.41209942102432
+        ],
+        [
+          544.1509101390839,
+          117.41209942102432
+        ],
+        [
+          542.9282538890839,
+          155.5297930240631
+        ],
+        [
+          58.01147198677063,
+          155.5297930240631
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 BOYLE'S LAW",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.491302490234375,
+          492.2085266113281
+        ],
+        [
+          140.33346989750862,
+          492.2085266113281
+        ],
+        [
+          140.33346989750862,
+          524.2085266113281
+        ],
+        [
+          60.491302490234375,
+          524.2085266113281
+        ]
+      ]
+    },
+    {
+      "title": "Journal of Chemical & Engineering Data Article",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.289098888635635,
+          47.89773939549923
+        ],
+        [
+          557.4867553710938,
+          47.89773939549923
+        ],
+        [
+          557.4867553710938,
+          58.584228515625
+        ],
+        [
+          59.289098888635635,
+          58.584228515625
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 OBSERVATION OF CRITICAL PHENOMENA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.47725972533226,
+          369.69451904296875
+        ],
+        [
+          267.0658777952194,
+          369.69451904296875
+        ],
+        [
+          266.0884704589844,
+          401.69451904296875
+        ],
+        [
+          59.25460347533226,
+          401.69451904296875
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 THE FIRST BOOK ON THERMODYNAMICS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          324.4539794921875,
+          481.66351318359375
+        ],
+        [
+          528.5259617567062,
+          481.66351318359375
+        ],
+        [
+          527.3033055067062,
+          513.6635131835938
+        ],
+        [
+          324.1531935930252,
+          513.6635131835938
+        ]
+      ]
+    },
+    {
+      "title": "Journal of Chemical & Engineering Data Article",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.807649463415146,
+          48.50040289387107
+        ],
+        [
+          557.4867553710938,
+          48.50040289387107
+        ],
+        [
+          557.4867553710938,
+          58.584228515625
+        ],
+        [
+          59.807649463415146,
+          58.584228515625
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 THE INTRODUCTION OF MATHEMATICAL\nTHERMODYNAMICS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          60.491302490234375,
+          688.1955261230469
+        ],
+        [
+          263.5965235233307,
+          688.1955261230469
+        ],
+        [
+          263.5965235233307,
+          727.7321166992188
+        ],
+        [
+          60.491302490234375,
+          727.7321166992188
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 THE FIRST LAW OF THERMODYNAMICS AND THE\nMECHANICAL EQUIVALENT OF HEAT",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          60.039630651474,
+          268.9515380859375
+        ],
+        [
+          300.95197784900665,
+          268.9515380859375
+        ],
+        [
+          299.72932159900665,
+          308.43109130859375
+        ],
+        [
+          58.816974401474,
+          308.82268112897873
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 THE SECOND LAW OF THERMODYNAMICS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          60.09670013189316,
+          655.7105102539062
+        ],
+        [
+          269.5429245829582,
+          655.7105102539062
+        ],
+        [
+          269.5429245829582,
+          687.7105102539062
+        ],
+        [
+          60.09670013189316,
+          687.7105102539062
+        ]
+      ]
+    },
+    {
+      "title": "Journal of Chemical & Engineering Data Article",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.62285926938057,
+          48.560651242733
+        ],
+        [
+          557.4867553710938,
+          48.560651242733
+        ],
+        [
+          557.4867553710938,
+          58.584228515625
+        ],
+        [
+          59.62285926938057,
+          58.584228515625
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 RENEWED INTEREST IN CRITICAL PHENOMENA",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          324.4539794921875,
+          170.1925048828125
+        ],
+        [
+          554.826279759407,
+          170.1925048828125
+        ],
+        [
+          554.826279759407,
+          202.1925048828125
+        ],
+        [
+          324.4539794921875,
+          202.1925048828125
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 MAXWELL'S CONTRIBUTIONS TO\nTHERMODYNAMICS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          60.491302490234375,
+          414.59552001953125
+        ],
+        [
+          229.03611183166504,
+          414.59552001953125
+        ],
+        [
+          227.81345558166504,
+          454.0751037597656
+        ],
+        [
+          60.491302490234375,
+          454.0751037597656
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 \"THE GREATEST SYNTHETIC MATHEMATICIAN\nSINCE NEWTON\"",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          324.4539794921875,
+          677.1975250244141
+        ],
+        [
+          550.415605545044,
+          677.1975250244141
+        ],
+        [
+          550.415605545044,
+          716.7331161499023
+        ],
+        [
+          324.4539794921875,
+          716.7331161499023
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 THE CONTINUITY OF THE LIQUID AND GASEOUS\nSTATES AND THE EQUATION OF STATE FOR A\nNONIDEAL GAS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.71961060166359,
+          51.19451904296875
+        ],
+        [
+          298.87299954891205,
+          51.19451904296875
+        ],
+        [
+          298.87299954891205,
+          102.2392578125
+        ],
+        [
+          59.71961060166359,
+          102.49007199704647
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 THERMODYNAMIC PROPERTIES OF SOLUTIONS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          324.4539794921875,
+          375.70452880859375
+        ],
+        [
+          557.2040566205978,
+          375.70452880859375
+        ],
+        [
+          555.9814003705978,
+          407.70452880859375
+        ],
+        [
+          324.4539794921875,
+          407.70452880859375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          531.2969751358032,
+          49.41792480647564
+        ],
+        [
+          561.1685478687286,
+          47.81831543147564
+        ],
+        [
+          561.1685478687286,
+          56.09773890674114
+        ],
+        [
+          531.2969751358032,
+          57.69734828174114
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 STUDIES OF THE THERMODYNAMIC PROPERTIES\nOF SUBSTANCES AT HIGH PRESSURES",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          59.64921122789383,
+          51.19451904296875
+        ],
+        [
+          300.03257900476456,
+          51.19451904296875
+        ],
+        [
+          300.03257900476456,
+          90.7301025390625
+        ],
+        [
+          59.64921122789383,
+          90.7301025390625
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 THE THIRD LAW OF THERMODYNAMICS",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          324.4539794921875,
+          384.435546875
+        ],
+        [
+          523.8075339794159,
+          384.435546875
+        ],
+        [
+          522.5848777294159,
+          416.435546875
+        ],
+        [
+          324.4539794921875,
+          416.435546875
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 CONCLUSIONS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          60.491302490234375,
+          546.7465209960938
+        ],
+        [
+          144.5166590809822,
+          546.7465209960938
+        ],
+        [
+          144.1581573486328,
+          578.7465209960938
+        ],
+        [
+          60.30327616631985,
+          578.7465209960938
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 AUTHOR INFORMATION",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          60.491302490234375,
+          659.6795196533203
+        ],
+        [
+          186.50461047887802,
+          659.6795196533203
+        ],
+        [
+          186.1123504638672,
+          691.6795272827148
+        ],
+        [
+          59.536168321967125,
+          691.6795272827148
+        ]
+      ]
+    },
+    {
+      "title": "Corresponding Author",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          60.19661369919777,
+          691.8114929199219
+        ],
+        [
+          162.06945145130157,
+          690.4708399772644
+        ],
+        [
+          162.06945145130157,
+          701.3114929199219
+        ],
+        [
+          60.19661369919777,
+          701.3114929199219
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          324.4539794921875,
+          51.19451904296875
+        ],
+        [
+          440.4859313964844,
+          51.19451904296875
+        ],
+        [
+          440.4859313964844,
+          83.19451904296875
+        ],
+        [
+          324.4539794921875,
+          83.19451904296875
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 REFERENCES",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          324.4539794921875,
+          142.29949951171875
+        ],
+        [
+          401.69593501091003,
+          142.29949951171875
+        ],
+        [
+          400.47327876091003,
+          174.29949951171875
+        ],
+        [
+          324.4539794921875,
+          174.29949951171875
+        ]
+      ]
+    },
+    {
+      "title": "Journal of Chemical & Engineering Data Article",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          59.56128430366516,
+          48.396872878074646
+        ],
+        [
+          557.4867553710938,
+          48.396872878074646
+        ],
+        [
+          557.4867553710938,
+          58.584228515625
+        ],
+        [
+          59.56128430366516,
+          58.584228515625
+        ]
+      ]
+    },
+    {
+      "title": "Journal of Chemical & Engineering Data Article",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          59.411922335624695,
+          48.289385698735714
+        ],
+        [
+          557.4867553710938,
+          48.289385698735714
+        ],
+        [
+          557.4867553710938,
+          58.584228515625
+        ],
+        [
+          59.411922335624695,
+          58.584228515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          241
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          256
+        ],
+        [
+          "TableCell",
+          125
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          277
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          266
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          267
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          276
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          270
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Handwriting",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          369
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          216
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Handwriting",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          486
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          25
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          714
+        ],
+        [
+          "Line",
+          143
+        ],
+        [
+          "Text",
+          37
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          675
+        ],
+        [
+          "Line",
+          128
+        ],
+        [
+          "Text",
+          34
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/girolamiBriefHistoryThermodynamics2020"
+}

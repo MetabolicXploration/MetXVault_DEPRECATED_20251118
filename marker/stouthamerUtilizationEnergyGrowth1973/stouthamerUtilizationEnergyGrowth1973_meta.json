@@ -1,0 +1,1294 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BBA 86003",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.09747239947319,
+          81.31085461378098
+        ],
+        [
+          95.28799438476562,
+          81.31085461378098
+        ],
+        [
+          95.28799438476562,
+          91.0810546875
+        ],
+        [
+          52.09747239947319,
+          91.0810546875
+        ]
+      ]
+    },
+    {
+      "title": "UTILIZATION OF ENERGY FOR GROWTH AND MAINTENANCE IN \nCONTINUOUS AND BATCH CULTURES OF MICROORGANISMS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.09489560127258,
+          106.36259776353836
+        ],
+        [
+          414.10336804389954,
+          106.36259776353836
+        ],
+        [
+          414.10336804389954,
+          130.20111083984375
+        ],
+        [
+          52.09489560127258,
+          130.20111083984375
+        ]
+      ]
+    },
+    {
+      "title": "A REEVALUATION OF THE METHOD FOR THE DETERMINATION OF ATP PRO-\nDUCTION BY MEASURING MOLAR GROWTH YIELDS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.84146976470947,
+          140.904662668705
+        ],
+        [
+          413.66829013824463,
+          140.904662668705
+        ],
+        [
+          413.66829013824463,
+          161.05592304468155
+        ],
+        [
+          51.84146976470947,
+          161.05592304468155
+        ]
+      ]
+    },
+    {
+      "title": "A. H. STOUTHAMER and CORRY BETTENHAUSSEN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.100279331207275,
+          173.56991028785706
+        ],
+        [
+          268.0638356208801,
+          173.56991028785706
+        ],
+        [
+          268.0638356208801,
+          183.38612365722656
+        ],
+        [
+          52.100279331207275,
+          183.38612365722656
+        ]
+      ]
+    },
+    {
+      "title": "CONTENTS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.635995388031006,
+          260.3020076751709
+        ],
+        [
+          100.73278105258942,
+          260.3020076751709
+        ],
+        [
+          100.73278105258942,
+          269.8810729980469
+        ],
+        [
+          51.635995388031006,
+          269.8810729980469
+        ]
+      ]
+    },
+    {
+      "title": "LIST OF SYMBOLS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.3116360604763,
+          73.31768345832825
+        ],
+        [
+          132.67320251464844,
+          73.31768345832825
+        ],
+        [
+          132.67320251464844,
+          82.97589111328125
+        ],
+        [
+          52.3116360604763,
+          82.97589111328125
+        ]
+      ]
+    },
+    {
+      "title": "I. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          51.98392242193222,
+          500.91092348098755
+        ],
+        [
+          134.55360412597656,
+          499.57498598098755
+        ],
+        [
+          134.55360412597656,
+          509.4559020996094
+        ],
+        [
+          51.06985992193222,
+          510.0258593559265
+        ]
+      ]
+    },
+    {
+      "title": "IA. YATP as a possible biological constant",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.16273617744446,
+          524.7455291748047
+        ],
+        [
+          228.1337432861328,
+          523.4125907421112
+        ],
+        [
+          228.1337432861328,
+          533.5439300537109
+        ],
+        [
+          51.24867367744446,
+          534.0058314800262
+        ]
+      ]
+    },
+    {
+      "title": "lB. Use of YA~P tO predict ATP production",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.729108691215515,
+          357.0815634727478
+        ],
+        [
+          236.5786590576172,
+          355.7456259727478
+        ],
+        [
+          236.5786590576172,
+          367.1521911621094
+        ],
+        [
+          53.729108691215515,
+          367.2306604385376
+        ]
+      ]
+    },
+    {
+      "title": "IC. Occurrence and possible influence of maintenance energy on calculations of ATP \nproduction using YATP",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          51.84000015258789,
+          190.50061869621277
+        ],
+        [
+          414.9264831542969,
+          190.50061869621277
+        ],
+        [
+          414.9264831542969,
+          213.31219482421875
+        ],
+        [
+          51.84000015258789,
+          213.31219482421875
+        ]
+      ]
+    },
+    {
+      "title": "II. CALCULATIONS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          52.31999969482422,
+          147.3370521068573
+        ],
+        [
+          137.07080078125,
+          147.3370521068573
+        ],
+        [
+          137.07080078125,
+          157.41437423229218
+        ],
+        [
+          51.416312009096146,
+          157.41437423229218
+        ]
+      ]
+    },
+    {
+      "title": "TABLE I",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          51.50949865579605,
+          405.94549560546875
+        ],
+        [
+          89.50987243652344,
+          404.77226543426514
+        ],
+        [
+          89.50987243652344,
+          414.743896484375
+        ],
+        [
+          51.50949865579605,
+          415.32204580307007
+        ]
+      ]
+    },
+    {
+      "title": "GROWTH PARAMETERS, CALCULATED FROM THE RESULTS OF FIGS. 1 AND 2, OF \nA. AEROGENES GROWING ANAEROBICALLY AT VARIOUS SPECIFIC GROWTH RATES \nIN THE PRESENCE OR ABSENCE OF NITRATE AS HYDROGEN ACCEPTOR",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          51.4855717420578,
+          423.9455261230469
+        ],
+        [
+          414.8355407714844,
+          423.1314582824707
+        ],
+        [
+          414.8355407714844,
+          451.9439239501953
+        ],
+        [
+          51.4855717420578,
+          452.722017288208
+        ]
+      ]
+    },
+    {
+      "title": "IV. DISCUSSION",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          52.08000183105469,
+          451.55050349235535
+        ],
+        [
+          123.22234344482422,
+          451.55050349235535
+        ],
+        [
+          123.22234344482422,
+          461.11376953125
+        ],
+        [
+          52.08000183105469,
+          461.11376953125
+        ]
+      ]
+    },
+    {
+      "title": "IVA. Influence of growth rate on the rates of substrate consumption and product for-\nmarion",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          52.08000183105469,
+          473.1190366744995
+        ],
+        [
+          411.53348779678345,
+          473.1190366744995
+        ],
+        [
+          411.53348779678345,
+          495.6335144042969
+        ],
+        [
+          52.08000183105469,
+          495.6335144042969
+        ]
+      ]
+    },
+    {
+      "title": "IVB. Value of v --ATP ~Ax and m e",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          52.24499148130417,
+          202.15666115283966
+        ],
+        [
+          172.21775817871094,
+          202.15666115283966
+        ],
+        [
+          172.21775817871094,
+          213.62393188476562
+        ],
+        [
+          52.24499148130417,
+          213.62393188476562
+        ]
+      ]
+    },
+    {
+      "title": "V. INFLUENCE OF MAINTENANCE ENERGY ON MOLAR GROWTH YIELDS IN \nBATCH CULTURE",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          52.08000183105469,
+          137.77732014656067
+        ],
+        [
+          414.761962890625,
+          137.77732014656067
+        ],
+        [
+          414.761962890625,
+          158.05417120456696
+        ],
+        [
+          51.44834589958191,
+          158.05417120456696
+        ]
+      ]
+    },
+    {
+      "title": "VA. Derivation of curves relating YATP, /Z and me",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          52.306395292282104,
+          273.8006719350815
+        ],
+        [
+          262.89013671875,
+          273.8006719350815
+        ],
+        [
+          262.89013671875,
+          284.4737854003906
+        ],
+        [
+          52.306395292282104,
+          284.4737854003906
+        ]
+      ]
+    },
+    {
+      "title": "VB. Quantitative data on the relation between growth rate and YarP",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          52.2042578458786,
+          548.7804000377655
+        ],
+        [
+          340.3439025878906,
+          548.7804000377655
+        ],
+        [
+          340.3439025878906,
+          558.9791543483734
+        ],
+        [
+          52.2042578458786,
+          558.9791543483734
+        ]
+      ]
+    },
+    {
+      "title": "VC. Influence of the composition of the growth medium",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          52.21326792240143,
+          350.8597183227539
+        ],
+        [
+          286.3818359375,
+          350.8597183227539
+        ],
+        [
+          286.3818359375,
+          361.1019287109375
+        ],
+        [
+          52.21326792240143,
+          361.1019287109375
+        ]
+      ]
+    },
+    {
+      "title": "VD. Growth in the presence of growth-inhibitory compounds",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          51.670613050460815,
+          280.5832414627075
+        ],
+        [
+          305.2683410644531,
+          280.5832414627075
+        ],
+        [
+          305.2683410644531,
+          290.4737854003906
+        ],
+        [
+          51.670613050460815,
+          290.4737854003906
+        ]
+      ]
+    },
+    {
+      "title": "VE. Growth with citric acid cycle intermediates and simple compounds",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          52.01575756072998,
+          459.6425714492798
+        ],
+        [
+          347.9883117675781,
+          459.6425714492798
+        ],
+        [
+          347.9883117675781,
+          469.51377868652344
+        ],
+        [
+          52.01575756072998,
+          469.51377868652344
+        ]
+      ]
+    },
+    {
+      "title": "VF. Conclusions",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          52.208327025175095,
+          204.03685212135315
+        ],
+        [
+          123.32038116455078,
+          204.03685212135315
+        ],
+        [
+          123.32038116455078,
+          214.39376831054688
+        ],
+        [
+          51.294264525175095,
+          214.39376831054688
+        ]
+      ]
+    },
+    {
+      "title": "vI. INFLUENCE OF TRANSITIONS IN GROWTH RATE OR GROWTH CONDITIONS",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          52.34655010700226,
+          369.72111082077026
+        ],
+        [
+          400.4966125488281,
+          369.72111082077026
+        ],
+        [
+          400.4966125488281,
+          379.0337829589844
+        ],
+        [
+          52.34655010700226,
+          379.0337829589844
+        ]
+      ]
+    },
+    {
+      "title": "VII. CONSEQUENCES OF THE UTILIZATION OF YATP FOR THE PREDICTION OF ATP \nPRODUCTION IN BATCH CULTURES",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          52.560001373291016,
+          138.62450176477432
+        ],
+        [
+          414.267578125,
+          138.62450176477432
+        ],
+        [
+          414.267578125,
+          157.52368766069412
+        ],
+        [
+          51.88526487350464,
+          157.52368766069412
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          51.718425035476685,
+          545.6959075927734
+        ],
+        [
+          112.18358612060547,
+          545.1905164718628
+        ],
+        [
+          112.18358612060547,
+          554.0959014892578
+        ],
+        [
+          51.718425035476685,
+          555.1647934913635
+        ]
+      ]
+    },
+    {
+      "title": "ATP PRODUCTION AND GROWTH OF MICROORGANISMS 69",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          52.08000183105469,
+          50.2655029296875
+        ],
+        [
+          413.5,
+          50.2655029296875
+        ],
+        [
+          413.5,
+          59.06390380859375
+        ],
+        [
+          52.08000183105469,
+          59.06390380859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "TableCell",
+          46
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "TableCell",
+          57
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "TableCell",
+          26
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          202
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          27
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/stouthamerUtilizationEnergyGrowth1973"
+}

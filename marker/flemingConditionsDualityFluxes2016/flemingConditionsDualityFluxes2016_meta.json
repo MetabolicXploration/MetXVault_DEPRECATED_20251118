@@ -1,0 +1,943 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Journal of Theoretical Biology",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          200.51040506362915,
+          83.74494424462318
+        ],
+        [
+          403.2930197715759,
+          83.74494424462318
+        ],
+        [
+          403.2930197715759,
+          101.892392963171
+        ],
+        [
+          200.51040506362915,
+          101.892392963171
+        ]
+      ]
+    },
+    {
+      "title": "Conditions for duality between fluxes and concentrations in\nbiochemical networks",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.8744980096817,
+          162.17352294921875
+        ],
+        [
+          434.440146446228,
+          162.17352294921875
+        ],
+        [
+          434.440146446228,
+          196.5649427473545
+        ],
+        [
+          40.8744980096817,
+          196.5649427473545
+        ]
+      ]
+    },
+    {
+      "title": "HIGHLIGHTS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.09395632147789,
+          277.65569800138474
+        ],
+        [
+          128.10511720180511,
+          277.65569800138474
+        ],
+        [
+          128.10511720180511,
+          287.2017485499382
+        ],
+        [
+          42.09395632147789,
+          287.2017485499382
+        ]
+      ]
+    },
+    {
+      "title": "article info",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.229619443416595,
+          351.22723388671875
+        ],
+        [
+          131.66946411132812,
+          351.22723388671875
+        ],
+        [
+          131.66946411132812,
+          361.20051205158234
+        ],
+        [
+          41.065556943416595,
+          361.20051205158234
+        ]
+      ]
+    },
+    {
+      "title": "abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          206.92910766601562,
+          351.1407368183136
+        ],
+        [
+          270.6522755622864,
+          351.1407368183136
+        ],
+        [
+          270.0953063964844,
+          360.5520324707031
+        ],
+        [
+          205.76680374145508,
+          360.5520324707031
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.47208893299103,
+          537.7845153808594
+        ],
+        [
+          106.53048449754715,
+          536.6632609367371
+        ],
+        [
+          106.12049102783203,
+          546.0733184814453
+        ],
+        [
+          40.30802643299103,
+          547.229945898056
+        ]
+      ]
+    },
+    {
+      "title": "2. Theoretical results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          299.86073088645935,
+          226.00876188278195
+        ],
+        [
+          388.85694670677185,
+          226.00876188278195
+        ],
+        [
+          388.85694670677185,
+          234.65277099609375
+        ],
+        [
+          299.86073088645935,
+          234.65277099609375
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Stoichiometry and reaction kinetics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          301.719970703125,
+          246.72561490535733
+        ],
+        [
+          449.18986415863037,
+          246.72561490535733
+        ],
+        [
+          449.18986415863037,
+          255.5721435546875
+        ],
+        [
+          301.719970703125,
+          255.5721435546875
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Linear algebraic characterisation of flux-concentration duality",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          309.4320259094238,
+          58.837490364909165
+        ],
+        [
+          558.8151516914368,
+          57.286709114909165
+        ],
+        [
+          558.8151516914368,
+          67.18505859375
+        ],
+        [
+          309.4320259094238,
+          67.23758701980114
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Combinatorial characterisation of flux-concentration duality",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          31.48766326904297,
+          91.55116948485374
+        ],
+        [
+          271.9548830986023,
+          91.55116948485374
+        ],
+        [
+          271.9548830986023,
+          100.18359375
+        ],
+        [
+          31.48766326904297,
+          100.18359375
+        ]
+      ]
+    },
+    {
+      "title": "2.3.1. Testing for combinatorial independence",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          301.719482421875,
+          390.8374328613281
+        ],
+        [
+          471.3450982570648,
+          389.4452182650566
+        ],
+        [
+          470.3526611328125,
+          399.126220703125
+        ],
+        [
+          301.2760217189789,
+          399.91793727874756
+        ]
+      ]
+    },
+    {
+      "title": "polynomial time (Cormen et al., 2009). \u25a1",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          42.23717725276947,
+          58.8072509765625
+        ],
+        [
+          208.27249145507812,
+          58.8072509765625
+        ],
+        [
+          208.27249145507812,
+          67.50083246827126
+        ],
+        [
+          42.23717725276947,
+          67.50083246827126
+        ]
+      ]
+    },
+    {
+      "title": "2.4. Flux-concentration duality in existing genome-scale biochemical\nnetworks",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          42.231706500053406,
+          243.47705757617948
+        ],
+        [
+          293.5931396484375,
+          243.47705757617948
+        ],
+        [
+          293.5931396484375,
+          263.17462158203125
+        ],
+        [
+          42.231706500053406,
+          263.17462158203125
+        ]
+      ]
+    },
+    {
+      "title": "2.4.1. Stoichiometric consistency",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          42.51951599121094,
+          633.3709981441498
+        ],
+        [
+          164.6469922065735,
+          633.3709981441498
+        ],
+        [
+          164.6469922065735,
+          641.8830261230469
+        ],
+        [
+          42.51951599121094,
+          641.8830261230469
+        ]
+      ]
+    },
+    {
+      "title": "2.4.2. Net flux consistency",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          32.03730073571205,
+          389.13589495420456
+        ],
+        [
+          130.8812713623047,
+          389.13589495420456
+        ],
+        [
+          130.8812713623047,
+          398.10443115234375
+        ],
+        [
+          32.03730073571205,
+          398.10443115234375
+        ]
+      ]
+    },
+    {
+      "title": "2.4.3. Unique and non-trivial molecular species",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          301.7197570800781,
+          340.62376791238785
+        ],
+        [
+          477.8543395996094,
+          340.62376791238785
+        ],
+        [
+          477.8543395996094,
+          349.17828369140625
+        ],
+        [
+          301.7197570800781,
+          349.17828369140625
+        ]
+      ]
+    },
+    {
+      "title": "3. Pervasive flux-concentration duality in genome-scale\nmodels",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          301.20330333709717,
+          464.8840026855469
+        ],
+        [
+          528.1550641059875,
+          464.8840026855469
+        ],
+        [
+          528.1550641059875,
+          485.3531188964844
+        ],
+        [
+          301.20330333709717,
+          485.3531188964844
+        ]
+      ]
+    },
+    {
+      "title": "4. Discussion",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          31.933838233351707,
+          102.0517872273922
+        ],
+        [
+          89.18617349863052,
+          102.0517872273922
+        ],
+        [
+          89.18617349863052,
+          110.7855224609375
+        ],
+        [
+          31.933838233351707,
+          110.7855224609375
+        ]
+      ]
+    },
+    {
+      "title": "5. Conclusions",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          42.45296558737755,
+          634.2739715576172
+        ],
+        [
+          104.31666803359985,
+          633.9276002645493
+        ],
+        [
+          104.31666803359985,
+          642.5627593994141
+        ],
+        [
+          42.45296558737755,
+          643.6387242078781
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          311.5279541015625,
+          258.7938232421875
+        ],
+        [
+          385.2152371406555,
+          258.10202556848526
+        ],
+        [
+          385.0057067871094,
+          267.0826416015625
+        ],
+        [
+          311.42195892333984,
+          267.92905110120773
+        ]
+      ]
+    },
+    {
+      "title": "Appendix A. Supplementary data",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          311.5279541015625,
+          397.2361755371094
+        ],
+        [
+          447.63617038726807,
+          396.35556066036224
+        ],
+        [
+          446.47210788726807,
+          405.52496337890625
+        ],
+        [
+          310.77996253967285,
+          405.85437977313995
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          311.5279541015625,
+          460.9587097167969
+        ],
+        [
+          356.7079973220825,
+          459.5467257499694
+        ],
+        [
+          356.7079973220825,
+          469.24749755859375
+        ],
+        [
+          311.5279541015625,
+          469.35638260841364
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          249
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          507
+        ],
+        [
+          "Line",
+          133
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          998
+        ],
+        [
+          "Line",
+          266
+        ],
+        [
+          "TextInlineMath",
+          10
+        ],
+        [
+          "Equation",
+          9
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          641
+        ],
+        [
+          "Line",
+          143
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          701
+        ],
+        [
+          "Line",
+          224
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          849
+        ],
+        [
+          "Line",
+          231
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          300
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          630
+        ],
+        [
+          "Line",
+          145
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          404
+        ],
+        [
+          "Line",
+          131
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/flemingConditionsDualityFluxes2016"
+}

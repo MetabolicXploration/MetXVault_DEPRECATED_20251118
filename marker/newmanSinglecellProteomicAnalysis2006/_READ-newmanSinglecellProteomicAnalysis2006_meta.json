@@ -1,0 +1,507 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ARTICLES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.01570129394531,
+          57.59741359949112
+        ],
+        [
+          170.2212109565735,
+          57.59741359949112
+        ],
+        [
+          170.2212109565735,
+          92.47295862436295
+        ],
+        [
+          34.01570129394531,
+          92.47295862436295
+        ]
+      ]
+    },
+    {
+      "title": "Single-cell proteomic analysis of\nS. cerevisiae reveals the architecture of\nbiological noise",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46001350879669,
+          120.59927129745483
+        ],
+        [
+          519.5946249961853,
+          120.59927129745483
+        ],
+        [
+          519.5946249961853,
+          218.2393355369568
+        ],
+        [
+          33.46001350879669,
+          218.2393355369568
+        ]
+      ]
+    },
+    {
+      "title": "Measuring protein abundance by flow cytometry",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          300.472412109375,
+          602.4395513534546
+        ],
+        [
+          491.855712890625,
+          602.4395513534546
+        ],
+        [
+          491.855712890625,
+          612.9251432418823
+        ],
+        [
+          300.472412109375,
+          612.9251432418823
+        ]
+      ]
+    },
+    {
+      "title": "Protein and mRNA levels in rich and minimal media",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          298.81010484695435,
+          113.7340087890625
+        ],
+        [
+          503.1229248046875,
+          113.7340087890625
+        ],
+        [
+          503.1229248046875,
+          122.85240840911865
+        ],
+        [
+          298.81010484695435,
+          122.85240840911865
+        ]
+      ]
+    },
+    {
+      "title": "Defining global trends in cellular noise",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.51969909667969,
+          124.2222900390625
+        ],
+        [
+          194.84921550750732,
+          123.080193400383
+        ],
+        [
+          194.84921550750732,
+          133.28826904296875
+        ],
+        [
+          42.51969909667969,
+          134.09261405467987
+        ]
+      ]
+    },
+    {
+      "title": "Biological structure in protein variation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          307.32944226264954,
+          605.4316253662109
+        ],
+        [
+          463.322265625,
+          604.5016894340515
+        ],
+        [
+          463.322265625,
+          614.4976196289062
+        ],
+        [
+          307.32944226264954,
+          615.535825252533
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.90177124738693,
+          458.9371337890625
+        ],
+        [
+          85.057373046875,
+          458.72373247146606
+        ],
+        [
+          85.057373046875,
+          468.0031433105469
+        ],
+        [
+          41.90177124738693,
+          468.99207830429077
+        ]
+      ]
+    },
+    {
+      "title": "METHODS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          308.42323637008667,
+          592.4489135742188
+        ],
+        [
+          352.66847562789917,
+          592.0115990638733
+        ],
+        [
+          352.66847562789917,
+          601.5149078369141
+        ],
+        [
+          308.42323637008667,
+          602.4481902122498
+        ]
+      ]
+    },
+    {
+      "title": "Received 6 December 2005; accepted 6 April 2006.\nPublished online 14 May 2006.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          32.76417660713196,
+          127.34757721424103
+        ],
+        [
+          200.44658875465393,
+          127.34757721424103
+        ],
+        [
+          200.44658875465393,
+          144.96981060504913
+        ],
+        [
+          32.76417660713196,
+          144.96981060504913
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          295
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          302
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          252
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          188
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          414
+        ],
+        [
+          "Line",
+          143
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          605
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "ListItem",
+          45
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/_READ-newmanSinglecellProteomicAnalysis2006"
+}

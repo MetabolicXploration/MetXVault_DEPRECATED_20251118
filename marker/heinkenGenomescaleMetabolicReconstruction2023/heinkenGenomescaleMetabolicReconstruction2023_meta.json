@@ -1,0 +1,2157 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Article https://doi.org/10.1038/s41587-022-01628-0",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.685001373291016,
+          94.67108154296875
+        ],
+        [
+          561.26025390625,
+          94.54726331681013
+        ],
+        [
+          561.26025390625,
+          105.29733094573021
+        ],
+        [
+          39.685001373291016,
+          106.84225282073021
+        ]
+      ]
+    },
+    {
+      "title": "Genome-scale metabolic reconstruction \nof 7,302 human microorganisms for \npersonalized medicine",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          37.712971329689026,
+          110.70137506723404
+        ],
+        [
+          512.1285400390625,
+          109.15645319223404
+        ],
+        [
+          512.1285400390625,
+          195.9237060546875
+        ],
+        [
+          37.712971329689026,
+          197.37840875983238
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.36822038888931,
+          487.1818818449974
+        ],
+        [
+          78.86887562274933,
+          487.1818818449974
+        ],
+        [
+          78.86887562274933,
+          498.8259384036064
+        ],
+        [
+          39.36822038888931,
+          498.8259384036064
+        ]
+      ]
+    },
+    {
+      "title": "AGORA2 is predictive against three independent datasets",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          306.1417236328125,
+          434.2132867574692
+        ],
+        [
+          542.0220012664795,
+          434.2132867574692
+        ],
+        [
+          540.8858642578125,
+          444.58465576171875
+        ],
+        [
+          305.5169563293457,
+          444.58465576171875
+        ]
+      ]
+    },
+    {
+      "title": "Fig. 2 | Taxonomically related strains are similar in their AGORA2",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          39.04525947570801,
+          681.7661309838295
+        ],
+        [
+          253.46629333496094,
+          680.2212091088295
+        ],
+        [
+          253.46629333496094,
+          689.8031381964684
+        ],
+        [
+          39.04525947570801,
+          691.3480600714684
+        ]
+      ]
+    },
+    {
+      "title": "a Stoichiometric and flux consistency computed for the compared resources c Overview of reconstruction features for the compared resources",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.82339859008789,
+          54.0404052734375
+        ],
+        [
+          499.04678750038147,
+          54.01580087095499
+        ],
+        [
+          499.04678750038147,
+          64.36279296875
+        ],
+        [
+          53.82339859008789,
+          64.36279296875
+        ]
+      ]
+    },
+    {
+      "title": "Fig. 3 | Comparison of AGORA2-refined reconstructions, draft",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          38.422774851322174,
+          630.9189758300781
+        ],
+        [
+          246.47389316558838,
+          629.8402921557426
+        ],
+        [
+          246.47389316558838,
+          638.0330739617348
+        ],
+        [
+          38.422774851322174,
+          639.5779958367348
+        ]
+      ]
+    },
+    {
+      "title": "Microbial drug metabolism guided by genome and bibliome",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          38.934556663036346,
+          239.9908222258091
+        ],
+        [
+          284.9326477050781,
+          239.9908222258091
+        ],
+        [
+          284.9326477050781,
+          251.36298045516014
+        ],
+        [
+          38.934556663036346,
+          251.36298045516014
+        ]
+      ]
+    },
+    {
+      "title": "Taxonomic distribution of drug-metabolizing capabilities",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          39.685001373291016,
+          606.3714635372162
+        ],
+        [
+          280.0695369243622,
+          606.3714635372162
+        ],
+        [
+          278.9054744243622,
+          617.4859619140625
+        ],
+        [
+          38.82817894220352,
+          617.4859619140625
+        ]
+      ]
+    },
+    {
+      "title": "Personalized modeling of drug-metabolizing capacities",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          306.1417236328125,
+          197.84674620628357
+        ],
+        [
+          534.2943499088287,
+          197.84674620628357
+        ],
+        [
+          534.2943499088287,
+          208.57826727628708
+        ],
+        [
+          306.1417236328125,
+          208.57826727628708
+        ]
+      ]
+    },
+    {
+      "title": "Microbiome-level fluxes are sensitive to clinical parameters",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          306.1417236328125,
+          703.6939038038254
+        ],
+        [
+          550.6656839847565,
+          703.6939038038254
+        ],
+        [
+          550.6656839847565,
+          714.5268386602402
+        ],
+        [
+          306.1417236328125,
+          714.5268386602402
+        ]
+      ]
+    },
+    {
+      "title": "a Descriptive statistics for drug community modeling",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          40.50485807657242,
+          57.70804534107447
+        ],
+        [
+          213.1338827610016,
+          56.16312346607447
+        ],
+        [
+          213.1338827610016,
+          67.03289794921875
+        ],
+        [
+          40.50485807657242,
+          67.03289794921875
+        ]
+      ]
+    },
+    {
+      "title": "c Examples of fecal species-metabolite sign predictions through AGORA2-based community modeling",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          40.82490158081055,
+          339.5038146972656
+        ],
+        [
+          368.29193115234375,
+          339.5038146972656
+        ],
+        [
+          368.29193115234375,
+          349.0185162127018
+        ],
+        [
+          40.82490158081055,
+          350.5634380877018
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          196.84899723529816,
+          473.68239146471024
+        ],
+        [
+          278.75732004642487,
+          472.13746958971024
+        ],
+        [
+          278.75732004642487,
+          480.85518914461136
+        ],
+        [
+          196.84899723529816,
+          482.40011101961136
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          458.4585270881653,
+          471.57339960336685
+        ],
+        [
+          532.9357204437256,
+          470.02847772836685
+        ],
+        [
+          531.7716579437256,
+          478.2749131321907
+        ],
+        [
+          457.2944645881653,
+          479.8198350071907
+        ]
+      ]
+    },
+    {
+      "title": "b Dependence of microbial drug metabolites on age\nN-acetyl-5-aminosalicylic acid\n(source: balsazid)\n5-fluorouracil\n(source: 5-fluorocytosine)\nAge in years Age in years\n40 60 80\n400\n300\n200\nSecretion potential\n\n100\n0\n20 20 40 60 80",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          341.42547607421875,
+          53.22601318359375
+        ],
+        [
+          538.5452880859375,
+          53.22601318359375
+        ],
+        [
+          538.5452880859375,
+          152.48248291015625
+        ],
+        [
+          341.42547607421875,
+          152.48248291015625
+        ]
+      ]
+    },
+    {
+      "title": "Community models predict species\u2013metabolite associations",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          38.82762831449509,
+          101.2503268122673
+        ],
+        [
+          289.5544011592865,
+          101.2503268122673
+        ],
+        [
+          289.5544011592865,
+          112.47941663861275
+        ],
+        [
+          38.82762831449509,
+          112.47941663861275
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          39.36694151163101,
+          421.6676328778267
+        ],
+        [
+          96.29743266105652,
+          421.6676328778267
+        ],
+        [
+          96.29743266105652,
+          434.2627868652344
+        ],
+        [
+          39.36694151163101,
+          434.2627868652344
+        ]
+      ]
+    },
+    {
+      "title": "Online content",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          305.9040298461914,
+          680.3480824232101
+        ],
+        [
+          384.2126684188843,
+          680.3480824232101
+        ],
+        [
+          384.2126684188843,
+          692.6379623413086
+        ],
+        [
+          305.9040298461914,
+          692.6379623413086
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          39.3374163210392,
+          23.227098651230335
+        ],
+        [
+          71.68394336104393,
+          21.682176776230335
+        ],
+        [
+          71.68394336104393,
+          34.762415915727615
+        ],
+        [
+          39.3374163210392,
+          36.307337790727615
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          39.43311008810997,
+          45.284880079329014
+        ],
+        [
+          97.218994140625,
+          43.739958204329014
+        ],
+        [
+          97.218994140625,
+          58.0126953125
+        ],
+        [
+          38.26904758810997,
+          58.24869491904974
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          40.01427987217903,
+          22.5511010363698
+        ],
+        [
+          70.12511631846428,
+          21.0061791613698
+        ],
+        [
+          70.12511631846428,
+          33.54855041205883
+        ],
+        [
+          40.01427987217903,
+          35.09347228705883
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          39.45971339941025,
+          44.37212948128581
+        ],
+        [
+          86.32069802284241,
+          44.37212948128581
+        ],
+        [
+          86.32069802284241,
+          58.0126953125
+        ],
+        [
+          39.45971339941025,
+          58.0126953125
+        ]
+      ]
+    },
+    {
+      "title": "Selection of newly reconstructed organisms and retrieval of \nwhole-genome sequences",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          39.685001373291016,
+          56.83484246581793
+        ],
+        [
+          287.69157433509827,
+          56.83484246581793
+        ],
+        [
+          287.69157433509827,
+          79.08837890625
+        ],
+        [
+          39.685001373291016,
+          79.08837890625
+        ]
+      ]
+    },
+    {
+      "title": "Manual refinement of metabolic pathways and gene \nannotations through comparative genomics",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          39.685001373291016,
+          271.65726524591446
+        ],
+        [
+          253.01702880859375,
+          271.65726524591446
+        ],
+        [
+          253.01702880859375,
+          294.4499076604843
+        ],
+        [
+          38.94003629684448,
+          294.4499076604843
+        ]
+      ]
+    },
+    {
+      "title": "Literature and database searches",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          306.1417236328125,
+          638.365556538105
+        ],
+        [
+          442.9990680217743,
+          638.365556538105
+        ],
+        [
+          442.9990680217743,
+          649.3633182644844
+        ],
+        [
+          306.1417236328125,
+          649.3633182644844
+        ]
+      ]
+    },
+    {
+      "title": "Generation of draft reconstructions",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          39.423518508672714,
+          144.18921157717705
+        ],
+        [
+          188.04144060611725,
+          144.18921157717705
+        ],
+        [
+          188.04144060611725,
+          154.48952367901802
+        ],
+        [
+          39.423518508672714,
+          154.48952367901802
+        ]
+      ]
+    },
+    {
+      "title": "Semiautomated, data-driven refinement pipeline",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          38.95572918653488,
+          392.0356418788433
+        ],
+        [
+          242.41185927391052,
+          392.0356418788433
+        ],
+        [
+          242.41185927391052,
+          401.8815249800682
+        ],
+        [
+          38.95572918653488,
+          401.8815249800682
+        ]
+      ]
+    },
+    {
+      "title": "Generation of quality control reports",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          306.1418151855469,
+          316.79835203289986
+        ],
+        [
+          459.2928168773651,
+          316.79835203289986
+        ],
+        [
+          459.2928168773651,
+          326.74406948685646
+        ],
+        [
+          306.1418151855469,
+          326.74406948685646
+        ]
+      ]
+    },
+    {
+      "title": "Formulation of the drug reactions",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          306.1417236328125,
+          391.9474529027939
+        ],
+        [
+          445.35333251953125,
+          391.9474529027939
+        ],
+        [
+          445.35333251953125,
+          401.6921343803406
+        ],
+        [
+          306.1417236328125,
+          401.6921343803406
+        ]
+      ]
+    },
+    {
+      "title": "Atom\u2013atom mapping",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          39.49805751442909,
+          48.09658143296838
+        ],
+        [
+          129.4803365468979,
+          48.09658143296838
+        ],
+        [
+          129.4803365468979,
+          59.21754193305969
+        ],
+        [
+          39.49805751442909,
+          59.21754193305969
+        ]
+      ]
+    },
+    {
+      "title": "Simulations",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          39.62680226564407,
+          240.01512664556503
+        ],
+        [
+          90.08585476875305,
+          240.01512664556503
+        ],
+        [
+          90.08585476875305,
+          251.68087095022202
+        ],
+        [
+          39.62680226564407,
+          251.68087095022202
+        ]
+      ]
+    },
+    {
+      "title": "Retrieval of reconstruction resources",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          39.685001373291016,
+          347.61350387334824
+        ],
+        [
+          194.61103308200836,
+          347.61350387334824
+        ],
+        [
+          193.44697058200836,
+          359.28363287448883
+        ],
+        [
+          38.544365882873535,
+          359.28363287448883
+        ]
+      ]
+    },
+    {
+      "title": "Generation of reconstructions through CarveMe",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          39.518266439437866,
+          520.2192497253418
+        ],
+        [
+          238.67659628391266,
+          518.6743278503418
+        ],
+        [
+          238.64076232910156,
+          530.5846557617188
+        ],
+        [
+          38.354203939437866,
+          531.8770732879639
+        ]
+      ]
+    },
+    {
+      "title": "Generation of reconstructions through gapseq",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          39.425236999988556,
+          628.0826417803764
+        ],
+        [
+          232.43707847595215,
+          626.5377199053764
+        ],
+        [
+          231.59701538085938,
+          638.2869148850441
+        ],
+        [
+          38.261174499988556,
+          639.8318367600441
+        ]
+      ]
+    },
+    {
+      "title": "Flux and stoichiometrically consistent reactions",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          39.46251094341278,
+          693.6521473526955
+        ],
+        [
+          239.5880982875824,
+          690.5623036026955
+        ],
+        [
+          238.4240357875824,
+          702.5846252441406
+        ],
+        [
+          38.29844844341278,
+          704.895169198513
+        ]
+      ]
+    },
+    {
+      "title": "Validation against three independent experimental datasets",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          305.8961434364319,
+          176.50661700963974
+        ],
+        [
+          556.8146324157715,
+          174.96169513463974
+        ],
+        [
+          555.6505699157715,
+          186.5848388671875
+        ],
+        [
+          304.7320809364319,
+          187.8801425099373
+        ]
+      ]
+    },
+    {
+      "title": "Drug yields",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          39.685001373291016,
+          294.8657466173172
+        ],
+        [
+          86.93516302108765,
+          293.3208247423172
+        ],
+        [
+          86.61474609375,
+          304.8346252441406
+        ],
+        [
+          38.814697444438934,
+          305.8123535513878
+        ]
+      ]
+    },
+    {
+      "title": "Shadow price analysis",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          306.1417236328125,
+          47.01682340353727
+        ],
+        [
+          401.3473856449127,
+          45.47190152853727
+        ],
+        [
+          401.3473856449127,
+          57.58465576171875
+        ],
+        [
+          306.1417236328125,
+          58.32559212297201
+        ]
+      ]
+    },
+    {
+      "title": "Statistical analysis",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          306.1418151855469,
+          240.98103284835815
+        ],
+        [
+          384.00289702415466,
+          239.43611097335815
+        ],
+        [
+          382.8661804199219,
+          251.08465576171875
+        ],
+        [
+          305.23251271247864,
+          252.2552661895752
+        ]
+      ]
+    },
+    {
+      "title": "Sign prediction of fecal metabolite\u2013species associations using \nAGORA2-based community models",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          305.4481101036072,
+          628.1387941837311
+        ],
+        [
+          563.1619844436646,
+          626.5938723087311
+        ],
+        [
+          563.1619844436646,
+          648.83837890625
+        ],
+        [
+          305.4481101036072,
+          649.8050410747528
+        ]
+      ]
+    },
+    {
+      "title": "Data visualization",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          39.54331111907959,
+          219.06221801042557
+        ],
+        [
+          114.43974304199219,
+          219.06221801042557
+        ],
+        [
+          114.43974304199219,
+          230.30670142173767
+        ],
+        [
+          39.54331111907959,
+          230.30670142173767
+        ]
+      ]
+    },
+    {
+      "title": "Reporting summary",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          39.685001373291016,
+          380.09983798861504
+        ],
+        [
+          123.33353734016418,
+          380.09983798861504
+        ],
+        [
+          122.98062896728516,
+          391.65855798125267
+        ],
+        [
+          38.56317159533501,
+          391.65855798125267
+        ]
+      ]
+    },
+    {
+      "title": "Data availability",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          39.37893986701965,
+          421.58969843387604
+        ],
+        [
+          124.84806549549103,
+          421.58969843387604
+        ],
+        [
+          124.84806549549103,
+          434.2627868652344
+        ],
+        [
+          39.37893986701965,
+          434.2627868652344
+        ]
+      ]
+    },
+    {
+      "title": "Code availability",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          39.685001373291016,
+          486.59315383434296
+        ],
+        [
+          127.39119285345078,
+          485.04823195934296
+        ],
+        [
+          126.67291259765625,
+          498.7627868652344
+        ],
+        [
+          38.811109483242035,
+          499.2058982849121
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          39.685001373291016,
+          541.3437272906303
+        ],
+        [
+          97.5794005393982,
+          539.7988054156303
+        ],
+        [
+          97.218994140625,
+          552.5128173828125
+        ],
+        [
+          38.99957957863808,
+          553.2882062792778
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          39.381581991910934,
+          422.30020785331726
+        ],
+        [
+          142.228271484375,
+          420.75528597831726
+        ],
+        [
+          142.228271484375,
+          434.2626953125
+        ],
+        [
+          39.381581991910934,
+          435.19913625717163
+        ]
+      ]
+    },
+    {
+      "title": "Author contributions",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          306.1417236328125,
+          152.78184941411018
+        ],
+        [
+          417.76561188697815,
+          151.23692753911018
+        ],
+        [
+          417.57623291015625,
+          165.5126953125
+        ],
+        [
+          305.590740442276,
+          166.19819557666779
+        ]
+      ]
+    },
+    {
+      "title": "Competing interests",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          306.1417236328125,
+          314.57696107029915
+        ],
+        [
+          413.0252046585083,
+          313.03203919529915
+        ],
+        [
+          412.22271728515625,
+          326.9895181953907
+        ],
+        [
+          305.79944610595703,
+          328.5344400703907
+        ]
+      ]
+    },
+    {
+      "title": "Additional information",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          306.1417236328125,
+          346.7060838639736
+        ],
+        [
+          427.4382224082947,
+          345.1611619889736
+        ],
+        [
+          427.00396728515625,
+          359.4769602715969
+        ],
+        [
+          305.77912616729736,
+          361.0218821465969
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          21.918296992778778,
+          36.35167756676674
+        ],
+        [
+          243.42658710479736,
+          34.80480256676674
+        ],
+        [
+          243.42658710479736,
+          74.71841025352478
+        ],
+        [
+          21.918296992778778,
+          76.26528525352478
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          24.06357979774475,
+          111.2993745803833
+        ],
+        [
+          200.43214344978333,
+          109.7524995803833
+        ],
+        [
+          199.23683094978333,
+          134.57031226158142
+        ],
+        [
+          22.86826729774475,
+          136.11718726158142
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          25.092417910695076,
+          200.8748517036438
+        ],
+        [
+          76.7563950419426,
+          199.3279767036438
+        ],
+        [
+          75.5610825419426,
+          214.3267822265625
+        ],
+        [
+          23.897105410695076,
+          215.8736572265625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          24.364541888237,
+          475.7891607284546
+        ],
+        [
+          132.23596858978271,
+          475.7891607284546
+        ],
+        [
+          132.23596858978271,
+          492.84047412872314
+        ],
+        [
+          24.364541888237,
+          492.84047412872314
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          24.870920956134796,
+          152.3088515996933
+        ],
+        [
+          208.51801228523254,
+          150.7619765996933
+        ],
+        [
+          207.32269978523254,
+          174.0230952501297
+        ],
+        [
+          23.675608456134796,
+          175.5699702501297
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          24.136736512184143,
+          241.67863655090332
+        ],
+        [
+          229.77756142616272,
+          240.13176155090332
+        ],
+        [
+          229.77756142616272,
+          263.01708984375
+        ],
+        [
+          24.136736512184143,
+          264.56396484375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          24.106550931930542,
+          404.41155767440796
+        ],
+        [
+          457.4653687477112,
+          402.86468267440796
+        ],
+        [
+          457.4653687477112,
+          425.5884690284729
+        ],
+        [
+          24.106550931930542,
+          427.1353440284729
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          16.92055892944336,
+          458.1372814178467
+        ],
+        [
+          439.3489136695862,
+          456.5904064178467
+        ],
+        [
+          439.3489136695862,
+          571.2298564910889
+        ],
+        [
+          16.92055892944336,
+          572.7767314910889
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          346
+        ],
+        [
+          "Line",
+          135
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          442
+        ],
+        [
+          "Line",
+          140
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          520
+        ],
+        [
+          "Line",
+          203
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          895
+        ],
+        [
+          "Line",
+          270
+        ],
+        [
+          "TableCell",
+          214
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          310
+        ],
+        [
+          "Line",
+          131
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          886
+        ],
+        [
+          "Line",
+          767
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          723
+        ],
+        [
+          "Line",
+          325
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          786
+        ],
+        [
+          "Line",
+          226
+        ],
+        [
+          "TableCell",
+          179
+        ],
+        [
+          "Text",
+          23
+        ],
+        [
+          "Figure",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          314
+        ],
+        [
+          "Line",
+          131
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          532
+        ],
+        [
+          "Line",
+          132
+        ],
+        [
+          "ListItem",
+          45
+        ],
+        [
+          "Reference",
+          45
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          162
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Reference",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          300
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          330
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          317
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          280
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          451
+        ],
+        [
+          "Line",
+          128
+        ],
+        [
+          "ListItem",
+          29
+        ],
+        [
+          "Reference",
+          27
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          237
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Reference",
+          13
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/heinkenGenomescaleMetabolicReconstruction2023"
+}

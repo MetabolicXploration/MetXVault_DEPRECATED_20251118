@@ -1,0 +1,553 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Maximal Exponential Growth Rate and Yield \nof E. coli Obtainable in a Bench-Scale Fermentor",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.69965958595276,
+          111.00970458984375
+        ],
+        [
+          358.9774475097656,
+          111.00970458984375
+        ],
+        [
+          358.9774475097656,
+          143.54635620117188
+        ],
+        [
+          53.89106583595276,
+          143.54635620117188
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          184.1169548034668,
+          221.90731811523438
+        ],
+        [
+          229.51759338378906,
+          221.90731811523438
+        ],
+        [
+          229.51759338378906,
+          232.70733642578125
+        ],
+        [
+          184.1169548034668,
+          232.70733642578125
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          164.59667551517487,
+          304.6292724609375
+        ],
+        [
+          249.6532440185547,
+          304.6292724609375
+        ],
+        [
+          249.6532440185547,
+          315.0292663574219
+        ],
+        [
+          163.78808176517487,
+          315.0292663574219
+        ]
+      ]
+    },
+    {
+      "title": "METHODS AND MATERIALS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          132.0134664773941,
+          365.50732421875
+        ],
+        [
+          281.4441223144531,
+          365.50732421875
+        ],
+        [
+          281.4441223144531,
+          376.3073425292969
+        ],
+        [
+          132.0134664773941,
+          376.3073425292969
+        ]
+      ]
+    },
+    {
+      "title": "Starter Culture",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          172.94842636585236,
+          384.0292663574219
+        ],
+        [
+          239.19967651367188,
+          384.0292663574219
+        ],
+        [
+          239.19967651367188,
+          394.42926025390625
+        ],
+        [
+          172.94842636585236,
+          394.42926025390625
+        ]
+      ]
+    },
+    {
+      "title": "Mass Culture",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          176.465394616127,
+          550.3292694091797
+        ],
+        [
+          236.60000610351562,
+          550.3292694091797
+        ],
+        [
+          236.60000610351562,
+          560.7292633056641
+        ],
+        [
+          176.465394616127,
+          560.7292633056641
+        ]
+      ]
+    },
+    {
+      "title": "A nu1 ytical Methods",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          165.69089770317078,
+          372.34954833984375
+        ],
+        [
+          251.43324279785156,
+          372.34954833984375
+        ],
+        [
+          251.43324279785156,
+          382.7495422363281
+        ],
+        [
+          165.69089770317078,
+          382.7495422363281
+        ]
+      ]
+    },
+    {
+      "title": "EXPERIMENTAL, RESULTS AND DISCUSSION",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          90.55467760562897,
+          117.19082844257355
+        ],
+        [
+          325.5643005371094,
+          117.19082844257355
+        ],
+        [
+          325.5643005371094,
+          128.029296875
+        ],
+        [
+          90.55467760562897,
+          128.029296875
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          181.04169273376465,
+          243.14712524414062
+        ],
+        [
+          236.22311401367188,
+          243.14712524414062
+        ],
+        [
+          236.22311401367188,
+          254.047119140625
+        ],
+        [
+          181.04169273376465,
+          254.047119140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "TableCell",
+          73
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          149
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/bauerMaximalExponentialGrowth1974"
+}

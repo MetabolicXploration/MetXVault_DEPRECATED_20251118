@@ -1,0 +1,2196 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Article\nMeasuring Cellular Biomass Composition for\nComputational Biology Applications",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.177001953125,
+          101.2525634765625
+        ],
+        [
+          453.4299817085266,
+          101.2525634765625
+        ],
+        [
+          453.4299817085266,
+          153.18391036987305
+        ],
+        [
+          76.177001953125,
+          153.18391036987305
+        ]
+      ]
+    },
+    {
+      "title": "Ashley E. Beck 1\n, Kristopher A. Hunt 2 ID and Ross P. Carlson 3,*",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.14700317382812,
+          169.02690225839615
+        ],
+        [
+          367.21962237358093,
+          169.02690225839615
+        ],
+        [
+          367.21962237358093,
+          181.707763671875
+        ],
+        [
+          76.14700317382812,
+          181.707763671875
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.53499603271484,
+          683.0548100471497
+        ],
+        [
+          145.9744073152542,
+          683.0548100471497
+        ],
+        [
+          145.9744073152542,
+          694.9848022460938
+        ],
+        [
+          76.53499603271484,
+          694.9848022460938
+        ]
+      ]
+    },
+    {
+      "title": "2. Culturing Methods",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          76.20639526844025,
+          153.89153608679771
+        ],
+        [
+          174.80609130859375,
+          153.89153608679771
+        ],
+        [
+          174.80609130859375,
+          164.61235615611076
+        ],
+        [
+          76.20639526844025,
+          164.61235615611076
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Strains and Media",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          76.1405508518219,
+          176.95696765184402
+        ],
+        [
+          169.28680419921875,
+          176.95696765184402
+        ],
+        [
+          169.28680419921875,
+          187.5582275390625
+        ],
+        [
+          76.1405508518219,
+          187.5582275390625
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Culture Conditions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          76.3043093085289,
+          394.7705847620964
+        ],
+        [
+          173.27131414413452,
+          394.7705847620964
+        ],
+        [
+          173.27131414413452,
+          405.8802185058594
+        ],
+        [
+          76.3043093085289,
+          405.8802185058594
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Dry Weight Determination",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          76.30031281709671,
+          667.2265982627869
+        ],
+        [
+          204.971342086792,
+          667.2265982627869
+        ],
+        [
+          204.971342086792,
+          678.2391967773438
+        ],
+        [
+          76.30031281709671,
+          678.2391967773438
+        ]
+      ]
+    },
+    {
+      "title": "3. Modeling Methods",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          76.09737986326218,
+          289.55218505859375
+        ],
+        [
+          174.8160400390625,
+          288.5228900909424
+        ],
+        [
+          174.8160400390625,
+          299.5147705078125
+        ],
+        [
+          76.09737986326218,
+          300.0288875102997
+        ]
+      ]
+    },
+    {
+      "title": "4. Carbohydrate",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          76.20499205589294,
+          629.4581909179688
+        ],
+        [
+          149.6405487060547,
+          628.3102076053619
+        ],
+        [
+          149.6405487060547,
+          639.4207916259766
+        ],
+        [
+          76.20499205589294,
+          640.0292994976044
+        ]
+      ]
+    },
+    {
+      "title": "4.1. Literature Review",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          76.53499603271484,
+          652.5955963134766
+        ],
+        [
+          167.00083684921265,
+          651.2314139604568
+        ],
+        [
+          166.62677001953125,
+          662.5581970214844
+        ],
+        [
+          75.8799529671669,
+          662.931434750557
+        ]
+      ]
+    },
+    {
+      "title": "4.2. Procedure (After Del Don et al., 1994)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          75.985868871212,
+          395.82988411188126
+        ],
+        [
+          248.80821228027344,
+          395.82988411188126
+        ],
+        [
+          248.80821228027344,
+          407.51422119140625
+        ],
+        [
+          75.985868871212,
+          407.51422119140625
+        ]
+      ]
+    },
+    {
+      "title": "4.2.1. Reagents",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          75.72212707996368,
+          419.828883767128
+        ],
+        [
+          142.77655696868896,
+          419.828883767128
+        ],
+        [
+          142.77655696868896,
+          430.8970947265625
+        ],
+        [
+          75.72212707996368,
+          430.8970947265625
+        ]
+      ]
+    },
+    {
+      "title": "4.2.2. Quantification of Glycogen",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          75.96461641788483,
+          573.8616589307785
+        ],
+        [
+          221.37123107910156,
+          573.8616589307785
+        ],
+        [
+          221.37123107910156,
+          585.6571350097656
+        ],
+        [
+          75.96461641788483,
+          585.6571350097656
+        ]
+      ]
+    },
+    {
+      "title": "4.2.3. Quantification of Hexoses Excluding Glycogen",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          75.71383213996887,
+          187.7684326171875
+        ],
+        [
+          308.31556606292725,
+          187.7684326171875
+        ],
+        [
+          308.31556606292725,
+          197.73101806640625
+        ],
+        [
+          75.71383213996887,
+          197.73101806640625
+        ]
+      ]
+    },
+    {
+      "title": "4.2.4. Quantification of Total Carbohydrate",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          75.68273055553436,
+          270.3248429298401
+        ],
+        [
+          264.8978576660156,
+          270.3248429298401
+        ],
+        [
+          264.8978576660156,
+          280.9591064453125
+        ],
+        [
+          75.68273055553436,
+          280.9591064453125
+        ]
+      ]
+    },
+    {
+      "title": "4.3. Test Results",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          75.9404154419899,
+          340.3112458586693
+        ],
+        [
+          143.00546264648438,
+          340.3112458586693
+        ],
+        [
+          143.00546264648438,
+          350.50823974609375
+        ],
+        [
+          75.9404154419899,
+          350.50823974609375
+        ]
+      ]
+    },
+    {
+      "title": "5. DNA",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          76.09946691989899,
+          262.2527731060982
+        ],
+        [
+          111.44393920898438,
+          262.2527731060982
+        ],
+        [
+          111.44393920898438,
+          272.4957275390625
+        ],
+        [
+          76.09946691989899,
+          272.4957275390625
+        ]
+      ]
+    },
+    {
+      "title": "5.1. Literature Review",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          75.98514950275421,
+          284.70154309272766
+        ],
+        [
+          167.37352299690247,
+          284.70154309272766
+        ],
+        [
+          167.37352299690247,
+          295.6331787109375
+        ],
+        [
+          75.98514950275421,
+          295.6331787109375
+        ]
+      ]
+    },
+    {
+      "title": "5.2. Procedure (After Downs and Wilfinger, 1983)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          76.08936911821365,
+          638.086706995964
+        ],
+        [
+          278.59637451171875,
+          638.086706995964
+        ],
+        [
+          278.59637451171875,
+          649.0491943359375
+        ],
+        [
+          76.08936911821365,
+          649.0491943359375
+        ]
+      ]
+    },
+    {
+      "title": "5.2.1. Reagents",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          76.2427544593811,
+          662.469482421875
+        ],
+        [
+          142.0291290283203,
+          661.3238914012909
+        ],
+        [
+          142.0291290283203,
+          672.4320831298828
+        ],
+        [
+          76.2427544593811,
+          673.3281464576721
+        ]
+      ]
+    },
+    {
+      "title": "5.2.2. Assay",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          75.5282883644104,
+          244.12360775470734
+        ],
+        [
+          128.79770028591156,
+          244.12360775470734
+        ],
+        [
+          128.79770028591156,
+          256.530029296875
+        ],
+        [
+          75.5282883644104,
+          256.530029296875
+        ]
+      ]
+    },
+    {
+      "title": "5.3. Test Results",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          76.4172146320343,
+          603.0910840034485
+        ],
+        [
+          143.70390284061432,
+          601.4465527534485
+        ],
+        [
+          143.70390284061432,
+          613.7581939697266
+        ],
+        [
+          76.4172146320343,
+          614.5344479084015
+        ]
+      ]
+    },
+    {
+      "title": "6. Lipid",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          76.53502655029297,
+          289.55218505859375
+        ],
+        [
+          111.9919204711914,
+          288.2615156173706
+        ],
+        [
+          111.9919204711914,
+          299.5147705078125
+        ],
+        [
+          76.53502655029297,
+          300.2477033138275
+        ]
+      ]
+    },
+    {
+      "title": "6.1. Literature Review",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          76.53502655029297,
+          312.5395305156708
+        ],
+        [
+          167.8447892665863,
+          310.8949992656708
+        ],
+        [
+          166.6807267665863,
+          322.6522216796875
+        ],
+        [
+          75.74437421560287,
+          322.96028184890747
+        ]
+      ]
+    },
+    {
+      "title": "6.2. Procedure (After Bligh and Dyer, 1959)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          76.38695675134659,
+          585.0486145019531
+        ],
+        [
+          253.6101837158203,
+          583.7079685926437
+        ],
+        [
+          253.6101837158203,
+          595.0112152099609
+        ],
+        [
+          75.22289425134659,
+          595.6480845212936
+        ]
+      ]
+    },
+    {
+      "title": "6.2.1. Reagents",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          76.4357761144638,
+          608.4314880371094
+        ],
+        [
+          143.3829401731491,
+          607.0890394449234
+        ],
+        [
+          142.2188776731491,
+          618.3940887451172
+        ],
+        [
+          75.2717136144638,
+          619.4926835298538
+        ]
+      ]
+    },
+    {
+      "title": "6.2.2. Assay",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          76.49463111162186,
+          696.1903327703476
+        ],
+        [
+          128.99909681081772,
+          694.5458015203476
+        ],
+        [
+          128.75894165039062,
+          706.2830810546875
+        ],
+        [
+          75.33056861162186,
+          707.3577679395676
+        ]
+      ]
+    },
+    {
+      "title": "6.3. Test Results",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          75.63709950447083,
+          234.65846920013428
+        ],
+        [
+          143.00547790527344,
+          234.65846920013428
+        ],
+        [
+          143.00547790527344,
+          244.84320068359375
+        ],
+        [
+          75.63709950447083,
+          244.84320068359375
+        ]
+      ]
+    },
+    {
+      "title": "7. Protein",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          75.83765232563019,
+          220.98810243606567
+        ],
+        [
+          120.52222764492035,
+          220.98810243606567
+        ],
+        [
+          120.52222764492035,
+          231.9677734375
+        ],
+        [
+          75.83765232563019,
+          231.9677734375
+        ]
+      ]
+    },
+    {
+      "title": "7.1. Literature Review",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          75.76534247398376,
+          243.935682117939
+        ],
+        [
+          167.32483685016632,
+          243.935682117939
+        ],
+        [
+          167.32483685016632,
+          255.105224609375
+        ],
+        [
+          75.76534247398376,
+          255.105224609375
+        ]
+      ]
+    },
+    {
+      "title": "7.2. Procedure (After Henderson et al., 2000)",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          75.99982106685638,
+          502.4714974164963
+        ],
+        [
+          258.94161427021027,
+          502.4714974164963
+        ],
+        [
+          258.94161427021027,
+          513.9552307128906
+        ],
+        [
+          75.99982106685638,
+          513.9552307128906
+        ]
+      ]
+    },
+    {
+      "title": "7.2.1. Reagents",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          75.7624916434288,
+          526.2356464862823
+        ],
+        [
+          142.0291290283203,
+          526.2356464862823
+        ],
+        [
+          142.0291290283203,
+          537.3381042480469
+        ],
+        [
+          75.7624916434288,
+          537.3381042480469
+        ]
+      ]
+    },
+    {
+      "title": "7.2.2. Assay",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          75.42903327941895,
+          711.6709486246109
+        ],
+        [
+          128.75894165039062,
+          710.0264173746109
+        ],
+        [
+          128.75894165039062,
+          722.106086730957
+        ],
+        [
+          75.42903327941895,
+          722.7648094892502
+        ]
+      ]
+    },
+    {
+      "title": "7.3. Test Results",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          76.11402302980423,
+          565.7924246788025
+        ],
+        [
+          143.97995382547379,
+          565.7924246788025
+        ],
+        [
+          143.97995382547379,
+          577.0922241210938
+        ],
+        [
+          76.11402302980423,
+          577.0922241210938
+        ]
+      ]
+    },
+    {
+      "title": "8. RNA",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          76.20075577497482,
+          90.6577712893486
+        ],
+        [
+          110.33807373046875,
+          90.6577712893486
+        ],
+        [
+          110.33807373046875,
+          100.7750537097454
+        ],
+        [
+          76.20075577497482,
+          100.7750537097454
+        ]
+      ]
+    },
+    {
+      "title": "8.1. Literature Review",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          75.81854021549225,
+          112.77846813201904
+        ],
+        [
+          166.6267547607422,
+          112.77846813201904
+        ],
+        [
+          166.6267547607422,
+          123.81622314453125
+        ],
+        [
+          75.81854021549225,
+          123.81622314453125
+        ]
+      ]
+    },
+    {
+      "title": "8.2. Procedure (After Benthin et al., 1991)",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          76.14246916770935,
+          426.5688120126724
+        ],
+        [
+          246.83638381958008,
+          426.5688120126724
+        ],
+        [
+          246.83638381958008,
+          436.7042236328125
+        ],
+        [
+          76.14246916770935,
+          436.7042236328125
+        ]
+      ]
+    },
+    {
+      "title": "8.2.1. Reagents",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          75.65884041786194,
+          449.3220421075821
+        ],
+        [
+          142.1680245399475,
+          449.3220421075821
+        ],
+        [
+          142.1680245399475,
+          460.08709716796875
+        ],
+        [
+          75.65884041786194,
+          460.08709716796875
+        ]
+      ]
+    },
+    {
+      "title": "8.2.2. Assay",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          76.31849241256714,
+          523.1392021179199
+        ],
+        [
+          128.86555182933807,
+          523.1392021179199
+        ],
+        [
+          128.86555182933807,
+          533.4700927734375
+        ],
+        [
+          76.31849241256714,
+          533.4700927734375
+        ]
+      ]
+    },
+    {
+      "title": "8.3. Test Results",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          76.0667667388916,
+          154.38262939453125
+        ],
+        [
+          143.1132036447525,
+          154.38262939453125
+        ],
+        [
+          143.1132036447525,
+          164.34521484375
+        ],
+        [
+          76.0667667388916,
+          164.34521484375
+        ]
+      ]
+    },
+    {
+      "title": "9. Model Biomass Reaction",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          76.21740782260895,
+          551.499235868454
+        ],
+        [
+          199.99151611328125,
+          551.499235868454
+        ],
+        [
+          199.99151611328125,
+          562.30078125
+        ],
+        [
+          76.21740782260895,
+          562.30078125
+        ]
+      ]
+    },
+    {
+      "title": "10. Conclusions",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          76.14278888702393,
+          242.03027826547623
+        ],
+        [
+          148.5535830259323,
+          242.03027826547623
+        ],
+        [
+          148.5535830259323,
+          253.31671142578125
+        ],
+        [
+          76.14278888702393,
+          253.31671142578125
+        ]
+      ]
+    },
+    {
+      "title": "Appendix A",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          76.53499603271484,
+          358.48389834165573
+        ],
+        [
+          132.15618896484375,
+          358.48389834165573
+        ],
+        [
+          132.15618896484375,
+          369.96876698732376
+        ],
+        [
+          76.53499603271484,
+          369.96876698732376
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          76.28730201721191,
+          528.1063208580017
+        ],
+        [
+          127.69862961769104,
+          526.4617896080017
+        ],
+        [
+          126.53456711769104,
+          538.9688110351562
+        ],
+        [
+          75.12323951721191,
+          539.0229208469391
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          330
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          156
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          214
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          141
+        ],
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          236
+        ],
+        [
+          "TableCell",
+          99
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          167
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          240
+        ],
+        [
+          "TableCell",
+          74
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Reference",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          381
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "Reference",
+          22
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          355
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "Reference",
+          22
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          388
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "Reference",
+          22
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Reference",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/beckMeasuringCellularBiomass2018"
+}

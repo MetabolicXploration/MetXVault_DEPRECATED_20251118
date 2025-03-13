@@ -1,0 +1,2016 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Principles of cellular resource allocation\nrevealed by condition-dependent\nproteome profiling",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          166.63746213912964,
+          104.59068703651428
+        ],
+        [
+          550.3766212463379,
+          103.04381203651428
+        ],
+        [
+          550.3766212463379,
+          175.99767637252808
+        ],
+        [
+          166.63746213912964,
+          177.54455137252808
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          168.54798889160156,
+          452.05996227264404
+        ],
+        [
+          249.68118286132812,
+          450.51308727264404
+        ],
+        [
+          249.68118286132812,
+          466.54827880859375
+        ],
+        [
+          168.54798889160156,
+          467.45459747314453
+        ]
+      ]
+    },
+    {
+      "title": "*For correspondence:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.64871424436569,
+          461.07161378860474
+        ],
+        [
+          122.90471202135086,
+          459.52473878860474
+        ],
+        [
+          121.70939952135086,
+          472.884663105011
+        ],
+        [
+          35.45340174436569,
+          474.431538105011
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          167.850958943367,
+          412.00872802734375
+        ],
+        [
+          216.10327470302582,
+          410.72028493881226
+        ],
+        [
+          215.56533813476562,
+          425.9563293457031
+        ],
+        [
+          166.655646443367,
+          425.9563293457031
+        ]
+      ]
+    },
+    {
+      "title": "The proteomic composition of budding yeast cells growing in different\nconditions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          168.54798889160156,
+          433.29933500289917
+        ],
+        [
+          569.1003992557526,
+          431.75246000289917
+        ],
+        [
+          567.9050867557526,
+          458.13848876953125
+        ],
+        [
+          167.99411702156067,
+          459.2013716697693
+        ]
+      ]
+    },
+    {
+      "title": "Figure 1 continued",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          37.020301818847656,
+          54.05951768159866
+        ],
+        [
+          106.84007388353348,
+          54.05951768159866
+        ],
+        [
+          106.84007388353348,
+          64.29625850915909
+        ],
+        [
+          37.020301818847656,
+          64.29625850915909
+        ]
+      ]
+    },
+    {
+      "title": "The proteome fraction encoding ribosomal proteins scales linearly with\ncell growth rate",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          165.58714985847473,
+          378.70236110687256
+        ],
+        [
+          571.8435480594635,
+          378.70236110687256
+        ],
+        [
+          570.6482355594635,
+          404.279541015625
+        ],
+        [
+          164.39183735847473,
+          404.279541015625
+        ]
+      ]
+    },
+    {
+      "title": "Quantitative interpretation of the scaling between ribosome content\nand growth rate",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          166.65486216545105,
+          87.26055908203125
+        ],
+        [
+          557.9871447086334,
+          87.26055908203125
+        ],
+        [
+          557.9871447086334,
+          111.177734375
+        ],
+        [
+          166.65486216545105,
+          111.177734375
+        ]
+      ]
+    },
+    {
+      "title": "A constant fraction r0 \u00bb 8% of the proteome encodes for non-\ntranslating ribosomal proteins",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          165.12592148780823,
+          479.9140977859497
+        ],
+        [
+          517.2142944335938,
+          479.9140977859497
+        ],
+        [
+          517.2142944335938,
+          504.30211544036865
+        ],
+        [
+          165.12592148780823,
+          504.30211544036865
+        ]
+      ]
+    },
+    {
+      "title": "The scaling between ribosome content and growth rate changes when\ncells prepare to enter stationary phase",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          165.78973066806793,
+          111.77632927894592
+        ],
+        [
+          567.2904682159424,
+          110.22945427894592
+        ],
+        [
+          567.2904682159424,
+          136.68963623046875
+        ],
+        [
+          165.78973066806793,
+          136.76149034500122
+        ]
+      ]
+    },
+    {
+      "title": "The scaling between ribosome content and growth rate changes during\nnutrient upshift",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          167.90642380714417,
+          334.68003487586975
+        ],
+        [
+          573.8473598957062,
+          333.13315987586975
+        ],
+        [
+          572.6520473957062,
+          360.0600891113281
+        ],
+        [
+          166.71111130714417,
+          360.4721739292145
+        ]
+      ]
+    },
+    {
+      "title": "The excess of non-translating ribosomal proteins is decreased when\ncells are forced to express unneeded proteins",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          166.30428993701935,
+          621.4748754501343
+        ],
+        [
+          553.0309824943542,
+          619.9280004501343
+        ],
+        [
+          553.0309824943542,
+          646.1889038085938
+        ],
+        [
+          166.30428993701935,
+          646.5030183792114
+        ]
+      ]
+    },
+    {
+      "title": "Figure 4 continued",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          37.020301818847656,
+          54.29402965307236
+        ],
+        [
+          106.77050113677979,
+          54.29402965307236
+        ],
+        [
+          106.77050113677979,
+          64.28065663576126
+        ],
+        [
+          37.020301818847656,
+          64.28065663576126
+        ]
+      ]
+    },
+    {
+      "title": "The smaller pool of excess ribosomes in burden cells explains their\ndelayed recovery from starvation",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          165.4115628004074,
+          454.5115098953247
+        ],
+        [
+          545.0438961982727,
+          454.5115098953247
+        ],
+        [
+          545.0438961982727,
+          479.40936183929443
+        ],
+        [
+          165.4115628004074,
+          479.40936183929443
+        ]
+      ]
+    },
+    {
+      "title": "The fraction of ribosomes actively translating is tuned by growth\nconditions, but remains largely invariant to cell growth rate",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          165.78424072265625,
+          599.6299867630005
+        ],
+        [
+          536.0098900794983,
+          599.6299867630005
+        ],
+        [
+          536.0098900794983,
+          624.9838571548462
+        ],
+        [
+          165.78424072265625,
+          624.9838571548462
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          167.826500415802,
+          671.1273064613342
+        ],
+        [
+          239.3970766067505,
+          669.5804314613342
+        ],
+        [
+          239.3970766067505,
+          685.5532989501953
+        ],
+        [
+          167.826500415802,
+          685.5532989501953
+        ]
+      ]
+    },
+    {
+      "title": "Materials and methods",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          168.54798889160156,
+          649.8776965141296
+        ],
+        [
+          321.2442834377289,
+          648.3308215141296
+        ],
+        [
+          320.0489709377289,
+          665.4832916259766
+        ],
+        [
+          168.4516246318817,
+          665.4832916259766
+        ]
+      ]
+    },
+    {
+      "title": "Media and strains",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          166.37002336978912,
+          672.2293982505798
+        ],
+        [
+          269.95730459690094,
+          670.6825232505798
+        ],
+        [
+          269.95730459690094,
+          685.7034149169922
+        ],
+        [
+          166.37002336978912,
+          685.7034149169922
+        ]
+      ]
+    },
+    {
+      "title": "Growth rates",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          168.5002863407135,
+          169.62104201316833
+        ],
+        [
+          244.92291641235352,
+          169.62104201316833
+        ],
+        [
+          244.92291641235352,
+          183.461181640625
+        ],
+        [
+          168.5002863407135,
+          183.461181640625
+        ]
+      ]
+    },
+    {
+      "title": "Log-phase competition",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          167.94025719165802,
+          230.89516925811768
+        ],
+        [
+          299.2236016988754,
+          230.89516925811768
+        ],
+        [
+          299.2236016988754,
+          244.51904296875
+        ],
+        [
+          167.94025719165802,
+          244.51904296875
+        ]
+      ]
+    },
+    {
+      "title": "Protein measurements",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          168.5479736328125,
+          364.86696910858154
+        ],
+        [
+          297.3673253059387,
+          364.86696910858154
+        ],
+        [
+          296.1720128059387,
+          378.03082275390625
+        ],
+        [
+          167.4024796485901,
+          378.03082275390625
+        ]
+      ]
+    },
+    {
+      "title": "Sample preparation",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          168.5479736328125,
+          380.5323181152344
+        ],
+        [
+          277.0424165725708,
+          380.5323181152344
+        ],
+        [
+          275.8471040725708,
+          392.5696177482605
+        ],
+        [
+          168.26522183418274,
+          392.5696177482605
+        ]
+      ]
+    },
+    {
+      "title": "Liquid chromatography",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          168.1640499830246,
+          550.2723155021667
+        ],
+        [
+          293.38383185863495,
+          550.2723155021667
+        ],
+        [
+          292.92138671875,
+          563.5866088867188
+        ],
+        [
+          166.9687374830246,
+          563.5866088867188
+        ]
+      ]
+    },
+    {
+      "title": "Mass spectrometry",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          166.40330958366394,
+          686.1644439697266
+        ],
+        [
+          269.99208641052246,
+          684.7179307937622
+        ],
+        [
+          269.11572265625,
+          698.1195449829102
+        ],
+        [
+          165.20799708366394,
+          698.2257070541382
+        ]
+      ]
+    },
+    {
+      "title": "Data processing and basic analysis",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          167.9428288936615,
+          101.54638671875
+        ],
+        [
+          353.92689514160156,
+          100.07128930091858
+        ],
+        [
+          353.92689514160156,
+          113.50146484375
+        ],
+        [
+          167.9428288936615,
+          114.63798666000366
+        ]
+      ]
+    },
+    {
+      "title": "Proteomic datasets",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          168.5479736328125,
+          338.4976315498352
+        ],
+        [
+          272.6517369747162,
+          336.9507565498352
+        ],
+        [
+          271.4564244747162,
+          350.8183898925781
+        ],
+        [
+          168.04992842674255,
+          350.99806022644043
+        ]
+      ]
+    },
+    {
+      "title": "Gene groups",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          168.54798889160156,
+          462.31433486938477
+        ],
+        [
+          243.15364015102386,
+          460.76745986938477
+        ],
+        [
+          241.95832765102386,
+          474.4093933105469
+        ],
+        [
+          167.4300752878189,
+          475.30793380737305
+        ]
+      ]
+    },
+    {
+      "title": "RNAseq transcription protocol and analysis",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          168.54800415039062,
+          536.34468126297
+        ],
+        [
+          414.18249320983887,
+          534.79780626297
+        ],
+        [
+          412.98718070983887,
+          548.6770172119141
+        ],
+        [
+          167.79140853881836,
+          549.4215531349182
+        ]
+      ]
+    },
+    {
+      "title": "Published RNA datasets",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          168.5480194091797,
+          585.5452480316162
+        ],
+        [
+          305.58551824092865,
+          583.9983730316162
+        ],
+        [
+          304.39020574092865,
+          597.9996948242188
+        ],
+        [
+          168.5480194091797,
+          599.0431108474731
+        ]
+      ]
+    },
+    {
+      "title": "RNA data of cells growing in low Pi media (0.06 mM)",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          166.1225016117096,
+          684.9216756820679
+        ],
+        [
+          467.4338684082031,
+          683.3748006820679
+        ],
+        [
+          467.4338684082031,
+          697.2116088867188
+        ],
+        [
+          166.1225016117096,
+          698.4835510253906
+        ]
+      ]
+    },
+    {
+      "title": "Ribosomal fraction analysis in the RNA data",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          165.41544771194458,
+          86.00887352228165
+        ],
+        [
+          417.20371413230896,
+          86.00887352228165
+        ],
+        [
+          417.20371413230896,
+          99.32067632675171
+        ],
+        [
+          165.41544771194458,
+          99.32067632675171
+        ]
+      ]
+    },
+    {
+      "title": "mCherry level measurements",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          168.27532625198364,
+          146.88741302490234
+        ],
+        [
+          333.30607652664185,
+          146.88741302490234
+        ],
+        [
+          332.9917907714844,
+          160.557373046875
+        ],
+        [
+          167.08001375198364,
+          160.557373046875
+        ]
+      ]
+    },
+    {
+      "title": "Chemostat experiments",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          167.9901956319809,
+          268.79145884513855
+        ],
+        [
+          305.9913729429245,
+          268.79145884513855
+        ],
+        [
+          304.7960604429245,
+          282.84356689453125
+        ],
+        [
+          166.7948831319809,
+          282.84356689453125
+        ]
+      ]
+    },
+    {
+      "title": "Live microscopy environment perturbation experiment",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          168.35690939426422,
+          379.3011803627014
+        ],
+        [
+          480.6769309043884,
+          379.3011803627014
+        ],
+        [
+          479.4816184043884,
+          392.9985046386719
+        ],
+        [
+          167.16159689426422,
+          392.9985046386719
+        ]
+      ]
+    },
+    {
+      "title": "Polysome profiling",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          168.2992193698883,
+          658.9232897758484
+        ],
+        [
+          276.63061594963074,
+          658.9232897758484
+        ],
+        [
+          276.63061594963074,
+          672.9482955932617
+        ],
+        [
+          168.2992193698883,
+          672.9482955932617
+        ]
+      ]
+    },
+    {
+      "title": "Interpreting polysomal profiles",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          168.4167516231537,
+          219.2818522453308
+        ],
+        [
+          345.1734781265259,
+          219.2818522453308
+        ],
+        [
+          344.0028991699219,
+          233.23779296875
+        ],
+        [
+          167.2214391231537,
+          233.23779296875
+        ]
+      ]
+    },
+    {
+      "title": "Literature values for translation elongation rates",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          168.45640325546265,
+          403.01867151260376
+        ],
+        [
+          443.79777574539185,
+          403.01867151260376
+        ],
+        [
+          443.14019775390625,
+          416.2422790527344
+        ],
+        [
+          167.26109075546265,
+          416.2422790527344
+        ]
+      ]
+    },
+    {
+      "title": "Data availability",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          166.37576866149902,
+          695.5181093215942
+        ],
+        [
+          259.428884267807,
+          695.5181093215942
+        ],
+        [
+          259.428884267807,
+          709.684700012207
+        ],
+        [
+          166.37576866149902,
+          709.684700012207
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          168.54798889160156,
+          51.931992173194885
+        ],
+        [
+          300.1773748397827,
+          51.931992173194885
+        ],
+        [
+          300.1773748397827,
+          67.37322998046875
+        ],
+        [
+          168.54798889160156,
+          67.37322998046875
+        ]
+      ]
+    },
+    {
+      "title": "Additional information",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          168.54798889160156,
+          163.39026510715485
+        ],
+        [
+          318.65127825737,
+          163.39026510715485
+        ],
+        [
+          318.65127825737,
+          179.7952880859375
+        ],
+        [
+          168.54798889160156,
+          179.7952880859375
+        ]
+      ]
+    },
+    {
+      "title": "Competing interests",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          167.7760148048401,
+          188.83494973182678
+        ],
+        [
+          254.49566674232483,
+          188.83494973182678
+        ],
+        [
+          254.49566674232483,
+          200.31186246871948
+        ],
+        [
+          167.7760148048401,
+          200.31186246871948
+        ]
+      ]
+    },
+    {
+      "title": "Funding",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          165.88333332538605,
+          233.36156344413757
+        ],
+        [
+          202.60183715820312,
+          233.36156344413757
+        ],
+        [
+          202.60183715820312,
+          244.60400390625
+        ],
+        [
+          165.88333332538605,
+          244.60400390625
+        ]
+      ]
+    },
+    {
+      "title": "Author contributions",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          168.54798889160156,
+          342.1278405189514
+        ],
+        [
+          257.4004679918289,
+          342.1278405189514
+        ],
+        [
+          256.2051554918289,
+          353.25955295562744
+        ],
+        [
+          167.4270840883255,
+          353.25955295562744
+        ]
+      ]
+    },
+    {
+      "title": "Author ORCIDs",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          168.54798889160156,
+          464.89093351364136
+        ],
+        [
+          233.89237582683563,
+          463.34405851364136
+        ],
+        [
+          232.8704376220703,
+          475.2300720214844
+        ],
+        [
+          167.931356549263,
+          476.21019887924194
+        ]
+      ]
+    },
+    {
+      "title": "Decision letter and Author response",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          168.30892252922058,
+          510.71672773361206
+        ],
+        [
+          320.18060302734375,
+          509.16985273361206
+        ],
+        [
+          320.18060302734375,
+          520.3580322265625
+        ],
+        [
+          167.11361002922058,
+          521.3569693565369
+        ]
+      ]
+    },
+    {
+      "title": "Additional files",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          168.54798889160156,
+          570.074987411499
+        ],
+        [
+          267.9786443710327,
+          568.528112411499
+        ],
+        [
+          267.8507080078125,
+          585.4159955978394
+        ],
+        [
+          168.39318680763245,
+          586.9628705978394
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary files",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          168.54798889160156,
+          586.9029178619385
+        ],
+        [
+          253.47026896476746,
+          585.3560428619385
+        ],
+        [
+          252.27495646476746,
+          596.6670379638672
+        ],
+        [
+          167.36552739143372,
+          598.2099094390869
+        ]
+      ]
+    },
+    {
+      "title": "DOI: https://doi.org/10.7554/eLife.28034.017",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          168.54798889160156,
+          57.38859987258911
+        ],
+        [
+          329.08388900756836,
+          57.38859987258911
+        ],
+        [
+          329.08388900756836,
+          67.4285888671875
+        ],
+        [
+          168.54798889160156,
+          67.4285888671875
+        ]
+      ]
+    },
+    {
+      "title": "Major datasets",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          167.94450688362122,
+          77.46571487188339
+        ],
+        [
+          233.0557701587677,
+          77.46571487188339
+        ],
+        [
+          233.0557701587677,
+          86.8841552734375
+        ],
+        [
+          167.94450688362122,
+          86.8841552734375
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          166.91024494171143,
+          204.398681640625
+        ],
+        [
+          241.72703862190247,
+          204.398681640625
+        ],
+        [
+          241.72703862190247,
+          218.34625244140625
+        ],
+        [
+          166.91024494171143,
+          218.34625244140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          204
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          297
+        ],
+        [
+          "Line",
+          166
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          209
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          325
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          217
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          170
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          184
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          170
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          156
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          190
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          358
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          433
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "ListItem",
+          26
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          327
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/metzl-razPrinciplesCellularResource2017"
+}

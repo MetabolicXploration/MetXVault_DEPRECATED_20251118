@@ -1,0 +1,899 @@
+{
+  "table_of_contents": [
+    {
+      "title": "R E S EAR CH A R TIC L E Open Access",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.6040663421154,
+          92.02949425578117
+        ],
+        [
+          534.4992065429688,
+          90.47871300578117
+        ],
+        [
+          534.4992065429688,
+          106.2637939453125
+        ],
+        [
+          58.6040663421154,
+          107.2846800982952
+        ]
+      ]
+    },
+    {
+      "title": "The last generation of bacterial growth in limiting\nnutrient",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.69294738769531,
+          120.50060847401618
+        ],
+        [
+          540.1314654350281,
+          118.94982722401618
+        ],
+        [
+          538.9674029350281,
+          172.5008544921875
+        ],
+        [
+          55.82931566238403,
+          172.5008544921875
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.212646484375,
+          221.30795621871945
+        ],
+        [
+          102.96919322013855,
+          219.75717496871945
+        ],
+        [
+          101.80513072013855,
+          232.13214111328125
+        ],
+        [
+          62.10879838466644,
+          233.25462257862088
+        ]
+      ]
+    },
+    {
+      "title": "Background",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.69294738769531,
+          473.26519775390625
+        ],
+        [
+          113.54595220088959,
+          471.79807746410364
+        ],
+        [
+          112.38188970088959,
+          483.5652160644531
+        ],
+        [
+          55.83967101573944,
+          484.810006737709
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.024477660655975,
+          460.06078171730036
+        ],
+        [
+          89.56025397777557,
+          460.06078171730036
+        ],
+        [
+          89.56025397777557,
+          471.376220703125
+        ],
+        [
+          56.024477660655975,
+          471.376220703125
+        ]
+      ]
+    },
+    {
+      "title": "High resolution dynamic measurements of growth rate\nunder nutrient limiting conditions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.69289779663086,
+          472.9805670976638
+        ],
+        [
+          280.56375193595886,
+          472.9805670976638
+        ],
+        [
+          279.39968943595886,
+          495.16424560546875
+        ],
+        [
+          55.532402992248535,
+          495.16424560546875
+        ]
+      ]
+    },
+    {
+      "title": "Decline in growth rate as a function of substrate level is\nwell described by the Monod equation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.72430419921875,
+          448.4132635593414
+        ],
+        [
+          533.3372168540955,
+          448.4132635593414
+        ],
+        [
+          532.1731543540955,
+          471.1261291503906
+        ],
+        [
+          304.1999969482422,
+          471.1261291503906
+        ]
+      ]
+    },
+    {
+      "title": "Promoter activity of nitrogen and carbon assimilation\ngenes rises sharply in the last generation before growth\nstops",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.72430419921875,
+          605.9261322021484
+        ],
+        [
+          532.6287543773651,
+          605.6853313446045
+        ],
+        [
+          531.4646918773651,
+          639.5271756649017
+        ],
+        [
+          303.99228596687317,
+          641.0779569149017
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.27900314331055,
+          387.8632254600525
+        ],
+        [
+          353.0797424316406,
+          387.8632254600525
+        ],
+        [
+          353.0797424316406,
+          399.376220703125
+        ],
+        [
+          304.27900314331055,
+          399.376220703125
+        ]
+      ]
+    },
+    {
+      "title": "Conclusions",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          304.64504623413086,
+          219.9842692017555
+        ],
+        [
+          361.1304259300232,
+          219.9842692017555
+        ],
+        [
+          361.1304259300232,
+          231.39508056640625
+        ],
+        [
+          304.64504623413086,
+          231.39508056640625
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          304.72430419921875,
+          412.1556590795517
+        ],
+        [
+          346.85357308387756,
+          412.1556590795517
+        ],
+        [
+          345.68951058387756,
+          423.4140319824219
+        ],
+        [
+          304.42163348197937,
+          423.4140319824219
+        ]
+      ]
+    },
+    {
+      "title": "Strains and plasmids",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          304.72430419921875,
+          424.2285914421081
+        ],
+        [
+          391.2840781211853,
+          424.2285914421081
+        ],
+        [
+          390.1200156211853,
+          435.1263427734375
+        ],
+        [
+          304.72430419921875,
+          435.1263427734375
+        ]
+      ]
+    },
+    {
+      "title": "Growth rate and promoter activity measurements",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          55.88010662794113,
+          221.13093298673627
+        ],
+        [
+          257.03585624694824,
+          221.13093298673627
+        ],
+        [
+          257.03585624694824,
+          231.14520263671875
+        ],
+        [
+          55.88010662794113,
+          231.14520263671875
+        ]
+      ]
+    },
+    {
+      "title": "Calculation of substrate levels",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.72430419921875,
+          150.23064395785332
+        ],
+        [
+          426.9140958786011,
+          150.23064395785332
+        ],
+        [
+          426.9140958786011,
+          160.78936767578125
+        ],
+        [
+          304.72430419921875,
+          160.78936767578125
+        ]
+      ]
+    },
+    {
+      "title": "Additional file",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.72430419921875,
+          284.23582261800766
+        ],
+        [
+          372.0217354297638,
+          284.23582261800766
+        ],
+        [
+          372.0217354297638,
+          294.9222899079323
+        ],
+        [
+          304.72430419921875,
+          294.9222899079323
+        ]
+      ]
+    },
+    {
+      "title": "Abbreviations",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.724365234375,
+          341.9074407219887
+        ],
+        [
+          350.0837707519531,
+          341.9074407219887
+        ],
+        [
+          350.0837707519531,
+          350.51917964220047
+        ],
+        [
+          304.724365234375,
+          350.51917964220047
+        ]
+      ]
+    },
+    {
+      "title": "Competing interests",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.3046872615814,
+          379.4263564348221
+        ],
+        [
+          371.76674151420593,
+          379.4263564348221
+        ],
+        [
+          371.76674151420593,
+          387.84916961193085
+        ],
+        [
+          304.3046872615814,
+          387.84916961193085
+        ]
+      ]
+    },
+    {
+      "title": "Authors' contributions",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.724365234375,
+          407.8162354230881
+        ],
+        [
+          379.4132196903229,
+          407.8162354230881
+        ],
+        [
+          378.2491571903229,
+          416.4840087890625
+        ],
+        [
+          303.660772562027,
+          416.4840087890625
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.7236022949219,
+          490.51043403148645
+        ],
+        [
+          368.8282470703125,
+          490.51043403148645
+        ],
+        [
+          368.8282470703125,
+          499.08489990234375
+        ],
+        [
+          304.7236022949219,
+          499.08489990234375
+        ]
+      ]
+    },
+    {
+      "title": "Received: 23 October 2012 Accepted: 12 March 2013\nPublished: 25 March 2013",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.5609245300293,
+          545.316978096962
+        ],
+        [
+          475.00087547302246,
+          545.316978096962
+        ],
+        [
+          473.83681297302246,
+          562.5262581110001
+        ],
+        [
+          303.3968620300293,
+          562.5262581110001
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          301.62785506248474,
+          574.2429504394531
+        ],
+        [
+          339.920654296875,
+          573.4594362974167
+        ],
+        [
+          339.920654296875,
+          581.7428436279297
+        ],
+        [
+          301.62785506248474,
+          583.1042090654373
+        ]
+      ]
+    },
+    {
+      "title": "doi:10.1186/1752-0509-7-27",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          310.2235107421875,
+          406.9925721883774
+        ],
+        [
+          398.6224889755249,
+          405.4417909383774
+        ],
+        [
+          398.6224889755249,
+          415.0240173339844
+        ],
+        [
+          310.2235107421875,
+          416.1017082929611
+        ]
+      ]
+    },
+    {
+      "title": "Submit your next manuscript to BioMed Central\nand take full advantage of:",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          322.1250603199005,
+          608.2449154853821
+        ],
+        [
+          525.218015909195,
+          606.6941342353821
+        ],
+        [
+          525.218015909195,
+          628.2340240478516
+        ],
+        [
+          322.1250603199005,
+          628.8618631362915
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          264
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          332
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          258
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          190
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          314
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          649
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/brenLastGenerationBacterial2013"
+}

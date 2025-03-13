@@ -1,0 +1,418 @@
+{
+  "table_of_contents": [
+    {
+      "title": "References and Notes",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          227.9138070344925,
+          220.76251220703125
+        ],
+        [
+          298.98455810546875,
+          219.57344591617584
+        ],
+        [
+          298.98455810546875,
+          228.73272705078125
+        ],
+        [
+          226.7536507844925,
+          229.4526890516281
+        ]
+      ]
+    },
+    {
+      "title": "Supporting Online Material",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          391.8994925022125,
+          318.16154766082764
+        ],
+        [
+          483.44604563713074,
+          316.68498516082764
+        ],
+        [
+          482.28588938713074,
+          326.69805908203125
+        ],
+        [
+          390.7393362522125,
+          327.77339816093445
+        ]
+      ]
+    },
+    {
+      "title": "Multiple High-Throughput Analyses\nMonitor the Response of\nE. coli to Perturbations",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          211.2934039235115,
+          408.2746231555939
+        ],
+        [
+          538.9988644123077,
+          406.7980606555939
+        ],
+        [
+          538.9988644123077,
+          498.1375732421875
+        ],
+        [
+          211.2934039235115,
+          498.1375732421875
+        ]
+      ]
+    },
+    {
+      "title": "REPORTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          15.659595608711243,
+          17.534671135246754
+        ],
+        [
+          64.90223255753517,
+          17.534671135246754
+        ],
+        [
+          64.90223255753517,
+          29.69804933667183
+        ],
+        [
+          15.659595608711243,
+          29.69804933667183
+        ]
+      ]
+    },
+    {
+      "title": "References and Notes",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          404.8377413749695,
+          353.76409912109375
+        ],
+        [
+          477.0001220703125,
+          352.3602726459503
+        ],
+        [
+          477.0001220703125,
+          361.7342834472656
+        ],
+        [
+          404.8377413749695,
+          362.10753178596497
+        ]
+      ]
+    },
+    {
+      "title": "Supporting Online Material",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          213.9059152007103,
+          97.60357278585434
+        ],
+        [
+          303.73065185546875,
+          97.60357278585434
+        ],
+        [
+          303.73065185546875,
+          105.82257080078125
+        ],
+        [
+          213.9059152007103,
+          105.82257080078125
+        ]
+      ]
+    },
+    {
+      "title": "A Synthetic Maternal-Effect Selfish\nGenetic Element Drives Population\nReplacement in Drosophila",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          34.9196834564209,
+          147.63610768318176
+        ],
+        [
+          354.4503479003906,
+          147.63610768318176
+        ],
+        [
+          354.4503479003906,
+          236.95343017578125
+        ],
+        [
+          34.9196834564209,
+          236.95343017578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          663
+        ],
+        [
+          "Line",
+          180
+        ],
+        [
+          "ListItem",
+          31
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          426
+        ],
+        [
+          "Line",
+          153
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          281
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          422
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          564
+        ],
+        [
+          "Line",
+          176
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/ishiiMultipleHighthroughputAnalyses2007"
+}

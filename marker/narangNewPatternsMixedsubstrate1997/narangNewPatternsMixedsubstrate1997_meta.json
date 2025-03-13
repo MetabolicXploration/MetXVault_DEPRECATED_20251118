@@ -1,0 +1,942 @@
+{
+  "table_of_contents": [
+    {
+      "title": "New Patterns of Mixed-Substrate\nUtilization During Batch Growth of\nEscherichia\n \ncoli\n K12",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          15.777819395065306,
+          14.251450836658478
+        ],
+        [
+          320.18746995925903,
+          12.782700836658478
+        ],
+        [
+          320.18746995925903,
+          72.4517822265625
+        ],
+        [
+          15.777819395065306,
+          73.27533149719238
+        ]
+      ]
+    },
+    {
+      "title": "Atul Narang,1\n* Allan Konopka,2 D. Ramkrishna1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          16.051998138427734,
+          94.447998046875
+        ],
+        [
+          242.5455322265625,
+          94.447998046875
+        ],
+        [
+          242.5455322265625,
+          106.69598388671875
+        ],
+        [
+          15.6175100505352,
+          107.77448415756226
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          16.051998138427734,
+          503.0702724456787
+        ],
+        [
+          94.52440172433853,
+          501.6015224456787
+        ],
+        [
+          93.49510484933853,
+          513.2970275878906
+        ],
+        [
+          15.257477596402168,
+          514.4739723205566
+        ]
+      ]
+    },
+    {
+      "title": "MATERIALS AND METHODS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          15.806749522686003,
+          57.490230202674866
+        ],
+        [
+          153.37941673398018,
+          57.490230202674866
+        ],
+        [
+          153.37941673398018,
+          68.31071960926056
+        ],
+        [
+          15.806749522686003,
+          68.31071960926056
+        ]
+      ]
+    },
+    {
+      "title": "Medium",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          15.364665918052197,
+          144.1141357421875
+        ],
+        [
+          55.41520690917969,
+          144.1141357421875
+        ],
+        [
+          55.41520690917969,
+          154.35408091545105
+        ],
+        [
+          15.364665918052197,
+          154.35408091545105
+        ]
+      ]
+    },
+    {
+      "title": "Carbon and Energy Sources",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          16.01039908826351,
+          302.26409912109375
+        ],
+        [
+          149.2211270928383,
+          302.26409912109375
+        ],
+        [
+          149.2211270928383,
+          312.7731318473816
+        ],
+        [
+          16.01039908826351,
+          312.7731318473816
+        ]
+      ]
+    },
+    {
+      "title": "Preculturing",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          16.05145263671875,
+          460.4154052734375
+        ],
+        [
+          74.30479471385479,
+          460.3931074142456
+        ],
+        [
+          74.26310729980469,
+          470.48601245880127
+        ],
+        [
+          15.41093134880066,
+          471.95476245880127
+        ]
+      ]
+    },
+    {
+      "title": "Fermentor Experiments",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          273.48382568359375,
+          116.4239501953125
+        ],
+        [
+          386.8030309677124,
+          115.92597270011902
+        ],
+        [
+          386.58447265625,
+          126.40191650390625
+        ],
+        [
+          272.4753757715225,
+          127.18386435508728
+        ]
+      ]
+    },
+    {
+      "title": "Measurement of Dry Cell Mass",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          273.1152310371399,
+          307.7520751953125
+        ],
+        [
+          421.1074402332306,
+          307.35110998153687
+        ],
+        [
+          420.94866943359375,
+          317.7300720214844
+        ],
+        [
+          272.0859341621399,
+          318.73163652420044
+        ]
+      ]
+    },
+    {
+      "title": "Measurement of Substrate Concentrations",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          273.48382568359375,
+          438.9627685546875
+        ],
+        [
+          477.7231345772743,
+          438.4805030822754
+        ],
+        [
+          477.50396728515625,
+          448.9407653808594
+        ],
+        [
+          272.8568702340126,
+          449.6865348815918
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS AND DISCUSSION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          273.0563027858734,
+          522.0296630859375
+        ],
+        [
+          410.4674355983734,
+          521.7016763687134
+        ],
+        [
+          410.4318542480469,
+          532.0076599121094
+        ],
+        [
+          272.0270059108734,
+          532.8344678878784
+        ]
+      ]
+    },
+    {
+      "title": "Single-Substrate Data",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          15.69866596907377,
+          184.77374267578125
+        ],
+        [
+          121.39971923828125,
+          184.77374267578125
+        ],
+        [
+          121.39971923828125,
+          194.83454179763794
+        ],
+        [
+          15.69866596907377,
+          194.83454179763794
+        ]
+      ]
+    },
+    {
+      "title": "Mixed-Substrate Data",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          273.1573226451874,
+          260.3564758300781
+        ],
+        [
+          378.2633361816406,
+          259.7475724220276
+        ],
+        [
+          378.2633361816406,
+          270.33447265625
+        ],
+        [
+          272.1280257701874,
+          271.1081976890564
+        ]
+      ]
+    },
+    {
+      "title": "Sequential Growth Pattern Independent\nof Preculturing",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          16.051998138427734,
+          410.48205280303955
+        ],
+        [
+          210.00232005119324,
+          409.01330280303955
+        ],
+        [
+          208.97302317619324,
+          430.7516813278198
+        ],
+        [
+          15.21504046022892,
+          432.2204313278198
+        ]
+      ]
+    },
+    {
+      "title": "Simultaneous Growth Pattern Independent\nof Preculturing",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          273.4803466796875,
+          452.74285888671875
+        ],
+        [
+          482.6554857492447,
+          451.4837455749512
+        ],
+        [
+          481.6261888742447,
+          472.736873626709
+        ],
+        [
+          273.4803466796875,
+          474.205623626709
+        ]
+      ]
+    },
+    {
+      "title": "Growth Pattern Dependent on Preculturing",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          14.681325152516365,
+          671.1704177856445
+        ],
+        [
+          222.8360595703125,
+          670.7471704483032
+        ],
+        [
+          222.8360595703125,
+          681.2564783096313
+        ],
+        [
+          14.681325152516365,
+          682.7252283096313
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSIONS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          15.598525635898111,
+          643.3228302001953
+        ],
+        [
+          89.80935668945312,
+          642.4906311035156
+        ],
+        [
+          89.80935668945312,
+          653.3008270263672
+        ],
+        [
+          15.598525635898111,
+          654.6075496673584
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          15.781453330069779,
+          354.0924987792969
+        ],
+        [
+          68.17706298828125,
+          354.0924987792969
+        ],
+        [
+          68.17706298828125,
+          364.2431197166443
+        ],
+        [
+          15.781453330069779,
+          364.2431197166443
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          291
+        ],
+        [
+          "Line",
+          173
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          236
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "TableCell",
+          45
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          299
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "TableCell",
+          47
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          237
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/narangNewPatternsMixedsubstrate1997"
+}

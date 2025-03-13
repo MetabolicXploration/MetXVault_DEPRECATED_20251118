@@ -1,0 +1,811 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Limitation of Growth Rate by Two \nComplementary Nutrients: Some \nElementary but Neglected \nConsiderations",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.490060925483704,
+          27.50970458984375
+        ],
+        [
+          360.2287902832031,
+          26.041234999895096
+        ],
+        [
+          360.2287902832031,
+          106.35150146484375
+        ],
+        [
+          56.490060925483704,
+          106.35150146484375
+        ]
+      ]
+    },
+    {
+      "title": "Basil C. Baltzis",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.71831315755844,
+          165.95343017578125
+        ],
+        [
+          131.8820037841797,
+          164.62241184711456
+        ],
+        [
+          131.8820037841797,
+          176.35345458984375
+        ],
+        [
+          55.52300065755844,
+          176.64786851406097
+        ]
+      ]
+    },
+    {
+      "title": "A. G. Fredrickson",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.59026154875755,
+          205.75341796875
+        ],
+        [
+          142.92752075195312,
+          205.0440216064453
+        ],
+        [
+          142.92752075195312,
+          216.1534423828125
+        ],
+        [
+          55.39494904875755,
+          216.74877834320068
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.55432605743408,
+          423.2622084617615
+        ],
+        [
+          139.66958618164062,
+          421.7153334617615
+        ],
+        [
+          139.66958618164062,
+          433.85345458984375
+        ],
+        [
+          56.35901355743408,
+          434.49687910079956
+        ]
+      ]
+    },
+    {
+      "title": "SCHEME OF CLASSIFICATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          315.6000061035156,
+          362.9534606933594
+        ],
+        [
+          464.2243347167969,
+          361.79290437698364
+        ],
+        [
+          464.2243347167969,
+          373.35345458984375
+        ],
+        [
+          314.71989369392395,
+          374.29857301712036
+        ]
+      ]
+    },
+    {
+      "title": "UNSTRUCTURED MODEL FOR GROWTH RATE \nLIMITATION BY TWO COMPLEMENTARY \nNUTRIENTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          314.25293827056885,
+          270.972412109375
+        ],
+        [
+          542.9400024414062,
+          270.972412109375
+        ],
+        [
+          542.9400024414062,
+          301.14145946502686
+        ],
+        [
+          314.25293827056885,
+          301.14145946502686
+        ]
+      ]
+    },
+    {
+      "title": "RESIDUAL COMPOSITION CURVE FOR STEADY-\nSTATE CHEMOSTAT",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.28685086965561,
+          392.1726379394531
+        ],
+        [
+          289.8045959472656,
+          392.1726379394531
+        ],
+        [
+          289.8045959472656,
+          413.3499913215637
+        ],
+        [
+          56.28685086965561,
+          413.3499913215637
+        ]
+      ]
+    },
+    {
+      "title": "STEADY STATES AND THEIR STABILITY",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          57.583389937877655,
+          523.1344909667969
+        ],
+        [
+          252.7794647216797,
+          523.1344909667969
+        ],
+        [
+          252.7794647216797,
+          533.5908207893372
+        ],
+        [
+          57.583389937877655,
+          533.5908207893372
+        ]
+      ]
+    },
+    {
+      "title": "RESIDUAL COMPOSITION CURVE FOR BATCH \nSYSTEM",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          58.002486169338226,
+          523.8345031738281
+        ],
+        [
+          284.1072998046875,
+          523.8345031738281
+        ],
+        [
+          284.1072998046875,
+          545.5985040664673
+        ],
+        [
+          58.002486169338226,
+          545.5985040664673
+        ]
+      ]
+    },
+    {
+      "title": "CHEMOSTAT OPERATING DIAGRAMS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          56.45174986124039,
+          370.05755615234375
+        ],
+        [
+          244.6402130126953,
+          370.05755615234375
+        ],
+        [
+          244.6402130126953,
+          380.05755615234375
+        ],
+        [
+          56.45174986124039,
+          380.05755615234375
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          314.88105368614197,
+          504.19140625
+        ],
+        [
+          383.390625,
+          503.5882058143616
+        ],
+        [
+          383.390625,
+          514.7914123535156
+        ],
+        [
+          314.88105368614197,
+          515.1617274284363
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          315.79998779296875,
+          175.11859130859375
+        ],
+        [
+          370.9749755859375,
+          175.11859130859375
+        ],
+        [
+          370.9749755859375,
+          187.61859130859375
+        ],
+        [
+          315.79998779296875,
+          187.61859130859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          196
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          237
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          308
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          336
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "TextInlineMath",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          235
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          303
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          255
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          296
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          8
+        ],
+        [
+          "TextInlineMath",
+          7
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          214
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          374
+        ],
+        [
+          "Line",
+          128
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/baltzisLimitationGrowthRate1988"
+}

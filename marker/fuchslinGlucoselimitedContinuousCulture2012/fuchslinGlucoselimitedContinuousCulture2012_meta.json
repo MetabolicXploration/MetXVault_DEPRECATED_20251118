@@ -1,0 +1,1162 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ORIGINAL ARTICLE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.13185900449753,
+          69.09252712130547
+        ],
+        [
+          192.9446382522583,
+          69.09252712130547
+        ],
+        [
+          192.9446382522583,
+          86.70068359375
+        ],
+        [
+          39.13185900449753,
+          86.70068359375
+        ]
+      ]
+    },
+    {
+      "title": "In glucose-limited continuous culture the minimum\nsubstrate concentration for growth, smin, is crucial in\nthe competition between the enterobacterium\nEscherichia coli and Chelatobacter heintzii, an\nenvironmentally abundant bacterium",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.540085196495056,
+          94.17915757000446
+        ],
+        [
+          537.2842583656311,
+          92.62837632000446
+        ],
+        [
+          537.2842583656311,
+          202.142578125
+        ],
+        [
+          38.540085196495056,
+          202.73267966508865
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          295.5586588382721,
+          605.2619521617889
+        ],
+        [
+          367.0498158931732,
+          605.2619521617889
+        ],
+        [
+          367.0498158931732,
+          618.23876953125
+        ],
+        [
+          295.5586588382721,
+          618.23876953125
+        ]
+      ]
+    },
+    {
+      "title": "Growth kinetics",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          296.7305908203125,
+          624.5472856760025
+        ],
+        [
+          367.26878809928894,
+          624.5472856760025
+        ],
+        [
+          367.26878809928894,
+          635.3063201904297
+        ],
+        [
+          296.7305908203125,
+          635.3063201904297
+        ]
+      ]
+    },
+    {
+      "title": "Microbial maintenance and its quantification using\na minimum substrate concentration (smin)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.688627660274506,
+          625.3912518024445
+        ],
+        [
+          287.753741979599,
+          625.3912518024445
+        ],
+        [
+          287.753741979599,
+          647.3350524902344
+        ],
+        [
+          58.688627660274506,
+          647.3350524902344
+        ]
+      ]
+    },
+    {
+      "title": "Competition",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          39.00123590230942,
+          526.1574373245239
+        ],
+        [
+          95.02772068977356,
+          524.6066560745239
+        ],
+        [
+          95.02772068977356,
+          537.1708984375
+        ],
+        [
+          39.00123590230942,
+          537.7060439586639
+        ]
+      ]
+    },
+    {
+      "title": "E. coli and C. heintzii as a model system",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          296.7305908203125,
+          262.9855809211731
+        ],
+        [
+          478.32016587257385,
+          261.4347996711731
+        ],
+        [
+          477.6302795410156,
+          274.172607421875
+        ],
+        [
+          296.5014045238495,
+          274.4483380317688
+        ]
+      ]
+    },
+    {
+      "title": "Materials and methods",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.1814661026001,
+          169.20555382966995
+        ],
+        [
+          192.27907145023346,
+          169.20555382966995
+        ],
+        [
+          192.27907145023346,
+          183.91461181640625
+        ],
+        [
+          59.1814661026001,
+          183.91461181640625
+        ]
+      ]
+    },
+    {
+      "title": "Organisms and chemicals",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.4503390789032,
+          189.3016305565834
+        ],
+        [
+          175.907648563385,
+          189.3016305565834
+        ],
+        [
+          175.907648563385,
+          201.3242079615593
+        ],
+        [
+          58.4503390789032,
+          201.3242079615593
+        ]
+      ]
+    },
+    {
+      "title": "Growth media and cultivation conditions",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.42122894525528,
+          271.0560750365257
+        ],
+        [
+          242.05757474899292,
+          271.0560750365257
+        ],
+        [
+          242.05757474899292,
+          283.64031982421875
+        ],
+        [
+          59.42122894525528,
+          283.64031982421875
+        ]
+      ]
+    },
+    {
+      "title": "Analysis of mixed microbial cultures",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          316.20325469970703,
+          335.76593428850174
+        ],
+        [
+          480.47766733169556,
+          335.76593428850174
+        ],
+        [
+          480.47766733169556,
+          347.8734436035156
+        ],
+        [
+          316.20325469970703,
+          347.8734436035156
+        ]
+      ]
+    },
+    {
+      "title": "Biomass and yield determination",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          39.685001373291016,
+          646.9434102773666
+        ],
+        [
+          185.71107757091522,
+          645.3926290273666
+        ],
+        [
+          185.336669921875,
+          657.7568054199219
+        ],
+        [
+          39.2127790749073,
+          658.6184722185135
+        ]
+      ]
+    },
+    {
+      "title": "Sugar analysis",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          296.2370676994324,
+          130.8897614479065
+        ],
+        [
+          363.1063623428345,
+          129.3389801979065
+        ],
+        [
+          361.9422998428345,
+          142.64508056640625
+        ],
+        [
+          295.0730051994324,
+          143.19520688056946
+        ]
+      ]
+    },
+    {
+      "title": "Glucose uptake by whole cells",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          296.7305908203125,
+          416.24822986125946
+        ],
+        [
+          432.9671995639801,
+          414.69744861125946
+        ],
+        [
+          431.8031370639801,
+          427.5836181640625
+        ],
+        [
+          296.7305908203125,
+          428.30843150615686
+        ]
+      ]
+    },
+    {
+      "title": "Competition experiments",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.09552821516991,
+          372.1717167496681
+        ],
+        [
+          169.98152673244476,
+          372.1717167496681
+        ],
+        [
+          169.98152673244476,
+          383.760009765625
+        ],
+        [
+          59.09552821516991,
+          383.760009765625
+        ]
+      ]
+    },
+    {
+      "title": "Theoretical wash-in and wash-out curves",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.454968214035034,
+          502.83760213851923
+        ],
+        [
+          242.002583026886,
+          502.83760213851923
+        ],
+        [
+          240.838520526886,
+          514.3236999511719
+        ],
+        [
+          58.290905714035034,
+          514.3236999511719
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          316.51641845703125,
+          584.0520559549332
+        ],
+        [
+          359.57867431640625,
+          582.5012747049332
+        ],
+        [
+          359.57867431640625,
+          596.8655700683594
+        ],
+        [
+          316.51641845703125,
+          596.8655700683594
+        ]
+      ]
+    },
+    {
+      "title": "Determination of mmax",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          316.51641845703125,
+          603.5599167346954
+        ],
+        [
+          413.5031850337982,
+          602.0091354846954
+        ],
+        [
+          412.3391225337982,
+          614.4531555175781
+        ],
+        [
+          316.51641845703125,
+          614.4531555175781
+        ]
+      ]
+    },
+    {
+      "title": "Determination of Ks from glucose uptake rates",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          39.06535738706589,
+          570.5510115623474
+        ],
+        [
+          244.9805552959442,
+          569.0002303123474
+        ],
+        [
+          244.9805552959442,
+          581.5712585449219
+        ],
+        [
+          39.06535738706589,
+          581.5712585449219
+        ]
+      ]
+    },
+    {
+      "title": "Competition for glucose during continuous culture\nat low dilution rates",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          296.7305908203125,
+          506.12515616416925
+        ],
+        [
+          520.9257130622864,
+          504.57437491416925
+        ],
+        [
+          519.7616505622864,
+          526.228759765625
+        ],
+        [
+          296.7305908203125,
+          526.6992263793945
+        ]
+      ]
+    },
+    {
+      "title": "Competition for mixtures of glucose and lactose",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          316.51641845703125,
+          582.5283966064453
+        ],
+        [
+          527.1614990234375,
+          581.5956900119781
+        ],
+        [
+          527.1614990234375,
+          591.9929962158203
+        ],
+        [
+          316.51641845703125,
+          592.2250347137451
+        ]
+      ]
+    },
+    {
+      "title": "Simulation",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          296.7305908203125,
+          110.96675622463225
+        ],
+        [
+          345.0000305175781,
+          109.41597497463225
+        ],
+        [
+          345.0000305175781,
+          121.38519287109375
+        ],
+        [
+          295.87486124038696,
+          121.81231015920638
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          59.469537645578384,
+          672.0474853515625
+        ],
+        [
+          123.33932781219482,
+          671.0748878717422
+        ],
+        [
+          123.33932781219482,
+          684.0025863647461
+        ],
+        [
+          59.469537645578384,
+          684.5804282426834
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          59.419754683971405,
+          385.1207496523857
+        ],
+        [
+          125.79209893941879,
+          383.5699684023857
+        ],
+        [
+          124.62803643941879,
+          399.1207580566406
+        ],
+        [
+          58.255692183971405,
+          399.45556139945984
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          401
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          618
+        ],
+        [
+          "Line",
+          169
+        ],
+        [
+          "TableCell",
+          62
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          397
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          393
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          333
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          583
+        ],
+        [
+          "Line",
+          136
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          615
+        ],
+        [
+          "Line",
+          145
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          445
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          530
+        ],
+        [
+          "Line",
+          133
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          664
+        ],
+        [
+          "Line",
+          166
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          616
+        ],
+        [
+          "Line",
+          148
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          481
+        ],
+        [
+          "Line",
+          132
+        ],
+        [
+          "ListItem",
+          31
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          438
+        ],
+        [
+          "Line",
+          127
+        ],
+        [
+          "ListItem",
+          32
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/fuchslinGlucoselimitedContinuousCulture2012"
+}
