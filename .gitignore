@@ -9,6 +9,7 @@ _dev*
 Oba.json
 *.webm
 *marker
+*.oba
 
 _DEPRECATED
 /dev
