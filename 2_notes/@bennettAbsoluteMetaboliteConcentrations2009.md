@@ -1,3 +1,6 @@
+
+
+
 ---
 citation-template: v0.2.0
 creation-date: 2024:06:23-08:16:00
@@ -41,11 +44,9 @@ Knowledge of both relaxation times (the time it takes a metabolite pool to turn 
 
 Prokaryotic cells are particularly well suited to global thermodynamic analysis and to assessment of enzyme site saturation, because interpretation of absolute metabolite concentration data from eukaryotic cells is complicated by their extensive compartmentalization. In particular, in eukaryotic cells, flux directions and extent of enzyme saturation may vary between compartments. To provide a useful reference dataset of absolute cellular metabolite concentrations, we accordingly selected the Gram-negative bacterium *E. coli*, which is among the best studied organisms from a metabolic perspective [22–24].
 
-  
-%% DEV-HEAD  
-
 We elected to focus on core metabolism: reactions and metabolites that have an essential role in growth, are found in a diversity of organisms, and carry substantial flux. Using a measurement approach that enables fast metabolism quenching and applies isotopic internal standards throughout the measurement process, we obtained quantitative data on more than 100 metabolites and found that a small number of compounds dominate the metabolome on a molar basis. We then used these absolute concentrations to examine the free energy of metabolic reactions and to determine the extent of substrate saturation of metabolic enzymes. Through these analyses, we have begun to identify principles underlying the absolute abundance of different intracellular metabolites.
 
+%% DEV-HEAD  
   
 
 #### **RESULTS**
@@ -404,57 +405,101 @@ Published online at http://www.nature.com/naturechemicalbiology/.
 
 Reprints and permissions information is available online at http://npg.nature.com/ reprintsandpermissions/.
 
+%%
+
 #### References
 
 [1] https://doi.org/10.1016/j.chroma.2006.05.019 (2006) Bajad, S.U. et al. Separation and quantitation of water soluble cellular metabolites by hydrophilic interaction chromatography-tandem mass spectrometry. J. Chromatogr. A 1125, 76–88 (2006).
+
 [2] https://doi.org/10.1021/ac0607616 (2006) Coulier, L. et al. Simultaneous quantitative analysis of metabolites using ion-pair liquid chromatography-electrospray ionization mass spectrometry. Anal. Chem. 78, 6573–6582 (2006).
+
 [3] https://doi.org/10.1016/j.chroma.2007.02.034 (2007) Luo, B., Groenke, K., Takors, R., Wandrey, C. & Oldiges, M. Simultaneous determination of multiple intracellular metabolites in glycolysis, pentose phosphate pathway and tricarboxylic acid cycle by liquid chromatography-mass spectrometry. J. Chromatogr. A 1147, 153–164 (2007).
+
 [4] https://doi.org/10.1073/pnas.0708365104 (2007) Tu, B.P. et al. Cyclic changes in metabolic state during the life of a yeast cell. Proc. Natl. Acad. Sci. USA 104, 16886–16891 (2007).
+
 [5] https://doi.org/10.1073/pnas.0609508103 (2006) Brauer, M.J. et al. Conservation of the metabolomic response to starvation across two divergent microbes. Proc. Natl. Acad. Sci. USA 103, 19302–19307 (2006).
+
 [6] https://doi.org/10.1021/bp0498746 (2004) Oldiges, M., Kunze, M., Degenring, D., Sprenger, G.A. & Takors, R. Stimulation, monitoring, and analysis of pathway dynamics by metabolic profiling in the aromatic amino acid pathway. Biotechnol. Prog. 20, 1623–1633 (2004).
+
 [7] https://doi.org/10.1016/j.ab.2007.06.028 (2007) Villas-Bôas, S.G. & Bruheim, P. Cold glycerol-saline: the promising quenching solution for accurate intracellular metabolite analysis of microbial cells. Anal. Biochem. 370, 87–97 (2007).
+
 [8] https://doi.org/10.1002/bit.10907 (2004) Mashego, M.R. et al. MIRACLE: mass isotopomer ratio analysis of U-13C-labeled extracts. A new method for accurate quantification of changes in concentrations of intracellular metabolites. Biotechnol. Bioeng. 85, 620–628 (2004).
+
 [9] https://doi.org/10.1016/j.chroma.2008.02.008 (2008) Seifar, R.M. et al. Quantitative analysis of metabolites in complex biological samples using ion-pair reversed-phase liquid chromatography-isotope dilution tandem mass spectrometry. J. Chromatogr. A 1187, 103–110 (2008).
+
 [10] https://doi.org/10.1016/j.ab.2004.09.001 (2005) Wu, L. et al. Quantitative analysis of the microbial metabolome by isotope dilution mass spectrometry using uniformly 13C-labeled cell extracts as internal standards. Anal. Biochem. 336, 164–171 (2005).
+
 [11] https://doi.org/10.1186/1471-2105-9-199 (2008) Zamboni, N., Kummel, A. & Heinemann, M. AnNET: a tool for network-embedded thermodynamic analysis of quantitative metabolome data. BMC Bioinformatics 9, 199 (2008).
+
 [12] https://doi.org/10.1186/1471-2105-7-512 (2006) Kümmel, A., Panke, S. & Heinemann, M. Systematic assignment of thermodynamic constraints in metabolic network models. BMC Bioinformatics 7, 512 (2006).
+
 [13] https://doi.org/10.1038/msb4100074 (2006) Kümmel, A., Panke, S. & Heinemann, M. Putative regulatory sites unraveled by network-embedded thermodynamic analysis of metabolome data. Mol. Syst. Biol. 2, 2006.0034 (2006).
+
 [14] https://doi.org/10.1529/biophysj.106.093138 (2007) Henry, C.S., Broadbelt, L.J. & Hatzimanikatis, V. Thermodynamics-based metabolic flux analysis. Biophys. J. 92, 1792–1805 (2007).
 [15] https://doi.org/10.1186/1752-0509-1-23 (2007) Hoppe, A., Hoffmann, S. & Holzhutter, H.G. Including metabolite concentrations into flux balance analysis: thermodynamic realizability as a constraint on flux distributions in metabolic networks. BMC Syst. Biol. 1, 23 (2007).
+
 [16] https://doi.org/10.1038/nprot.2008.131 (2008) Yuan, J., Bennett, B.D. & Rabinowitz, J.D. Kinetic flux profiling for quantitation of cellular metabolic fluxes. Nat. Protoc. 3, 1328–1340 (2008).
+
 [17] https://doi.org/10.1038/nchembio816 (2006) Yuan, J., Fowler, W.U., Kimball, E., Lu, W. & Rabinowitz, J.D. Kinetic flux profiling of nitrogen assimilation in Escherichia coli. Nat. Chem. Biol. 2, 529–530 (2006).
+
 [18] https://doi.org/10.1042/bj2330871 (1986) Easterby, J.S. The effect of feedback on pathway transient response. Biochem. J. 233, 871–875 (1986).
+
 [19] https://doi.org/10.1038/msb.2008.8 (2008) Jamshidi, N. & Palsson, B.O. Formulating genome-scale kinetic models in the post-genome era. Mol. Syst. Biol. 4, 171 (2008).
+
 [20] https://doi.org/10.1371/journal.pcbi.0030189 (2007) Gutenkunst, R.N. et al. Universally sloppy parameter sensitivities in systems biology models. PLoS Comput. Biol. 3, 1871–1878 (2007).
+
 [21] https://doi.org/10.1016/j.jtbi.2007.12.009 (2008) Piazza, M., Feng, X.J., Rabinowitz, J.D. & Rabitz, H. Diverse metabolic model parameters generate similar methionine cycle dynamics. J. Theor. Biol. 251, 628–639 (2008).
+
 [22] https://doi.org/10.1093/nar/gkm740 (2007) Karp, P.D. et al. Multidimensional annotation of the Escherichia coli K-12 genome. Nucleic Acids Res. 35, 7577–7590 (2007).
+
 [23] https://doi.org/10.1038/nature01149 (2002) Ibarra, R.U., Edwards, J.S. & Palsson, B.O. Escherichia coli K-12 undergoes adaptive evolution to achieve in silico predicted optimal growth. Nature 420, 186–189 (2002).
+
 [24] https://doi.org/10.1046/j.1432-1033.2003.03448.x (2003) Fischer, E. & Sauer, U. Metabolic flux profiling of Escherichia coli mutants in central carbon metabolism using GC-MS. Eur. J. Biochem. 270, 880–891 (2003).
+
 [25] https://doi.org/10.1016/j.tibtech.2004.12.001 (2005) Birkemeyer, C., Luedemann, A., Wagner, C., Erban, A. & Kopka, J. Metabolome analysis: the potential of in vivo labeling with stable isotopes for metabolite profiling. Trends Biotechnol. 23, 28–33 (2005).
+
 [26] https://doi.org/10.1038/nprot.2008.107 (2008) Bennett, B.D., Yuan, J., Kimball, E.H. & Rabinowitz, J.D. Absolute quantitation of intracellular metabolite concentrations by an isotope ratio-based approach. Nat. Protoc. 3, 1299–1311 (2008).
+
 [27] https://doi.org/10.1016/j.ab.2006.07.038 (2006) Kimball, E. & Rabinowitz, J.D. Identifying decomposition products in extracts of cellular metabolites. Anal. Biochem. 358, 273–280 (2006).
+
 [28] https://doi.org/10.1021/ac070470c (2007) Rabinowitz, J.D. & Kimball, E. Acidic acetonitrile for cellular metabolome extraction from Escherichia coli. Anal. Chem. 79, 6167–6173 (2007).
+
 [29] https://doi.org/10.1016/S0021-9258(19)46940-8 (1978) Edgar, J.R. & Bell, R.M. Biosynthesis in Escherichia coli fo sn-glycerol 3-phosphate, a precursor of phospholipid. J. Biol. Chem. 253, 6348–6353 (1978).
+
 [30] https://doi.org/10.1146/annurev.mi.30.100176.002535 (1976) Lin, E.C. Glycerol dissimilation and its regulation in bacteria. Annu. Rev. Microbiol. 30, 535–578 (1976).
+
 [31] https://doi.org/10.1016/S0021-9258(19)52625-4 (1953) Asnis, R.E. & Brodie, A.F. A glycerol dehydrogenase from Escherichia coli. J. Biol. Chem. 203, 153–159 (1953).
+
 [32] https://doi.org/10.1128/jb.176.6.1796-1800.1994 (1994) Truniger, V. & Boos, W. Mapping and cloning of gldA, the structural gene of the Escherichia coli glycerol dehydrogenase. J. Bacteriol. 176, 1796–1800 (1994).
+
 [33] https://doi.org/10.1016/S0021-9258(18)93127-3 (1969) Alberty, R.A. Standard Gibbs free energy, enthalpy, and entropy changes as a function of pH and pMg for several reactions involving adenosine phosphates. J. Biol. Chem. 244, 3290–3302 (1969).
+
 [34] https://doi.org/10.1002/bit.20572 (2005) Maskow, T. & von Stockar, U. How reliable are thermodynamic feasibility statements of biochemical pathways? Biotechnol. Bioeng. 92, 223–230 (2005).
+
 [35] https://doi.org/10.1016/0003-9861(71)90338-9 (1971) Shikama, K. Standard free energy maps for the hydrolysis of ATP as a function of pH, pMg and pCa. Arch. Biochem. Biophys. 147, 311–317 (1971).
+
 [36] https://doi.org/10.1016/0003-9861(73)90662-0 (1973) Shikama, K. & Nakamura, K.I. Standard free energy maps for the hydrolysis of ATP as a function of pH and metal ion concentration: comparison of metal ions. Arch. Biochem. Biophys. 157, 457–463 (1973).
 [37] (1987) Neidhardt, F. et al. Escherichia coli and Salmonella typhimurium, Vol. 1 (American Society for Microbiology, Washington, DC, 1987).
-[38] https://doi.org/10.1006/jmbi.1996.0342 (1996) Ikeda, T.P., Shauger, A.E. & Kustu, S. Salmonella typhimurium apparently perceives external nitrogen limitation as internal glutamine limitation. J. Mol. Biol. 259, 589–607 (1996).
-[39] https://doi.org/10.1016/S0021-9258(17)42113-2 (1994) McLaggan, D., Naprstek, J., Buurman, E.T. & Epstein, W. Interdependence of K+ and glutamate accumulation during osmotic adaptation of Escherichia coli. J. Biol. Chem. 269, 1911–1917 (1994).
-[40] https://doi.org/10.1073/pnas.0609845104 (2007) Beg, Q.K. et al. Intracellular crowding defines the mode and sequence of substrate uptake by Escherichia coli and constrains its metabolic activity. Proc. Natl. Acad. Sci. USA 104, 12663–12668 (2007).
-[41] https://doi.org/10.1111/j.1432-1033.1978.tb12388.x (1978) Powell, J.T. & Morrison, J.F. The purification and properties of the aspartate aminotransferase and aromatic-amino-acid aminotransferase from Escherichia coli. Eur. J. Biochem. 87, 391–400 (1978).
-[42] https://doi.org/10.1016/S0021-9258(19)44642-5 (1972) Miller, R.E. & Stadtman, E.R. Glutamate synthase from Escherichia coli. An iron-sulfide flavoprotein. J. Biol. Chem. 247, 7407–7419 (1972).
-[43] https://doi.org/10.1128/JB.108.1.137-144.1971 (1971) Freedberg, W.B., Kistler, W.S. & Lin, E.C. Lethal synthesis of methylglyoxal by Escherichia coli during unregulated glycerol metabolism. J. Bacteriol. 108, 137–144 (1971).
-[44] https://doi.org/10.1016/S0304-4165(03)00134-X (2003) Benov, L., Beema, A.F. & Sequeira, F. Triosephosphates are toxic to superoxide dismutase-deficient Escherichia coli. Biochim. Biophys. Acta 1622, 128–132 (2003).
-[45] https://doi.org/10.1128/JB.185.18.5611-5626.2003 (2003) Soupene, E. et al. Physiological studies of Escherichia coli strain MG1655: growth defects and apparent cross-regulation of gene expression. J. Bacteriol. 185, 5611–5626 (2003).
-[46] https://doi.org/10.1128/JB.100.1.215-219.1969 (1969) Gutnick, D., Calvo, J.M., Klopotowski, T. & Ames, B.N. Compounds which serve as the sole source of carbon or nitrogen for Salmonella typhirium LT-2. J. Bacteriol. 100, 215–219 (1969).
-[47] https://doi.org/10.1128/JB.149.1.123-130.1982 (1982) Rosenberg, H., Russell, L.M., Jacomb, P.A. & Chegwidden, K. Phosphate exchange in the pit transport system in Escherichia coli. J. Bacteriol. 149, 123–130 (1982).
 
-%%
+[38] https://doi.org/10.1006/jmbi.1996.0342 (1996) Ikeda, T.P., Shauger, A.E. & Kustu, S. Salmonella typhimurium apparently perceives external nitrogen limitation as internal glutamine limitation. J. Mol. Biol. 259, 589–607 (1996).
+
+[39] https://doi.org/10.1016/S0021-9258(17)42113-2 (1994) McLaggan, D., Naprstek, J., Buurman, E.T. & Epstein, W. Interdependence of K+ and glutamate accumulation during osmotic adaptation of Escherichia coli. J. Biol. Chem. 269, 1911–1917 (1994).
+
+[40] https://doi.org/10.1073/pnas.0609845104 (2007) Beg, Q.K. et al. Intracellular crowding defines the mode and sequence of substrate uptake by Escherichia coli and constrains its metabolic activity. Proc. Natl. Acad. Sci. USA 104, 12663–12668 (2007).
+
+[41] https://doi.org/10.1111/j.1432-1033.1978.tb12388.x (1978) Powell, J.T. & Morrison, J.F. The purification and properties of the aspartate aminotransferase and aromatic-amino-acid aminotransferase from Escherichia coli. Eur. J. Biochem. 87, 391–400 (1978).
+
+[42] https://doi.org/10.1016/S0021-9258(19)44642-5 (1972) Miller, R.E. & Stadtman, E.R. Glutamate synthase from Escherichia coli. An iron-sulfide flavoprotein. J. Biol. Chem. 247, 7407–7419 (1972).
+
+[43] https://doi.org/10.1128/JB.108.1.137-144.1971 (1971) Freedberg, W.B., Kistler, W.S. & Lin, E.C. Lethal synthesis of methylglyoxal by Escherichia coli during unregulated glycerol metabolism. J. Bacteriol. 108, 137–144 (1971).
+
+[44] https://doi.org/10.1016/S0304-4165(03)00134-X (2003) Benov, L., Beema, A.F. & Sequeira, F. Triosephosphates are toxic to superoxide dismutase-deficient Escherichia coli. Biochim. Biophys. Acta 1622, 128–132 (2003).
+
+[45] https://doi.org/10.1128/JB.185.18.5611-5626.2003 (2003) Soupene, E. et al. Physiological studies of Escherichia coli strain MG1655: growth defects and apparent cross-regulation of gene expression. J. Bacteriol. 185, 5611–5626 (2003).
+
+[46] https://doi.org/10.1128/JB.100.1.215-219.1969 (1969) Gutnick, D., Calvo, J.M., Klopotowski, T. & Ames, B.N. Compounds which serve as the sole source of carbon or nitrogen for Salmonella typhirium LT-2. J. Bacteriol. 100, 215–219 (1969).
+
+[47] https://doi.org/10.1128/JB.149.1.123-130.1982 (1982) Rosenberg, H., Russell, L.M., Jacomb, P.A. & Chegwidden, K. Phosphate exchange in the pit transport system in Escherichia coli. J. Bacteriol. 149, 123–130 (1982).
 
 
 
