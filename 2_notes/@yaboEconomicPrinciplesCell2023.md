@@ -15,6 +15,7 @@ creation-date: 2024:10:15-11:32:06
 - ** publication **: 
 
 ### Abstract:
+
 How can a cell maintain itself as a living being? Living cells, shaped by billions of years of evolution, have developed many ways to adapt to their environment, e.g. by regulation of gene expression. But the rules of physics and chemistry enforce certain boundaries on what cells can achieve and how they can allocate their own resources. Shaped by evolution, cells "do certain things right", and our goal is to uncover some of the governing principles. In our open textbook - to which anyone can contribute - we give an overview of established approaches to "cellular economics", from descriptions of simple metabolic systems to cell growth, variability, and dynamic behaviour. For more information, please see our website https://principlescellphysiology.org/book-economic-principles/
 
 ___

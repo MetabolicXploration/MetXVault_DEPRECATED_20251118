@@ -7,6 +7,7 @@ creation-date: 2024:10:02-08:01:17
 # Emergent cooperation in microbial metabolism
 
 ### Meta
+
 - ** citekey **: wintermuteEmergentCooperationMicrobial2010
 - ** authors **: Edwin H Wintermute, [[Pamela A Silver]]
 - ** year **: [[2010]]
@@ -18,8 +19,6 @@ creation-date: 2024:10:02-08:01:17
 > #TODO/ToFile 
 > - Dynamics in the mixed microbial concourse
 > - A new approach to an old problem: Synthetic biology tools for human disease and metabolism
-> - 
-
 
 
 ### Abstract:

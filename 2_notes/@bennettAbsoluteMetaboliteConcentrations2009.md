@@ -1,10 +1,8 @@
-
-
-
 ---
 citation-template: v0.2.0
 creation-date: 2024:06:23-08:16:00
 ---
+
 
 %% Note Body --------------------------------------------------- %%
 # Absolute metabolite concentrations and implied enzyme active site occupancy in Escherichia coli
@@ -17,8 +15,9 @@ creation-date: 2024:06:23-08:16:00
 - ** publication **: Nature Chemical Biology
 - ** Web ** : [Open on line](https://www.nature.com/articles/nchembio.186)
 
-- ### Abstract:
-Absolute metabolite concentrations are critical to a quantitative understanding of cellular metabolism, as concentrations impact both the free energies and rates of metabolic reactions. Here we use LC-MS/MS to quantify more than 100 metabolite concentrations in aerobic, exponentially growing Escherichia coli with glucose, glycerol or acetate as the carbon source. The total observed intracellular metabolite pool was approximately 300 mM. A small number of metabolites dominate the [[metabolome]] on a molar basis, ==with glutamate being the most abundant== #Insight. ==Metabolite concentration exceeds Km for most substrate-enzyme pairs== #Insight. An exception is lower glycolysis, where concentrations of intermediates are near the Km of their consuming enzymes and all reactions are near equilibrium. This may facilitate efficient flux reversibility given thermodynamic and osmotic constraints. The data and analyses presented here highlight the ability to identify organizing metabolic principles from systems-level absolute metabolite concentration data.
+### Abstract:
+
+**Absolute** metabolite concentrations are critical to a quantitative understanding of cellular metabolism, as concentrations impact both the free energies and rates of metabolic reactions. Here we use LC-MS/MS to quantify more than 100 metabolite concentrations in aerobic, exponentially growing Escherichia coli with glucose, glycerol or acetate as the carbon source. The total observed intracellular metabolite pool was approximately 300 mM. A small number of metabolites dominate the [[metabolome]] on a molar basis, ==with glutamate being the most abundant== #Insight. ==Metabolite concentration exceeds Km for most substrate-enzyme pairs== #Insight. An exception is lower glycolysis, where concentrations of intermediates are near the Km of their consuming enzymes and all reactions are near equilibrium. This may facilitate efficient flux reversibility given thermodynamic and osmotic constraints. The data and analyses presented here highlight the ability to identify organizing metabolic principles from systems-level absolute metabolite concentration data.
 
 ___
 
@@ -435,8 +434,9 @@ Reprints and permissions information is available online at http://npg.nature.co
 
 [13] https://doi.org/10.1038/msb4100074 (2006) Kümmel, A., Panke, S. & Heinemann, M. Putative regulatory sites unraveled by network-embedded thermodynamic analysis of metabolome data. Mol. Syst. Biol. 2, 2006.0034 (2006).
 
-[14] https://doi.org/10.1529/biophysj.106.093138 (2007) Henry, C.S., Broadbelt, L.J. & Hatzimanikatis, V. Thermodynamics-based metabolic flux analysis. Biophys. J. 92, 1792–1805 (2007).
-[15] https://doi.org/10.1186/1752-0509-1-23 (2007) Hoppe, A., Hoffmann, S. & Holzhutter, H.G. Including metabolite concentrations into flux balance analysis: thermodynamic realizability as a constraint on flux distributions in metabolic networks. BMC Syst. Biol. 1, 23 (2007).
+[14] [[@henryThermodynamicsBasedMetabolicFlux2007]] https://doi.org/10.1529/biophysj.106.093138 (2007) Henry, C.S., Broadbelt, L.J. & Hatzimanikatis, V. Thermodynamics-based metabolic flux analysis. Biophys. J. 92, 1792–1805 (2007).
+
+[15] [[@hoppeIncludingMetaboliteConcentrations2007]] https://doi.org/10.1186/1752-0509-1-23 (2007) Hoppe, A., Hoffmann, S. & Holzhutter, H.G. Including metabolite concentrations into flux balance analysis: thermodynamic realizability as a constraint on flux distributions in metabolic networks. BMC Syst. Biol. 1, 23 (2007).
 
 [16] https://doi.org/10.1038/nprot.2008.131 (2008) Yuan, J., Bennett, B.D. & Rabinowitz, J.D. Kinetic flux profiling for quantitation of cellular metabolic fluxes. Nat. Protoc. 3, 1328–1340 (2008).
 
@@ -452,9 +452,9 @@ Reprints and permissions information is available online at http://npg.nature.co
 
 [22] https://doi.org/10.1093/nar/gkm740 (2007) Karp, P.D. et al. Multidimensional annotation of the Escherichia coli K-12 genome. Nucleic Acids Res. 35, 7577–7590 (2007).
 
-[23] https://doi.org/10.1038/nature01149 (2002) Ibarra, R.U., Edwards, J.S. & Palsson, B.O. Escherichia coli K-12 undergoes adaptive evolution to achieve in silico predicted optimal growth. Nature 420, 186–189 (2002).
+[23] [[@ibarraEscherichiaColiK122002]] https://doi.org/10.1038/nature01149 (2002) Ibarra, R.U., Edwards, J.S. & Palsson, B.O. Escherichia coli K-12 undergoes adaptive evolution to achieve in silico predicted optimal growth. Nature 420, 186–189 (2002).
 
-[24] https://doi.org/10.1046/j.1432-1033.2003.03448.x (2003) Fischer, E. & Sauer, U. Metabolic flux profiling of Escherichia coli mutants in central carbon metabolism using GC-MS. Eur. J. Biochem. 270, 880–891 (2003).
+[24] [[@fischerMetabolicFluxProfiling2003]] https://doi.org/10.1046/j.1432-1033.2003.03448.x (2003) Fischer, E. & Sauer, U. Metabolic flux profiling of Escherichia coli mutants in central carbon metabolism using GC-MS. Eur. J. Biochem. 270, 880–891 (2003).
 
 [25] https://doi.org/10.1016/j.tibtech.2004.12.001 (2005) Birkemeyer, C., Luedemann, A., Wagner, C., Erban, A. & Kopka, J. Metabolome analysis: the potential of in vivo labeling with stable isotopes for metabolite profiling. Trends Biotechnol. 23, 28–33 (2005).
 
@@ -479,13 +479,14 @@ Reprints and permissions information is available online at http://npg.nature.co
 [35] https://doi.org/10.1016/0003-9861(71)90338-9 (1971) Shikama, K. Standard free energy maps for the hydrolysis of ATP as a function of pH, pMg and pCa. Arch. Biochem. Biophys. 147, 311–317 (1971).
 
 [36] https://doi.org/10.1016/0003-9861(73)90662-0 (1973) Shikama, K. & Nakamura, K.I. Standard free energy maps for the hydrolysis of ATP as a function of pH and metal ion concentration: comparison of metal ions. Arch. Biochem. Biophys. 157, 457–463 (1973).
+
 [37] (1987) Neidhardt, F. et al. Escherichia coli and Salmonella typhimurium, Vol. 1 (American Society for Microbiology, Washington, DC, 1987).
 
 [38] https://doi.org/10.1006/jmbi.1996.0342 (1996) Ikeda, T.P., Shauger, A.E. & Kustu, S. Salmonella typhimurium apparently perceives external nitrogen limitation as internal glutamine limitation. J. Mol. Biol. 259, 589–607 (1996).
 
 [39] https://doi.org/10.1016/S0021-9258(17)42113-2 (1994) McLaggan, D., Naprstek, J., Buurman, E.T. & Epstein, W. Interdependence of K+ and glutamate accumulation during osmotic adaptation of Escherichia coli. J. Biol. Chem. 269, 1911–1917 (1994).
 
-[40] https://doi.org/10.1073/pnas.0609845104 (2007) Beg, Q.K. et al. Intracellular crowding defines the mode and sequence of substrate uptake by Escherichia coli and constrains its metabolic activity. Proc. Natl. Acad. Sci. USA 104, 12663–12668 (2007).
+[40] [[@begIntracellularCrowdingDefines2007]] https://doi.org/10.1073/pnas.0609845104 (2007) Beg, Q.K. et al. Intracellular crowding defines the mode and sequence of substrate uptake by Escherichia coli and constrains its metabolic activity. Proc. Natl. Acad. Sci. USA 104, 12663–12668 (2007).
 
 [41] https://doi.org/10.1111/j.1432-1033.1978.tb12388.x (1978) Powell, J.T. & Morrison, J.F. The purification and properties of the aspartate aminotransferase and aromatic-amino-acid aminotransferase from Escherichia coli. Eur. J. Biochem. 87, 391–400 (1978).
 

@@ -13,9 +13,8 @@ alias: ["Bernhard O. Palsson", "Bernhard Ø. Palsson", "Bernhard Palsson", "Pals
 - https://systemsbiology.ucsd.edu/Publications/Books/SB1-2LectureSlides
 - https://systemsbiology.ucsd.edu/educational-materials
 
-
-
 ___
 
 %% Tags ------------------------------------------------------- %%
 #People/Following 
+#Vault/MetXVault 
