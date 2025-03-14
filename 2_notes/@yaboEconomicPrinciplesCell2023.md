@@ -76,7 +76,6 @@ Growth laws in E. coli: Cell volume grows exponentially with growth rate (data f
 
 > #Biomass #GrowthRate
 
-
 One of the most consistent observations is that the relative amount of RNA per cell increases with a higher growth rate [9, 13, 16], (BNID 111460, 111755, 108200). #ReferenceSource/ToRead
 
 Nevertheless, when looking at [[RNA-protein ratio|RNA:protein ratio]] we consistently find a positive correlation with growth rate across various species of bacteria (see Figure 2.2) and yeast [15, 17]. RNA:protein ratio is a measure of protein production capacity since most RNA is dedicated to protein synthesis. 80% is rRNA, which forms 2/3 of the mass of a bacterial ribosome – the molecular machine that makes proteins, and 15% is tRNA which brings new amino acids to the ribosome... #ReferenceSource/ToRead
