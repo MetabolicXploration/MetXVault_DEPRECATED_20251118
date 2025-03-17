@@ -23,6 +23,12 @@ ___
 
 ## View
 
+
+> #ISSUE
+> How close to optimality is the use of existing enzymes in E. coli?
+> - That is, are metabolite concentrations significantly larger or smaller than its $Km$?
+
+
 ## Introduction
 
 Chromatography–mass spectrometry technologies enable simultaneous measurement of numerous intracellular metabolites from extracts of cultured cells [1–3]. This capability is being increasingly widely applied to map relative changes in cellular metabolite concentrations induced by genetic and environmental perturbations [4–7]. Though relative concentration changes can be informative, knowledge of absolute metabolite concentrations is a critical complement, and consequently there is an increasing focus on determining absolute intracellular concentrations [8–10].
