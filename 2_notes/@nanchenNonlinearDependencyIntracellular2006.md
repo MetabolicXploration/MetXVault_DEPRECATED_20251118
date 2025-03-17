@@ -30,17 +30,18 @@ A novel mini-scale chemostat system was developed for the physiological characte
 #Figure Influence of aeration rate on biomass yield (open triangles) and acetate concentration (black squares) at a dilution rate of $0.1~h^{-1}$ in mini-scale E. coli chemostat cultures. Error bars represent the standard deviations from triplicate measurements. Trend lines were drawn by hand.
 - ![[Pasted image 20230112195204.png|300]]
 
-> #Figure 3 Multidimensional diagram for mini-scale chemostat cultures of E. coli. Concentrations of biomass (open diamonds), acetate (open triangles), and glucose (open squares) were normalized to a concentration of 1 g per liter glucose in the medium. ==Filled symbols represent published values for E. coli MG1655 grown at 37°C in stirred-tank reactors (13, 19, 43)==. Trend lines were drawn by hand. #ReferenceSource/ToCheck #DataSource #PaperSON
+> #Figure 3 Multidimensional diagram for mini-scale chemostat cultures of E. coli. Concentrations of biomass (open diamonds), acetate (open triangles), and glucose (open squares) were normalized to a concentration of 1 g per liter glucose in the medium. *Filled symbols represent published values for E. coli MG1655 grown at 37°C in stirred-tank reactors (\[[13](https://doi.org/10.1074/jbc.M307968200)]]\, \[[[@ihssenSpecificGrowthRate2004|19]]\], \[[[@sauerMetabolicFluxRatio1999|43]]\])*. 
+> Trend lines were drawn by hand. #ReferenceSource/ToCheck #DataSource #PaperSON
 > ![[Pasted image 20241205090551.png|400]]
 
 > [13] Fischer, E., and U. Sauer. 2003. A novel metabolic cycle catalyzes glucose oxidation and anaplerosis in hungry Escherichia coli. J. Biol. Chem. 278: 46446–46451.
 
-> #ToCheck [14] Fischer, E., N. Zamboni, and U. Sauer. 2004. High-throughput metabolic flux analysis based on gas chromatography-mass spectrometry derived 13C constraints. Anal. Biochem. 325:308–316. #PaperSON
+> #ToCheck \[[14](https://doi.org/10.1016/j.ab.2003.10.036)]]\ Fischer, E., N. Zamboni, and U. Sauer. 2004. High-throughput metabolic flux analysis based on gas chromatography-mass spectrometry derived 13C constraints. Anal. Biochem. 325:308–316. #PaperSON
 
 
 ## References
 
-- [[@herbertContinuousCultureBacteria1956|[17] ]] Herbert, D., R. Elsworth, and R. C. Telling. 1956. The continuous culture of bacteria; a theoretical and experimental study. J. Gen. Microbiol. 14:601– 622.
+- \[[[@herbertContinuousCultureBacteria1956|17]]\] Herbert, D., R. Elsworth, and R. C. Telling. 1956. The continuous culture of bacteria; a theoretical and experimental study. J. Gen. Microbiol. 14:601– 622.
 
 
 
