@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: "2024:10:18-11:35:53"
+creation-date: 2024:10:18-11:35:53
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -10,7 +10,7 @@ creation-date: "2024:10:18-11:35:53"
 - ** citekey **: davidiBirdSEyeView2018
 - ** authors **: Dan Davidi, Liam M. Longo, Jagoda Jabłońska, [[Ron Milo]], Dan S. Tawfik
 - ** year **: [[2018]]
-- ** doi **: 10.1021/acs.chemrev.8b00039
+- ** doi **: https://doi.org/10.1021/acs.chemrev.8b00039
 - ** publication **: Chemical Reviews
 - ** Web ** : [Open on line](https://doi.org/10.1021/acs.chemrev.8b00039)
 
