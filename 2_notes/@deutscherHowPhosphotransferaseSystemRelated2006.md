@@ -1,6 +1,6 @@
 ---
 citation-template: v0.2.0
-creation-date: #!cdate
+creation-date: 2025:03:17-05:49:22
 ---
 
 %% Note Body --------------------------------------------------- %%
@@ -23,12 +23,3 @@ ___
 ## View
 
 %% Write here %%
-
-
-
-
-
-___
-%% Tags  ------------------------------------------------------- %%
-#bibnote
-#Vault/MetXVault 
