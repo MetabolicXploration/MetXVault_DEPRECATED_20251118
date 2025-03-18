@@ -25,11 +25,6 @@ ___
 %% Write here %%
 The symmetric distribution of kinetic parameters suggests that across the entire enzyme repertoire there is no strong, consistent evolutionary drive for the emergence of very fast enzymes. Indeed, it seems that perfect enzymes evolved to meet unique physiological needs([[note-20241017-090948|notes]]).
 
-
-https://doi.org/10.1021/bi2002289  
-https://doi.org/10.1016/j.jbiotec.2009.07.010  
-https://doi.org/10.1038/nchembio.2077  
-
 ## References
 
 > [1]  (1971)  
