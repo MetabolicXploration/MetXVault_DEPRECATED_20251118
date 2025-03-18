@@ -17,7 +17,6 @@ creation-date: 2025:02:12-10:14:12
 
 ### Abstract:
 
-#!mdate
 
 ___
 
