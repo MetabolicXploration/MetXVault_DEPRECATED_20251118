@@ -452,12 +452,10 @@ T.B.A. was partially funded by the Excellence Initiative of the German federal a
 > [95]  [[@volkmerConditionDependentCellVolume2011]] https://doi.org/10.1371/journal.pone.0023126  
 > [96]  https://doi.org/10.1093/nar/gkw1092  
 
-
-
 ___
 
 %% Tags  ------------------------------------------------------- %%
 #Read/Jose
 #Priority/5 
-#Vault/MetXVault 
 #FullTranscript
+#Vault/MetXVault 
