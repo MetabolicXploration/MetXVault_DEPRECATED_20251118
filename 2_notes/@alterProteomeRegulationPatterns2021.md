@@ -352,7 +352,6 @@ T.B.A. was partially funded by the Excellence Initiative of the German federal a
 
 ---
 
-
 ## Reference
 
 > [1]  [[@monodGrowthBacterialCultures1949]] https://doi.org/10.1146/annurev.mi.03.100149.002103  
